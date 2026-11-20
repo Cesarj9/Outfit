@@ -1,0 +1,3734 @@
+{
+ "meta": {
+  "version_juego_visible": "v3.7.1",
+  "fecha_creacion": "2026-11-20",
+  "descripcion": "Base canónica Pokelike creada desde cero desde la interfaz. Estados: SI / NO / DESCONOCIDO (desconocido != no).",
+  "fuente_cuenta": "NINGUNA: la sesión del agente usa un navegador anónimo nuevo (PC 3/313, Pokédex 0/721). La colección de César NO se ha auditado todavía.",
+  "auditorias": {
+   "items_guide": "COMPLETA (207 reliquias, 37 equipables, 4 utilizables; totales cuadran con la UI)",
+   "pokedex": "PENDIENTE (requiere la cuenta de César; en anónimo todas las entradas salen ???)",
+   "pc_sin_filtro": "PENDIENTE",
+   "pc_shiny": "PENDIENTE",
+   "pc_aurora": "PENDIENTE",
+   "patch_notes": "TEXTO BRUTO GUARDADO (patch_notes_raw_v3.7.1.txt), sin extraer a tablas"
+  },
+  "totales_ui_observados": {
+   "pokedex_total": 721,
+   "pokedex_gen1": 151,
+   "pc_lineas_total": 313,
+   "reliquias": 207,
+   "objetos_equipables": 37,
+   "objetos_utilizables": 4,
+   "fecha": "2026-11-20",
+   "fuente": "UI v3.7.1, sesión anónima"
+  }
+ },
+ "especies_formas": [],
+ "coleccion_pc": [],
+ "objetos_reliquias": [
+  {
+   "nombre_visible": "Ability Capsule",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "For traits, each of your Normal Pokémon also counts as one of the enemy team's types: the most common enemy type goes to your first Normal Pokémon, the next most common to the second, and so on.",
+   "requisitos": null,
+   "id": "ability_capsule__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Absorb Bulb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS",
+    "WATER",
+    "FAIRY"
+   ],
+   "efecto_literal": "Each time any enemy gets a stat drop, your Pokémon in battle heals 5% of its max HP. It heals once per drop, however many stages were lost.",
+   "requisitos": null,
+   "id": "absorb_bulb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Adrenaline Orb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON",
+    "GHOST"
+   ],
+   "efecto_literal": "When an enemy faints, your active Pokémon gets +1 to 3 different random stats. Does not trigger on the last enemy of a fight.",
+   "requisitos": null,
+   "id": "adrenaline_orb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Air Balloon",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "Your Flying Pokémon may dodge attacks: chance = half their Speed ÷ (half their Speed + the attacker's Speed). Equal Speed gives 33%, twice as fast gives 50%.",
+   "requisitos": null,
+   "id": "air_balloon__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Antidote",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "Any enemy with at least one poison stack deals −30% damage to all of your Pokémon.",
+   "requisitos": null,
+   "id": "antidote__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Balm Mushroom",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "When one of your Bug Pokémon is knocked out, your next living Bug Pokémon in team order gets +2 ATK, +2 Sp.ATK and +2 Speed.",
+   "requisitos": null,
+   "id": "balm_mushroom__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Berry Juice",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS",
+    "FIRE",
+    "ROCK"
+   ],
+   "efecto_literal": "At the end of each turn, your Pokémon in battle heals 5% of its max HP for each stat boost it has (+3 ATK and +1 DEF = 4 boosts = 20%).",
+   "requisitos": null,
+   "id": "berry_juice__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Big Nugget",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "After a won battle, gain 20₽ for each crit your Dark Pokémon landed in it. Max 250₽ per run.",
+   "requisitos": null,
+   "id": "big_nugget__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Big Pearl",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER"
+   ],
+   "efecto_literal": "When your Water trait lowers the target's Speed, ATK and Sp.ATK, the next enemy in line gets the same drops.",
+   "requisitos": null,
+   "id": "big_pearl__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Big Root",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "Each time your Pokémon hit an enemy, they heal 20% of the damage dealt.",
+   "requisitos": null,
+   "id": "big_root__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Binding Band",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND",
+    "WATER"
+   ],
+   "efecto_literal": "An enemy at −6 Speed or lower skips its attack every other turn, starting with its first turn at that Speed.",
+   "requisitos": null,
+   "id": "binding_band__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Black Sludge",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "Each time poison damages an enemy, your first Poison Pokémon that is still standing heals 2× that damage. Max 25% of its max HP per turn.",
+   "requisitos": null,
+   "id": "black_sludge__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Blunder Policy",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING",
+    "DARK"
+   ],
+   "efecto_literal": "When one of your Pokémon dodges a hit, it gets +2 Speed. Max +6 Speed per fight for your whole team. Only relic dodges count (Air Balloon, Bright Powder, Dusk Stone).",
+   "requisitos": null,
+   "id": "blunder_policy__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Booster Energy",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "At the start of each fight, each of your Pokémon gets +1 to its highest base stat (ATK, DEF, Sp.ATK, Sp.DEF or Speed; HP doesn't count).",
+   "requisitos": null,
+   "id": "booster_energy__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Bright Powder",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "Your Ghost Pokémon have a 25% chance to dodge each enemy attack and take no damage.",
+   "requisitos": null,
+   "id": "bright_powder__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Bug Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "After a trainer or boss battle, the Bug trait's level-up chance is rolled a second time, so your team can gain 2 levels.",
+   "requisitos": null,
+   "id": "bug_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Bug Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "Catch nodes offer only Bug Pokémon, at least at your team's average level. A challenge or area with its own catch type keeps that type instead.",
+   "requisitos": null,
+   "id": "bug_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Buginium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "The Bug trait's chance to give your team a level after each fight is ×2: 30% per tier instead of 15%.",
+   "requisitos": "Capstone: offered once 3 of your relics show Bug and the Bug trait is active",
+   "id": "buginium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Casteliacone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "ICE",
+    "WATER"
+   ],
+   "efecto_literal": "Every on-hit effect of your Pokémon (type traits and relics) runs twice per hit. Recoil and other self-damage are not doubled.",
+   "requisitos": null,
+   "id": "casteliacone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Charti Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "Your Flying Pokémon take −50% damage from Electric, Ice and Rock moves.",
+   "requisitos": null,
+   "id": "charti_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Cheri Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "When your Electric Pokémon hit an enemy that survives, it is paralyzed (half Speed for the rest of the fight).",
+   "requisitos": null,
+   "id": "cheri_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Chesto Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "Once per fight, the first of your Normal Pokémon that would faint is healed to full HP and falls asleep instead.",
+   "requisitos": null,
+   "id": "chesto_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Chilan Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "Your Pokémon take −25% damage from attacks that are neither super-effective nor not very effective.",
+   "requisitos": null,
+   "id": "chilan_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Chill Drive",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "Your Ice trait's freeze chance is ×2 against an enemy whose Speed is lowered. The freeze chance still can't go above 60%.",
+   "requisitos": null,
+   "id": "chill_drive__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Covert Cloak",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "Your Fairy Pokémon take −30% damage from an enemy whose ATK or Sp.ATK is lowered.",
+   "requisitos": null,
+   "id": "covert_cloak__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Damp Mulch",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "When your Ground Pokémon hits an enemy that has lost Speed, the enemy loses that much Speed again (−2 Speed becomes −4). Repeats on every hit.",
+   "requisitos": null,
+   "id": "damp_mulch__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Damp Rock",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER",
+    "FAIRY",
+    "GROUND"
+   ],
+   "efecto_literal": "Your Pokémon deal +10% damage for each stat drop (−1 stage) the target has, across all its stats. No cap.",
+   "requisitos": null,
+   "id": "damp_rock__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dark Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your Dark Pokémon always crit enemies that are below their max HP.",
+   "requisitos": null,
+   "id": "dark_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dark Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your Dark Pokémon's crits deal 2.5× damage instead of 2×. Stacks with Darkinium Z for 3×.",
+   "requisitos": null,
+   "id": "dark_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Darkinium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your Dark Pokémon's crits deal 2.5× damage instead of 2×. Stacks with Dark Tera Shard for 3×.",
+   "requisitos": "Capstone: offered once 3 of your relics show Dark and the Dark trait is active",
+   "id": "darkinium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Destiny Knot",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE",
+    "DRAGON",
+    "FIGHTING"
+   ],
+   "efecto_literal": "When one of your Pokémon gains ATK or Sp.ATK from a trait or relic, the enemy's active Pokémon loses the same amount of that stat.",
+   "requisitos": null,
+   "id": "destiny_knot__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dowsing Machine",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Used up on pickup: you get 2 random relics from the normal offer pool. Only offered while you have 2 free relic slots.",
+   "requisitos": null,
+   "id": "dowsing_machine__reliquia__3.7.1",
+   "ocupa_hueco": false,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Draco Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "The first attack by any of your Dragon Pokémon each fight hits a second time at full damage, if the target survives the first hit.",
+   "requisitos": null,
+   "id": "draco_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragon Fang",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "The first attack by any of your Dragon Pokémon each fight is always a crit.",
+   "requisitos": null,
+   "id": "dragon_fang__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragon Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "When the Dragon trait triggers on a KO, the Pokémon that scored it also gets +1 Speed.",
+   "requisitos": null,
+   "id": "dragon_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragon Scale",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "Each time one of your Dragon Pokémon attacks, it takes every stat change (boosts and drops) from your other Pokémon, which reset to 0.",
+   "requisitos": null,
+   "id": "dragon_scale__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragon Skull",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "Your Dragon Pokémon take −50% damage from any hit while they are at full HP.",
+   "requisitos": null,
+   "id": "dragon_skull__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragon Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "Your Dragon Pokémon deal +10% damage for each turn they have acted after their first, max +50%.",
+   "requisitos": null,
+   "id": "dragon_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragonium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "When one of your Dragon Pokémon triggers the Dragon trait with a KO, the rest of your team also gets its ATK and Sp.ATK boost.",
+   "requisitos": "Capstone: offered once 3 of your relics show Dragon and the Dragon trait is active",
+   "id": "dragonium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dread Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your crits ignore 50% of the target's DEF and Sp.DEF, which doubles crit damage.",
+   "requisitos": null,
+   "id": "dread_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dusk Stone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK",
+    "FLYING"
+   ],
+   "efecto_literal": "Your Pokémon get +10% crit chance. When hit, each of your Pokémon dodges with a chance equal to half its crit chance, max 50%.",
+   "requisitos": null,
+   "id": "dusk_stone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Earth Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "When one of your Ground Pokémon knocks out an enemy, it gets 2 random stat boosts (+1 each) for every Speed drop that enemy had. No Speed drops, no boosts.",
+   "requisitos": null,
+   "id": "earth_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Eevium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "When an Eevee on your team evolves, choose 1 of 3 relics of its new type (or skip). Eevium Z is used up either way. Only offered with an Eevee starter.",
+   "requisitos": null,
+   "id": "eevium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Eject Button",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Once per fight, the first of your Electric Pokémon that would faint switches out instead, and your next Pokémon attacks at once. It comes back with 1 HP when the rest of your team is down.",
+   "requisitos": null,
+   "id": "eject_button__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Eject Pack",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING",
+    "FIRE",
+    "DRAGON"
+   ],
+   "efecto_literal": "When one of your Pokémon faints, all its stat boosts move to your next Pokémon.",
+   "requisitos": null,
+   "id": "eject_pack__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Electirizer",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Your Electric Pokémon get +1 extra attack each time they attack, even without the Electric trait. All their extra attacks hit random enemies.",
+   "requisitos": null,
+   "id": "electirizer__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Electric Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Your Pokémon deal ×2 damage to paralyzed enemies.",
+   "requisitos": null,
+   "id": "electric_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Electric Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Your Electric trait gets +20% chance to give an extra attack (T1: 20% becomes 40%), and its extra attacks deal +20% damage.",
+   "requisitos": null,
+   "id": "electric_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Electrium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Your Electric Pokémon get +20% chance for an Electric trait extra attack. Extra attacks left over when the target faints hit the next enemy for the same damage, without on-hit effects.",
+   "requisitos": "Capstone: offered once 3 of your relics show Electric and the Electric trait is active",
+   "id": "electrium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Energy Root",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "Your Pokémon deal +25% damage while above 75% of their max HP.",
+   "requisitos": null,
+   "id": "energy_root__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Enigma Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY",
+    "WATER"
+   ],
+   "efecto_literal": "At fight start, every enemy gets −1 to a random stat, twice (the same stat can be hit twice).",
+   "requisitos": null,
+   "id": "enigma_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Everstone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK"
+   ],
+   "efecto_literal": "At fight start, if you have the Rock trait, every Pokémon on your team gets +1 DEF and +1 Sp.DEF per Rock trait tier (T2 = +2). Needs the Rock trait.",
+   "requisitos": null,
+   "id": "everstone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Exp. Candy",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "When one of your Bug Pokémon knocks out an enemy, it gains levels equal to 50% of its starting level (at least 1) until the fight ends. Each KO adds more.",
+   "requisitos": null,
+   "id": "exp_candy__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Exp. Share",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "After each fight, your lowest-level Pokémon that earned levels gets +1 extra level. In modes where the whole team levels up after every fight, the whole team gets +1 instead.",
+   "requisitos": null,
+   "id": "exp_share__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fairium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "When one of your Fairy Pokémon faints, the Fairy trait triggers again: every enemy loses ATK and Sp.ATK per its tier.",
+   "requisitos": "Capstone: offered once 3 of your relics show Fairy and the Fairy trait is active",
+   "id": "fairium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fairy Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "An enemy with an ATK or Sp.ATK drop skips every 3rd turn it takes while it has that drop.",
+   "requisitos": null,
+   "id": "fairy_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fighting Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "Your Fighting Pokémon deal +50% damage while below 50% of their max HP.",
+   "requisitos": null,
+   "id": "fighting_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fightinium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "When the Fighting trait triggers, your Fighting Pokémon get ×2 its ATK and Sp.ATK boost and heal 10% of their max HP.",
+   "requisitos": "Capstone: offered once 3 of your relics show Fighting and the Fighting trait is active",
+   "id": "fightinium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fire Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "When your Fire Pokémon hit an enemy that survives, it is burned: it loses 10% of its max HP each turn and its ATK is halved for physical moves.",
+   "requisitos": null,
+   "id": "fire_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fire Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "Each time your Fire trait triggers (at fight start, and again whenever a relic re-triggers it), every enemy loses DEF and Sp.DEF equal to the Fire trait tier (T2: −2 each).",
+   "requisitos": null,
+   "id": "fire_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fire Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "Each time your Fire trait triggers, your Pokémon also get +1 Speed on top of its ATK and Sp.ATK.",
+   "requisitos": null,
+   "id": "fire_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Firium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "Each time one of your Fire Pokémon knocks out an enemy and enemies remain, the Fire trait triggers again for your whole team (+ATK and Sp.ATK per its tier).",
+   "requisitos": "Capstone: offered once 3 of your relics show Fire and the Fire trait is active",
+   "id": "firium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fist Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "Your Fighting Pokémon deal +50% damage.",
+   "requisitos": null,
+   "id": "fist_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Flame Orb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "Each time the Fire trait triggers on one of your Fire Pokémon, a random enemy takes 10% of the damage that Pokémon's attack would deal to it.",
+   "requisitos": null,
+   "id": "flame_orb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Flame Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "At fight start the Fire trait triggers a second time, so your Pokémon get its ATK and Sp.ATK boost twice. Relics that react to the Fire trait (like Flame Orb) also go off twice.",
+   "requisitos": null,
+   "id": "flame_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Float Stone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING",
+    "GROUND"
+   ],
+   "efecto_literal": "Each time your Pokémon hit a slower enemy, it takes extra damage that grows with the Speed gap (4.5 × the square root of the difference), max 200 per hit.",
+   "requisitos": null,
+   "id": "float_stone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Flying Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "Your Flying Pokémon deal +10% damage for each Speed boost they have. No cap.",
+   "requisitos": null,
+   "id": "flying_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Flying Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "On turn 1, if your active Flying Pokémon is faster than its target, it attacks a second time at full damage. Once per fight.",
+   "requisitos": null,
+   "id": "flying_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Flyinium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "Your Flying Pokémon get +5% crit chance for each Speed boost they have, max +50%.",
+   "requisitos": "Capstone: offered once 3 of your relics show Flying and the Flying trait is active",
+   "id": "flyinium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Focus Band",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "Once per fight, the first of your Fighting Pokémon that would faint holds on with 1 HP instead. This also triggers your Fighting trait (your team gets +ATK and +Sp.ATK by its tier), if you have that trait.",
+   "requisitos": null,
+   "id": "focus_band__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Focus Sash",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL",
+    "ROCK"
+   ],
+   "efecto_literal": "Once per fight, each of your Pokémon survives an attack that would knock it out, keeping 1 HP. Poison and burn damage can still knock it out.",
+   "requisitos": null,
+   "id": "focus_sash__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Fresh Water",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER"
+   ],
+   "efecto_literal": "Your Pokémon take −10% damage for each of the attacker's stats that is lowered (it counts stats, not stages), max −50%.",
+   "requisitos": null,
+   "id": "fresh_water__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ghost Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "When a Ghost Pokémon finishes off an enemy with the Ghost trait, the next enemy in line takes damage equal to the HP the finished enemy had left.",
+   "requisitos": null,
+   "id": "ghost_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ghost Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "When one of your Ghost Pokémon finishes off an enemy with the Ghost trait, the next enemy is paralyzed (half Speed for the rest of the fight). When one of your Ghost Pokémon dodges a hit, the attacker is paralyzed.",
+   "requisitos": null,
+   "id": "ghost_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ghost Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "The Ghost trait finishes off enemies at 10% more HP than normal, and its cap rises from 50% to 60%.",
+   "requisitos": null,
+   "id": "ghost_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ghostium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "Your Ghost Pokémon's hits finish off enemies at 10% more HP (cap 60%), and each finish-off heals them 10% of their max HP.",
+   "requisitos": "Capstone: offered once 3 of your relics show Ghost and the Ghost trait is active",
+   "id": "ghostium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Gooey Mulch",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "Each enemy gets 2 poison stacks the first time it comes in, the enemy lead included (each stack deals 5% max HP per turn).",
+   "requisitos": null,
+   "id": "gooey_mulch__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Grass Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "Your Grass trait's healing can fill your Pokémon up to 125% of their max HP. The extra HP is removed after the fight.",
+   "requisitos": null,
+   "id": "grass_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Grass Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "Each time one of your Grass Pokémon heals, it gets +1 to 2 random stats (the same stat can be picked twice).",
+   "requisitos": null,
+   "id": "grass_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Grassium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "Your Grass Pokémon can heal up to 150% of their max HP. The extra HP is removed after the fight.",
+   "requisitos": "Capstone: offered once 3 of your relics show Grass and the Grass trait is active",
+   "id": "grassium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Grip Claw",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "ICE",
+    "WATER"
+   ],
+   "efecto_literal": "At fight start, your lead's on-hit effects (from traits, relics and items) apply once to the enemy lead, without dealing damage.",
+   "requisitos": null,
+   "id": "grip_claw__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ground Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND",
+    "WATER"
+   ],
+   "efecto_literal": "Your Pokémon deal +10% damage per Speed stage the target has lost (target at −4 Speed: +40%).",
+   "requisitos": null,
+   "id": "ground_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ground Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "At fight start, the Ground trait's Speed drop hits the enemy lead a second time.",
+   "requisitos": null,
+   "id": "ground_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Groundium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "Your Pokémon deal +10% damage for each Speed drop the target has, max +60%. Works for every Pokémon, not only Ground ones.",
+   "requisitos": "Capstone: offered once 3 of your relics show Ground and the Ground trait is active",
+   "id": "groundium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Haban Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DRAGON"
+   ],
+   "efecto_literal": "When one of your Dragon Pokémon knocks out an enemy, it gets +2 Speed.",
+   "requisitos": null,
+   "id": "haban_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Hard Stone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK",
+    "STEEL"
+   ],
+   "efecto_literal": "Each time one of your Pokémon takes damage from an attack, it gets +1 DEF and +1 Sp.DEF. Dodged or fully blocked hits do not count.",
+   "requisitos": null,
+   "id": "hard_stone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Heavy-Duty Boots",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "Your Ground Pokémon take −30% damage from enemies with lower Speed than them (paralysis halves Speed for this check).",
+   "requisitos": null,
+   "id": "heavy_duty_boots__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "HP Up",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL",
+    "DRAGON"
+   ],
+   "efecto_literal": "When one of your Pokémon knocks out an enemy, it gets +2 max HP for the rest of the run. If the KO came from poison or recoil, your active Pokémon gets it.",
+   "requisitos": null,
+   "id": "hp_up__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ice Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "When your Ice trait shatters a frozen enemy, the bonus damage (10% of the hit per Ice tier) is +50% bigger: 15% of the hit per tier. The rest of the hit is not changed.",
+   "requisitos": null,
+   "id": "ice_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ice Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "When your Ice trait shatters a frozen enemy, every other enemy takes half of that shatter's bonus damage. This extra damage doesn't freeze anyone.",
+   "requisitos": null,
+   "id": "ice_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ice Stone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "When the Ice trait freezes an enemy, it shatters at once and takes the shatter damage right away (10% of the hit per Ice trait tier). Freezes from other sources do not shatter early.",
+   "requisitos": null,
+   "id": "ice_stone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ice Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "At the start of each fight, each of your Ice Pokémon gets a shield worth 25% of its max HP. The shield takes damage first until it is used up.",
+   "requisitos": null,
+   "id": "ice_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Icicle Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "Each time an enemy is frozen (from any source), your active Pokémon gets +1 to 3 random stats (the same stat can repeat).",
+   "requisitos": null,
+   "id": "icicle_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Icium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "The first time one of your Ice Pokémon would faint in a fight, it stays in with 1 HP and every enemy is frozen.",
+   "requisitos": "Capstone: offered once 3 of your relics show Ice and the Ice trait is active",
+   "id": "icium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Icy Rock",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "When your hit shatters a frozen enemy, the next enemy without a status condition is frozen. With Ice Stone that freeze shatters at once too, so the chain can run through the whole enemy team.",
+   "requisitos": null,
+   "id": "icy_rock__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Insect Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "When one of your Bug Pokémon faints, the enemy's active Pokémon loses as many levels as the Bug had, for the rest of the fight (min level 1).",
+   "requisitos": null,
+   "id": "insect_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Iron Ball",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Cursed relic from the Gym Challenge badge rules: at fight start your lead gets −2 Speed. It can't be removed.",
+   "requisitos": null,
+   "id": "iron_ball__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Iron Ball",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK",
+    "STEEL"
+   ],
+   "efecto_literal": "Your Pokémon take −50% damage from enemies whose Speed is higher than theirs (Speed boosts and drops count).",
+   "requisitos": null,
+   "id": "iron_ball__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Iron Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Before each enemy attack hits one of your Steel Pokémon, it gets +2 DEF and +2 Sp.DEF.",
+   "requisitos": null,
+   "id": "iron_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Jaboca Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL",
+    "ROCK"
+   ],
+   "efecto_literal": "Each time an enemy damages one of your Pokémon, it loses HP equal to 20% of the damage dealt (at least 1).",
+   "requisitos": null,
+   "id": "jaboca_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Kebia Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "Your Pokémon take −5% damage from an attacker for each poison stack it has, max −60%.",
+   "requisitos": null,
+   "id": "kebia_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Kee Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "The first enemy attack that would damage one of your Pokémon each fight deals no damage. That is usually the hit on your lead.",
+   "requisitos": null,
+   "id": "kee_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "King's Rock",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "The first crit each of your Dark Pokémon lands in a fight makes the target flinch.",
+   "requisitos": null,
+   "id": "king_s_rock__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lagging Tail",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "Your Fighting Pokémon deal ×2 damage on turns when the enemy moved first.",
+   "requisitos": null,
+   "id": "lagging_tail__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lansat Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC",
+    "DARK"
+   ],
+   "efecto_literal": "Each hit of the Psychic trait's splash has a 6.25% chance to crit for ×2 damage. Crit chance bonuses don't raise this chance.",
+   "requisitos": null,
+   "id": "lansat_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lax Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "GRASS",
+    "ROCK"
+   ],
+   "efecto_literal": "Your Pokémon deal −50% damage with their attacks and take −50% damage from enemy attacks.",
+   "requisitos": null,
+   "id": "lax_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lead Sparkle",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your lead is shiny in every fight, so it counts +1 for traits and counts as a shiny for relics like Shiny Power and Shiny Guard.",
+   "requisitos": null,
+   "id": "lead_sparkle__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Leaf Stone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "Each time one of your Pokémon heals, it gets +1 to a random stat for every full 5% of its max HP healed. Heals under 5% give nothing.",
+   "requisitos": null,
+   "id": "leaf_stone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Legend Aegis",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon take −10% damage for each legendary Pokémon on your team.",
+   "requisitos": null,
+   "id": "legend_aegis__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Legend Lure",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Every catch node on maps made after you get this is a legendary catch node. Charm: does not take a relic slot.",
+   "requisitos": null,
+   "id": "legend_lure__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Legend Might",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon deal +20% damage for each legendary Pokémon on your team.",
+   "requisitos": null,
+   "id": "legend_might__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Life Orb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "Your Normal Pokémon deal +50% damage, but lose HP equal to 10% of the damage they deal (at least 1).",
+   "requisitos": null,
+   "id": "life_orb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Light Clay",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "At the start of each fight, every enemy that is Ice, Grass or Water type gets −5 Speed.",
+   "requisitos": null,
+   "id": "light_clay__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Love Sweet",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "At fight start, the Fairy trait's ATK and Sp.ATK drops hit the enemy lead a second time.",
+   "requisitos": null,
+   "id": "love_sweet__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Luck Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "Your Poison Pokémon always land a crit on an enemy that has at least one poison stack.",
+   "requisitos": null,
+   "id": "luck_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lucky Punch",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "When one of your Normal Pokémon deals damage, its max HP and current HP go up by that amount until the fight ends. No cap.",
+   "requisitos": null,
+   "id": "lucky_punch__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lum Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your lead (first party slot) can't be poisoned, burned, paralyzed, frozen or put to sleep. Your other Pokémon take −50% poison damage.",
+   "requisitos": null,
+   "id": "lum_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Macho Brace",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "ICE",
+    "ROCK"
+   ],
+   "efecto_literal": "Your Pokémon attack twice each turn, each hit at −50% damage. The second hit only comes if the first one landed and the target is still standing.",
+   "requisitos": null,
+   "id": "macho_brace__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Malicious Armor",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "Your Ghost Pokémon deal ×2 damage to enemies that are poisoned, burned, paralyzed, frozen or asleep.",
+   "requisitos": null,
+   "id": "malicious_armor__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Meadow Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "GRASS"
+   ],
+   "efecto_literal": "Your relics' end-of-turn effects (like Miracle Seed and Rock Incense) trigger twice each turn. Poison and burn damage are not doubled.",
+   "requisitos": null,
+   "id": "meadow_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Mental Herb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "Your Psychic trait splash deals +10% damage for each Sp.ATK boost the attacker has. No cap.",
+   "requisitos": null,
+   "id": "mental_herb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Metal Coat",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Damage the Steel trait blocks is dealt back to the attacker, max 50% of your Pokémon's max HP per hit.",
+   "requisitos": null,
+   "id": "metal_coat__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Metal Powder",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Your Pokémon take −15% damage for each Steel Pokémon on your team, max −45%. Fainted Steel Pokémon still count.",
+   "requisitos": null,
+   "id": "metal_powder__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Mind Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "The damage the Psychic trait deals to the other enemies is +50% (T1 10% of your hit becomes 15%).",
+   "requisitos": null,
+   "id": "mind_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Miracle Seed",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS"
+   ],
+   "efecto_literal": "At the end of each turn, your active Grass Pokémon takes 10% of the active enemy's max HP and heals that much. It drains less when your Pokémon is lower level than the enemy.",
+   "requisitos": null,
+   "id": "miracle_seed__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Mirror Herb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "When one of your Pokémon gets a stat drop, the enemy's active Pokémon gets the same drop.",
+   "requisitos": null,
+   "id": "mirror_herb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Misty Seed",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "Your Fairy Pokémon take no damage from super-effective enemy attacks.",
+   "requisitos": null,
+   "id": "misty_seed__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Muscle Band",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your Pokémon get +10% crit chance. Each crit gives the attacker +1 ATK, +1 Sp.ATK and +1 Speed.",
+   "requisitos": null,
+   "id": "muscle_band__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Normal Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "Your Normal trait gives ×2 the max HP at fight start: +50% per tier instead of +25%.",
+   "requisitos": null,
+   "id": "normal_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Normalium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "The first hit each of your Normal Pokémon lands in a fight deals extra damage equal to 30% of its own max HP.",
+   "requisitos": "Capstone: offered once 3 of your relics show Normal and the Normal trait is active",
+   "id": "normalium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Occa Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "Your Ice Pokémon take −50% damage from Fire, Fighting, Rock and Steel moves.",
+   "requisitos": null,
+   "id": "occa_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Odd Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "At the end of each turn, every enemy (including the one in battle) takes half of the Psychic trait splash your Pokémon in battle dealt that turn. Each splash replays once. Needs the Psychic trait.",
+   "requisitos": null,
+   "id": "odd_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Odd Keystone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "Once per fight, when your last Pokémon faints and enemies are still standing, the first Ghost Pokémon that fainted this fight comes back with 25% of its max HP.",
+   "requisitos": null,
+   "id": "odd_keystone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Oran Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK",
+    "GRASS"
+   ],
+   "efecto_literal": "Your Pokémon get +10% crit chance. When they crit, they heal 100% of the damage dealt.",
+   "requisitos": null,
+   "id": "oran_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Oval Charm",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Charm: doesn't use a relic slot. Every catch node offers 1 more Pokémon to choose from.",
+   "requisitos": null,
+   "id": "oval_charm__reliquia__3.7.1",
+   "ocupa_hueco": false,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Pink Bow",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "At the end of every turn the Fairy trait triggers again: all enemies get −ATK and −Sp.ATK equal to its tier.",
+   "requisitos": null,
+   "id": "pink_bow__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Pixie Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "Each time the Fairy trait triggers (fight start, Pink Bow, etc.), your active Pokémon makes an extra attack at full damage if it is a Fairy type.",
+   "requisitos": null,
+   "id": "pixie_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Poison Barb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Each time your Pokémon hits an enemy, it adds 2 poison stacks to it (each deals 5% max HP per turn, max 12 stacks).",
+   "requisitos": null,
+   "id": "poison_barb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Poison Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON",
+    "GROUND"
+   ],
+   "efecto_literal": "Each turn a poisoned enemy takes poison damage, it also gets −1 Speed. This works on every poisoned enemy, not only the one in battle.",
+   "requisitos": null,
+   "id": "poison_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Poisonium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "When a poisoned enemy faints from any cause, every other enemy gets half of its poison stacks.",
+   "requisitos": "Capstone: offered once 3 of your relics show Poison and the Poison trait is active",
+   "id": "poisonium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Poké Doll",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL"
+   ],
+   "efecto_literal": "At the start of each fight, if your lead is Normal type, it hides behind a Substitute with 25% of its max HP. The Substitute takes the hits instead, and the hit that breaks it does no damage to your Pokémon.",
+   "requisitos": null,
+   "id": "pok_doll__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Poké Flute",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "NORMAL",
+    "FIRE",
+    "FAIRY"
+   ],
+   "efecto_literal": "When one of your Normal Pokémon knocks out an enemy and more enemies remain, your fight-start effects (traits and relics) trigger again. Works on every such KO.",
+   "requisitos": null,
+   "id": "pok_flute__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Power Belt",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "When one of your Fighting Pokémon knocks out an enemy, your Fighting trait triggers: your team gets +ATK and +Sp.ATK by its tier. Needs the Fighting trait.",
+   "requisitos": null,
+   "id": "power_belt__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Power Bracer",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon deal +20% damage with their attacks.",
+   "requisitos": null,
+   "id": "power_bracer__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Power Herb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Each hit one of your Pokémon lands gives it +5% damage until the fight ends. No cap; each Pokémon counts its own hits.",
+   "requisitos": null,
+   "id": "power_herb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Power Lens",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE",
+    "DRAGON",
+    "ROCK"
+   ],
+   "efecto_literal": "Your Pokémon's ATK, Sp.ATK, DEF and Sp.DEF boosts count as 50% bigger (+4 works like +6). Speed boosts are not affected.",
+   "requisitos": null,
+   "id": "power_lens__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Power Weight",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "Your Pokémon's hits ignore the target's DEF and Sp.DEF boosts. Drops still count.",
+   "requisitos": null,
+   "id": "power_weight__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Prism Scale",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon deal +5% damage for each different type on your team (fainted Pokémon count). Six types = +30%.",
+   "requisitos": null,
+   "id": "prism_scale__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Protective Pads",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "Your Fighting Pokémon take −30% damage.",
+   "requisitos": null,
+   "id": "protective_pads__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Psychic Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "Your Psychic trait splash no longer spreads: one random other enemy takes the full total (one splash share for each enemy it would have hit).",
+   "requisitos": null,
+   "id": "psychic_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Psychic Seed",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "When damage from your Psychic trait (the share of your damage that hits all enemies) knocks out an enemy, one random enemy trait is turned off for the rest of the fight.",
+   "requisitos": null,
+   "id": "psychic_seed__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Psychic Tera Shard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "Every enemy hit by your Psychic trait splash also gets −1 Sp.DEF.",
+   "requisitos": null,
+   "id": "psychic_tera_shard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Psychium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "PSYCHIC"
+   ],
+   "efecto_literal": "Every enemy hit by your Psychic trait splash also gets your on-hit effects, as if it had been hit directly.",
+   "requisitos": "Capstone: offered once 3 of your relics show Psychic and the Psychic trait is active",
+   "id": "psychium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Punching Glove",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIGHTING"
+   ],
+   "efecto_literal": "When your Fighting Pokémon hit an enemy that survives, they take 1 stage from the target's highest boosted stat and gain it themselves. Nothing happens if the target has no stat boosts.",
+   "requisitos": null,
+   "id": "punching_glove__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Pure Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon deal +10% damage for each Pokémon on your team that has no held item. Counted once per fight, at your first hit.",
+   "requisitos": null,
+   "id": "pure_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Quick Powder",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING",
+    "GROUND"
+   ],
+   "efecto_literal": "At fight start, your lead (first party slot) gets +2 Speed. Nothing happens if that Pokémon has already fainted.",
+   "requisitos": null,
+   "id": "quick_powder__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Razor Claw",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your Pokémon get +35% crit chance. Crit chance above 100% is added to crit damage (130% crit chance = crits deal 2.3× instead of 2×).",
+   "requisitos": null,
+   "id": "razor_claw__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Razor Fang",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "DARK"
+   ],
+   "efecto_literal": "Your Pokémon get +10% crit chance. Each crit has a 50% chance to make the target flinch.",
+   "requisitos": null,
+   "id": "razor_fang__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Reaper Cloth",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "When one of your Ghost Pokémon faints, it attacks the enemy's active Pokémon once more at full damage. This attack triggers no on-hit effects.",
+   "requisitos": null,
+   "id": "reaper_cloth__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Relic Copper",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Enemy attacks never crit your Steel Pokémon.",
+   "requisitos": null,
+   "id": "relic_copper__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Relic Crown",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK"
+   ],
+   "efecto_literal": "Each enemy loses 20% of its max HP the first time it comes in, the enemy lead included. Less against enemies far above your level.",
+   "requisitos": null,
+   "id": "relic_crown__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Relic Statue",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK"
+   ],
+   "efecto_literal": "Your Rock Pokémon use DEF instead of ATK for physical attacks, and Sp.DEF instead of Sp.ATK for special attacks. Stat boosts count.",
+   "requisitos": null,
+   "id": "relic_statue__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Resonance",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Each legendary Pokémon on your team counts +1 extra (2 in total) toward its types' traits.",
+   "requisitos": null,
+   "id": "resonance__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Ring Target",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST",
+    "PSYCHIC",
+    "POISON"
+   ],
+   "efecto_literal": "Your Pokémon deal +35% damage to any enemy that is not at full HP.",
+   "requisitos": null,
+   "id": "ring_target__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rock Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK"
+   ],
+   "efecto_literal": "At fight start, each of your Rock Pokémon gets +1 DEF and +1 Sp.DEF.",
+   "requisitos": null,
+   "id": "rock_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rock Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK",
+    "STEEL"
+   ],
+   "efecto_literal": "At the end of each turn, your active Pokémon gets +1 DEF and +1 Sp.DEF.",
+   "requisitos": null,
+   "id": "rock_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rock Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK",
+    "STEEL"
+   ],
+   "efecto_literal": "While one of your Pokémon is at +10 DEF or higher, the damage it takes is also dealt back to the attacker (after all reductions). Your Pokémon still takes the damage.",
+   "requisitos": null,
+   "id": "rock_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rockium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK"
+   ],
+   "efecto_literal": "When one of your Rock Pokémon is hit, it also rolls the Rock trait at its normal chance (+DEF and +Sp.DEF per tier).",
+   "requisitos": "Capstone: offered once 3 of your relics show Rock and the Rock trait is active",
+   "id": "rockium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Room Service",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "Whenever the enemy in battle loses Speed, your Pokémon in battle gets the same number of DEF and Sp.DEF stages (enemy −2 Speed: you +2 DEF and +2 Sp.DEF).",
+   "requisitos": null,
+   "id": "room_service__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Roseli Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY",
+    "WATER"
+   ],
+   "efecto_literal": "When your Fairy Pokémon first acts, and each time the Fairy trait triggers, its stat boosts rise to match the active enemy's stat drops (enemy at −3 ATK: your Fairy goes up to +3 ATK). It matches, it does not add on top.",
+   "requisitos": null,
+   "id": "roseli_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rotom Catalog",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Used up on pickup: choose 1 of 3 more starting relics for the types on your team. Starting relics you unlocked with achievements are offered too.",
+   "requisitos": null,
+   "id": "rotom_catalog__reliquia__3.7.1",
+   "ocupa_hueco": false,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rusted Shield",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Damage the Steel trait blocks on your Pokémon is saved up, and your next hit deals that much extra. Each blocked hit adds at most 50% of the defender's max HP.",
+   "requisitos": null,
+   "id": "rusted_shield__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Salac Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "At fight start, every Pokémon on your team gets +1 Speed.",
+   "requisitos": null,
+   "id": "salac_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sea Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER"
+   ],
+   "efecto_literal": "When the Water trait triggers, the enemy also loses DEF and Sp.DEF by the same amount as its Speed, ATK and Sp.ATK.",
+   "requisitos": null,
+   "id": "sea_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Shed Shell",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "When your Bug Pokémon hit an enemy, it loses 10% of its level (at least 1) and the max HP that goes with it, for the fight. Once per enemy per fight.",
+   "requisitos": null,
+   "id": "shed_shell__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Shiny Guard",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon take −10% damage for each shiny Pokémon on your team.",
+   "requisitos": null,
+   "id": "shiny_guard__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Shiny Hunter",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "×2 chance that wild, caught and legendary Pokémon are shiny, and +7% chance of a free shiny from a ? node. Charm: does not take a relic slot.",
+   "requisitos": null,
+   "id": "shiny_hunter__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Shiny Power",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Your Pokémon deal +10% damage for each shiny Pokémon on your team.",
+   "requisitos": null,
+   "id": "shiny_power__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Silver Powder",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "When a Bug Pokémon gains levels after a fight, it has a 30% chance to gain 1 more. Each extra level rolls again, so it can chain.",
+   "requisitos": null,
+   "id": "silver_powder__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sitrus Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GRASS",
+    "GHOST"
+   ],
+   "efecto_literal": "×2 healing from the Grass trait, Leftovers, Shell Bell and some relics (Miracle Seed, Berry Juice). Big Root, Oran Berry and Black Sludge heals are not doubled.",
+   "requisitos": null,
+   "id": "sitrus_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sky Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "Your Flying Pokémon deal bonus damage when faster than the target: +5% for every 10% of extra Speed, max +50% at twice the target's Speed.",
+   "requisitos": null,
+   "id": "sky_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Smooth Rock",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "At the end of each turn, the enemy in battle gets −5 Speed.",
+   "requisitos": null,
+   "id": "smooth_rock__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Snowball",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ICE"
+   ],
+   "efecto_literal": "The Ice trait's freeze chance is ×1.5 (T1 12% becomes 18%), up to a max of 60%.",
+   "requisitos": null,
+   "id": "snowball__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Soft Sand",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GROUND"
+   ],
+   "efecto_literal": "Your Ground Pokémon deal +50% damage to targets slower than them.",
+   "requisitos": null,
+   "id": "soft_sand__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Soothe Bell",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE",
+    "GROUND",
+    "FAIRY"
+   ],
+   "efecto_literal": "Your traits that act at fight start (Fire, Flying, Ground, Normal, Fairy) trigger twice. Fight-start relics like Quick Powder are not doubled.",
+   "requisitos": null,
+   "id": "soothe_bell__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Splash Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER",
+    "FAIRY"
+   ],
+   "efecto_literal": "Each time an enemy gets a stat drop, your active Pokémon hits it for 10% of its normal attack damage. Once per drop, however many stages; no on-hit effects.",
+   "requisitos": null,
+   "id": "splash_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Spooky Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "GHOST"
+   ],
+   "efecto_literal": "When the Ghost trait finishes off an enemy, every other enemy gets −1 to 2 random stats (the same stat can be hit twice).",
+   "requisitos": null,
+   "id": "spooky_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Stardust",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "BUG"
+   ],
+   "efecto_literal": "After each fight, every Pokémon that earns levels has a 15% chance to gain 1 extra level.",
+   "requisitos": null,
+   "id": "stardust__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Starf Berry",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Each time your Pokémon land a hit, they get +1 to a random stat: ATK or Sp.ATK (whichever they attack with), DEF, Speed or Sp.DEF. Max 6 per Pokémon per fight.",
+   "requisitos": null,
+   "id": "starf_berry__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Steel Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Your Steel Pokémon deal ×2 damage while they are below full HP.",
+   "requisitos": null,
+   "id": "steel_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Steel Memory",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "Each of your Pokémon deals +1% damage for every 2 kg it weighs, max +75% (at 150 kg).",
+   "requisitos": null,
+   "id": "steel_memory__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Steelium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "STEEL"
+   ],
+   "efecto_literal": "A single hit can take at most 50% of a Steel Pokémon's max HP. Works 6 times per fight, shared by your team; only hits it actually caps count.",
+   "requisitos": "Capstone: offered once 3 of your relics show Steel and the Steel trait is active",
+   "id": "steelium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sticky Barb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER",
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Each time your Pokémon hit an enemy, it gets −1 to a random stat (ATK, DEF, Speed, Sp.ATK or Sp.DEF). Bonus hits from traits count too.",
+   "requisitos": null,
+   "id": "sticky_barb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Stone Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ROCK",
+    "STEEL"
+   ],
+   "efecto_literal": "When one of your Pokémon starts its turn with +10 DEF and +10 Sp.DEF, it gets +10 Speed, +10 ATK and +10 Sp.ATK. Once per Pokémon per fight.",
+   "requisitos": null,
+   "id": "stone_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Strawberry Sweet",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FAIRY"
+   ],
+   "efecto_literal": "Your Fairy Pokémon deal +10% damage for each ATK or Sp.ATK drop the target has (whichever is larger, not both). No cap.",
+   "requisitos": null,
+   "id": "strawberry_sweet__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sun Stone",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE"
+   ],
+   "efecto_literal": "Your Pokémon deal +5% damage for each stat boost they have (+2 ATK and +1 Speed = 3 boosts = +15%). No cap.",
+   "requisitos": null,
+   "id": "sun_stone__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Swift Wing",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FLYING"
+   ],
+   "efecto_literal": "Your Pokémon deal +10% damage for each Speed boost (+1 Speed) they have, max +100%. Works for every type, not only Flying.",
+   "requisitos": null,
+   "id": "swift_wing__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Toxic Orb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "When a poisoned Pokémon faints, half its poison stacks pass to the next Pokémon on its team. Works for your team too.",
+   "requisitos": null,
+   "id": "toxic_orb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Toxic Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "POISON"
+   ],
+   "efecto_literal": "When your Poison Pokémon hit a target that is already poisoned, the Poison trait adds ×2 poison stacks.",
+   "requisitos": null,
+   "id": "toxic_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Water Gem",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER"
+   ],
+   "efecto_literal": "In each fight, the first hit by each of your Water Pokémon triggers the Water trait one extra time, on top of its normal chance. Needs the Water trait.",
+   "requisitos": null,
+   "id": "water_gem__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Waterium Z",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER"
+   ],
+   "efecto_literal": "When the Water trait triggers on a hit by one of your Water Pokémon, every other enemy gets half the drops (an odd half rounds up or down at random).",
+   "requisitos": "Capstone: offered once 3 of your relics show Water and the Water trait is active",
+   "id": "waterium_z__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Wave Incense",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "WATER",
+    "FAIRY",
+    "GROUND"
+   ],
+   "efecto_literal": "Every stat drop on an enemy is 50% bigger: −1 becomes −1 or −2 (50/50), −2 becomes −3. Works on drops from any source.",
+   "requisitos": null,
+   "id": "wave_incense__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Weakness Policy",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE",
+    "DRAGON",
+    "ROCK"
+   ],
+   "efecto_literal": "At fight start, each of your Pokémon gets +1 to 2 random stats (the same stat can be hit twice). Your stat boosts can go up to +20 instead of +10.",
+   "requisitos": null,
+   "id": "weakness_policy__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "White Herb",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE",
+    "DRAGON",
+    "FIGHTING"
+   ],
+   "efecto_literal": "Your Pokémon's stats can't be lowered by anything, including your own relics (such as Iron Ball).",
+   "requisitos": null,
+   "id": "white_herb__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Wise Glasses",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "FIRE",
+    "FIGHTING"
+   ],
+   "efecto_literal": "At the end of each turn, your Pokémon in battle gets +1 ATK and +1 Sp.ATK.",
+   "requisitos": null,
+   "id": "wise_glasses__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "X Speed",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Each extra attack from your Electric trait rolls the trait's chance again for one more extra attack, up to the usual max of 6 extra attacks.",
+   "requisitos": null,
+   "id": "x_speed__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Zap Plate",
+   "categoria": "reliquia",
+   "tipos_etiqueta": [
+    "ELECTRIC"
+   ],
+   "efecto_literal": "Every hit from your Electric Pokémon paralyzes the target (half Speed for the rest of the fight).",
+   "requisitos": null,
+   "id": "zap_plate__reliquia__3.7.1",
+   "ocupa_hueco": true,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Amulet Coin",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Earn 3₽ for every battle won while you carry it (up to 150₽ per run)",
+   "requisitos": null,
+   "id": "amulet_coin__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Assault Vest",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+50% Sp.Def",
+   "requisitos": null,
+   "id": "assault_vest__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Black Belt",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Fighting move damage; attempts Fighting-type attacks if able",
+   "requisitos": null,
+   "id": "black_belt__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Black Glasses",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Dark move damage; attempts Dark-type attacks if able",
+   "requisitos": null,
+   "id": "black_glasses__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Charcoal",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Fire move damage; attempts Fire-type attacks if able",
+   "requisitos": null,
+   "id": "charcoal__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Choice Band",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% physical damage, -20% DEF",
+   "requisitos": null,
+   "id": "choice_band__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Choice Scarf",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+50% Speed",
+   "requisitos": null,
+   "id": "choice_scarf__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Choice Specs",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+30% special damage",
+   "requisitos": null,
+   "id": "choice_specs__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Dragon Fang",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Dragon move damage; attempts Dragon-type attacks if able",
+   "requisitos": null,
+   "id": "dragon_fang__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Eviolite",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "stops evolutions, if the pokemon is not the final stage it gets +50% DEF & +50% Sp. DEF",
+   "requisitos": null,
+   "id": "eviolite__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Expert Belt",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+100% damage on super effective hits",
+   "requisitos": null,
+   "id": "expert_belt__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Hard Stone",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Rock move damage; attempts Rock-type attacks if able",
+   "requisitos": null,
+   "id": "hard_stone__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "King's Rock",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "30% chance to flinch the target on a hit",
+   "requisitos": null,
+   "id": "king_s_rock__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lagging Tail",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Always moves last, but +100% move damage",
+   "requisitos": null,
+   "id": "lagging_tail__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Leftovers",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Restore 10% max HP each round",
+   "requisitos": null,
+   "id": "leftovers__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Loaded Dice",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Start of each battle: 37% chance for +2 to ATK / DEF / Sp.Atk / Sp.Def / Speed, else -1",
+   "requisitos": null,
+   "id": "loaded_dice__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Lucky Egg",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "30% chance: holder gains +1 extra level after each battle",
+   "requisitos": null,
+   "id": "lucky_egg__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Magnet",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Electric move damage; attempts Electric-type attacks if able",
+   "requisitos": null,
+   "id": "magnet__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Metal Coat",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Steel move damage; attempts Steel-type attacks if able",
+   "requisitos": null,
+   "id": "metal_coat__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Metronome",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Dual-type holder uses its OTHER type for attacks; +20% damage on all moves",
+   "requisitos": null,
+   "id": "metronome__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Miracle Seed",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Grass move damage; attempts Grass-type attacks if able",
+   "requisitos": null,
+   "id": "miracle_seed__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Mystic Water",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Water move damage; attempts Water-type attacks if able",
+   "requisitos": null,
+   "id": "mystic_water__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Never-Melt Ice",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Ice move damage; attempts Ice-type attacks if able",
+   "requisitos": null,
+   "id": "never_melt_ice__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Pixie Plate",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Fairy move damage; attempts Fairy-type attacks if able",
+   "requisitos": null,
+   "id": "pixie_plate__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Poison Barb",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Poison move damage; attempts Poison-type attacks if able",
+   "requisitos": null,
+   "id": "poison_barb__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Quick Claw",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "50% chance to attack first regardless of speed",
+   "requisitos": null,
+   "id": "quick_claw__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Red Card",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Take 50% less damage from super-effective hits",
+   "requisitos": null,
+   "id": "red_card__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rocky Helmet",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Attacker takes 12% of their max HP on each hit",
+   "requisitos": null,
+   "id": "rocky_helmet__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Scope Lens",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+30% crit chance",
+   "requisitos": null,
+   "id": "scope_lens__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sharp Beak",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Flying move damage; attempts Flying-type attacks if able",
+   "requisitos": null,
+   "id": "sharp_beak__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Shell Bell",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Heal 15% of damage inflicted",
+   "requisitos": null,
+   "id": "shell_bell__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Silk Scarf",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Normal move damage; attempts Normal-type attacks if able",
+   "requisitos": null,
+   "id": "silk_scarf__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Silver Powder",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Bug move damage; attempts Bug-type attacks if able",
+   "requisitos": null,
+   "id": "silver_powder__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Soft Sand",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Ground move damage; attempts Ground-type attacks if able",
+   "requisitos": null,
+   "id": "soft_sand__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Spell Tag",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Ghost move damage; attempts Ghost-type attacks if able",
+   "requisitos": null,
+   "id": "spell_tag__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Twisted Spoon",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+40% Psychic move damage; attempts Psychic-type attacks if able",
+   "requisitos": null,
+   "id": "twisted_spoon__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Wide Lens",
+   "categoria": "objeto_equipable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "+20% damage on all moves",
+   "requisitos": null,
+   "id": "wide_lens__objeto_equipable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Moon Stone",
+   "categoria": "objeto_utilizable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Force evolves a Pokémon regardless of level",
+   "requisitos": null,
+   "id": "moon_stone__objeto_utilizable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Rare Candy",
+   "categoria": "objeto_utilizable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Gives a Pokémon +3 levels",
+   "requisitos": null,
+   "id": "rare_candy__objeto_utilizable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "Sacred Ash",
+   "categoria": "objeto_utilizable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Fully restores HP and revives a Pokémon (works on fainted or alive)",
+   "requisitos": null,
+   "id": "sacred_ash__objeto_utilizable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  },
+  {
+   "nombre_visible": "TM",
+   "categoria": "objeto_utilizable",
+   "tipos_etiqueta": [],
+   "efecto_literal": "Upgrades a Pokémon's move tier by 1",
+   "requisitos": null,
+   "id": "tm__objeto_utilizable__3.7.1",
+   "ocupa_hueco": null,
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Pantalla ITEMS > ITEM GUIDE (texto corto de carta), sesión anónima",
+   "estado_conocimiento": "descripcion_juego"
+  }
+ ],
+ "rasgos": [],
+ "partidas": [],
+ "observaciones": [
+  {
+   "observacion_id": "obs-0001",
+   "fecha": "2026-11-20",
+   "run_id": null,
+   "entidad": "juego",
+   "campo": "version",
+   "valor_observado": "v3.7.1",
+   "fuente_ui": "pantalla de inicio",
+   "contexto": "sesión anónima",
+   "confianza": "alta",
+   "version_juego": "3.7.1",
+   "sustituye_observacion": null,
+   "motivo_cambio": null
+  },
+  {
+   "observacion_id": "obs-0002",
+   "fecha": "2026-11-20",
+   "run_id": null,
+   "entidad": "iron_ball__reliquia__3.7.1",
+   "campo": "efecto_literal",
+   "valor_observado": "Cursed relic from the Gym Challenge badge rules: at fight start your lead gets −2 Speed. It can't be removed.",
+   "fuente_ui": "ITEM GUIDE",
+   "contexto": "Difiere del traspaso (−50% daño de enemigos más rápidos). Prevalece la UI actual; revisar 'i' de la carta en partida.",
+   "confianza": "alta",
+   "version_juego": "3.7.1",
+   "sustituye_observacion": null,
+   "motivo_cambio": "contradicción con conocimiento heredado"
+  },
+  {
+   "observacion_id": "obs-0003",
+   "fecha": "2026-11-20",
+   "run_id": null,
+   "entidad": "charms",
+   "campo": "desbloqueo",
+   "valor_observado": "Shiny Charm: completar Pokédex Gen 1, dobla tasa shiny. Aurora Charm: completar Pokédex completa (721), 1 de cada 5 shinies es Aurora en lugar de 1 de cada 10.",
+   "fuente_ui": "POKÉDEX",
+   "contexto": "sesión anónima",
+   "confianza": "alta",
+   "version_juego": "3.7.1",
+   "sustituye_observacion": null,
+   "motivo_cambio": null
+  }
+ ]
+}

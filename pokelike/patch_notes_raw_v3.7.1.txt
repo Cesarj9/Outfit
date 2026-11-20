@@ -1,0 +1,1080 @@
+PATCH NOTES
+
+What's new in Pokelike
+
+v3.7.1
+Clearer relics, classic options and fixes
+2026-11-14
+CHANGES
+Every relic has a new, clearer description: a short line on the card that says what it does, and the "i" for the details. In all 8 languages.
+A shiny duplicate from a Legendary Egg now gives 15 Comet Shards instead of 20.
+Settings: "Classic animations" brings back every battle animation from before 3.7, and "Classic text font" shows relic, trait and ability text in the old font.
+The win screens have a Home button, and they now show the Gym badge or Hardcore reward you just earned.
+The Battle Tower shows its Hardcore rewards only in Hardcore.
+FIXES
+A Pokémon now gets the Mega Stone it can use: Gardevoir no longer gets Galladite.
+Starf Berry also gave its random boosts to enemies.
+Macho Brace's second hit ignored damage relics and traits.
+Odd Incense replayed the same Psychic splash every turn.
+Some relic names showed an old name in other languages, like King's Rock in Spanish.
+v3.7
+Relics, Gym badges and a Hardcore Battle Tower
+2026-11-13
+RELICS
+Passive items are now called Relics, everywhere in the game.
+127 new Relics. 49 old ones leave the pool (runs that already hold one keep it), and every Relic has a shorter, clearer description.
+Before the first map you pick 1 of 3 starting Relics made for your starter's type.
+The first card on each Relic screen builds on what you already hold. The other two are random.
+Z-Crystals: hold 3 Relics for one type while its trait is active, and that type's Z-Crystal shows up. There is one for every type.
+Charm Relics (Shiny Hunter, Legend Lure, Oval Charm) no longer take a Relic slot. Once unlocked, Shiny Hunter joins every run with Relics as a second starting Relic.
+Relic cards show icons for the traits they work with, and a SHINY or LEGENDARY tag when they need one.
+New one-use Relics: Dowsing Machine gives two random Relics, Rotom Catalog lets you pick a starting Relic for any type on your team. Eevee starters can take Eevium Z: when Eevee evolves, you pick 1 of 3 Relics of its new type.
+GYM CHALLENGE
+Challenge Mode is now the Gym Challenge, with a badge case of 8 badges.
+Win a run to earn the next badge. Each badge level adds one rule on top of the ones before: trainer battles get type traits, wild Pokémon are 3 levels higher, gym leaders bring 2 shinies, a cursed Iron Ball, enemies are 10% higher level, trainers 5 more levels, and a second Champion waits at the end.
+Each badge pays a reward once, the first time, from 2,500₽ up to a Shiny Legendary Egg (see the badge case). Every clear also pays 1,000₽, plus 100₽ per badge level, and 2,000₽ with two Champions.
+BATTLE TOWER
+The Battle Tower has Normal and Hardcore. Normal plays with Relics: a starting Relic and one after every trainer fight. Hardcore is the tower as it was.
+Each mode unlocks its own stages. A Hardcore clear also unlocks the next stage in Normal, and every clear from before this patch counts as Hardcore.
+Clearing a stage on Hardcore pays once: Kanto 2,000₽, Johto 1 Comet Shard, Hoenn 4,000₽, Sinnoh 2 Comet Shards, Unova 8,000₽, Kalos 1 Mega Token, ORAS 3 Aurora Eggs and 10,000₽. Stages you already cleared pay out the next time you open the tower.
+Aurora Eggs always hatch an Aurora Pokémon of a line you don't have as an Aurora yet. Hatch them from the ORAS card.
+MEGA EVOLUTION
+Mega Tokens work differently: each one adds 5 MVP wins toward the Mega Stone of your choice, on every tier including the 50-win stones. They don't count toward the MVP Pokédollar milestones.
+The Volcano Badge now gives 2 Mega Tokens, worth the same 10 MVP wins as before.
+BATTLES
+New animations for most attacks, every trait and 18 legendary signature moves. Settings has a switch to bring back the classic trait animations.
+Traits show their own icons, with a medal for the tier, in battle and on the map.
+Cards show a short line for each trait and ability. Hover or tap it to read the full text.
+OTHER CHANGES
+The Nuzlocke Randomizer weekly is back: permadeath, every Pokémon a random species, one catch per map. Five difficulties, Gen 1 to Gen 5, paying 2,000₽ to 10,000₽.
+SpireMon takes a break and comes back with Gen 2. Your cards stay in your save.
+The PC in the top bar has a Missing button that lists the Pokémon lines you don't have yet.
+On phones, the PC, Pokédex, Pokésort and the other big windows leave a small gap at the edges, so you can still see the game behind them.
+New achievement: Kanto Classics. Beat Gen 1 with Venusaur, Charizard and Blastoise on your team.
+A Charizard holding Charizardite X now counts as a Dragon for the team-type achievements.
+FIXES
+Volcanion's signature move always used Water. It now picks Fire or Water, whichever hits harder.
+On phones, the top of the Relic replace screen could not be reached.
+v3.6.3
+Long names now fit, in every language
+2026-11-07
+FIXES
+Long mode names on the home screen, like the German Challenges title, now shrink to fit their card.
+The Daily keeps its reward visible, and a full Poké Mart and the game over screen fit normal phones again.
+On iPhones the whole game could shift upward and stay that way until the tab was closed. It now moves back by itself.
+v3.6.2
+A new layout for phones and a new Challenge screen
+2026-11-07
+A CLEANER GAME ON PHONES
+Screens now fit your display with far less scrolling, under one top bar. The menu has been rebuilt too.
+The ad at the bottom gets its own strip and no longer covers the game. The strip only appears when an ad actually loads.
+Skip looks the same on every stop on the map, and on phones it sits at the very bottom, away from Reroll.
+CHALLENGE SCREEN
+Every mode now has the same row, with a one-line description and a battle scene behind its Pokémon, on phones and desktop. Endless fights in the Distortion World.
+The Weekly and the Daily pick their scene from the colours of the sprite in front of it.
+The Hall of Records now opens from a button.
+SHINY, AURORA AND MUTANT
+Shiny, Aurora, Mutant and hidden ability each have their own small mark on the sprite, and a Pokémon can show several at once.
+The PC at the start of a run shows these marks too, and has a new Aurora filter.
+New setting: show Aurora Pokémon with the regular shiny sprites.
+OTHER CHANGES
+Auroras no longer appear in Story runs or in weeklies built on them. They still come from eggs, the Battle Tower and Challenge runs, and Auroras you already have stay Aurora.
+Every Pokémon that joins by itself, like a shiny, a legendary or a Mutant, now uses the same card.
+After a run, your passive items have their own box. Tap one to see what it does.
+The Poké Mart has a new look, and a Multiplayer card on the home screen says what is coming.
+FIXES
+Shedinja, trades and other Pokémon that inherit from an Aurora now stay Aurora instead of turning into a regular shiny.
+Brute Force and Mind Over Matter now go by the move a Pokémon really uses, so Mega Charizard X counts as physical.
+Pokédollars now fly to where your money is shown on phones, and Play Again sits above the team on desktop.
+v3.6.1
+Aurora Pokémon, a clearer Pokédex and a new weekly
+2026-11-06
+AURORA POKÉMON
+A new, rarer kind of shiny with its own colours. 1 in 10 shinies is an Aurora, in every mode. For traits it counts 3 times, where a shiny counts twice.
+Finish a run with one and it joins your PC as a starter. The Pokédex has a new Aurora tab, and Auroras count for the Shiny Pokédex too.
+CHARMS
+The Pokédex now shows both charms with your progress. The Shiny Charm still comes from completing the Gen 1 Pokédex.
+New: complete the full Pokédex to earn the Aurora Charm, which makes 1 in 5 shinies an Aurora.
+WEEKLY: AURORA HUNT
+A Challenge Run with double shiny chances. It opens on November 7 at midnight UTC.
+SPIREMON IS LEAVING
+SpireMon will be removed on November 14 at midnight UTC, and a timer on its card shows the time left. The number of players does not justify the time spent debugging it every patch, but it will come back soon with Gen 2.
+ALSO NEW
+On Android you can now get Pokelike as an app from the home screen. The PC, Achievements and Fullscreen icons have a new look too.
+v3.6
+Kalos: the Gen 6 story, Halloween Part 2 and Japanese
+2026-10-30
+KALOS STORY
+The Gen 6 story is here: nine maps across Kalos, from Santalune City to the Pokémon League. Chespin, Fennekin and Froakie are the starters, Viola to Wulfric run the gyms, and the Elite Four and Champion Diantha wait at the end. It unlocks once you have won any story.
+Professor Sycamore (map 2) battles you with the three Kanto starters and gives you one of them if you win. On map 5, Korrina’s Mega Lucario takes on one Pokémon of your choice: win and she hands you a Mega Stone that fits your team, lose and it costs you nothing. Beat three Team Flare Grunts and Lysandre blocks your path.
+One Master Ball on map 7: two of the six Kalos legendaries appear at random. Pick one and beat it to catch it. Xerneas, Yveltal and Zygarde each bring a once-per-run power for a boss fight: Aura of Life revives one of your Pokémon once, Aura of Death makes one enemy faint before the fight, and Aura of Order lets you set the order of both teams.
+From map 2, some wild battles are hordes: three wild Pokémon at once, worth more levels.
+Every Pokémon battles with its Ability. Mega Evolution is the region’s gimmick: from map 5, item nodes can offer a Mega Stone that fits your team, no unlock needed. Megas keep their normal Ability here. Charizard can also find Charizardite X, which is story-only for now: Mega Charizard X is Fire/Dragon and attacks physically with Dragon moves.
+48 Kalos achievements, including Horde Breaker, David & Lucario, Kanto Revival, Mirror Match and the four Abandon challenges.
+WEEKLY: HALLOWEEN PART 2
+Two Kalos Challenge Runs: only Gen 6 Pokémon as starters, in catch nodes and as legendaries, every Pokémon battles with its Ability, and the bosses are the real Kalos gym leaders, the Elite Four and Champion Diantha.
+Kalos (3,000₽): the run as it is. Lights Out (4,000₽): the same run in the dark. You only see the path behind you and the next nodes you can pick, each under a flickering light.
+Double Pokédollars Weekend: until the end of Sunday 1 November (Berlin time), Pokédollar rewards are doubled.
+JAPANESE
+Pokelike is now available in Japanese, including Pokémon, move and item names.
+On your first visit the game now starts in your browser’s language if it is supported. A language you picked in Settings is always kept.
+NEW & IMPROVED
+The Hall of Fame PC is now just the PC and opens in its own window. It can filter by up to two types (the Pokédex can too), and you can mark favourites.
+MVP milestones: 1, 10, 25, 50 and 100 MVP wins with an evolution line pay 250₽, 1,000₽, 2,500₽, 5,000₽ and 10,000₽. Claim them from the line’s Pokédex page.
+30 new achievements, five for each story region: Frequent Visitor, Rainbow Team, Pure Types, Brute Force and Mind Over Matter.
+A Mega whose move is already at the top tier can use a TM to switch its attack to its other type.
+The Mega Stones collection has a new Event section: Mega Charizard X and Mega Mewtwo X are coming in a future event.
+The “Trait Animations” setting is now “Trait & Ability Animations” and also covers Ability effects.
+FIXES
+A lost fight is now saved before its animation plays, so reloading the page can no longer replay it.
+Finishing a run that is already in the Hall of Fame (an old save played to the end again) no longer pays or counts a second time.
+Soul Link: restarting after a wipe only pays for maps beyond your best in that room.
+SpireMon: resetting with R while a card choice was open could keep the cards.
+Region achievements you had already earned could not be claimed during a run that turns achievements off.
+Some Gen 3 Pokémon, such as Roserade, had no Ability.
+Mega Sableye now attacks physically.
+Achievement and item icons that showed a symbol instead of a picture now show the right sprite.
+v3.5
+Hoenn returns: the ORAS Battle Tower, 20 new Megas and Mega Hoenn with Wally
+2026-10-16
+ORAS BATTLE TOWER
+A new Battle Tower stage opens once you have cleared Kalos: ORAS, nine maps across Hoenn. Treecko, Torchic and Mudkip are the starters, and you can catch any Gen 3 Pokémon plus every evolution line that has a Mega Stone.
+Its bosses are Tabitha & Shelly, Aarune, Lisia, Courtney & Matt, Professors Oak & Birch, Wally, Steven, Maxie & Archie and Zinnia. Their Mega and Primal Pokémon fight with their Mega abilities and Mega typing, and legendaries in a Mega, Primal or special form use their signature moves. Both apply only in this tower: Kalos and the World Tournament are unchanged.
+Two new achievements: Delta Champion (defeat Zinnia and clear Stage 7) and Birch’s Encore (win a Stage 7 run starting with Treecko, Torchic or Mudkip).
+20 NEW MEGAS
+20 new Mega Stones from Omega Ruby and Alpha Sapphire, each with its own ability: Mega Sceptile, Swampert, Beedrill, Pidgeot, Audino, Sableye, Glalie, Camerupt, Sharpedo, Lopunny, Altaria, Slowbro, Steelix, Gallade, Salamence, Metagross and Diancie, plus Mega Rayquaza (Meteorite Shard) and Primal Kyogre and Groudon (Primal Blue and Red Orbs). Hover a stone in the Mega Stones collection to read what it does.
+They unlock once you have cleared the ORAS Battle Tower, then through MVP wins like every other stone.
+Primal Kyogre’s heavy rain makes Fire and Ground moves fail, Primal Groudon’s harsh sun makes Water moves fail, and Mega Rayquaza’s strong winds remove every weakness, resistance and immunity for the rest of the fight. While any of them is active, Drizzle, Drought, Sand Stream and Snow Warning fail.
+A Kirlia holding Gardevoirite that evolves into Gallade now trades it for Galladite (if you own Galladite, or the run hands out stones), so a Ralts can Mega Evolve whichever way it goes.
+WEEKLY: MEGA HOENN
+This week’s weekly is a Gen 3 story Nuzlocke: one catch per map, and a Pokémon that faints is gone for good. Your starter is one of three random Hoenn Pokémon that can Mega Evolve, and it carries its Mega Stone from the first step. It Mega Evolves as soon as it reaches the right form, without its signature ability. Enemies are 2 levels lower than usual, and 4 lower after the fifth gym.
+Three ways to play: Solo (2,000₽), with Wally (5,000₽), or Soul Link with a friend (5,000₽).
+With Wally, a battle partner from the main games takes your friend’s place in a Soul Link, with no code and no server. Your starter is bound to his Ralts, and each catch to the next Pokémon that joins him. After every gym you beat, he takes on the same leader in the best order he can find. Whatever falls on either side takes its partner with it, and if his whole team falls, you both start over. When one of his Pokémon falls, a fresh one joins for your next catch: nine in all, Mega Gallade included.
+Mega Weekend: until the end of Sunday 18 October (Berlin time), a winning Challenge run whose MVP is from a Mega line counts twice toward that line’s Mega Stone.
+SOUL LINK
+The level curve is now a flat step instead of a multiplier: every enemy is 1 level lower than usual, and 2 lower after the fifth gym. The old ×0.6 levels made it far too easy.
+A Pokémon caught into a full team is now linked properly. Before, it arrived unlinked and the link could never take it.
+Nincada no longer leaves a free Shedinja in a Soul Link run, since nothing may join your team outside a catch.
+If the link server does not support the mode you chose, the lobby now says so instead of starting the wrong campaign.
+ENDLESS
+Creative is now part of Endless Normal: a saved Creative run moves to your Normal slot with its team, items, run buffs and maps cleared (if you also had a Normal run, the game asks which one to keep), your earlier Endless bests count toward Endless Normal, and Perpetual Motion (map 100) and Truly Endless (map 250) are now earned there. Achievements you already have stay. Endless Hardcore’s personal best starts fresh.
+Late-game rewards now grow with the level curve. In Hardcore, Power Surge and Veteran Scout scale up the further you get (Power Surge gives +10 levels at map 5, about +29 at map 20 and +66 at map 50); in Normal, the Power Surge run buff rises to about +12 by map 50. Each card shows the real number.
+New passive, Endless only: Safety Goggles. Poison deals 50% less damage to your Pokémon.
+Settings → Auto-Skip → Endless Region Intro skips the animation at the start of each region, and the hover card now lists the stat boosts a Pokémon earned in the Underground.
+A lost fight is saved to the cloud right away, and Continue checks the cloud first: a run that was lost or finished on another device can no longer be continued, and a tab still playing it stops.
+NEW & IMPROVED
+Item Guide: every passive, held and usable item in one searchable list. Open it from “Items” in the menu, or with the I key.
+Evolutions can be stopped: press Stop (or B) while the silhouettes flash, and the game asks again at the next level-up, as in the main games. The button is hidden when Auto-Skip Evolutions is on.
+Trades never offer the line you are trading away, or any of the last three lines you traded away. In Challenge and the Battle Tower, a shiny you trade away now comes back shiny.
+The EV picker moves Pokémon that can’t take the chosen vitamin to the end, and hides lines that already have all 50 EVs (search still finds them).
+Mutation progress now shows on the hover card, and the Griseous Orb list shows it instead of HP. Trait tooltips also show what the next tier gives.
+17 Signature Items that shared a name with a regular item have their own names now, such as Dreamdust Wings (was Silver Powder), Pay Day Charm (Amulet Coin) and Hex Veil (Spell Tag). Their effects are unchanged.
+Yache Berry now only raises the attacking stat its holder actually uses (or Defense, Speed or Sp. Def), so a boost never lands on a stat it doesn’t use.
+SpireMon: Space now ends your turn, like E.
+FIXES
+Weather effects stuttered: their 30 fps limit actually ran at 20–30 fps with uneven frames, worst in Firefox and Safari. Weather now animates smoothly at your screen’s refresh rate (60 fps on most screens) and drops to an even 30 fps on devices that struggle. The weather tint also costs much less to draw.
+Enemy trait badges in battle described your team’s tier instead of theirs.
+Weeklies now open at midnight UTC for everyone, instead of at each player’s local midnight.
+During a run that turns Mega abilities off, the Mega Stones collection showed the wrong ability, or none, for many Megas. It now shows the real one, marked “Off in this run”.
+Tooltips near the edge of the screen are no longer cut off.
+The Ice trait description was wrong in German, Spanish, French, Italian and Portuguese. It now matches what the trait does.
+v3.4.1
+Endless followup: reach true infinity in normal mode, reach new heights in hardcore mode
+2026-10-03
+ENDLESS: NORMAL AND HARDCORE
+The Endless card now opens its own menu, with a new look to match SpireMon. There are two modes, and each keeps its own run, its own “Continue · map N” and “↻ New run” buttons, and its own personal best. Switching between them, or playing anything else in between, loses neither run.
+Normal: Endless 2.0’s balance is back, with its bosses, team compositions and level curve, so a strong enough team can climb forever. Every 5 maps there is an Elite Four and Champion, followed by a run-buff pick. You earn 100₽ per map, +20 for each Elite Four you have beaten (up to 200₽). Trade nodes, Underground portals and run buffs return, “?” nodes stop after the second Elite Four, and Mew still unlocks at map 25.
+Normal: bosses now carry the name of the story trainer whose sprite they use (Drake, Jasmine and the rest). Mutants show up on both sides: you can find them among catch options from map 26 and at Mutant nodes from map 11, and enemy aces start turning Mutant from the map-10 Champion on.
+Hardcore: the 3.4 Endless, now always on the full Challenge curve. The Creative choice is no longer offered; a run that already picked Creative keeps it.
+Hardcore: the Mutate stat reward is no longer capped at +50%. Anything past 50% is kept, and once a Pokémon is fully Mutant the reward becomes “Augment”, a stat boost that stacks without limit.
+YOUR RUNS FOLLOW YOU
+Endless Normal, Endless Hardcore and SpireMon Endless runs now sync across your devices. The newest copy wins, and a run that has ended can’t come back from an older device. A run picked up from another device waits under “Continue” on its mode, without touching whatever else you are playing.
+Endless runs (Endless Normal, Endless Hardcore and SpireMon Endless) play in one tab at a time: opening the same Endless run in a second tab asks “This run is open in another tab — continue here?”, and the old tab stops so it can’t overwrite your progress. Every other run never asks: open a second tab and start or check anything, like the Battle Tower while your story run is open, without overwriting the other tab’s run. Reloading never asks.
+NEW
+Misclick protection (Settings → Gameplay, off by default): the game asks before you release or trade away a team member, walk past a shiny or legendary, take a reward or passive card, teach a TM, or use a Griseous Orb, Rare Candy, Moon Stone or TM. Clicks, taps and hotkeys all go through it.
+SpireMon: “Open 10” and “Open all” open many booster packs at once, with one summary of your new cards, shinies and duplicates. Tokens refunded for duplicates keep buying packs until you run out.
+The Amulet Coin is now an item in every run mode: 3₽ for every battle won while you carry it, up to 150₽ per run.
+The Soul Link weekly is back with an eased level curve: wild Pokémon, trainers, Gym Leaders and the Elite Four are lower level, so linked pairs have a real shot. The Randomizer layer is no longer locked behind the Co-op layer.
+FIXES
+Perpetual Motion (5,000₽), Truly Endless (25,000₽) and Unbroken (15,000₽) now pay their reward. If you already unlocked them, claim it in the achievements screen.
+Soul Link runs no longer unlock story achievements.
+A finished Soul Link room no longer follows you into later runs. It could freeze Endless or the Battle Tower at the first gym, turn Home into “Quit Soul Link” and restart a Soul Link run over yours.
+Palkia’s Spacial Rend and Giratina’s Shadow Force no longer freeze the map when used mid-battle.
+A lost fight could be fought again by reloading the page or going Home before pressing “Continue...”. A lost fight now always ends the run; Roar of Time and Escape Rope rescues still work.
+A Griseous Orb can no longer be wasted on a Mutant that has no type left to reroll into.
+SpireMon: “rung” now reads “run”.
+v3.4
+Endless Rework
+2026-09-29
+CREATIVE OR CHALLENGE
+After your first Elite Four and Champion in Endless Mode, you choose how the run goes on. You choose once, and it holds for the rest of the run.
+Creative Mode: enemy levels stop speeding up. From map 10 on they climb by at most 12 levels a map, and enemy trainers’ extra trait levels stop growing. A strong enough team can keep pace forever, but most runs still fall somewhere. You get 75% of the rewards (the ₽ per map and the numbers on the Champion rewards), and Creative keeps its own personal best on the Endless card.
+Challenge Mode: the level curve keeps speeding up and you get full rewards. No team goes on forever here. Your mode shows next to your passive items.
+New achievements: Perpetual Motion (map 100 in Creative, 5,000₽), Truly Endless (map 250 in Creative, 25,000₽) and Unbroken (map 30 in Challenge, 15,000₽).
+✦ SIGNATURE ITEMS
+Every evolution line in the game now has its own Signature Item: all 366 of them, legendaries included. Thick Club for Cubone, Leek for Farfetch’d, Amulet Coin for Meowth, Light Ball for Pikachu, Soul Dew for Latias and Latios, the Orbs for Dialga, Palkia and Giratina, and hundreds more, each made for its Pokémon.
+A Signature Item powers up one Pokémon of its line. Depending on the Pokémon it can raise stats, add a chance to burn or paralyse, let it dodge or strike twice, survive a lethal hit, count as an extra type for traits, and more.
+They are very rare. Now and then, one of the three passive items after a boss is a Signature Item instead, and sometimes one turns up among the Champion rewards. They are only offered for a Pokémon in your party.
+You hold one at a time, outside your passive slots, and a new one replaces the old one. If its Pokémon leaves your party, the item stays with you but does nothing.
+NO MORE INFINITE RUNS
+Endless is meant to end. We hunted down every build that stayed just as strong however high enemy levels climbed, and fixed each one. Effects that dealt a share of the enemy’s max HP now fade when you are outlevelled, the same way attacks do. At equal level they work as before.
+Ice trait: shattering a frozen enemy no longer deals a share of its max HP. Instead, the hit that shatters it deals 10% more per trait tier. Freeze chance is capped at 60%, and a Pokémon that just thawed can’t be frozen again before its next turn. Icy Rock refreezes at half the chance.
+Poison stacks cap at 12. Poison and burn damage fades when whoever inflicted it is a lower level than its target.
+The Steel trait and Metal Coat reflect only the damage that actually landed, and at most half the defender’s max HP per hit.
+Pecha Berry, Leaf Stone, Spooky Plate, the Ghost trait’s heal and Mega Venusaur each heal at most 25% of the healer’s own max HP at once, and fade when outlevelled. So does Rocky Helmet’s damage.
+Lum Berry raises the stat-stage cap to +20 instead of removing it. Protector and Coba Berry give at most +100% damage, and Mega Blaziken’s banked Attack is capped at +100.
+A Pokémon that just lost a turn to flinching or sleep can’t be flinched on its next turn.
+Light Clay secretly capped every hit you took at 200 damage. That was a leftover bug, and it is gone: Light Clay now does only what it says.
+Gen 3–5 abilities in the weekly challenges: Ember Fever, Pilfer, Rough Skin and weather damage fade when outlevelled, reflecting abilities only reflect the damage that landed, and Living Wall works once per fight.
+Mega Banette’s Vengeful Spirit now works once per fight, and Chople Berry revives once per fight. A Fighting-type Mutant Banette revived by Chople Berry took down every enemy in turn, at any level.
+Bonuses for defeating an enemy (Chople Berry, HP Up, Kasib Berry and the rest) now go to the Pokémon that actually made the KO, instead of whichever Pokémon was in front.
+v3.3
+SpireMon Endless
+2026-09-25
+SPIREMON IS HERE TO STAY
+SpireMon leaves the weekly rotation and becomes a permanent mode with its own card on the Challenge screen. Everything you earned while it was the weekly carries over: your Intro and Challenge clears, Celebi, your collection, tokens and missions.
+SPIREMON ENDLESS IS OPEN
+The five maps loop forever, with four fresh gym leaders and the Champion every lap. Endless pays 200₽ a map, counts as cleared at map 10 (10,000₽ the first time, 2,500₽ after), and your best run is shown on the SpireMon card.
+Every lap is harder than the last. Enemies climb 2 more levels and then 3% more on top. Every second lap, each trainer and gym leader brings one more Pokémon (wild ones every fourth). From the fourth lap, every boss also fights under a second leader’s signature rule, and from the ninth lap under a third. Hover a boss on the map to see all of it.
+Sudden Death: an Endless fight has a clock. From turn 12 (one turn earlier every second lap, never before turn 7) the end of every turn takes 25% of each fielded Pokémon’s max HP, then 50%, 75% and 100%. It lands after all healing and goes through Sturdy and Focus Sash, so even a wall that nothing can kill has to win in time. A badge on the field counts it down.
+SUMMITS: A SPECIAL BOSS EVERY 50 MAPS
+Every 50th map of SpireMon Endless ends in a summit instead of the Champion, in rotation: Red on Mt. Silver (map 50), Mewtwo in Cerulean Cave (map 100) and the Legendary Birds (map 150), then Red again.
+Red: his Pikachu’s hits arc on to a second Pokémon, the blizzard takes a stage of Speed from each of your fielded Pokémon every turn, and his last two Pokémon rally once with full HP and +2 Attack.
+Mewtwo: six times its HP, and its Psystrike hits every one of your lanes. Every third turn its Barrier stops all damage, and clones of your own strongest cards fight beside it.
+The Legendary Birds fly in together with nearly four times their HP. Articuno’s hits cost Speed, Zapdos’ hits arc to every lane, Moltres burns your field, and when one falls the others heal and grow stronger.
+A summit pays 5,000₽ and 5 extra Booster Tokens, and its relic offer brings the relics that give you a special Pokémon.
+16 NEW RELICS
+Signature relics help everyone and one Pokémon line a lot: Light Ball (Electric +20%, Pikachu and Raichu double), Thick Club (Ground +20%, Cubone and Marowak double), Leek (+10% crit chance, Farfetch’d always crits), Metal Powder (less damage on the turn a Pokémon enters, Ditto takes half), Poké Flute (enemies sleep on turn 1, Snorlax wakes up stronger) and Moon Stone (a stat when played; Clefairy, Jigglypuff and both Nidoran enter fully evolved).
+Four relics bring a special Mythic Pokémon into your run, outside your eight slots: Helix Fossil (Lord Helix: every ally gains a stat each turn), Dome Fossil (Dome Kabutops: slashes every enemy), Old Amber (Ancient Aerodactyl: swoops on the healthiest enemy before every turn) and Silph Scope (the Ghost of Lavender Town: untouchable on the turn it appears, and frightens every enemy).
+Six more bend the rules: Amulet Coin (more ₽ and tokens per gym), Rare Candy (levels for your two weakest cards after every gym), Master Ball (a fourth catch card, always Epic or better), King’s Rock (your hits can make foes flinch), Metronome (damage grows the longer a Pokémon stays on the field) and Expert Belt (super-effective hits +30%).
+CARD BALANCE
+Several cards were rarely worth a slot, many of them Epics. They have been reworked or made cheaper, and one early-game standout was trimmed.
+Jynx costs 3 (was 4) and freezes the enemy in front when played. It still costs 1 less for every card you played that turn.
+Ditto costs 2 (was 3) and truly Transforms: for the fight it becomes the most expensive Pokémon next to it, with that Pokémon’s species, stats, type and ability.
+Hitmonlee summons any card from your deck beside it (it used to be Fighting-types only). Hitmonchan’s attack hits twice at full damage.
+Kangaskhan: at the end of each turn, all your other Pokémon on the field attack again, including the ones you played that turn.
+Electabuzz gains +1 Attack and +1 Sp. Atk per Mana spent (was 2 random stats). Bulbasaur gains +1 Attack and Sp. Atk per card drawn (was a random stat). Vulpix lowers every enemy’s Defense and Sp. Def by 1. Voltorb now attacks. Lickitung gains 40% more damage per attack (was 20%). Nidoran♀ gains 2 stats per 1-cost card (was 1). Meowth also draws a card.
+Cheaper: Nidoran♀, Nidoran♂, Pikachu, Abra, Grimer, Farfetch’d and Dratini now cost 1; Tangela, Exeggcute, Slowpoke and Lapras now cost 2.
+Caterpie gains 2 levels per summon (was 3).
+FIXES
+Switch-in effects that bring each other back (a summon that triggers a swap that triggers a summon) could loop forever and freeze the game. A chain now stops after five switch-ins, and the last card still takes its lane.
+A "?" node could put a regular shiny Pokémon straight into your SpireMon deck. It is a card offer now.
+Tapping a card to play it now places positional cards sensibly: Venonat, Tangela, Ditto, Seel and Scyther go next to your Pokémon, and summoners go where a lane beside them is free.
+After a gym, the Booster Token note now says how many tokens you have and what a pack costs, instead of "13 / 5".
+Dragging a card on a computer now moves the card itself, in full colour, instead of a grey shadow.
+WEEKLY CHALLENGE: ENDLESS CLASSIC
+The original Endless Challenge is back for a week: a never-ending World Tournament with normal teams for nine maps, then brutal hand-picked ones, and an Elite Four and Champion every ninth map. You can hold up to 8 passives, and after each Elite Four you pick a rest-of-run buff or a Pokémon augment. It pays 100₽ a map.
+Reach map 25 to beat the weekly: 10,000₽ the first time, 2,000₽ after, and it counts for your streak. The run keeps going for your personal best, and your old best from July is still on the card.
+The reward screen after an Elite Four, and the passive item offered after a boss, no longer say "Choose a Starting Item".
+v3.2.1
+Menu Side & SpireMon Fixes
+2026-09-19
+SETTINGS
+A new option under Display puts the menu icons (Pokédex, Achievements, Settings and the rest) on the left side of the screen instead of the right.
+SPIREMON
+On a phone the deck builder scrolls again. The collection was shut in a small box of two or three rows, and a swipe that started on a card did nothing, so only the first cards could be picked.
+A Level Up node (the Rare Candy) now evolves a card the moment it reaches its evolution level, instead of after the next won fight.
+Seel works with cards you play in the same turn. Its neighbours skipped the swing Seel gives them if they had only just come in, which made Seel do nothing most of the time.
+v3.2
+SpireMon
+2026-09-19
+NEW TEMPORARY CHALLENGE: SPIREMON
+SpireMon is a Gen 1 card game and this week’s Temporary Challenge. Your team is a deck of Pokémon cards built from a collection that stays with you between runs. Every line has one ability and keeps it as it evolves.
+Your first visit asks you to pick one of four prebuilt decks: Charmander (Multi-Attack) with Krabby, Sandshrew and Spearow; Squirtle (Control) with Rhyhorn, Ekans and Omanyte; Pikachu (Switch In) with Oddish, Grimer and Caterpie; or Bulbasaur (Draw) with Abra, Zubat and Farfetch’d. All sixteen of these cards are yours from the start.
+Until you beat Intro you play a prebuilt deck, and tapping your deck lets you switch to another one. After that you build your own deck from everything you own.
+Your deck is four cards. Catch nodes fill the other four slots during a run, and a card you catch stays with that run only.
+HOW A FIGHT WORKS
+A fight is three lanes a side. Each turn you get 3 Mana and draw back up to three cards, and most cards cost 1 to 3. Play a card into a lane: it attacks once as it enters, then its ability fires. At the end of every turn, everything on the field attacks in Speed order, fastest first, each at the enemy in its own lane.
+The enemy fields three Pokémon at a time and refills empty lanes, but an enemy never attacks the moment it comes in: its first swing is at the end of the turn. Hold a card over a lane to preview every hit it would land. Hover or tap a Pokémon to read its ability; abilities announce themselves when they fire.
+A Pokémon sent back into your deck keeps its levels, stat boosts and HP. A fainted card sits out until the next gym leader or a Pokémon Center.
+THE RUN
+A run is five maps: four of the eight Kanto gym leaders, drawn at random each run, then Gary as the Champion. Maps are shorter than usual, and the first layer always has a catch.
+Every leader fights under a signature rule, shown when you hover the boss. Brock caps every hit at 25% of max HP, Misty washes your weakest Pokémon back into your deck, Lt. Surge makes your first card each turn cost 1 more, Erika’s Pokémon gain 4 levels a turn, Koga drains your field 10% a turn, Sabrina shuffles a card out of your hand, Blaine lowers your defences with every hit, Giovanni sends in an unstoppable Mewtwo on turn 5, and Gary makes each card in a turn cost 1 more than the last.
+Every win levels your whole deck: +2 from a trainer, +1 from a wild Pokémon. Level Up nodes give one of three cards +4 levels, and enemies scale with your deck’s average level.
+After every gym leader you keep one of three relics for the rest of the run: Exp. Share, Leftovers, Focus Sash, Choice Band, Bright Powder, Poison Barb, Shell Bell, Quick Claw, Revival Herb, Life Orb, Lucky Egg or Assault Vest. Mega Stones are not used in this mode.
+THREE RUNGS
+Intro pays 2,000₽ the first time you clear it and 500₽ after. Beating it unlocks deck building.
+Challenge puts every enemy two levels higher. It pays 5,000₽ the first time and 1,000₽ after, and your first clear puts Celebi in your Hall of Fame PC for good, to start runs with. Celebi never comes from a Legendary Egg or Voucher.
+Endless opens on 27.09.2026. The five maps loop with new leaders and three more enemy levels every lap. It pays 200₽ a map, and reaching map 10 counts as a clear: 10,000₽ the first time, 2,500₽ after.
+A run that ends before the Champion pays 100₽ for every map you beat on Intro and 200₽ on Challenge. Clearing Intro and Challenge counts for your weekly streak; Endless is a bonus rung.
+COLLECTION, BOOSTERS & MISSIONS
+Boosters hold the other 63 cards: 22 Common, 21 Rare, 15 Epic and 5 Legendary. Five Booster Tokens open a pack of three. The first two cards are 80% Common, 13% Rare, 5% Epic and 2% Legendary; the third is always Rare or better (70% Rare, 20% Epic, 10% Legendary). A duplicate gives one token back and counts as a spare copy.
+You earn a token for every map you beat, 15 on your first visit (three packs), and more from missions: three daily missions, new every midnight, and fifteen all-time missions, each paying 5 to 25 tokens.
+To open a pack, hold it until it tears. The three cards fan out face down; tap each one to turn it over, or Reveal all. Rarer cards glow, and each card is stamped NEW! or +1 token. Each opening shows one of three Gen 1 packs: Charizard, Blastoise or Venusaur.
+Any card from a pack has a 1% chance to be shiny, and a shiny pull makes that line shiny in your collection for good. Cards from catch nodes can be shiny too, for that run.
+Your collection and tokens are saved with your account and count as progress when your devices sync, so packs opened on your phone show up on your PC.
+On a phone the map uses the whole screen, and your deck and relics open from the deck button. Tap a card for its stats and ability, and tap again to close them.
+BATTLE TOWER
+A trainer’s team now always matches the type shown when you hover it on the map. Past Kanto, a trainer class could find none of its Pokémon in the stage’s generation and fielded a random team instead, like a Hiker with Grass Pokémon. Where a class has no roster for a generation at all (Kalos), its team is picked by type from that generation. Only "Various Pokémon" trainers stay random.
+A trainer no longer brings the same Pokémon twice when its generation has enough Pokémon of the announced type. A short roster is filled out by type, reaching back a generation only when it has to.
+BUG FIXES
+The menu button works on every hub page. On the Monotype challenge page it did nothing, and the menu then opened by itself on the next page.
+v3.1.1
+Trades, Trainers & the Streak Shield
+2026-09-13
+EFFECTIVENESS POPUPS
+Every hit now says how well it landed, right over the target: Super effective!, Extremely effective! at four times, Not very effective… and No effect. In every mode, Catch the Spire included. The battle log tells a ×4 hit from a ×2 one as well.
+THE POKÉSORT STREAK SHIELD
+The shield is visible now. The Pokésort card shows it in hand, spent and covering yesterday (solve today!), or recharging with the number of solves left — and the result line after a solve says "back in N solves" instead of going quiet, which read as the shield being gone for good.
+The switch to the worldwide midnight reset could spend your shield, or end your streak, on a day you never missed: records from before it stored the day on your own clock, which sits a day off the reset for anyone west of Europe. The first solve after the switch now counts as a straight run.
+A loss recorded before the shield existed no longer spends it on a brand-new streak, and a fresh device that solves before its first cloud sync can no longer push a streak of 1 over the real one. Reopening a finished daily shows your past guesses and share grid again.
+BUG FIXES
+Trade nodes work more than once per run. After the first trade the offer cards silently ignored every click until the page was refreshed.
+Shinies are cosmetic. The Johto campaign quietly gave shinies +20% to every base stat, lost again the moment they evolved — which is why some shinies seemed stronger and others did not.
+The Sinnoh and Unova Ability Challenges used the Kanto trainer roster, so a Hiker or Firebreather there had no Sinnoh or Unova team to draw from and fielded random Pokémon — a Hiker with a Pansear, a Firebreather with a Shinx. Both weeklies now use their own region’s trainers and labels.
+Story trainers field their full rosters again. A filter added for Kanto Fusion was trimming every hand-picked team down to the region’s own Pokémon, which is not how those teams were built — a Sinnoh Skier was reduced to three Snover. The filter now applies only to gen-locked challenge runs.
+A few off-type trainer Pokémon are gone: Bidoof from Sinnoh Fishermen, Glameow from Galactic Grunts, Skorupi from Sinnoh Bug Catchers, Klink from Unova Scientists, Porygon from Kanto Scientists. Trainer labels say what the team actually is — a Kanto Hiker is Rock/Ground/Fighting, a Johto Gentleman is Normal/Fairy, a Johto Rocket Grunt is Poison/Dark.
+The Battle Tower starter counts are right again. Adding Chingling as Chimecho’s baby in July moved that line’s root, and the count read stored roots without re-checking them — a complete Sinnoh showed one short and a complete Hoenn one over. Shiny starter counts also include shinies registered before June, the way the PC already did.
+v3.1
+TM Overdrive & Account Recovery
+2026-09-12
+THIS WEEK: TM OVERDRIVE
+A World Tournament run where every Pokémon you get — starters, catches, legendaries, mystery gifts — knows only its weakest move. The plain tier-up TM never drops. The only way a move improves is a special TM.
+Move Tutors and every gym leader you beat offer 1 of 3 TMs, drawn only from the types on your team. A TM can be taught to one Pokémon of its type and replaces that Pokémon’s move for the rest of the run; its card shows the move, its power and what it does. Your starter opens the run with a Rare TM of one of its own types.
+Every type has three TMs. Common (50–80 power) are real moves done faithfully, and the weaker the hit the better the trick: Quick Attack always goes first, Frost Breath always crits, Fell Stinger gives +3 Attack on a KO, Brine doubles against a wounded target.
+Rare TMs (80–120 power) are real moves with a bonus of their own: Extreme Speed rallies your whole team’s Speed on its first hit, Dragon Pulse rallies their Attack, Earthquake and Heat Wave hit the whole enemy team, Foul Play swings with the target’s own Attack.
+Legendary TMs (120–200 power) are the signature moves of legendary Pokémon, each one a build to plan a team around: Geomancy charges a sweeper, Malignant Chain poisons the whole enemy team for Venoshock and Hex, Sheer Cold executes anything left under a quarter HP, Oblivion Wing heals your whole team, Diamond Storm attacks with Defense, Judgment grows with every type you carry, Secret Sword rallies the team on every KO.
+The odds follow the map: 90% Common / 10% Rare on map 1, Legendaries enter on map 4 and reach 30% on map 9. The offer screen shows the odds. Rare TMs are blue, Legendary TMs purple. Types you do not carry are never offered, so your team decides your options — and a Mutant’s third type counts.
+A Pokémon can learn as many TMs as you give it and always uses the newest one. Three difficulties — Medium, Hard and Impossible — share the same rules; only the enemy level curve climbs.
+PASSWORD RESET BY EMAIL
+Cloud accounts can now carry a recovery email. Forget your password and the login screen sends you a reset link that works for one hour — that is the only mail the game ever sends, and the only thing the address is used for. No confirmation mail, no newsletter.
+Add or change it from the account screen. Players with an existing account see a one-time prompt to add one; skipping it is fine and everything stays as it was. One account per email address.
+TRADES REWORKED
+Trade nodes in Story and Challenge runs are a real choice now. Pick the Pokémon you give up, then choose one of three face-down offers: each shows one of the incoming Pokémon’s types and its level, and nothing else. What you get is 3 levels above what you gave.
+The three offers are rolled once — leaving and coming back shows the same three. Challenge runs place trade nodes on their maps now too; Endless 2.0 keeps its own type-pick trade.
+N’S ZOROARK
+Ultimate Illusion reads your party for real. Zoroark takes the hidden ability of every living Pokémon whose hidden ability is actually awake — and wears all of them at once, on top of its own, for the whole fight. Every stolen ability also fires its own switch-in effect. Bring a team of basics and it gets nothing; bring six hidden abilities and the League finale answers with all six.
+BATTLE
+The Steel trait’s reflect no longer kills through your own healing. It always landed before your hit connected, but an attacker it dropped to 0 fainted on the spot even when that very strike would have healed it back. Big Root, a draining TM, the Grass trait and the Ghost trait’s heal now all get to save you first — and a reflect kill is announced once instead of twice.
+The Colbur Berry’s +10% crit chance is applied in battle. It was only ever counted inside the berry’s own dodge calculation, never in the crit roll or on the card.
+The Steel trait description says what the code does: 1% of blocked damage reflected per tier, not 5%.
+Every Pokémon card shows its crit chance as a stat row, so a crit build can be checked at a glance.
+QUALITY OF LIFE
+Evolutions have a Skip button, and Space or Enter skips too. Clicking the animation always did, but nothing said so — and Space used to fall through to the screen underneath mid-animation.
+Pokésort shows a countdown to the daily reset on its card, and each solved slot opens the Pokémon’s Pokédex entry.
+The Hall of Fame is reachable mid-run on mobile, from the floating map menu.
+The Pokédex is readable in both themes. Several greys sat well under contrast in light AND dark mode, the detail panel’s Generation and Colour values were near-invisible on the light panel, and the PC box was inheriting the dark-mode Pokédex colours.
+The Endless map is quiet again: the synthesised region-intro cues (the scanner swell, the marker locks, the champion thud) are gone.
+BUG FIXES
+Shedinja never appears as a wild enemy in Story mode again. The hand-placed Hoenn maps that let you catch it were also feeding it to the enemy roll — a 1 HP Wonder Guard opponent is a softlock lottery, not a fight. Catching it there still works.
+Lucky Sevens counts every ? node you open. It only ever counted a ? that turned into a catch or a shiny you then took, so five in six never counted and the achievement looked stuck.
+Endless 2.0’s “Register in the Hall of Fame PC” reward puts the Pokémon in the starter PC and the vitamin PC. The reward recorded it, but only in a list those screens never read — most visible with Gen 5 and 6 lines.
+Team Rocket grunts are Team Rocket again: the roster was named Team Galactic Grunt and the Galactic sprite pointed at the Rocket art.
+Trainer type badges come from the team you actually fight, so a Fire Breather who leads with Water no longer wears a Fire badge. Golduck left the Normal Champion pool and Sableye, Golett and Golurk left the Steel Guard.
+The shiny Great Ball badge marks a shiny evolution line in your PC, not “used as a starter and never caught”.
+Battle Tower stage select counts starters and shiny starters the way the PC does, so the numbers agree with what you can actually pick.
+v3.0.1
+Pokésort & the Daily Reset
+2026-09-05
+COLOUR IS BACK IN POKÉSORT
+The Colour clue has been restored. 3.0 replaced it with a Speed clue (fast / medium / slow); that swap is reverted, so a link once again asks whether two Pokémon share a body colour, and the daily puzzles are back to the set they were before.
+ONE DAILY RESET FOR EVERYONE
+Pokésort now resets at midnight Central European Time — the same instant everywhere on earth, instead of at each player's own local midnight. Everyone is on the same puzzle at the same moment, so a shared result can no longer spoil a puzzle for someone whose day had not turned over yet.
+The Daily Challenge changes type at that same moment, so both dailies roll over together and the countdown on each card is the real time left rather than a count to your own midnight.
+The switch keeps what you had earned: solve streaks carry across it, and a puzzle or daily you had already finished stays finished rather than paying its first-clear bonus a second time.
+A GRACE DAY FOR STREAKS
+Missing a day no longer ends a Pokésort streak. You hold one grace day, and the first missed day spends it and is covered — the streak picks up where it left off, though the missed day itself does not count towards the number.
+Earning it back takes seven solves in a row, so a long streak still means what it says. Miss a second day before then and the streak ends. Playing and losing counts the same as not playing: the grace day covers either, so opening the puzzle is never riskier than ignoring it.
+v3.0
+Story Mode Revamp & Pokémon Fusion
+2026-09-05
+STORY MODE REVAMP
+A big shout-out to @blooddealer, who did a lot of the work on this. The goal was to make Story Mode far less frustrating to play without making it trivial to beat — you should lose runs to decisions, not to a map handing you nothing you can use.
+Every campaign now places its encounters by hand. Johto, Hoenn and Sinnoh join Kanto in the system built last patch: nine maps sharing five pools IN PAIRS — 1&2, 3&4, 5&6, 7&8 — with the League on its own. Anything you need has two maps to find it on.
+The opening pair is base forms and nothing else, and it is wide on purpose: 28 in Johto, 29 in Sinnoh, 35 in Hoenn — the widest pool in the game, because Hoenn has the most to introduce. Babies open the run where they exist (Pichu, Cleffa and Igglybuff in Johto; Bonsly, Mime Jr., Happiny, Munchlax and Mantyke in Sinnoh) instead of turning up long after they are worth raising.
+Sinnoh follows one rule you can state in a line: an older Pokémon appears only when Sinnoh is what it grows into. Eevee, Togepi, Aipom, Gligar and Swinub are in the first pair because Leafeon, Togekiss, Ambipom, Gliscor and Mamoswine are the point of them.
+The late maps are the payoff. Map 9 is where the real threats live now — Tyranitar, Scizor, Steelix, Kingdra and Houndoom in Johto; Salamence, Metagross, Milotic and Flygon in Hoenn; Garchomp, Lucario, Weavile, Togekiss and Gliscor in Sinnoh. Pseudo-legendary lines start on maps 5-6 (Larvitar, Bagon, Beldum, Gible) so there is time to raise one.
+Things that evolve late stopped opening the run. Slowpoke, Exeggcute, Rhyhorn and Seel wait for the second pair rather than sitting on a Lv 1-5 map as a Pokémon you cannot use for thirty levels, and the middle stages moved to the middle.
+Johto trainers no longer open with a fully-evolved wall. Aerodactyl, Skarmory, Heracross, Miltank and Lapras have no pre-evolution, so the level filter that holds everything else back could not see them — a Bird Keeper on the first map could lead with a Lv 10 Skarmory. They now start from map 3.
+Marshal fields an Emboar instead of a Gurdurr, so the Unova Elite Four no longer runs a Pokémon alongside the thing it evolves into.
+The Pokédex "where to find it" reads the same table the game rolls from in every campaign, so it can never name a map that cannot offer the Pokémon.
+THIS WEEK: KANTO FUSION
+A Gen 1 World Tournament run where you carry the DNA Splicers from the first step. Fuse two of your party into one Pokémon: the HEAD gives HP, Sp. Atk, Sp. Def and the leading type, the BODY gives Attack, Defence, Speed and the second type.
+Order matters. The same pair fused the other way round is a different Pokémon with a different stat line and a different typing, so the fuse screen previews the result and lets you swap the halves before you commit.
+Gen 1 is the one generation where fusions have REAL art — all 151x151 of it, bundled with the game. Whatever you build has its own hand-made sprite.
+A fusion keeps the better EV training of its two halves and gains +20% to every stat. It is permanent, and it can never be fused again — two Pokémon go in, one comes out, and that party slot is spent.
+Fused Pokémon still evolve. Each half keeps walking its own evolution table, so Bulbasaur x Charmander becomes Ivysaur x Charmander and then Ivysaur x Charmeleon — a new fusion, with new art, every time.
+Every gym leader and Elite Four member answers with a fusion of their own in their ace slot, built around the Pokémon they always led with: Brock closes on Onix + Nidorina, Sabrina on Gyarados + Alakazam, Lance on Tentacruel + Dragonite, and Blue on Aerodactyl + Charizard.
+From map 5 onward any enemy can turn up already fused, drawn from a hand-picked pool — Parasect + Machop, Gyarados + Charizard, Seadra + Moltres and others.
+Everything is Kanto, on both sides of the field. Mega Evolution is off for the week: fusing already costs you a party slot, and a free Mega on top would simply outclass it.
+BUG FIXES
+Nothing evolves out of its generation in a gen-locked run any more. The path every mode actually levels through never checked the ceiling, so a Gen 1 week could still grow a Blissey, a Bellossom, a Slowking or a Sylveon. All three evolution paths now read one rule.
+Gym leaders give 2 levels in a Nuzlocke in every campaign. Gen 1, 3, 4 and 5 were quietly handing out 1.
+The Pokédex shows where to find a Pokémon in the Johto, Hoenn and Sinnoh campaigns. The entries were there; nothing was reading them.
+Legendaries list the maps they can actually be caught on instead of showing nothing.
+Hyper Cutter and Clear Body block stat drops from the Ground trait. Abilities were not live yet when the trait applied its drop on switch-in.
+Aftermath no longer credits the wrong Pokémon. Garbodor's damage against an ability copier could faint the attacker twice over, and Perish Song now announces itself before the wipe and names who cast it.
+The Electirizer applies its speed boost on a killing blow, not only when the target survives.
+Legendary signature moves keep their type at every upgrade tier, and a type-boosting held item no longer replaces the signature move outright.
+The Griseous Orb rerolls a Mutant's mutation type instead of leaving it on the old one.
+Shiny Squad needs three shinies again, as its description always said.
+Choosing to keep your team as-is after a legendary or mutant offer actually keeps it.
+You can reorder your party before a gym in the Gen 1 campaign, like every other campaign.
+Pokémon card backgrounds draw correctly at high trait tiers. A tier above 3 threw a RangeError out of the trait rows and aborted the card mid-draw — most visible on the trade and release screens.
+In a Gen 5 Nuzlocke, N offers one Pokémon rather than three.
+Gen 1 enemy trainers give a held item to their ace only, instead of to every Pokémon on the team.
+The fuse screen and the DNA Splicer explainer are readable in dark mode. Both were built on light panels while their text follows the theme, which left every Pokémon name white-on-white.
+v2.9.1
+Kanto Spawns & Fixes
+2026-08-31
+KANTO SPAWNS REBUILT
+Every Kanto encounter has been re-placed by hand by BloodDealer. Story mode used to work out what a map could offer from base stat totals, which is how Route 1 ended up handing out Rhyhorn and Lickitung while Pidgeotto and Raticate could turn up on a Lv 1-5 map.
+The nine maps now share five pools IN PAIRS — 1&2, 3&4, 5&6, 7&8 — with Victory Road on its own. Anything you need has two maps to find it on, so “it’s on Nugget Bridge” always means “and in Rock Tunnel”.
+Route 1 and Mt Moon are 32 base forms. Pikachu is one of them — Yellow’s starter belongs at the start, and the baby Pokémon that sets his evolution level isn’t part of this generation at all — alongside Clefairy, Machop for the first gym, and Oddish and Ponyta so an early Grass and Fire exist at all.
+Nugget Bridge and Rock Tunnel take what the games hold back: Diglett as the emergency answer to the third gym, Gastly and Cubone, both fossils, and the lines that evolve far too late to be worth a Route 1 slot — Rhyhorn, Slowpoke, Exeggcute, Seel.
+Silph Co and the Safari Zone are the mid-game: the Safari roster, all three eeveelutions together, the middle starter stages, Dratini, Lapras where the games gift it, and Snorlax where the Poké Flute is.
+Seafoam Island and Viridian City are the payoff — Muk and Weezing out of the Pokémon Mansion, Cloyster and Dewgong off the ice, the Electabuzz / Magmar / Jynx trio, and Porygon, held back because it costs 9,999 Game Corner coins. Victory Road is all four trade evolutions, all three fossil finals, Gyarados and Dragonite.
+A Gen 1 Nuzlocke no longer cuts the first map down to a separate 22-Pokémon list, and the Pokédex’s “where to find it” reads the same table the game rolls from, so it can never name a map that cannot offer it.
+BUG FIXES
+Sigilyph’s Magic Guard works on the matchups it exists for. Every move landing neutrally was supposed to include the ones the type chart calls immune, but an immune matchup swapped the move out for Struggle before the ability was ever consulted.
+The Achievements window has a Gen 5 tab. All 27 Unova achievements could be earned all along — the list simply had nowhere to show them outside the Unova story card.
+Tap an enemy Pokémon on the fight preview to read its card. It was hover-only, so on a phone there was no way to see what you were walking into, and a tap that did open the card had it closed again by that same tap.
+v2.9
+Unova Hidden Ability Challenge
+2026-08-28
+NEW WEEKLY CHALLENGE: UNOVA HIDDEN ABILITY CHALLENGE
+A Unova-only Battle Tower run — only Gen 5 Pokémon as starters, in catch nodes, legendaries and mystery encounters — and every Pokémon battles with its Ability.
+The Pokémon you find can turn up with their Hidden Ability already awake, at the same rate the Unova campaign uses.
+The enemy’s hidden abilities ARE the difficulty. On Medium, N’s Zoroark is the only one in the entire run. On Difficult, N adds Reshiram and every gym leader and Elite Four member runs its ace on one. On Impossible, so does every Pokémon they field.
+The bosses are the real Unova line-up: the eight gym leaders in order, then the Elite Four and N.
+From Difficult up, each of them brings a signature extra — Burgh a Volcarona, Elesa an Eelektross, Iris a Hydreigon, Marshal a Cobalion. N takes Zekrom as well as Reshiram.
+2,000₽ / 5,000₽ / 10,000₽ on a first clear.
+UNOVA
+Every map now has its own route art, and every trainer its own Unova sprite. Both were standing in with borrowed art from earlier regions.
+Encounters are hand-placed instead of picked by base stat total. Maps pair up — 1&2, 3&4, 5&6, 7&8 — so anything you need has two maps to find it on, and “it’s on 3” always means “and on 4”. The League has its own pool.
+The late game has far more to catch than it did: maps 7, 8 and 9 were down to eight species between repeats.
+N appears four times instead of five. Meeting him on map 1 and again on map 2 was too much of him before a run had started. Beating him now pays 3 levels, up from 2.
+N no longer fields Pokémon that should have evolved. Sandile, Darumaka, Joltik, Ferroseed, Klink, Boldore, Zweilous and Vanillish now arrive as the forms their level says they are.
+Ghetsis is out of the League. It runs Elite Four → N.
+Fire finally has a trainer of its own — the Baker, with Darmanitan, Simisear and Heatmor. School Kid, Cyclist and Youngster have left the Unova rotation; Normal and Electric were each covered three times over.
+Trainer hover labels now describe what they actually field. The Worker advertised Rock Pokémon and has never owned one.
+ABILITIES & BATTLE
+A freeze now ends. Permafrost and Frost Veil could freeze a Pokémon for the rest of the fight with no way out of it; the ice now shatters on its next turn for 40% of its max HP.
+Ducklett and Swanna’s Quickest Feet raises Speed on entry, as it always claimed to. Without that, it had no boosts to share and did nothing whatsoever.
+Tympole, Palpitoad and Seismitoad’s Toxic Croak poisons on every hit. Only the +30% against poisoned targets was ever built, and nothing was applying the poison.
+Water Absorb and Levitate are gone from Unova — both sit dead all run unless the foe happens to carry one particular type. Jellicent takes Rough Skin, Alomomola Cleansing Bell, Eelektross Static, and Hydreigon Strong Jaw.
+Any Pokémon running its Hidden Ability now carries a blue glow — on the catch screen, in your team bar and on the battlefield — the way a Mutant carries its purple one.
+PERFORMANCE
+The weather effects have been rebuilt. Rain, hail, sandstorm and harsh sun each draw in a single pass instead of one call per particle, allocate nothing while they run, and repaint at 30fps.
+Harsh sun was the worst of them: nine full-screen light beams, each building a fresh gradient every frame. It now draws three from one cached gradient.
+Measured on the perf rig, the cost of painting a frame of weather fell by 8–18× depending on the type.
+QUALITY OF LIFE
+Branching evolutions can be chosen from the keyboard — Eevee’s eight, the Wormadam cloaks, Tyrogue, Slowpoke. Number keys pick, arrows move, Enter and Space take the highlighted one.
+Pokésort’s “Beats” link spells out what it means: the LEFT Pokémon’s primary type deals super-effective damage to the RIGHT Pokémon.
+v2.8
+Catch the Spire
+2026-08-21
+NEW WEEKLY CHALLENGE: CATCH THE SPIRE
+Your Pokémon stop attacking on their own. Every fight puts both teams on one battlefield at once, and a hand of cards decides who swings and whose blow gets blocked.
+You start with ten cards — five that attack, five that cut an incoming hit in half — and every fight you win adds another. Trainers pay in commons, with the occasional rare; gym leaders pay in rares, and also offer to burn a card you have outgrown.
+Item nodes are gone: half of them become card nodes — take one of three cards, or burn one you are carrying — and the rest become extra trainer fights.
+Sixty-seven cards, every one of them a real Pokémon item, and all eighteen types have rare cards built around what that type does — Poison thickens its venom, Ghost pulls a card back out of the discard pile, Psychic buys Mana, Bug hands out levels, Dark swings a guaranteed critical.
+Which typed cards you are offered depends on how much of that type you actually field, and the more you commit to one the faster its odds climb. A shiny counts twice. The exact chances are shown above every offer, and on every Pokémon you are about to pick up.
+Enemies telegraph. Everything winding up shows what it will hit for and which of your Pokémon it has picked, and hovering a card previews the health bar it leaves behind on either side.
+The damage a card shows is the damage a card deals — no drifting numbers while you aim. Critical hits still happen; you just do not get to know before you commit.
+No type traits and no passive items in this mode. The deck is the whole build.
+Playable start to finish from the keyboard: number keys pick a card up, arrows aim it, Enter plays it, E ends the turn.
+One difficulty, and it is the hard one. 5,000₽ for a first clear, 2,000₽ every time after.
+BATTLE
+Casteliacone now doubles on-hit effects on every strike of a turn, not just the first. Poison Tier 2 with a Macho Brace and a Casteliacone applies 8 stacks, as the three of them promise — it was landing 6.
+Soothe Bell now doubles Misty Seed’s opening volley. "Start-of-fight effects trigger twice" had been skipping the one start-of-fight effect that attacks.
+A Griseous Orb handed to a fainted Pokémon no longer brings it back at 1 HP. Giving or taking any max-HP item mid-run leaves the fallen where they fell.
+POKÉDEX & EXTRAS
+Shedinja now appears in Nincada’s evolution chain in the Pokédex, where it previously showed no family at all.
+Sunkern evolves at level 20, down from 30.
+Pokésort now includes Gen 6.
+v2.7
+Mega Johto & Multi-Hit Effects
+2026-08-14
+NEW WEEKLY CHALLENGE: MEGA JOHTO
+A Gen 2 story run where your starter is one of three random Pokémon that can Mega Evolve — and it carries its Mega Stone from the very first step.
+The stone does nothing until that Pokémon reaches the form it Mega Evolves into, so Johto plays out exactly as it always does right up until the moment it does not.
+The Mega arrives WITHOUT its signature ability. A free Mega is already a head start; its signature power on top would decide fights on its own.
+Two ways to play. Solo pays 2,000₽. Soul Link — where a Pokémon lost on either side is lost on both — pays 5,000₽. Neither is locked behind the other.
+SOUL LINK
+The partner panel now shows a health bar for every Pokémon on both sides, updating after each of your partner's fights and catches.
+A session death counter — a number for each of you — so you can settle who has been holding whom back. It counts the whole session, not just the current run.
+Only the Pokémon YOU actually lose count against you. One that the link took from you because your partner's half fell is on their tally, not yours.
+Losing a run now counts. Every Pokémon lost since the last gym is added when your team wipes — previously the run you actually lost was the only one that cost you nothing.
+Resetting costs you one for every Pokémon still standing, charged only to whoever hit the button. Walking away from a healthy team of five costs five.
+Losing a Soul Link or Mega Johto run now pays a consolation reward for the maps you cleared, like every other weekly. They were the only challenges in the game that paid nothing at all for a loss.
+BATTLE
+Every on-hit effect now fires on EVERY hit of a multi-hit attack. Sticky Barb, Big Root, Body Plate, Yache Berry, Float Stone, Rocky Helmet and Life Orb previously only counted the first strike, so Mega Heracross's three hits paid out like one.
+Casteliacone finally does what it says. "On-hit effects trigger twice" reached exactly one effect before — now it doubles the whole set, and stacks with multi-hit.
+Mega Abomasnow: a Fire-type facing it now Struggles, like any other Pokémon with nothing that can land. It used to keep swinging its Fire attack for zero, round after round, which read as the enemy simply refusing to attack.
+Poltergeist hits for 110 (up from 90), and Aerial Ace for 75 (up from 60).
+Story mode: caught Pokémon now climb the full move ladder. Maps 1-2 give Tier 1, maps 3-7 Tier 2, and maps 8-9 Mastered — so a late catch is usable instead of arriving several tiers behind the team it joins.
+⌨️ QUALITY OF LIFE
+The number pad now works everywhere the number row does — catching, items, passives, swaps, map nodes and the equip screen all used to ignore it.
+Starter selection is now keyboard-driven: 1-9 pick a starter, and the boy/girl screen before it takes 1 and 2. Combined with the existing shortcuts, a whole run can be started without touching the mouse.
+Space now works on the "you received" screen after a trade. It was the one screen where the key did nothing.
+ITEMS
+Your bag now holds 10 items. Passives are not affected — they keep their own separate limit.
+Finding an item with a full bag opens a prompt to drop something or leave it behind, rather than silently refusing the pickup.
+Items coming BACK off a Pokémon — an unequip, a trade, a Nuzlocke faint — are never blocked by the cap. They were already yours, so refusing them would destroy them.
+BUG FIXES
+Augments no longer lose their HP bonus. Picking one raised your HP, and the next fight quietly put it back — the bonus was missing from almost every place the game recalculates max HP.
+HP Up and Rare Candy could revive a fainted Pokémon: raising its maximum HP handed it current HP too. They now raise the ceiling without bringing anything back.
+Wormadam evolutions gave the wrong Pokémon. Choosing the Sandy or Trash cloak named it correctly but kept the Plant form's types, sprite and stats, so a Trash cloak raised your Grass trait instead of Steel.
+A Mega Evolved Mutant no longer loses its mutation type. It survived on the badge and the stats, but stopped counting toward traits for as long as the Pokémon stayed Mega.
+Mega Stones no longer break the trait counter. Equipping one dropped the base form's type from the count and unequipping never put it back — walking into a battle "fixed" it.
+Trait tooltips showed the Tier 1 effect no matter how high the trait actually was.
+Pokémon hatched from shiny eggs now count toward the "every Pokémon of this region in the Hall of Fame" achievements. They showed in your PC but not in the achievement, so a complete set could never be completed.
+Duplicate SHINY legendaries from Legendary Eggs now pay 20 Comet Shards instead of 1. A duplicate normal legendary still pays 1.
+Zigzagoon and Bidoof no longer find items in Battle Tower and Challenge runs, where abilities are not active at all. It was also implemented twice over, so a Gen 3 Zigzagoon got two rolls per win, and could re-find an item you had already equipped.
+On phones, the "Missing" button in the Hall of Fame PC was pushed off-screen and could not be reached.
+Pokésort should no longer lose your daily streak when the game updates.
+v2.6
+Endless Reworked & Trick Room
+2026-08-07
+ENDLESS MODE — COMPLETE REWORK
+Endless has been rebuilt around regions. Each one is a short, five-map stretch that ends in an Elite Four gauntlet and a Champion, so a run is a series of self-contained chapters instead of one long corridor.
+Regions are faster. You reach the fights that matter sooner, and every region closes with a real climax rather than trailing off.
+A steeper level curve. Enemy levels now climb harder the deeper you go, so the late run stays dangerous instead of collapsing once your team comes online.
+Mutants: rare, warped Pokémon that count double for type traits and hit far above their level. Finding one changes what your run can build toward.
+NEW WEEKLY CHALLENGE: TRICK ROOM
+A Challenge Run with the Speed axis turned upside down — the SLOWER Pokémon always attacks first.
+Speed EVs are stripped for the whole run — so the Speed you trained in the past never turns into a handicap here. Nobody is punished for having invested in it. Your training is untouched everywhere else; only this run sets it aside.
+Three rungs, each fronted by a Psychic specialist: Trick Room (Sabrina), Hard (Will) and Impossible (Caitlin), with enemy levels climbing at each step.
+They pay 2,000₽, 5,000₽ and 10,000₽ for your first clear of the week, and 500₽, 1,000₽ and 2,000₽ after that.
+QUALITY OF LIFE
+New setting: Trait Animations. Turn it off to skip the particle effects and labels that play when traits and item effects fire — the single biggest speed-up available in trait-heavy fights.
+BUG FIXES
+Fixed an Elite Four exploit: reloading part-way through the gauntlet sent you back to the first member while keeping the levels you had gained from the ones already beaten, and handed back a free team re-order each time.
+Fixed ten trainer sprites that were serving a page of HTML instead of an image, so those trainers rendered blank.
+Fixed a large amount of wasted server traffic on the site, which had been causing intermittent errors when the daily limit was reached.
+v2.5
+Soul Link — Co-op Multiplayer & Mega Abilities
+2026-07-31
+MULTIPLAYER WEEKLY CHALLENGE: SOUL LINK
+Pokelike goes multiplayer. Soul Link is a co-op Gen 1 Nuzlocke for two trainers: create a link, send your partner the code, and you each set off into your own Kanto.
+Pokémon the two of you catch on the same map are bound together — when one falls, so does the other.
+You meet at every gym. Neither of you moves on until you have both cleared it, and the reveal shows exactly what the link cost you.
+If either team is wiped out, both runs end. Resetting or quitting does the same for both of you — that is the pact.
+A partner panel keeps their team, your links and their losses in view for the whole run, with its own mobile layout.
+Second layer — Soul Link Randomizer: every Pokémon either of you receives, starters included, is a random species from any of the six generations.
+Each layer pays 10,000₽ for your first clear of the week, 3,000₽ after that.
+MEGA POKÉMON ABILITIES
+All 28 Mega Stones now grant their Mega Evolution a signature ability — Pure Power, Hellfire, Perish Song, Vengeful Spirit, Skill Link and 23 more.
+Mega abilities are active in every run a Mega Stone can appear in — Battle Tower, Endless and Challenges — unlike the Gen 3/4 species abilities, which only work inside their own campaign.
+A Mega-Evolved Pokémon shows its signature ability on its card, and a Pokémon whose Mega Stone you own previews the ability it is about to gain.
+Hover (or tap) any stone in the Mega Stones collection to see the full Lv 100 card of its Mega form: stats, move and ability.
+New "Mega" filter in the Hall of Fame PC — show only the lines whose Mega Stone you own.
+Your team now stays Mega-Evolved on the map, not just inside battle.
+BUG FIXES
+Refreshing during a boss fight no longer reopens its preview — you resume straight into the battle, so a reload can no longer reorder your party or take back items after seeing how the fight started.
+Leaving a run from a boss preview and coming back no longer stacks a second copy of that fight, which could pay out the same map win more than once.
+Treasure Hunter is now earned by finishing a run having picked up 10 or more items, rather than the moment you pick up the tenth — an abandoned item run no longer unlocks it.
+Per-generation achievements are rebuilt from your Hall of Fame on load, so old wins keep their credit — including On a Roll and Hat Trick, which used to be tracked globally.
+Immortal Champion now asks for 20 wins in a generation instead of 100.
+The regional Hall of Fame achievements now count the evolution lines you can actually start a run with, so they can be completed.
+An achievement whose counter filled in quietly (from a cloud sync, for example) now offers its Claim button instead of sitting locked at full progress, and the progress bar is hidden once it is unlocked.
+Sinnoh Ability Challenge: its gym leaders and Elite Four fought with no traits at all, which made the weekly far easier than intended. They now field themed trait spreads that scale with the difficulty, plus a signature ace on Difficult and Impossible.
+Dialga, Palkia and Giratina no longer use their reset powers outside Gen 4 — including Dialga saving you from a defeat in modes where the trio has no abilities at all.
+Gen 1 Nuzlocke: your one catch per map joined about 8 levels below the gym at the end of that same map and could never close the gap. Catches now join at the map's midpoint.
+Stealth Goggles' crit bonus is capped at +100%, as its description says.
+Metronome no longer replaces a legendary's signature move with an ordinary move of the very same type, and a single-type holder now keeps the item's damage bonus instead of losing its effect entirely.
+Hover cards now always sit beside the Pokémon on desktop and stay on screen — a tall card no longer runs off the top or bottom.
+Every trainer and item icon is bundled with the game instead of loaded from an outside site, so they no longer fail to appear on networks that block it.
++ Plenty of smaller fixes.
+v2.4
+Gen 4 — Sinnoh Story Mode
+2026-07-24
+GEN 4 — SINNOH STORY MODE
+The Sinnoh region is here — a whole new Story campaign! Take on all eight gym leaders (Roark through Volkner), the Elite Four, and Champion Cynthia, in Classic or Nuzlocke.
+Every Pokémon battles with its Ability, just like the Hoenn campaign.
+Explore the Sinnoh Underground and the Distortion World.
+Unlock Sinnoh by beating the Story once in any region.
+NEW ACHIEVEMENT REWARDS
+All achievements linked to Story mode can now be redeemed for Pokédollars, so Story players can earn some Pokédollars too.
+EASIER MEGA POKÉMON
+Reduced the number of MVP wins needed to unlock certain Mega Pokémon.
+NEW WEEKLY CHALLENGE
+Sinnoh Ability Challenge — three difficulties, in the same spirit as the weekly challenge from the Gen 3 release.
+BUG FIXES
+Endless level rewards no longer reset high-level Pokémon down to Lv 999.
++ Tons of other fixes.
+v2.3.2
+Bug Fixes
+2026-07-20
+BUG FIXES
+Baby Cup: the last few trainers that still fielded fully-evolved Pokémon (Ace Trainer and Gentleman) are now babyfied like everyone else
+Baby Cup: the Comet Shard and the Star Piece no longer replace your team with fully-evolved Pokémon
+Baby Cup and the other no-evolution challenges no longer offer Mega Stones for evolutions the run can never reach
+The map list now numbers maps continuously (Map 1–9) instead of restarting at 1 every three maps
+Sinnoh Underground: the level rewards no longer reset a high-level Endless team down to Lv 999, which also cut its max HP
+Sinnoh Underground: on touch devices the team shown under each trainer node is now that trainer’s own team, not the map boss’s
+Space now skips the passive item screen, like every other choice screen — Enter picks the highlighted item, 1–5 pick directly
+v2.3.1
+Endless Mode 2.0 & Baby Cup
+2026-07-17
+NEW
+Endless Mode 2.0 — a new never-ending challenge on its own card. Your run is saved, so you can leave, play anything else, and come back exactly where you left off. Coin rewards climb the deeper you go — from 100 up to 200 per map — and reaching map 25 permanently unlocks Mew as a Hall of Fame starter
+Endless Mode 2.0 reshapes the map as you climb: after the first Elite Four, Catch nodes become Trade nodes and a rare Sinnoh Underground event starts appearing; after the second Elite Four, the ? mystery events stop. Legendary encounters can now turn up on any map of the run, arriving at your team’s average level
+New Endless rewards to choose after an Elite Four — Master Trader (Trade nodes hand back higher-level Pokémon for the rest of the run) and Shiny Windfall (a random shiny joins your team)
+New Weekly Challenge — Baby Cup: you can only ever get base-stage Pokémon that still have an evolution, and they can never evolve. Two difficulties — in Baby, every enemy team is "babyfied" to match; in Brutal, the enemies field full teams while you stay small
+BALANCE
+Stardust buffed — now a 15% chance for a Pokémon to gain a level after each combat (up from 10%)
+BUG FIXES
+Frozen Pokémon no longer thaw on their own — a freeze now holds until it’s shattered, so Chilan Berry, Never-Melt Ice and Icy Rock all pull their weight
+Chilan Berry now works properly — the freeze it inflicts actually appears (icon and animation) and sticks
+Fixed the Sinnoh Underground in Endless: each trainer choice now fights its own team instead of both being the map boss, it no longer skips the rest of the map or hands you a passive item, enemies scale to the map instead of being capped at Lv 100, and the team shown on hover is the team you actually fight
+CHANGES
+Trade nodes reworked: choose one of your Pokémon, pick one of its types, and receive a random Pokémon of that type at the same shiny status (shiny Pokémon received from a trade are not added to the Pokédex)
+The Pokédex now lists Battle Tower floors as “Map 1”–“Map 9” instead of the old R#M# codes
+v2.3
+Gen 6, Kalos, Mega Evolution & the Endless Challenge
+2026-07-10
+NEW
+Generation 6 is here — every Pokémon #650–721 is now catchable, added to the Pokédex (with a new Gen 6 tab), and appears across Battle Tower and Challenge Mode
+Kalos is the new 6th Battle Tower stage: climb Kanto → Johto → Hoenn → Sinnoh → Unova → Kalos, facing a full X/Y story cast and a finale of Diantha → Lysandre → the immortal AZ, wielding Mega Evolutions and the X/Y legendaries
+Mega Evolution! Clear the Kalos Battle Tower to earn the Mega Bracelet, then unlock 28 Mega Stones by being the MVP of winning Challenge runs. A Pokémon holding its stone Mega Evolves for the whole run — unequip the stone and it reverts. Track your collection from the new Mega Bracelet button in the nav bar
+New Weekly Challenge — the Endless Challenge: a never-ending World Tournament that keeps escalating. Collect passive items, pick a permanent buff or stat augment after every Elite Four, and push for your personal best
+The Kalos gym leaders and Elite Four have joined the Challenge Mode trainer pool
+Legendary Vouchers — a duplicate Legendary Egg now gives a Comet Shard instead of a refund; collect 10 and redeem them in the Poké Mart to hand-pick any legendary for your collection
+BATTLE TOWER
+Every Battle Tower boss team was rebuilt to use its own generation’s Pokémon, re-ordered around a more iconic ace
+Boss teams now preview before the fight, just like Challenge Mode
+New obtainable forms — all three Wormadam cloaks (with a branching evolution you choose) and Rotom’s appliance formes
+PERFORMANCE
+Pokémon sprites are now bundled with the game instead of loading from an outside server — faster, more reliable, and no more slow-loading sprites
+Ads no longer refresh in the middle of a battle, removing mid-fight stutters
+…plus tons of other small performance optimizations across the game
+BATTLE & GAMEPLAY
+Legendaries and shinies are picked up by clicking the Pokémon itself — or pressing Space — instead of a separate "add to team" button; a shiny can be taken or fled right from the encounter
+New shop item — a berry that resets a Pokémon’s EV training, free of charge
+Bug trait buffed — now a 15% chance per tier for a bonus level after each fight (up from 10%)
+Traits at Tier 3 and above now shine with an animated bar
+Hovering a Pokémon whose crit chance is boosted (Scope Lens, crit items, or a high Dark trait) now shows its current crit chance
+CLOUD SAVE
+Redesigned the login screen into clean Log In / Register tabs, with password confirmation when you create an account
+New “Force Upload to Cloud” option in your account — push this device’s progress to the cloud on demand
+FIXES & POLISH
+Fixed keyboard shortcuts not working in the equip-item and Move Tutor popups (and keys sometimes affecting the screen behind them)
+Fixed a crash when starting a run with a Pokémon holding a Mega Stone
+Per-Pokémon stat augments now correctly reflect on every stat when you hover a Pokémon, not just its HP
+The in-run legendary shiny-hunt odds now sync correctly across your devices
+Poison Barb now works — and shows its poison stacks — even without the Poison trait active
+Lucky Punch and other on-defeat effects now trigger on any KO, including poison, splash and execute finishes — not just direct hits
+Casteliacone now correctly doubles on-hit effects even when the attack lands a KO
+Gen 3 Ace Trainers on the first route no longer show up with Tropius or Absol
+Trainers no longer occasionally show their overworld sprite instead of their battle portrait
+Removed duplicate location entries from the Pokédex
+Rerolling a wild Pokémon no longer shifts the Skip / Flee buttons around
+Kalos now shows its starter-collection count on the stage-select screen
+A Pokémon’s starting Mega Stone is now shown on its Hall of Fame / PC card
+Added new achievements
+Re-added an optional FPS overlay for performance diagnostics (visit /fps)
+v2.2
+Nuzlocke Randomizer, Pokésort & Performance
+2026-07-03
+NEW
+New Weekly Challenge — Nuzlocke Randomizer: a permadeath run where every Pokémon (starter and catches, legendaries included) is a random species at a random evolution stage. Five difficulties, one per generation (Gen 1–5), each steeper and better-paying (₽2,000 → ₽10,000)
+New minigame — Pokésort: order your Pokémon team correctly while considering the conditions that link them. A fresh puzzle every day, with a solve streak that grows the reward. Jump straight to it at pokelike.xyz/pokesort
+PERFORMANCE
+Much faster startup and smoother gameplay across the board — the game loads quicker and runs lighter on every device
+FULL KEYBOARD CONTROLS
+Space is now the main confirm / continue key on every screen (Enter still works)
+Passive items and the Move Tutor can now be picked with the number keys, like the other choice screens
+Turn on “Show Keyboard Shortcuts” in Settings to see every shortcut on screen
+BATTLE & GAMEPLAY
+Sandstorm and Hail no longer deal damage the instant they’re set, or after the battle is already decided
+Roseli Berry now absorbs the foe’s lowered stats across ALL stats when a Fairy defeats them — not just Speed
+Chingling now evolves into Chimecho, and counts as the same starter line
+You now see how many Pokédollars you earned at the end of a run
+FIXES & POLISH
+The caught / starter ball badges are now consistent for shiny Pokémon on every screen
+Content is no longer hidden behind ads
+Wobbuffet will no longer cause runs to end when both Pokémon can’t attack
+Added new achievements
+…and tons of other bug fixes
+v2.1
+Hoenn, Daily & Weekly Challenges
+2026-06-26
+GEN 3 — HOENN
+Gen 3 (Hoenn) is now available for everyone — a full story region with its eight Gym Leaders, the Elite Four, and Champion Steven
+Every Pokémon battles with its Ability in Gen 3 — including partner abilities like Plusle & Minun, the three Regis, the Eon duo, and Lunatone & Solrock
+New Hoenn trainer classes (Aroma Lady, Ruin Maniac, Hex Maniac and more), redesigned Gym teams, and Team Magma & Team Aqua
+New Gen 3 achievements — Normal, Nuzlocke and Challenge sets, plus special-team runs (Groudon + Kyogre, all three Regis, and more)
+DAILY & WEEKLY CHALLENGES
+New Daily Challenge — a different Mono-Type run every day with a type-themed trainer; clear it for 2,000 Pokédollars (500 on a replay)
+New Weekly Challenge — the Hoenn Ability Challenge: three escalating difficulties (Norman → Wallace → Champion Steven) that unlock in order
+PERFORMANCE
+Major mobile performance work — much smoother battles and weather effects on phones
+BATTLE & ABILITIES
+Type-boosting held items (Charcoal, Mystic Water and friends) now let a Pokémon attack with that item’s type when it matches one of its own — rebalanced from +50% to +40%
+Ring Target now deals neutral damage to Pokémon that would otherwise be immune, instead of failing
+The Dark trait’s crit bonus now adds to your crit chance instead of overriding it
+The Dragon trait now triggers even when a Cell Battery follow-up attack lands the knockout
+Evolved Pokémon from outside Hoenn (Probopass, Magnezone and the like) now inherit their evolution line’s Ability
+Medicham and Meditite now attack physically, matching their Pure Power
+Several moves were renamed so the name matches whether the attack is physical or special
+Partner abilities reworked — Plusle & Minun, the three Regis, the Eon duo and Lunatone/Solrock now need their partner on the team and give bigger boosts
+Hail and Sandstorm now name the weather in the battle log when they chip a Pokémon’s HP
+FIXES & POLISH
+Rare Candy now recomputes HP and stats immediately instead of leaving them stale
+Legendary eggs gained a shiny pity counter — each non-shiny legendary nudges the next one’s shiny odds, resetting when one shines
+Shiny eggs now count as a duplicate only if you already own that Pokémon in your Hall of Fame, not merely from seeing it in the Pokédex
+Pokédex: a new Legendary filter, and Gen 3 locations and Abilities are now shown
+Quad Peak achievement now correctly requires four maxed stats on a single Pokémon
+Fixed the EV / vitamin selection pool drifting out of sync with the Hall of Fame PC
+A local progress backup now auto-restores if a cloud save ever comes back empty
+More reliable account sign-out, especially on mobile
+v2.0
+Languages, Poké Mart, Challenge Mode & more
+2026-06-16
+LANGUAGES
+The whole game is now playable in 6 languages — English, Spanish, German, Italian, Portuguese and French (pick yours in Settings)
+Pokémon names, items, moves, traits, achievements and every menu are translated
+Pokédex search now works in any language — type a localized name or a type to find a Pokémon
+TITLE SCREEN & STORY
+Redesigned title screen — Story and Battle Tower are now mode cards with descriptions; Resume Story and Resume Tower appear when you have a saved run
+Story region picker — choose Classic or Nuzlocke, then pick Kanto or Johto; each region card shows your run count, achievement progress, catches, and shiny totals
+Battle Tower entry shows per-stage clear counts; locked stages stay visible with a lock until you beat the previous one
+POKÉ MART & POKÉDOLLARS
+New Pokédollar currency and a redesigned Poké Mart
+Egg shop: Shiny Egg (2,000) and Legendary Egg (10,000) — legendaries are obtained only from eggs, with a partial refund on duplicates
+Vitamins train permanent EVs on your Hall of Fame Pokémon (200 each)
+EVs now come only from vitamins — the free stat-buff handouts have been removed
+RUN REWARDS
+Story clears now pay Pokédollars: Gen 1 = 200, Gen 2 = 350 (Classic), +100 for Nuzlocke
+Battle Tower stage clears pay 200 / 350 / 500 / 650 / 800 for stages 1–5
+Challenge clears pay a flat 1,000
+Lose a Battle Tower or Challenge run and you still earn 10% of the full clear reward for every map you beat
+CHALLENGE MODE
+A full new mode — building on the trait system, solidify and push your strategies further with new passive items
+End-of-run recap with your run's stats, an MVP, and a score
+New Shiny Hunter starting item to farm shinies far more efficiently in the late game — unlocked by completing the full Pokédex across all five generations
+Weekly Challenge with a different rule set each week — starts next week
+SAVE SYSTEM
+The save system has been reworked to be far more stable — your progress and active runs sync reliably across devices
+HALL OF FAME
+Legendaries are kept on your run's Hall of Fame team, but never join the Battle Tower PC (egg-hatched legendaries are the exception and can be picked as starters)
+No more duplicate or missing entries — each run is recorded exactly once and can't be resumed after it has been saved to the Hall of Fame
+Redesigned Hall of Fame PC with sorting and filters (Stars, Last Used, Shiny, Missing, per-generation, Legendary)
+On the Battle Tower starter screen the Hall of Fame PC gains name/type search, with the upcoming-region panel moved below it for a clearer layout
+POKÉDEX
+Per-generation filters, a Shiny Dex tab, a Missing toggle, and progress bars
+Your filter settings (generation + Missing) are now remembered between visits
+AUDIO
+Background music returns — 32 tracks with a volume slider, and it pauses when you switch tabs (music by Beacori)
+INTERFACE & MOBILE
+Battle screen keeps the title but drops the subtitle; owned passive items now line up in a vertical strip to the left of the fight
+Map HUD redesign — team | items | map | traits, drag-and-drop items, and the League screen reworked into a Map view
+Floating quick-nav is now a vertical icon strip, with a new Fullscreen button
+New Gen 6 type chart with the Fairy type (previously Fairy was ×1 against everything)
+New app menu — collapsible desktop sidebar, mobile bottom bar; the run menu shows context-right buttons (Reset only mid-run; Pokédex, Achievements, Hall of Fame and Settings always one tap away)
+Cloud login moved into the run menu (Login / Signup) with clearer online / offline states; modals restyled with colored headers
+Install to your home screen (PWA) — opens full-screen with its own icon like a native app; faster asset loading; richer link previews when shared
+Mobile polish — crisp map sprites, more reliable node taps (tap to enter, hold for the tooltip), bigger modal close buttons, and a confirm before resetting a run in progress
+BUG FIXES
+Tons of bug fixes
+CREDITS
+Base UI redesign by haplifeman, with additional design work by Capitano
+v1.6
+Achievements, Sync & Tower Patch
+2026-05-20
+CLOUD SYNC
+Multi-device sync rewrite — every save now pulls from the cloud, merges, then pushes, so progress made on a second device can no longer be overwritten by a stale snapshot from another device
+Tab focus triggers a fresh pull — switch back to the game after playing elsewhere and your progress is up to date immediately, no reload required
+Concurrent sync calls collapse to a single round-trip; the in-progress run is never touched by a sync
+NEW ACHIEVEMENTS
+23 new achievements grouped into Gen 1 Nuzlocke, Gen 1 Challenges, Gen 2 Normal, Gen 2 Nuzlocke, and Gen 2 Challenges
+Per-starter Gen 2 wins (Chikorita / Cyndaquil / Totodile) and Nuzlocke variants for every starter in both gens
+Challenge achievements: Type Master (mono-type team), Shiny Squad, Purist (all single-stage Pokémon), Johto Ironman (no Pokémon Center), Lone Survivor (never defeat Silver), Time Traveler (beat the Gen 2 Elite Four with no Gen 2 Pokémon)
+Achievement icons now use PokeAPI item sprites instead of emoji — every achievement gets a thematic item; element-named starter achievements show their matching evolution stone (Leaf / Fire / Water)
+BATTLE TOWER
+Mawile, Sableye, Chatot and Carnivine are obtainable again — they were stuck in a bucket the Tower's level curve mostly skipped at the stage where their generation unlocks
+Tower encounter pools now widen into the neighbouring level band on every tier, eliminating dead zones and making evolved forms like Probopass, Floatzel, and Skuntank directly catchable at appropriate levels
+Reroll pool now also excludes evolution lines already on your team, not just the three currently-displayed slots
+CHANGES
+Map screen mode indicator — the START node tints subtly blue for Normal runs and red for Nuzlocke, replacing the old text chip in the right HUD
+Gym badge sprites are now hosted locally with their light-gray outer ring cleaned up, fixing the faint halo on dark backgrounds in the achievements modal and the map HUD
+minLevelForSpecies accounts for branching evolutions — Eeveelutions, Politoed, Slowking, Gallade and friends no longer spawn raw below their evolution level
+BUG FIXES
+Escape Rope no longer appears in item drops during Nuzlocke runs, and a leftover rope cannot be used to undo a Nuzlocke loss
+A Pokémon that fainted during a winning Nuzlocke battle no longer plays its evolution animation on the way out
+Pressing R to restart from a non-map screen (battle, catch, item, modals…) now cleanly tears down the active screen before re-initialising; previously could leave the game in a broken state
+v1.5.2
+Nuzlocke & Balance Patch
+2026-05-16
+NUZLOCKE
+Rival (Silver) battles are no longer permanent-death — win the fight and any Pokémon that fainted are kept and fully healed afterward, just like in Normal mode
+Hovering the Rival node in Nuzlocke now shows a "No Perma-Death" note, and the Nuzlocke mode button has a tooltip explaining the rule
+BALANCE
+Flying trait dodge chance reduced: 15% / 30% / 50% → 10% / 15% / 20%
+Gen 2 Elite Four (Will, Koga, Bruno, Karen, Lance) levels lowered by 1 across every team member
+CHANGES
+Pokédex: a Pokémon's card tooltip and detail view now list the exact Battle Tower floors it can be found on, using R#M# notation (e.g. R1M2 = Region 1, Map 2), replacing the vague Early/Middle/Late labels
+BUG FIXES
+Gen 2 map: Lance now uses the bundled local sprite instead of loading an external Showdown image
+Elite Four prep screen: equipping or swapping an item now refreshes the display immediately, instead of only updating after you reorder your team
+Gen 2 Schoolboy trainer node tooltip now reads "Baby Pokemon" instead of "Normal Pokemon" to match his actual roster
+Mr. Mime is obtainable again — it was stuck in a catch-pool tier whose maps never reach its minimum level (18), so it could never spawn; moved to the correct tier (Nugget Bridge / Rock Tunnel)
+v1.5.1
+Quality of Life Patch
+2026-05-15
+CHANGES
+Battle Tower: Pokémon you've previously levelled can now appear in catch nodes regardless of the stage's generation cap, at the same per-slot rate they had in v1.4.5 (before gen anchoring)
+R key now resets the current run from any screen
+Resetting by accident is recoverable — refresh the page and the run you reset is restored
+v1.5
+Gen 2: Johto Mode
+2026-05-15
+NEW MODE — GEN 2 (JOHTO)
+Title screen now has a Gen I / Gen II toggle — pick your region before starting a run. The choice persists across reloads.
+9-map Johto run with Falkner, Bugsy, Whitney, Morty, Chuck, Jasmine, Pryce and Clair as gym leaders, and the Johto Elite Four (Will / Koga / Bruno / Karen / Lance)
+Silver rival: 4 canonical encounters during the run. He always picks the starter that counters yours and rewards Double XP
+HGSS-accurate gym teams and trainer rosters throughout
+Per-route map backgrounds (routes 1–9) plus new trainer sprites and themed encounter pools (Firebreather, Bird Keeper, Super Nerd, Bug Catcher, Hiker, Fisherman, Biker, Old Man, and more)
+NEW ITEMS
+Loaded Dice (Gen 2 only) — at the start of each battle, 37% chance for +2 to ATK / DEF / Sp.Atk / Sp.Def / Speed, otherwise −1. The roll is announced in the battle log.
+Adrenaline Orb — when YOU land a super-effective hit (×2+), +1 ATK / +1 Sp.Atk for the rest of the battle
+Red Card — take 50% less damage from super-effective hits
+Quick Claw — chance to strike first regardless of Speed
+Lagging Tail — always moves last, +100% move damage
+King's Rock, Steel / Dark / Fairy type-boost items, TM, and Escape Rope
+CHANGES
+Player level is now capped at 100 in all modes except Battle Tower
+Reset run no longer shows a confirmation popup — restarts immediately
+Battle Tower encounters are now anchored to the gen they came from
+Stat-buff math correctly handles negative stages (matters for Loaded Dice and similar items)
+Gen 2 trainer class names updated to canon (Burglar → Firebreather, Bird Catcher → Bird Keeper, Super Nerd uses the proper Showdown sprite)
+Static Pokédex bundled with the client — catch screens no longer need a PokeAPI round-trip
+BUG FIXES
+22-bug issue sweep across battle, map, and UI
+Reverse-evolution through branching chains (Eevee, Tyrogue, Burmy, etc.) now resolves the correct prevo for level checks
+Gen 2 Elite Four levels rebalanced and Lance now fields three Dragonites as in canon
+Tyrogue evolution table no longer has a redundant entry
+v1.4.5
+Bug Fix Patch
+2026-05-03
+NEW
+Long battles now auto-speed up to 5× after 30 seconds
+OVERTIME: if a battle reaches 100 rounds (≈ 2 minutes), all attacks deal 3× damage and a banner is shown — no more infinite stall fights
+BUG FIXES
+Bug trait now correctly triggers evolution after levelling up Pokémon mid-run
+Pokédex completion achievement now requires catching legendary Pokémon as well — they were previously excluded from the check
+Shiny dex count (for shiny achievements) now includes legendary shinies
+Battle Tower blank screen after a specific reload sequence (pick → swap prompt → reload → new run → reload → continue) is fixed
+Shiny node now correctly shows the Great Ball badge if the Pokémon's evo line was on any previous team, not just explicitly chosen starters
+EV upgrades are now visible on catch and shiny screens before catching
+Magneton now correctly evolves into Magnezone at level 40
+Burmy now correctly appears in the Hall of Fame PC instead of Mothim or Wormadam
+EV buffs stored under Mothim, Wormadam, Ambipom, Vespiquen, or Roselia are now migrated to the correct prevolution root (Burmy, Aipom, Combee, Budew)
+Stat labels in Pokémon cards are now left-aligned
+Bulbasaur, Charmander, and Squirtle no longer appear as wild encounters in regular and Nuzlocke mode
+v1.4.4
+Bug Fix Patch
+2026-04-30
+BUG FIXES
+Catching a shiny from the dedicated shiny node now correctly marks the Pokémon in both the regular Pokédex and the Shiny Dex — previously, taking a shiny with a full team skipped the regular Pokédex entry
+Great Ball badge now correctly appears on the shiny node screen for Pokémon whose evo line matches a used starter
+Great Ball badge on catch nodes now checks used starters instead of Hall of Fame entries when the encounter is shiny
+Gen 1 legendary Pokémon (Articuno, Zapdos, Moltres, Mewtwo, Mew) now show correct locations in the Pokédex detail view instead of "Not found"
+Pokédex location data now uses the actual encounter bucket data for all Pokémon, not raw BST thresholds — locations shown are accurate to what the game actually spawns
+Battle Tower location labels in the Pokédex are now shown as approximate ranges (Early, Early-Middle, Middle, Middle-Late, Late) instead of specific floor numbers that could be misleading
+Shiny Dex completion achievement now requires catching all 5 Gen 1 legendary shinies — they were previously excluded from the check
+Pansage, Pansear, and Panpour now correctly evolve into Simisage, Simisear, and Simipour
+NEW
+Privacy Policy page added (linked from the title screen)
+v1.4.3
+Pokédex Update
+2026-04-30
+NEW FEATURES
+Pokédex detail view — click any Pokémon in the Pokédex (caught or not) to see its sprite, types, Pokédex flavor text, full evolution chain with levels, and where to find it in regular mode and Battle Tower
+Shiny toggle in the detail view — press ★ to preview the shiny sprite
+BUG FIXES
+Rerolled Pokémon in catch nodes can now be shiny
+Catch nodes in Battle Tower now always show 3 options — when the team-duplicate filter reduced the pool below 3, the game now pulls from a lower-tier pool to fill the remaining slots
+Starting a new run no longer shows a stale "Continue Battle Tower" button when a previous Battle Tower save existed
+v1.4.2
+Quality of Life Patch
+2026-04-28
+NEW FEATURES
+Share button on the win screen and Battle Tower stage clear screen — share your team to X/Twitter or via native share sheet
+Catch screen now shows a Great Ball badge on Pokémon whose evo line is already in your Hall of Fame PC, replacing the Poké Ball badge when applicable
+Professor Challenges: Battle Tower starter achievements renamed after each region's professor (Oak's, Elm's, Birch's, Rowan's, Juniper's Challenge) and now unlock by beating a stage with any one of the three regional starters
+CHANGES
+Eevee and all its evolutions now evolve at level 20
+Stat labels updated: Speed → SPD, Special Attack → SP.A, Special Defense → SP.D
+Shiny Poké Ball badge in the catch screen now only appears when you own the shiny form specifically
+BUG FIXES
+Shiny Pokémon no longer lose their shiny status after evolving
+v1.4.1
+Bug Fix Patch
+2026-04-28
+BUG FIXES
+Catch nodes now show the same Pokémon after a page refresh — choices are saved when the node is first entered and restored on reload
+Ghost trait now correctly triggers on damage from all sources, not just direct attacks
+Shiny filter in the Hall of Fame PC now works correctly
+v1.4.0
+Battle Tower Update
+2026-04-25
+BATTLE TOWER
+New endless mode — the Battle Tower challenges you with 5 stages across all regions
+Each stage unlocks after clearing the previous one and is named after its region: Kanto, Johto, Hoenn, Sinnoh, Unova
+Each stage has 3 regions, each with 3 battles ending in a named boss trainer
+Stage select shows region artwork as button backgrounds
+Requires at least one Hall of Fame entry to unlock
+Stage progress is now derived from your Hall of Fame history — cannot be spoofed by local storage
+STAGE 5: UNOVA
+New stage featuring Gen 1–5 Pokémon
+Boss trainers: N, Ghetsis, Iris, and Benga
+Ghetsis brings a Dragon-only team with Dragon trait at T10
+Iris and Benga have unique hand-crafted teams with no duplicates
+Dragon trait extended to Tier 10
+TRAIT SYSTEM
+Collect type traits by fielding Pokémon of matching types — traits level up as you progress
+Each trait tier unlocks a passive effect that applies in every battle
+Trait progress panel shown on the map screen and as a preview under each catch choice
+Bug trait: your Pokémon gain a level after every battle — shown with a level-up banner
+Dark trait: enemies have a chance to hurt themselves in confusion each turn
+Stat buffs persist across evolutions and are shared by the full evo line
+Stat stage cap set at ±10 stages; +10 = 4× multiplier
+Boss trainers have their own trait loadouts that appear in battle
+Trait type badges show your current progress on hover
+METAPROGRESSION
+Stat buffs persist between runs — each buff adds +10% to a stat permanently for that Pokémon's evo line
+After clearing a stage you allocate buff points across HP, ATK, DEF, SPD, SP.ATK, and SP.DEF
+Each stat can be buffed up to 10 points (+100%); total points available scales with stage number (up to 50)
+Buffs are shared across the full evolution line — buff Charmander, Charizard gets it too
+Stars on the starter select screen show how many stats have been buffed on each Pokémon
+NEW ACHIEVEMENTS
+Kanto Champion — clear Stage 1 (defeat Ash)
+Johto Champion — clear Stage 2 (defeat Lance)
+Hoenn Champion — clear Stage 3 (defeat Steven Stone)
+Sinnoh Champion — clear Stage 4 (defeat Cynthia)
+Unova Champion — clear Stage 5 (defeat N)
+Kanto Trio — win a Stage 1 run starting with each of the three Kanto starters
+Johto Trio — win a Stage 2 run starting with each of the three Johto starters
+Hoenn Trio — win a Stage 3 run starting with each of the three Hoenn starters
+Sinnoh Trio — win a Stage 4 run starting with each of the three Sinnoh starters
+Unova Trio — win a Stage 5 run starting with each of the three Unova starters
+First Peak — max out 1 stat on a single Pokémon
+Double Peak — max out 2 stats on a single Pokémon
+Triple Peak — max out 3 stats
+Quad Peak — max out 4 stats
+Perfect Specimen — max out all 6 stats on a single Pokémon
+HALL OF FAME
+Battle Tower wins are now labelled "Battle Tower: Kanto" etc. instead of "Endless Mode"
+HoF PC shows unique base Pokémon count out of all catchable species
+MOBILE IMPROVEMENTS
+Map screen now uses the correct viewport height on iOS Safari — no more content cut off by the address bar
+Team cards on the map screen are more compact (smaller sprites, less padding)
+Item bar shows icons only in a horizontal strip — no text labels
+Catch and item screens always show all 3 choices in a single row
+TEAM label removed from the map screen panel
+DESKTOP IMPROVEMENTS
+Map screen panels scale up with viewport width — larger screens show proportionally bigger UI
+BUG FIXES
+Catch node could show only 2 choices when evo-line deduplication was too aggressive — fixed by fetching a larger candidate pool
+Saving and reloading mid-run in the Battle Tower no longer lets you revisit past nodes and make different choices
+Steel trait now correctly reduces damage before applying it instead of healing it back afterward
+Pokémon forced to use Struggle now show a Struggle! popup on their sprite
+Air Balloon and Sneasel evolution edge cases fixed
+v1.3.1
+Cloud Saves & QoL Update
+2026-04-18
+CLOUD SAVES
+Sign in with Google to sync your save across devices — button on the title screen
+Progress is automatically pushed to the cloud after each run and on wins
+On a new device, cloud save loads automatically if it is newer than local
+RUN PERSISTENCE
+Your run is now saved to local storage — closing the tab mid-run no longer loses progress
+Continue Run button appears on the title screen when a saved run exists
+Reloading during a fight brings you back to the same fight with the same encounter
+SEEDED RANDOMNESS
+Each run now has a seed — encounters, map layout, and battle outcomes are fully deterministic
+Reloading during a fight produces identical crits, damage rolls, and Pokémon choices
+MAP & MOBILE
+Visited nodes are now greyed out — your last visited node shows a ✓
+Edges you have already travelled are visually darker than available paths
+Long press a node on mobile to see what it is before committing
+Node tooltips now correctly disappear when entering a battle on mobile
+Hovering over Pokémon or nodes no longer triggers accidentally after a screen transition
+Team bar on mobile now uses a 3-column grid layout
+Team panel takes 2/3 width, item panel takes 1/3 on mobile
+Map header no longer shows the map name — badges display in a single row
+Random Pokémon Center nodes removed — only the guaranteed one remains
+POKÉMON REORDERING
+Team drag and drop now uses pointer events — feels smooth and precise on both desktop and mobile
+BUG FIXES
+You can no longer encounter a legendary already on your team
+Starters now correctly benefit from the Shiny Charm
+Traded Pokémon can now be shiny
+Lucky Egg description corrected — it boosts XP after every battle, not just wild ones
+Discord link is now readable regardless of background color
+v1.3
+Visual Rework & Achievements Update
+2026-04-17
+VISUAL REWORK
+New retro GBA-style light panel aesthetic across all cards, HUD boxes, and modals
+Pixel-art hard shadows on cards, HP bars, battle divs, and buttons
+Battle Pokémon cells are taller with bigger sprites and a larger base platform
+All primary buttons redesigned to match the retro panel style
+Normal Mode button highlighted in blue, Nuzlocke in red
+Removed redundant "Defeated [Leader]" line from the badge screen
+Battle background now fills the full cell on mobile
+Gender selection is saved — you only need to pick once across all runs
+Settings button is now accessible from the main menu
+DARK MODE
+Dark mode toggle added to Settings — switches to a warm dark palette and a separate background
+Preference is saved and restored across sessions
+All panels, modals, buttons, Pokédex, and achievements support dark mode
+ATTACK ANIMATIONS
+Fire: overhauled to a glowing fireball traveling to the target with an ember trail and impact explosion
+Fighting: red impact orb now travels from attacker to target before the burst
+Steel: silver metallic orb travels to the target before sparks fly on impact
+Hit flash brightness reduced across all types — less obnoxious on bright panels
+NEW ACHIEVEMENTS
+Bird Keeper — beat the game with all 3 legendary birds on your team
+No Rest for the Wicked — beat the game without using a Pokémon Center
+Minimalist — beat the game without picking up any items
+Type Supremacy — beat the game with 4 of 6 Pokémon sharing a type
+Shiny Squad — beat the game with a full team of shiny Pokémon
+On a Roll — beat the game two runs in a row
+BUG FIXES
+Pokémon no longer skip evolution entirely when "Skip Evolutions" is on — only the animation is skipped
+Pokémon obtained by trading are now correctly registered in the Pokédex
+v1.2
+Combat & Maps Update
+2026-04-02
+COMBAT PACING
+Skipping battle animations now speeds them up instead of jumping straight to the end
+Skip button greys out after pressing instead of disappearing
+Auto-skip setting hides the skip button entirely — no more greyed-out clutter
+Continue button is now available as soon as the level-up animation starts — click to fast-forward and auto-proceed
+All Pokémon level up simultaneously instead of one at a time
+DIFFICULTY
+Gym leaders Lt. Surge, Erika, and Koga now give their Pokémon held items
+Lt. Surge: Pikachu → Eviolite, Voltorb → Magnet, Raichu → Life Orb
+Erika: Tangela → Leftovers, Victreebel → Poison Barb, Vileplume → Miracle Seed
+Koga: Koffing × 2 → Rocky Helmet, Muk → Poison Barb, Weezing → Leftovers
+BRANCHING PATHS
+Tons of overall improvements to branching paths
+The last content layer before each boss is now guaranteed to have a Pokémon Center
+Added proper icons for nodes
+MISC
+Removed the map legend from the bottom of the screen
+v1.1
+Items & Structure Update
+2026-03-11
+NEW: USABLE ITEMS
+Max Revive — fully revives a fainted Pokémon (only offered when someone is fainted)
+Rare Candy — gives a Pokémon +3 levels; triggers evolution if the threshold is reached
+Evolution Stone — force evolves any Pokémon regardless of level (Eevee gets the choice picker)
+Usable items stack in the bag and are consumed on use
+NEW: HALL OF FAME
+Every championship win now saves your winning team to the Hall of Fame
+View past winning teams from the title screen — sprites, levels, and nicknames preserved
+Hard mode wins are marked [Hard]
+ENEMY ITEMS REWORK
+Elite Four and Champion now use per-Pokémon held items instead of shared trainer items
+Gary gives each of his Pokémon the type-boosting item matching their primary type
+Gym leaders Sabrina, Blaine, and Giovanni also reworked to per-Pokémon items
+Enemy held items now interact with all item effects the same way the player's do
+MAP GENERATION
+Layer 1 of every map is now guaranteed to have at least one Catch node
+Layers 1, 3, and 5 are now guaranteed to have at least one Battle node
+The first Catch node on Map 1 always includes a Grass or Water type Pokémon

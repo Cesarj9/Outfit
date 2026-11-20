@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-11-20",
+  "version_juego": "v3.7.1",
+  "bloqueo": "El navegador del agente (contenedor en la nube) es una partida anónima nueva: PC 3/313, Pokédex 0/721. La colección y la partida guardada de César están en su cuenta de guardado en la nube (usuario + contraseña) o en su navegador. Sin acceso a ellas no se puede auditar el PC ni continuar la búsqueda de Squirtle aurora.",
+  "modo_desafio": "DESCONOCIDO (no comprobado en la cuenta de César)",
+  "inicial": null,
+  "objetivo_actual": "Squirtle aurora (desafío Agua, línea Staryu/Starmie) — objetivo de traspaso, pendiente de confirmar que el desafío sigue disponible",
+  "objetivos_registrados_verificados_por_este_agente": [],
+  "objetivos_registrados_segun_traspaso": ["Charmander aurora (16/11/2026)", "Tentacool aurora #072 (17/11/2026)"],
+  "objetivos_pendientes": ["Squirtle aurora"],
+  "busqueda_primer_nodo": {"intentos_confirmados_traspaso": 45, "intentos_confirmados_este_agente": 0, "nota": "Run antigua del agente anterior; puede no existir ya."},
+  "excepciones_temporales_activas": [],
+  "ultima_accion_confirmada": "Base creada; guía de objetos/reliquias extraída completa desde la UI.",
+  "siguiente_decision": "Acceso a la cuenta/navegador de César para auditar Pokédex y PC y continuar la partida.",
+  "auditorias_pendientes": ["pokedex", "pc_sin_filtro", "pc_shiny", "pc_aurora", "rasgos (desde la UI en partida)", "notas de parche a tablas"],
+  "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/"
+}
