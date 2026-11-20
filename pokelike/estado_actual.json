@@ -3,8 +3,8 @@
  "version_juego": "v3.7.1",
  "bloqueo": null,
  "modo_desafio": "Diario Mono-Ice (Gym Challenge, solo Hielo), elegido por César el 2026-11-20",
- "inicial": "Swinub aurora (Nv5)",
- "objetivo_actual": "Aurora nuevo de Hielo en el diario Mono-Ice; Squirtle aurora sigue pendiente para un futuro diario de Agua",
+ "inicial": "Snorunt shiny (50 pts) → Glalie Nv43",
+ "objetivo_actual": "Ganar el diario Mono-Hielo con Glalie como as (orden de César)",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)"
@@ -15,17 +15,17 @@
  ],
  "objetivos_pendientes": [
   "Squirtle aurora (diario Agua)",
-  "Smoochum aurora (visto y perdido en run Mono-Ice)"
+  "Auroras vistos y perdidos hoy: Smoochum, Lapras, Cubchoo",
+  "Vanillite (línea ausente del PC)"
  ],
  "busqueda_primer_nodo": {
-  "run": "mono-ice-2026-11-20",
-  "intentos_confirmados": 57,
-  "intentos_inciertos": 0,
-  "resultado": "50 dirigidos sin aurora nuevo; intento 57 Spheal shiny capturado (regla post-50). En el intento 34 apareció Vanillite shiny (línea ausente del PC) y no se tomó por la fase dirigida."
+  "run": "mono-ice-2026-11-20-3",
+  "intentos_confirmados": 17,
+  "resultado": "Cubchoo aurora en el intento 17"
  },
  "excepciones_temporales_activas": [],
- "ultima_accion_confirmada": "Run Mono-Ice 2026-11-20 PERDIDA en el mapa 4 (Científico: Luxray y Galvantula Nv39). PC verificado después: Smoochum sigue solo shiny; Vanillite sigue ausente (311/313). Nada nuevo registrado.",
- "siguiente_decision": "Esperar instrucción de César: ¿otra run del diario Mono-Ice (si se puede repetir) u otro objetivo?",
+ "ultima_accion_confirmada": "3 partidas Mono-Hielo perdidas (mapas 4, 3 y 7). PC sin cambios: 311/313; Smoochum, Lapras y Cubchoo siguen en shiny.",
+ "siguiente_decision": "Esperar a César: ¿seguir intentando el diario Mono-Hielo con Glalie?",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -36,7 +36,8 @@
  "cuenta": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
  "notas_ui": [
   "Recompensa MVP sin reclamar en la Pokédex: CLAIM 7,000 (no tocada).",
-  "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar."
+  "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
+  "La cuenta tiene la interfaz en español (se carga desde la nube)."
  ],
  "run_actual": null,
  "capturas_pendientes_registro": []
