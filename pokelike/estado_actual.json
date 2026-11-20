@@ -24,8 +24,8 @@
   "resultado": "Vanillite aurora"
  },
  "excepciones_temporales_activas": [],
- "ultima_accion_confirmada": "9 partidas del diario Mono-Hielo perdidas; la mejor llegó a la Liga (Lorelei). Ningún aurora registrado hoy (PC 311/313).",
- "siguiente_decision": "El navegador de la sesión se cerró por límite de tiempo; para seguir hace falta abrir una sesión nueva. El diario Mono-Hielo cambia ~23:00 UTC.",
+ "ultima_accion_confirmada": "17 partidas del diario Mono-Hielo perdidas (la nº 6 llegó a la Liga). PC sin cambios (311/313).",
+ "siguiente_decision": "Decidir si seguir intentando el diario Mono-Hielo (cambia ~23:00 UTC).",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -39,10 +39,8 @@
   "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
   "La cuenta tiene la interfaz en español (se carga desde la nube)."
  ],
- "run_actual": {
-  "run": "mono-ice-2026-11-20-10",
-  "estado": "Recién iniciada: Snorunt shiny Nv5 + Baya Caoca, en el mapa 1 antes del primer nodo. Contador de intentos del primer nodo: 0 confirmados (el bucle falló al cerrarse el navegador)."
- },
+ "run_actual": null,
  "capturas_pendientes_registro": [],
- "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow)."
+ "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
+ "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra)."
 }
