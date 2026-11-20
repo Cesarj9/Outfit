@@ -28480,6 +28480,26 @@
    "nivel_final": "",
    "causa_derrota_si_confirmada": "Kangaskhan salvaje Nv26 con equipo Nv18",
    "aprendizaje": ""
+  },
+  {
+   "run_id": "mono-ice-2026-11-20-18",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Diario: Desafío Mono-Hielo",
+   "inicial": "Snorunt shiny",
+   "version_juego": "3.7.1",
+   "fecha_inicio": "2026-11-20",
+   "mapa_actual": "2",
+   "resultado": "DERROTA",
+   "objetivos": "Ganar con Glalie máximo dañador",
+   "capturas_pendientes": "Vanillite AURORA (intento 11)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 11,
+   "intentos_inciertos": 0,
+   "equipo_final": "",
+   "reliquias_finales": "Baya Caoca, Gema Hielo",
+   "nivel_final": 13,
+   "causa_derrota_si_confirmada": "Durant salvaje Nv16 (Bicho/Acero) en el primer combate del mapa 2",
+   "aprendizaje": ""
   }
  ],
  "observaciones": [
