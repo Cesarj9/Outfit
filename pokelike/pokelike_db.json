@@ -28038,8 +28038,130 @@
    "estado_conocimiento": "descripcion_juego"
   }
  ],
- "rasgos": [],
- "partidas": [],
+ "rasgos": [
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T1",
+   "umbral": 2,
+   "efecto_literal": "12% freeze; +10% damage to frozen",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T2",
+   "umbral": 4,
+   "efecto_literal": "24% freeze; +20% damage to frozen",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T3",
+   "umbral": 6,
+   "efecto_literal": "36% freeze; +30% damage to frozen",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T4",
+   "umbral": 8,
+   "efecto_literal": "48% freeze; +40% damage to frozen",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T5",
+   "umbral": 10,
+   "efecto_literal": "60% freeze; +50% damage to frozen",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T6",
+   "umbral": 12,
+   "efecto_literal": "60% freeze; +60% damage to frozen",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "ICE",
+   "nivel_rasgo": "T7",
+   "umbral": 14,
+   "efecto_literal": "60% freeze on hit; +70% bonus damage & thaws (no re-freeze before its next turn)",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS en partida",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "GROUND",
+   "nivel_rasgo": "T1",
+   "umbral": 2,
+   "efecto_literal": "Fight start: foes -1 Speed",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "WATER",
+   "nivel_rasgo": "T1",
+   "umbral": 2,
+   "efecto_literal": "On hit, 33% chance: foe -1 Speed, ATK & Sp.ATK",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS",
+   "estado_conocimiento": "UI"
+  },
+  {
+   "tipo": "PSYCHIC",
+   "nivel_rasgo": "T1",
+   "umbral": 2,
+   "efecto_literal": "10% of your damage hits all foes",
+   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-20",
+   "fuente": "Panel TRAITS",
+   "estado_conocimiento": "UI"
+  }
+ ],
+ "partidas": [
+  {
+   "run_id": "mono-ice-2026-11-20-1",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ice Challenge",
+   "inicial": "Swinub aurora",
+   "version_juego": "3.7.1",
+   "fecha_inicio": "2026-11-20",
+   "mapa_actual": "4",
+   "resultado": "DERROTA",
+   "objetivos": "aurora nuevo de Hielo",
+   "capturas_pendientes": "Smoochum aurora; Vanillite (línea nueva)",
+   "capturas_registradas_pc": "ninguna (verificado en PC)",
+   "intentos_primer_nodo_confirmados": 57,
+   "intentos_inciertos": 0,
+   "equipo_final": "Snorunt shiny 30, Cryogonal shiny 29, Vanillite 30, Swinub aurora 26, Spheal shiny 26, Smoochum aurora 28",
+   "reliquias_finales": "Shiny Hunter (amuleto), Occa Berry, Wave Incense, Grip Claw, Room Service; Metronome en Snorunt",
+   "nivel_final": 30,
+   "causa_derrota_si_confirmada": "Entré a un Científico Nv39 (Luxray/Galvantula) con Snorunt (líder) a 0% y Cryogonal 23% tras un combate de hierba; diferencia de ~10 niveles.",
+   "aprendizaje": "Mirar PS antes de cada entrenador y reordenar o pasar por Centro; en mapa 3-4 los entrenadores y «?» (Ace Trainer) van 8-12 niveles por encima: priorizar niveles desde el mapa 1 y no dejar al líder debilitado delante. Valorar Glaceon/evolucionados frente a bebés. Los «?» pueden ser eventos aurora o Ace Trainers."
+  }
+ ],
  "observaciones": [
   {
    "observacion_id": "obs-0001",
@@ -28106,6 +28228,20 @@
    "valor_observado": "SI: Charmander y Tentacool aurora en PC y Pokédex",
    "fuente_ui": "PC + Pokédex",
    "contexto": "confirma traspaso",
+   "confianza": "alta",
+   "version_juego": "3.7.1",
+   "sustituye_observacion": null,
+   "motivo_cambio": null
+  },
+  {
+   "observacion_id": "obs-0006",
+   "fecha": "2026-11-20",
+   "run_id": "mono-ice-2026-11-20-1",
+   "entidad": "mecanica",
+   "campo": "varios",
+   "valor_observado": "Reset Run conserva inicial y reliquias y regenera el mapa; captura muestra insignia «Already in your PC (as a shiny/aurora)»; amuleto Shiny Hunter activo; «?» puede ser evento aurora o Ace Trainer; intercambio: Pokémon misterioso +3 niveles mostrando un tipo; debilitados no se curan hasta el Centro.",
+   "fuente_ui": "partida",
+   "contexto": "Mono-Ice",
    "confianza": "alta",
    "version_juego": "3.7.1",
    "sustituye_observacion": null,
