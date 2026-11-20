@@ -24,8 +24,8 @@
   "resultado": "Vanillite aurora"
  },
  "excepciones_temporales_activas": [],
- "ultima_accion_confirmada": "3 partidas Mono-Hielo perdidas (mapas 4, 3 y 7). PC sin cambios: 311/313; Smoochum, Lapras y Cubchoo siguen en shiny.",
- "siguiente_decision": "Esperar a César: ¿seguir intentando el diario Mono-Hielo con Glalie?",
+ "ultima_accion_confirmada": "9 partidas del diario Mono-Hielo perdidas; la mejor llegó a la Liga (Lorelei). Ningún aurora registrado hoy (PC 311/313).",
+ "siguiente_decision": "El navegador de la sesión se cerró por límite de tiempo; para seguir hace falta abrir una sesión nueva. El diario Mono-Hielo cambia ~23:00 UTC.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -40,37 +40,9 @@
   "La cuenta tiene la interfaz en español (se carga desde la nube)."
  ],
  "run_actual": {
-  "run": "mono-ice-2026-11-20-6",
-  "mapa": "9 (Liga al final)",
-  "equipo": [
-   "Glalie shiny Nv68 (Ventisca, Cascabel Concha)",
-   "Mamoswine shiny Nv58 (Metrónomo)",
-   "Vanilluxe AURORA Nv65 — PENDIENTE",
-   "Articuno Nv62",
-   "Cryogonal Nv65",
-   "Aurorus Nv58"
-  ],
-  "reliquias": [
-   "Cazador Shiny",
-   "Baya Caoca",
-   "Brazal Firme",
-   "Criostal Z",
-   "Roca Suave",
-   "Disco Tierra"
-  ],
-  "jefes_vencidos": [
-   "Falkner",
-   "Roca/Tierra M2",
-   "Acero/Roca M3",
-   "Agua M4",
-   "Giovanni-like M5",
-   "Siniestro M6 (Nv70-73)",
-   "Psíquico/Hada M7 (Nv86-90)",
-   "Darkrai/Cresselia/Lucario/Weavile M8 (Nv102-106)"
-  ]
+  "run": "mono-ice-2026-11-20-10",
+  "estado": "Recién iniciada: Snorunt shiny Nv5 + Baya Caoca, en el mapa 1 antes del primer nodo. Contador de intentos del primer nodo: 0 confirmados (el bucle falló al cerrarse el navegador)."
  },
- "capturas_pendientes_registro": [
-  "Vanillite aurora (intento 24)"
- ],
- "estrategia_ganadora_hielo": "Roca Suave (−5 VEL/turno) + Hielo T5 (60% congelar) + Brazal Firme (2 golpes = 2 tiradas) + Criostal Z + Disco Tierra; Glalie abre los jefes."
+ "capturas_pendientes_registro": [],
+ "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow)."
 }
