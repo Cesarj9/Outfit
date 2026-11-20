@@ -4,7 +4,7 @@
  "bloqueo": null,
  "modo_desafio": "Diario Mono-Ice (Gym Challenge, solo Hielo), elegido por César el 2026-11-20",
  "inicial": "Snorunt shiny (50 pts) → Glalie Nv43",
- "objetivo_actual": "Ganar el diario Mono-Hielo con Glalie como as (orden de César)",
+ "objetivo_actual": "Ganar el diario Mono-Hielo con Glalie como el que más daño hace",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)"
@@ -19,9 +19,9 @@
   "Vanillite (línea ausente del PC)"
  ],
  "busqueda_primer_nodo": {
-  "run": "mono-ice-2026-11-20-3",
-  "intentos_confirmados": 17,
-  "resultado": "Cubchoo aurora en el intento 17"
+  "run": "mono-ice-2026-11-20-6",
+  "intentos_confirmados": 24,
+  "resultado": "Vanillite aurora"
  },
  "excepciones_temporales_activas": [],
  "ultima_accion_confirmada": "3 partidas Mono-Hielo perdidas (mapas 4, 3 y 7). PC sin cambios: 311/313; Smoochum, Lapras y Cubchoo siguen en shiny.",
@@ -39,6 +39,38 @@
   "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
   "La cuenta tiene la interfaz en español (se carga desde la nube)."
  ],
- "run_actual": null,
- "capturas_pendientes_registro": []
+ "run_actual": {
+  "run": "mono-ice-2026-11-20-6",
+  "mapa": "9 (Liga al final)",
+  "equipo": [
+   "Glalie shiny Nv68 (Ventisca, Cascabel Concha)",
+   "Mamoswine shiny Nv58 (Metrónomo)",
+   "Vanilluxe AURORA Nv65 — PENDIENTE",
+   "Articuno Nv62",
+   "Cryogonal Nv65",
+   "Aurorus Nv58"
+  ],
+  "reliquias": [
+   "Cazador Shiny",
+   "Baya Caoca",
+   "Brazal Firme",
+   "Criostal Z",
+   "Roca Suave",
+   "Disco Tierra"
+  ],
+  "jefes_vencidos": [
+   "Falkner",
+   "Roca/Tierra M2",
+   "Acero/Roca M3",
+   "Agua M4",
+   "Giovanni-like M5",
+   "Siniestro M6 (Nv70-73)",
+   "Psíquico/Hada M7 (Nv86-90)",
+   "Darkrai/Cresselia/Lucario/Weavile M8 (Nv102-106)"
+  ]
+ },
+ "capturas_pendientes_registro": [
+  "Vanillite aurora (intento 24)"
+ ],
+ "estrategia_ganadora_hielo": "Roca Suave (−5 VEL/turno) + Hielo T5 (60% congelar) + Brazal Firme (2 golpes = 2 tiradas) + Criostal Z + Disco Tierra; Glalie abre los jefes."
 }
