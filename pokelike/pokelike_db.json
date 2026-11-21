@@ -34,7 +34,9 @@
    "pc_aurora": 86,
    "pc_shiny_o_superior": 291,
    "version": "3.8"
-  }
+  },
+  "total_auroras_pc": 88,
+  "ultima_actualizacion": "2026-11-21: Riolu y Chimchar aurora (victoria Mono-Lucha 6). PC 88 auroras."
  },
  "especies_formas": [
   {
@@ -20414,8 +20416,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -20425,10 +20427,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "fecha_verificacion": "2026-11-21",
+   "version_juego": "3.8",
+   "fuente": "PC tras ganar Mono-Lucha 6 (clase pc-dex-card--aurora)",
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora conseguido por el agente en mono-fighting-2026-11-21-6 (victoria + PC)."
   },
   {
    "linea_id": 393,
@@ -21114,8 +21116,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -21125,10 +21127,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "fecha_verificacion": "2026-11-21",
+   "version_juego": "3.8",
+   "fuente": "PC tras ganar Mono-Lucha 6 (clase pc-dex-card--aurora)",
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora conseguido por el agente en mono-fighting-2026-11-21-6 (victoria + PC)."
   },
   {
    "linea_id": 449,
@@ -28603,6 +28605,26 @@
    "nivel_final": 87,
    "causa_derrota_si_confirmada": "Campeón Alder (Liga de Teselia 5/5, Nv135-140: Volcarona, Hydreigon, Haxorus, Terrakion, Landorus, Reshiram). Ganados Shauntal, Grimsley, Caitlin y Marshal; Heracross y Hariyama llegaron debilitados.",
    "aprendizaje": "Mejor partida Mono-Lucha (MVP Mega Heracross 21.307 daño, 87 KO). En la pantalla de orden de la Liga no se pueden equipar objetos: dejar la Heracronita puesta antes de entrar. No arrastrar objetos sobre Heracross en el mapa (desequipa la megapiedra). Alder necesita ~Nv95+ o más PS/defensa."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-6",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Mega Heracross shiny (ataque nivel 1)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Meditite/Riolu aurora (+ otros)",
+   "capturas_pendientes": "—",
+   "capturas_registradas_pc": "RIOLU AURORA #447 (objetivo, intento 17 → Mega Lucario con Lucarionita); CHIMCHAR AURORA #390 (Infernape, evento ? mapa 4)",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Lucario aurora 104 (Close Combat), Cobalion 103 (Expert Belt), Keldeo 102 (Restos), Virizion 102 (Choice Band), Mega Heracross 101 (Bug Bite T1), Infernape aurora 101 (Assault Vest)",
+   "reliquias_finales": "Shiny Hunter, Power Belt, Protective Pads, Fightinium Z, Oran Berry, Razor Claw",
+   "nivel_final": 104,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Ganada la Liga de Hoenn (Sidney, Phoebe, Glacia, Drake, Steven). La Liga cura entre combates. Claves: Lucarionita en mapa 1 para Riolu (evoluciona ~Nv34 a Mega Lucario), 3 legendarios (Cobalion M5, Virizion M6, Keldeo M8), rutas con 3-4 entrenadores por mapa, Fuego (Infernape) para el Alto Mando Fantasma. Score 1.715, +500 ₽; feat Classic Champion (3.000 ₽) sin reclamar."
   }
  ],
  "observaciones": [

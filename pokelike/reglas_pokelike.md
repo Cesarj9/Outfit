@@ -40,7 +40,8 @@ Fuente: prompt de traspaso del 2026-11-20. Orden de prioridad: instrucción actu
 
 ## B. Excepciones temporales activas
 
-- Ninguna activa a 2026-11-20 más allá del objetivo de traspaso.
+- 2026-11-21: búsqueda dirigida Heracross/Meditite aurora en el diario Mono-Lucha (Riolu ya conseguido). Con Heracross: su ataque se queda en nivel 1 (Mega, Skill Link).
+- Ninguna otra activa más allá del objetivo de traspaso.
 - Objetivo de traspaso (por defecto, si César no indica otro): **Squirtle aurora** en el desafío Agua con la línea Staryu/Starmie, si ese desafío o su partida siguen disponibles. Si no, preguntar solo esa decisión. Búsqueda dirigida → otro shiny/aurora no sustituye a Squirtle aurora.
 
 ## C. Objetivos históricos (NO vigentes salvo nueva orden)
