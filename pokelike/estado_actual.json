@@ -29,7 +29,7 @@
   "Búsqueda dirigida Heracross/Meditite aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "Si se juega con Heracross: no subir su ataque (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "Partida 8 perdida ante Drake (Liga Hoenn 4/5); Hawlucha aurora perdido.",
+ "ultima_accion_confirmada": "Partida 9: vencidos Erika, Grant, Chuck, Maylene, Olympia, Fantina, Cheren.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -47,10 +47,22 @@
  ],
  "run_actual": {
   "run": "mono-fighting-2026-11-21-9",
-  "mapa": "1",
+  "mapa": "8",
   "equipo": [
-   "Riolu AURORA 5 (inicial, Lucarionita)",
-   "HERACROSS AURORA 5 — PENDIENTE (OBJETIVO, intento 49)"
+   "MEGA HERACROSS AURORA 77 — PENDIENTE (OBJETIVO; Heracronita encontrada mapa 5; ataque T1)",
+   "Mega Lucario AURORA 71 (inicial)",
+   "Blaziken 75",
+   "Terrakion 72 (Metrónomo)",
+   "Machamp 72",
+   "Infernape 65"
+  ],
+  "reliquias": [
+   "Shiny Hunter",
+   "Power Belt",
+   "Stardust",
+   "Protective Pads",
+   "Fightinium Z",
+   "Power Bracer"
   ]
  },
  "capturas_pendientes_registro": [
