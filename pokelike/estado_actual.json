@@ -29,7 +29,7 @@
   "Búsqueda dirigida Heracross/Meditite aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "Si se juega con Heracross: no subir su ataque (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "Partida 10 perdida ante el Campeón Blue (Mewtwo 165/446); Mienfoo aurora perdido.",
+ "ultima_accion_confirmada": "Partida 11: vencidos Erika, Grant, Chuck, Crasher Wake, Olympia.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -47,10 +47,23 @@
  ],
  "run_actual": {
   "run": "mono-fighting-2026-11-21-11",
-  "mapa": "1",
+  "mapa": "6",
   "equipo": [
-   "Riolu AURORA 5 (inicial)",
-   "HERACROSS AURORA 5 — PENDIENTE (OBJETIVO, intento 47)"
+   "MEGA HERACROSS AURORA 47 — PENDIENTE (OBJETIVO; Heracronita mapa 4; ataque T1)",
+   "Mega Lucario AURORA 46 (inicial)",
+   "Pangoro AURORA 47 — PENDIENTE",
+   "Machamp AURORA 47 — PENDIENTE",
+   "Toxicroak 46",
+   "Sawk 44"
+  ],
+  "reliquias": [
+   "Shiny Hunter",
+   "Oval Charm",
+   "Power Belt",
+   "Focus Sash",
+   "Big Root",
+   "Booster Energy",
+   "Chilan Berry"
   ]
  },
  "capturas_pendientes_registro": [
