@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-21",
  "version_juego": "v3.8",
- "bloqueo": null,
+ "bloqueo": "Navegador del agente detenido por el límite de 2 h de procesos en segundo plano (2026-11-21). La partida 7 queda a medias en la nube; no jugar a la vez que el agente.",
  "modo_desafio": "Diario Mono-Fighting (Gym Challenge solo Lucha); resetea ~23:00 UTC 2026-11-21",
  "inicial": "Mega Heracross shiny (Heracronita) — su ataque debe quedarse en nivel 1 (Skill Link)",
  "objetivo_actual": "Meditite aurora y Heracross aurora. Plan de César: ahora usar Riolu/Lucario (aurora) como inicial para buscar Heracross aurora (y Meditite).",
@@ -21,15 +21,15 @@
   "Squirtle aurora (diario Agua)"
  ],
  "busqueda_primer_nodo": {
-  "run": "mono-fighting-2026-11-21-6",
-  "intentos_confirmados": 17,
-  "resultado": "Riolu aurora (objetivo)"
+  "run": "mono-fighting-2026-11-21-7",
+  "intentos_confirmados": 3,
+  "resultado": "Throh aurora (aceptado como aurora nuevo); Heracross/Meditite se siguen buscando en nodos posteriores"
  },
  "excepciones_temporales_activas": [
   "Búsqueda dirigida Heracross/Meditite aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "Si se juega con Heracross: no subir su ataque (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "VICTORIA Mono-Lucha 6 (Campeón Steven). Riolu y Chimchar aurora verificados en el PC (88 auroras). 24.102 ₽; feat Classic Champion 3.000 ₽ sin reclamar.",
+ "ultima_accion_confirmada": "Partida 7 iniciada con Riolu aurora; Throh aurora capturado en el intento 3. Navegador detenido en el mapa 1.",
  "siguiente_decision": "Nueva partida Mono-Lucha con Riolu aurora de inicial buscando Heracross/Meditite aurora.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -42,10 +42,23 @@
  "notas_ui": [
   "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
   "La cuenta tiene la interfaz en español (se carga desde la nube).",
-  "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20)."
+  "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
+  "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
  ],
- "run_actual": null,
- "capturas_pendientes_registro": [],
+ "run_actual": {
+  "run": "mono-fighting-2026-11-21-7",
+  "mapa": "1 (nodo de captura n2_0 posiblemente abierto)",
+  "equipo": [
+   "Riolu AURORA 5 (inicial, Lucarionita por Mega Bracelet)",
+   "Throh AURORA 5 — PENDIENTE (intento 3)"
+  ],
+  "reliquias": [
+   "Power Belt"
+  ]
+ },
+ "capturas_pendientes_registro": [
+  "Throh aurora (partida 7, intento 3; aurora nuevo no objetivo)"
+ ],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
  "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras."
