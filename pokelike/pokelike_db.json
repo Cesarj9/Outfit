@@ -28705,6 +28705,26 @@
    "nivel_final": 94,
    "causa_derrota_si_confirmada": "Campeón Blue (Liga de Kanto 5/5): Mewtwo Nv140 quedó con 165/446 PS tras barrer al equipo.",
    "aprendizaje": "Mega Medicham (Medichamita) arrasa el Alto Mando sin recibir daño. Cebo Legendario convierte nodos en legendarios (Cobalion, Virizion, Keldeo). Contra el Mewtwo de Blue hace falta más nivel o un atacante Bicho/Siniestro; considerar Medicham último para acumular ATK del rasgo Lucha."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-11",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Riolu aurora (Lucarionita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Heracross/Meditite aurora",
+   "capturas_pendientes": "HERACROSS AURORA (OBJETIVO, intento 47), PANCHAM AURORA (mapa 2), MACHOP AURORA (mapa 3)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 47,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Heracross aurora 98, Mega Lucario aurora 97, Virizion 92, Machamp aurora 92, Pangoro aurora 86, Toxicroak 83",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Power Belt, Focus Sash, Big Root, Chilan Berry, Exp. Candy",
+   "nivel_final": 98,
+   "causa_derrota_si_confirmada": "Campeona Diantha (Liga de Kalos 5/5): cayeron Mega Gardevoir, Aurorus, Tyrantrum y Goodra; quedaron Hawlucha y Xerneas. Malva (Fuego) había debilitado a 3 y la Liga de Kalos no cura.",
+   "aprendizaje": "Heracronita apareció de nuevo (mapa 4). La Liga cambia por partida (Hoenn/Kanto/Johto/Kalos/Teselia); unas curan y otras no. Contra Malva poner primero a los que no temen al Fuego y no gastar 3 Pokémon."
   }
  ],
  "observaciones": [
