@@ -28583,6 +28583,26 @@
    "nivel_final": 79,
    "causa_derrota_si_confirmada": "Lysandre (mapa 8): Yveltal 102 (Siniestro/Volador, Siniestro T2) barrió sin perder un Pokémon",
    "aprendizaje": "Jefes de M6-M8 varían por partida (Fantasma, Psíquico/Hada, Siniestro/Volador). Yveltal es demasiado para un equipo Nv70; hacen falta más niveles o defensa (Protective Pads/Big Root/Focus Band)."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-5",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Mega Heracross shiny (ataque nivel 1)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Meditite/Riolu aurora (+ otros)",
+   "capturas_pendientes": "TIMBURR AURORA (intento 16, → Conkeldurr)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 16,
+   "intentos_inciertos": 0,
+   "equipo_final": "Terrakion 87, Lucario 86 (Metrónomo), Blaziken 86, Conkeldurr aurora 86, Hariyama 86 (Restos), Heracross 87 (sin mega: Carbón equipado por error)",
+   "reliquias_finales": "Shiny Hunter, Focus Sash, Razor Claw, Oran Berry, Protective Pads, Leaf Stone",
+   "nivel_final": 87,
+   "causa_derrota_si_confirmada": "Campeón Alder (Liga de Teselia 5/5, Nv135-140: Volcarona, Hydreigon, Haxorus, Terrakion, Landorus, Reshiram). Ganados Shauntal, Grimsley, Caitlin y Marshal; Heracross y Hariyama llegaron debilitados.",
+   "aprendizaje": "Mejor partida Mono-Lucha (MVP Mega Heracross 21.307 daño, 87 KO). En la pantalla de orden de la Liga no se pueden equipar objetos: dejar la Heracronita puesta antes de entrar. No arrastrar objetos sobre Heracross en el mapa (desequipa la megapiedra). Alder necesita ~Nv95+ o más PS/defensa."
   }
  ],
  "observaciones": [

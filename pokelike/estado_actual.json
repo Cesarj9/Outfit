@@ -20,16 +20,16 @@
   "Squirtle aurora (diario Agua)"
  ],
  "busqueda_primer_nodo": {
-  "run": "mono-fighting-2026-11-21-4",
-  "intentos_confirmados": 11,
-  "resultado": "Meditite aurora"
+  "run": "mono-fighting-2026-11-21-5",
+  "intentos_confirmados": 16,
+  "resultado": "Timburr aurora"
  },
  "excepciones_temporales_activas": [
   "Búsqueda dirigida Meditite/Riolu aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "No subir el ataque de Heracross (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "4 partidas Mono-Lucha perdidas. Meditite aurora (objetivo) capturado en la 4ª y perdido en el mapa 8 (Lysandre).",
- "siguiente_decision": "Seguir con Heracross buscando Meditite/Riolu; para Barry, tomar el legendario Lucha (Terrakion) si aparece.",
+ "ultima_accion_confirmada": "5 partidas Mono-Lucha perdidas. La 5ª llegó al Campeón Alder (Liga 5/5) con Timburr/Conkeldurr aurora; perdida. 23.602 ₽.",
+ "siguiente_decision": "Nueva partida Mono-Lucha con Heracross buscando Meditite/Riolu aurora. Mantener Heracronita equipada; no arrastrar objetos encima de Heracross.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
