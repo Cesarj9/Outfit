@@ -28,7 +28,7 @@
   "Búsqueda dirigida Meditite/Riolu aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "No subir el ataque de Heracross (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "Partida 6: Riolu aurora en intento 17; Infernape aurora en evento del mapa 4; vencidos Misty, Grant, Korrina, Crasher Wake.",
+ "ultima_accion_confirmada": "Partida 6: vencidos Misty, Grant, Korrina, Crasher Wake, Elesa, Valerie, Hugh, Lysandre (Yveltal). Mapa 9 en curso.",
  "siguiente_decision": "Nueva partida Mono-Lucha con Heracross buscando Meditite/Riolu aurora. Mantener Heracronita equipada; no arrastrar objetos encima de Heracross.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -45,21 +45,22 @@
  ],
  "run_actual": {
   "run": "mono-fighting-2026-11-21-6",
-  "mapa": "5",
+  "mapa": "9 (tras Lysandre)",
   "equipo": [
-   "Mega Heracross shiny 39 (Heracronita, ataque T1)",
-   "Mega Lucario AURORA 42 (línea Riolu, OBJETIVO) — PENDIENTE",
-   "Infernape AURORA 39 (línea Chimchar, evento mapa 4) — PENDIENTE",
-   "Gallade 39",
-   "Blaziken 39",
-   "Gurdurr 33"
+   "Mega Lucario AURORA 82 (Riolu, OBJETIVO) — PENDIENTE",
+   "Cobalion 83 (Expert Belt)",
+   "Keldeo 80 (Restos)",
+   "Virizion 80 (Choice Band)",
+   "Mega Heracross shiny 79 (ataque T1)",
+   "Infernape AURORA 79 (Chimchar) — PENDIENTE"
   ],
   "reliquias": [
+   "Shiny Hunter",
    "Power Belt",
-   "Bug Memory (Rotom Catalog)",
    "Protective Pads",
-   "Eject Pack",
-   "Fightinium Z"
+   "Fightinium Z",
+   "Oran Berry",
+   "Razor Claw"
   ]
  },
  "capturas_pendientes_registro": [
