@@ -29,7 +29,7 @@
   "Búsqueda dirigida Heracross/Meditite aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "Si se juega con Heracross: no subir su ataque (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "Partida 10: vencidos Misty, Janine, Korrina, Ramos, Norman, Fantina, Silver, Ghetsis.",
+ "ultima_accion_confirmada": "Partida 10 perdida ante el Campeón Blue (Mewtwo 165/446); Mienfoo aurora perdido.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -45,30 +45,8 @@
   "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
   "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
  ],
- "run_actual": {
-  "run": "mono-fighting-2026-11-21-10",
-  "mapa": "9 (pre-Liga)",
-  "equipo": [
-   "Mega Medicham 75",
-   "Mega Lucario AURORA 73 (inicial)",
-   "Cobalion 74",
-   "Keldeo 74",
-   "Virizion 74",
-   "Mienshao AURORA 75 — PENDIENTE (intento 54)"
-  ],
-  "reliquias": [
-   "Shiny Hunter",
-   "Legend Lure",
-   "Power Belt",
-   "Protective Pads",
-   "Fightinium Z",
-   "Focus Sash",
-   "Iron Ball"
-  ]
- },
- "capturas_pendientes_registro": [
-  "Mienfoo aurora (partida 10, intento 54)"
- ],
+ "run_actual": null,
+ "capturas_pendientes_registro": [],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
  "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras."

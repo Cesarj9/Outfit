@@ -28685,6 +28685,26 @@
    "nivel_final": 109,
    "causa_derrota_si_confirmada": "Campeón Blue (Liga de Kanto 5/5): cayeron Aerodactyl, Gyarados, Charizard, Tyranitar y Zapdos; Mewtwo Nv140 barrió al final.",
    "aprendizaje": "Rutas con 3-4 entrenadores por mapa y Polvo Estelar llevaron al equipo a Nv90-101 al entrar a la Liga; se ganaron los 4 del Alto Mando. Hace falta respuesta a Mewtwo (Bicho/Siniestro/Fantasma con más nivel o defensa)."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-10",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Riolu aurora (Lucarionita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Heracross/Meditite aurora",
+   "capturas_pendientes": "MIENFOO AURORA (intento 54, tras 50 dirigidos sin objetivo)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 54,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Medicham 94 (Medichamita, mapa 7), Mega Lucario aurora 92, Cobalion 93, Keldeo 93, Virizion 93, Mienshao aurora 94",
+   "reliquias_finales": "Shiny Hunter, Legend Lure, Power Belt, Protective Pads, Fightinium Z, Focus Sash, Iron Ball",
+   "nivel_final": 94,
+   "causa_derrota_si_confirmada": "Campeón Blue (Liga de Kanto 5/5): Mewtwo Nv140 quedó con 165/446 PS tras barrer al equipo.",
+   "aprendizaje": "Mega Medicham (Medichamita) arrasa el Alto Mando sin recibir daño. Cebo Legendario convierte nodos en legendarios (Cobalion, Virizion, Keldeo). Contra el Mewtwo de Blue hace falta más nivel o un atacante Bicho/Siniestro; considerar Medicham último para acumular ATK del rasgo Lucha."
   }
  ],
  "observaciones": [
