@@ -9,7 +9,7 @@
    "pokedex": "COMPLETA 721/721 (normal 721, shiny 681, aurora 228); formas mega/alternativas no auditadas",
    "pc_sin_filtro": "COMPLETA 352 tarjetas",
    "pc_shiny": "COMPLETA 291",
-   "pc_aurora": "COMPLETA 84",
+   "pc_aurora": "COMPLETA 86 (2026-11-21, v3.8; derivada de clases de tarjeta: el filtro AURORA desapareció en 3.8, ahora hay botón RAREST)",
    "patch_notes": "TEXTO BRUTO GUARDADO (patch_notes_raw_v3.7.1.txt), sin extraer a tablas",
    "pc_missing": "COMPLETA 2 (Carnivine, Vanillite)",
    "pc_detalle_fichas": "PENDIENTE (objeto inicial, megapiedra, favoritos)"
@@ -21,7 +21,7 @@
    "reliquias": 207,
    "objetos_equipables": 37,
    "objetos_utilizables": 4,
-   "fecha": "2026-11-20",
+   "fecha": "2026-11-21",
    "fuente": "UI v3.7.1, sesión anónima",
    "pc_lineas_desbloqueadas": 311,
    "pc_legendarios": 41,
@@ -30,7 +30,10 @@
    "amuletos_activos": [
     "Shiny Charm",
     "Aurora Charm"
-   ]
+   ],
+   "pc_aurora": 86,
+   "pc_shiny_o_superior": 291,
+   "version": "3.8"
   }
  },
  "especies_formas": [
@@ -16035,9 +16038,9 @@
    "legendario": "NO",
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
-   "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "shiny_exacto_confirmado": "DESCONOCIDO",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -16047,10 +16050,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-21",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "Aurora conseguido por César en el desafío Lucha; verificado en PC 2026-11-21."
   },
   {
    "linea_id": 58,
@@ -18885,9 +18888,9 @@
    "legendario": "NO",
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
-   "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "shiny_exacto_confirmado": "DESCONOCIDO",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18897,10 +18900,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-21",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "Aurora conseguido por César en el desafío Lucha; verificado en PC 2026-11-21."
   },
   {
    "linea_id": 287,
@@ -28500,6 +28503,46 @@
    "nivel_final": 13,
    "causa_derrota_si_confirmada": "Durant salvaje Nv16 (Bicho/Acero) en el primer combate del mapa 2",
    "aprendizaje": ""
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-1",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Mega Heracross shiny (ataque nivel 1)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "7",
+   "resultado": "DERROTA",
+   "objetivos": "Meditite/Riolu aurora (+ otros)",
+   "capturas_pendientes": "Makuhita AURORA (intento 53), Croagunk AURORA (captura mapa 2)",
+   "capturas_registradas_pc": "ninguna (verificado)",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Heracross 71, Hariyama 65, Toxicroak 65, Blaziken 65, Conkeldurr 65, Gallade 65",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Power Belt, Macho Brace, Power Herb, Focus Band, Poison Barb",
+   "nivel_final": 71,
+   "causa_derrota_si_confirmada": "Barry (mapa 7) Nv86-90: Staraptor barrió tras caer Infernape",
+   "aprendizaje": "Mega Heracross fue Slayer (12.589 de 12.995 daño). Jefes M1-M6 fáciles."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-2",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Mega Heracross shiny (ataque nivel 1)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "7",
+   "resultado": "DERROTA",
+   "objetivos": "Meditite/Riolu aurora (+ otros)",
+   "capturas_pendientes": "Tyrogue AURORA (intento 12, → Hitmonlee)",
+   "capturas_registradas_pc": "ninguna (verificado)",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Heracross 68, Lucario 63, Blaziken 62, Hitmonlee aurora 61, Machamp 62, Hawlucha 62",
+   "reliquias_finales": "Shiny Hunter, Fist Plate, Exp. Candy, Power Herb, Poison Barb, Shed Shell",
+   "nivel_final": 68,
+   "causa_derrota_si_confirmada": "Barry (mapa 7): Staraptor Nv87 barrió de nuevo",
+   "aprendizaje": "Barry es el muro: hace falta respuesta a Staraptor (Volador): Roca/Eléctrico/Hielo no existen en Mono-Lucha salvo legendarios (Terrakion) → tomar el encuentro legendario del mapa 6/7."
   }
  ],
  "observaciones": [
@@ -28584,6 +28627,20 @@
    "contexto": "Mono-Ice",
    "confianza": "alta",
    "version_juego": "3.7.1",
+   "sustituye_observacion": null,
+   "motivo_cambio": null
+  },
+  {
+   "observacion_id": "obs-0007",
+   "fecha": "2026-11-21",
+   "run_id": null,
+   "entidad": "linea_56/linea_285",
+   "campo": "aurora",
+   "valor_observado": "SI: Mankey y Shroomish aurora en PC",
+   "fuente_ui": "PC",
+   "contexto": "Conseguidos por César en el desafío Lucha",
+   "confianza": "alta",
+   "version_juego": "3.8",
    "sustituye_observacion": null,
    "motivo_cambio": null
   }
