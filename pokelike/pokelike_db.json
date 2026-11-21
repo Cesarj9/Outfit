@@ -28563,6 +28563,26 @@
    "nivel_final": 79,
    "causa_derrota_si_confirmada": "Will (Liga de Johto 1/5): Gardevoir 106, Gallade 107, Togekiss 108, Alakazam 109, Drifblim 110 — Psíquico/Hada/Volador contra Lucha; cayeron 2",
    "aprendizaje": "Jefes M7 y M8 variables (no siempre Barry). Legendarios Keldeo (M6) y Terrakion (M7) clave. Liga Johto empieza por Will (Psíquico/Hada/Volador): llevar más Acero/Siniestro/Fantasma y ataques no-Lucha (Metal Coat en Lucario, Mystic Water en Keldeo)."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-4",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Mega Heracross shiny (ataque nivel 1)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "8",
+   "resultado": "DERROTA",
+   "objetivos": "Meditite/Riolu aurora",
+   "capturas_pendientes": "MEDITITE AURORA (OBJETIVO, intento 11, → Medicham con Piedra Lunar); Sawk shiny",
+   "capturas_registradas_pc": "ninguna (verificado)",
+   "intentos_primer_nodo_confirmados": 11,
+   "intentos_inciertos": 0,
+   "equipo_final": "Medicham aurora 79, Cobalion 72, Mega Heracross 71, Scrafty 69, Breloom 71, Virizion 72",
+   "reliquias_finales": "Shiny Hunter, Power Lens, Chilan Berry, Exp. Candy, Fist Plate, Ring Target",
+   "nivel_final": 79,
+   "causa_derrota_si_confirmada": "Lysandre (mapa 8): Yveltal 102 (Siniestro/Volador, Siniestro T2) barrió sin perder un Pokémon",
+   "aprendizaje": "Jefes de M6-M8 varían por partida (Fantasma, Psíquico/Hada, Siniestro/Volador). Yveltal es demasiado para un equipo Nv70; hacen falta más niveles o defensa (Protective Pads/Big Root/Focus Band)."
   }
  ],
  "observaciones": [

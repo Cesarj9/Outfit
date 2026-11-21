@@ -20,14 +20,15 @@
   "Squirtle aurora (diario Agua)"
  ],
  "busqueda_primer_nodo": {
-  "run": "mono-fighting-2026-11-21-2",
-  "intentos_confirmados": 12
+  "run": "mono-fighting-2026-11-21-4",
+  "intentos_confirmados": 11,
+  "resultado": "Meditite aurora"
  },
  "excepciones_temporales_activas": [
   "Búsqueda dirigida Meditite/Riolu aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "No subir el ataque de Heracross (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "3 partidas Mono-Lucha; la 3ª llegó a la Liga (perdió con Will). Ningún aurora nuevo registrado.",
+ "ultima_accion_confirmada": "4 partidas Mono-Lucha perdidas. Meditite aurora (objetivo) capturado en la 4ª y perdido en el mapa 8 (Lysandre).",
  "siguiente_decision": "Seguir con Heracross buscando Meditite/Riolu; para Barry, tomar el legendario Lucha (Terrakion) si aparece.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
