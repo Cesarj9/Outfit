@@ -28625,6 +28625,26 @@
    "nivel_final": 104,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Ganada la Liga de Hoenn (Sidney, Phoebe, Glacia, Drake, Steven). La Liga cura entre combates. Claves: Lucarionita en mapa 1 para Riolu (evoluciona ~Nv34 a Mega Lucario), 3 legendarios (Cobalion M5, Virizion M6, Keldeo M8), rutas con 3-4 entrenadores por mapa, Fuego (Infernape) para el Alto Mando Fantasma. Score 1.715, +500 ₽; feat Classic Champion (3.000 ₽) sin reclamar."
+  },
+  {
+   "run_id": "mono-fighting-2026-11-21-7",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Fighting Challenge",
+   "inicial": "Riolu aurora (Lucarionita, Mega Bracelet)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-21",
+   "mapa_actual": "Liga 2/5",
+   "resultado": "DERROTA",
+   "objetivos": "Heracross/Meditite aurora",
+   "capturas_pendientes": "THROH AURORA (intento 3)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Lucario aurora 74, Conkeldurr 74, Keldeo 74, Throh aurora 74 (Restos), Terrakion 73, Infernape 71 (Carbón)",
+   "reliquias_finales": "Shiny Hunter, Power Belt, Protective Pads, Fightinium Z, Focus Sash, Fist Plate",
+   "nivel_final": 74,
+   "causa_derrota_si_confirmada": "Koga (Liga de Johto 2/5, Nv112-116) tras ganar a Will con Lucario e Infernape debilitados; la Liga de Johto no cura entre combates.",
+   "aprendizaje": "Piedra Lunar en Riolu Nv7 = Mega Lucario inmediato. Ruta con muchos nodos de captura dejó el equipo en Nv72 al entrar en la Liga (frente a Nv91-95 de la victoria): priorizar entrenadores. Heracross aparece en los nodos de captura cuando no es el inicial (visto normal y shiny, nunca aurora)."
   }
  ],
  "observaciones": [
