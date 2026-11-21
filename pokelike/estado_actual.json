@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-21",
  "version_juego": "v3.8",
- "bloqueo": "Navegador del agente detenido por el límite de 2 h de procesos en segundo plano (2026-11-21). La partida 7 queda a medias en la nube; no jugar a la vez que el agente.",
+ "bloqueo": null,
  "modo_desafio": "Diario Mono-Fighting (Gym Challenge solo Lucha); resetea ~23:00 UTC 2026-11-21",
  "inicial": "Mega Heracross shiny (Heracronita) — su ataque debe quedarse en nivel 1 (Skill Link)",
  "objetivo_actual": "Meditite aurora y Heracross aurora. Plan de César: ahora usar Riolu/Lucario (aurora) como inicial para buscar Heracross aurora (y Meditite).",
@@ -29,7 +29,7 @@
   "Búsqueda dirigida Heracross/Meditite aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "Si se juega con Heracross: no subir su ataque (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "Partida 7 iniciada con Riolu aurora; Throh aurora capturado en el intento 3. Navegador detenido en el mapa 1.",
+ "ultima_accion_confirmada": "Partida 7: vencidos Misty, Grant, Gardenia, Wulfric, Olympia, Karen, Barry. Heracross/Meditite aurora aún no vistos.",
  "siguiente_decision": "Nueva partida Mono-Lucha con Riolu aurora de inicial buscando Heracross/Meditite aurora.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -47,13 +47,22 @@
  ],
  "run_actual": {
   "run": "mono-fighting-2026-11-21-7",
-  "mapa": "1 (nodo de captura n2_0 posiblemente abierto)",
+  "mapa": "8",
   "equipo": [
-   "Riolu AURORA 5 (inicial, Lucarionita por Mega Bracelet)",
-   "Throh AURORA 5 — PENDIENTE (intento 3)"
+   "Mega Lucario AURORA 59 (inicial)",
+   "Throh AURORA 59 — PENDIENTE (Restos)",
+   "Keldeo 59",
+   "Conkeldurr 59",
+   "Hawlucha 59 (Pico Afilado)",
+   "Infernape 56 (Carbón)"
   ],
   "reliquias": [
-   "Power Belt"
+   "Shiny Hunter",
+   "Power Belt",
+   "Protective Pads",
+   "Fightinium Z",
+   "Shiny Guard",
+   "Focus Sash"
   ]
  },
  "capturas_pendientes_registro": [
