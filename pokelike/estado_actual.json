@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-21",
  "version_juego": "v3.8",
- "bloqueo": null,
+ "bloqueo": "Navegador del agente detenido por el límite de 2 h (2026-11-21 ~14:20 UTC) en el momento de capturar Heracross aurora. Al retomar: comprobar si Heracross está en el equipo o si la pantalla de captura sigue abierta.",
  "modo_desafio": "Diario Mono-Fighting (Gym Challenge solo Lucha); resetea ~23:00 UTC 2026-11-21",
  "inicial": "Mega Heracross shiny (Heracronita) — su ataque debe quedarse en nivel 1 (Skill Link)",
  "objetivo_actual": "Meditite aurora y Heracross aurora. Plan de César: ahora usar Riolu/Lucario (aurora) como inicial para buscar Heracross aurora (y Meditite).",
@@ -29,7 +29,7 @@
   "Búsqueda dirigida Heracross/Meditite aurora en el primer nodo (otros auroras nuevos se aceptan si salen)",
   "Si se juega con Heracross: no subir su ataque (Mega, Skill Link)"
  ],
- "ultima_accion_confirmada": "Partida 11 perdida ante la Campeona Diantha; Heracross, Pancham y Machop aurora perdidos.",
+ "ultima_accion_confirmada": "Partida 12: Heracross aurora visto en el intento 31; captura sin confirmar.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -47,14 +47,14 @@
  ],
  "run_actual": {
   "run": "mono-fighting-2026-11-21-12",
-  "mapa": "1",
+  "mapa": "1 (primer nodo)",
   "equipo": [
    "Riolu AURORA 5 (inicial)",
-   "HERACROSS AURORA 5 — PENDIENTE (OBJETIVO, intento 31)"
+   "Heracross aurora: clic de captura enviado justo cuando se cerró el navegador — SIN VERIFICAR"
   ]
  },
  "capturas_pendientes_registro": [
-  "Heracross aurora (OBJETIVO, partida 12, intento 31)"
+  "Heracross aurora (OBJETIVO, partida 12, intento 31) — captura sin verificar"
  ],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
