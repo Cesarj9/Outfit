@@ -28805,6 +28805,26 @@
    "nivel_final": 83,
    "causa_derrota_si_confirmada": "Campeón Blue (Liga de Kanto 5/5): Mega Venusaur solo contra 6; cayeron Aerodactyl y Gyarados, Charizard quedó a 48/360. Bruno debilitó a 3 (la Liga de Kanto no cura).",
    "aprendizaje": "Lax Incense + Oran Berry + Luck Incense: Lorelei sin daño. Bruno sigue siendo el muro (Acero inmune al veneno, Lucha): llevar más Tierra/Fuego/Agua o guardar a Nidoking para Lucario/Magnezone."
+  },
+  {
+   "run_id": "mono-poison-2026-11-22-5",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Poison Challenge",
+   "inicial": "Tentacool aurora",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-22",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Gastly/Bulbasaur aurora",
+   "capturas_pendientes": "BULBASAUR AURORA (OBJETIVO, intento 280 → Mega Venusaur)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 280,
+   "intentos_inciertos": 0,
+   "equipo_final": "Tentacruel aurora 81, Mega Venusaur aurora 78, Drapion 81, Dragalge 81, Arbok 81, Gengar 79",
+   "reliquias_finales": "Shiny Hunter, Luck Incense, Lax Incense, Wise Glasses, Oran Berry, Destiny Knot",
+   "nivel_final": 81,
+   "causa_derrota_si_confirmada": "Campeona Diantha (Liga de Kalos 5/5): solo cayó Mega Gardevoir; quedaron Aurorus, Tyrantrum, Goodra, Hawlucha y Xerneas a tope.",
+   "aprendizaje": "Alto Mando jugado con órdenes de César: Malva (Tentacruel 1º), Siebold (Gengar 1º), Wikstrom (Gengar 1º; cayó Gengar), Drasna (Tentacruel 1º): todos sin apenas daño gracias a Lax Incense. Contra la Campeona Nv135-140 el equipo Nv78-81 no llega: César insiste en subir MUCHO más de nivel antes de la Liga."
   }
  ],
  "observaciones": [
