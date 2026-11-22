@@ -28725,6 +28725,26 @@
    "nivel_final": 98,
    "causa_derrota_si_confirmada": "Campeona Diantha (Liga de Kalos 5/5): cayeron Mega Gardevoir, Aurorus, Tyrantrum y Goodra; quedaron Hawlucha y Xerneas. Malva (Fuego) había debilitado a 3 y la Liga de Kalos no cura.",
    "aprendizaje": "Heracronita apareció de nuevo (mapa 4). La Liga cambia por partida (Hoenn/Kanto/Johto/Kalos/Teselia); unas curan y otras no. Contra Malva poner primero a los que no temen al Fuego y no gastar 3 Pokémon."
+  },
+  {
+   "run_id": "mono-poison-2026-11-22-1",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Poison Challenge",
+   "inicial": "Tentacool aurora",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-22",
+   "mapa_actual": "Liga 3/5",
+   "resultado": "DERROTA",
+   "objetivos": "Gastly/Bulbasaur aurora",
+   "capturas_pendientes": "BULBASAUR AURORA (OBJETIVO, intento 37), BELLSPROUT AURORA (mapa 2)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 37,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Gengar 89 (Gengarita mapa 8), Venusaur aurora 89, Victreebel aurora 89, Tentacruel aurora 89, Drapion 85 (Poison Barb), Beedrill 85",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Luck Incense, Macho Brace, Lax Incense, Iron Ball, Miracle Seed",
+   "nivel_final": 89,
+   "causa_derrota_si_confirmada": "Agatha (Liga de Kanto 3/5): Tyranitar Nv122 quedó con 183/376. Bruno había debilitado a Mega Gengar y Venusaur; la Liga de Kanto no cura.",
+   "aprendizaje": "Equipo Veneno con Lax Incense + Macho Brace + Luck Incense ganó los 8 gimnasios. El acero (Lucario/Magnezone) es inmune al veneno: no gastar a Mega Gengar contra Bruno. Hace falta más nivel (Nv85 al entrar)."
   }
  ],
  "observaciones": [
