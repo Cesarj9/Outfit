@@ -30,7 +30,7 @@
  "excepciones_temporales_activas": [
   "Veneno: tras capturar Gastly/Bulbasaur aurora, ganar el desafío (César: «no es tan difícil ganar, dale»)"
  ],
- "ultima_accion_confirmada": "Veneno 4: vencidos Misty, Roark, Gardenia, Wulfric, Clemont, Fantina.",
+ "ultima_accion_confirmada": "Veneno 4: vencidos Misty, Roark, Gardenia, Wulfric, Clemont, Fantina, Silver, Archie.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -48,7 +48,7 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-4",
-  "mapa": "7",
+  "mapa": "9 (pre-Liga)",
   "equipo": [
    "MEGA VENUSAUR AURORA 53 — PENDIENTE (OBJETIVO)",
    "Tentacruel AURORA 57 (inicial)",
@@ -60,9 +60,10 @@
   "reliquias": [
    "Shiny Hunter",
    "Luck Incense",
-   "Float Stone",
-   "Kebia Berry",
-   "Oran Berry"
+   "Oran Berry",
+   "Chilan Berry",
+   "Iron Ball",
+   "Lax Incense"
   ]
  },
  "capturas_pendientes_registro": [
