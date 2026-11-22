@@ -28785,6 +28785,26 @@
    "nivel_final": 89,
    "causa_derrota_si_confirmada": "Campeona Cynthia (Liga de Sinnoh 5/5): cayeron Garchomp, Milotic y Cresselia; quedaron Darkrai (124/341), Palkia y Giratina. Bertha (Tierra) había debilitado a 3; Sinnoh no cura.",
    "aprendizaje": "Ganados los 8 gimnasios y 4 del Alto Mando. Contra Bertha (Tierra) el Veneno sufre: llevar más Agua/Planta/Volador o ir con más nivel. Gengarita apareció en mapa 1 (partida 2) y mapa 5 (partida 3)."
+  },
+  {
+   "run_id": "mono-poison-2026-11-22-4",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Poison Challenge",
+   "inicial": "Tentacool aurora",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-22",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Gastly/Bulbasaur aurora",
+   "capturas_pendientes": "BULBASAUR AURORA (OBJETIVO, intento 3 → Mega Venusaur con Venusaurita mapa 4)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Venusaur aurora 81, Mega Gengar 82, Tentacruel aurora 81, Venomoth 83, Crobat 80, Nidoking 77",
+   "reliquias_finales": "Shiny Hunter, Luck Incense, Oran Berry, Chilan Berry, Iron Ball, Lax Incense",
+   "nivel_final": 83,
+   "causa_derrota_si_confirmada": "Campeón Blue (Liga de Kanto 5/5): Mega Venusaur solo contra 6; cayeron Aerodactyl y Gyarados, Charizard quedó a 48/360. Bruno debilitó a 3 (la Liga de Kanto no cura).",
+   "aprendizaje": "Lax Incense + Oran Berry + Luck Incense: Lorelei sin daño. Bruno sigue siendo el muro (Acero inmune al veneno, Lucha): llevar más Tierra/Fuego/Agua o guardar a Nidoking para Lucario/Magnezone."
   }
  ],
  "observaciones": [
