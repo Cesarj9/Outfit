@@ -30,7 +30,7 @@
  "excepciones_temporales_activas": [
   "Veneno: tras capturar Gastly/Bulbasaur aurora, ganar el desafío (César: «no es tan difícil ganar, dale»)"
  ],
- "ultima_accion_confirmada": "Veneno 3: 323 intentos en el primer nodo sin Gastly/Bulbasaur aurora (vistos Croagunk aurora y varios shiny).",
+ "ultima_accion_confirmada": "Veneno 3: vencidos Viola, Bugsy, Gardenia, Koga, Volkner, Valerie.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -48,13 +48,22 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-3",
-  "mapa": "1",
+  "mapa": "7",
   "equipo": [
-   "Tentacool aurora 5 (inicial)",
-   "GASTLY AURORA 5 — PENDIENTE (OBJETIVO, intento 369)"
+   "MEGA GENGAR AURORA 52 — PENDIENTE (OBJETIVO)",
+   "Garbodor AURORA 48 — PENDIENTE",
+   "Nidoking 47",
+   "Tentacruel AURORA 49 (inicial)",
+   "Victreebel 47",
+   "Golbat AURORA 48 — PENDIENTE (Metrónomo)"
   ],
   "reliquias": [
-   "Antidote"
+   "Shiny Hunter",
+   "Antidote",
+   "Stardust",
+   "Iron Ball",
+   "Ring Target",
+   "Smooth Rock"
   ]
  },
  "capturas_pendientes_registro": [
