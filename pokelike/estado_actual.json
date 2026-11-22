@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 4 perdida ante el Campeón Blue; Bulbasaur aurora perdido.",
+ "ultima_accion_confirmada": "Veneno 5: vencidos Viola, Wattson, Chuck.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -49,13 +49,21 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-5",
-  "mapa": "1",
+  "mapa": "4",
   "equipo": [
-   "Tentacool aurora 5 (inicial)",
-   "BULBASAUR AURORA 5 — PENDIENTE (OBJETIVO, intento 280)"
+   "IVYSAUR AURORA 27 — PENDIENTE (OBJETIVO)",
+   "Tentacruel AURORA 30 (inicial)",
+   "Haunter 30",
+   "Skorupi 30",
+   "Arbok 30",
+   "Skrelp 30"
   ],
   "reliquias": [
-   "Luck Incense"
+   "Shiny Hunter",
+   "Luck Incense",
+   "Lax Incense",
+   "Wise Glasses",
+   "Oran Berry"
   ]
  },
  "capturas_pendientes_registro": [
