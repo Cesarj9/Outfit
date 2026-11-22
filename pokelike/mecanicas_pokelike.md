@@ -28,3 +28,8 @@ La tabla completa de reliquias/objetos (texto literal de la guía del juego, v3.
 - **Agua (Starmie + Tentacruel aurora)**: Focus Sash, Lax Incense, Macho Brace, Grip Claw, Poisonium Z + Shiny Hunter; Restos en Starmie; Swampert de líder ante Eléctrico.
 - **Fuego (Mega Houndoom)**: Dread Plate, Razor Claw, Salac Berry, Destiny Knot, Focus Sash. Derrota previa por Aerodactyl de Blue más rápido.
 - **Hada (Mega Mawile aurora)**: Hard Stone, Soothe Bell, Poison Barb, Damp Rock, Light Clay.
+
+## Lecciones Mono-Veneno (2026-11-22, revisión con César)
+- César: las reliquias (pasivas) no estaban bien elegidas en Veneno 5 (Incienso Duplo, Incienso Suave, Gafas Especiales, Baya Aranja, Lazo Destino) → perdimos ante la Campeona Nv135-140.
+- HIPÓTESIS a probar: el daño por veneno es % de PS máx. y no depende del nivel; priorizar reliquias que multiplican el veneno: Tabla Tóxica (×2 veneno), Brazal Firme (2 golpes → doble de acumulaciones), Venenostal Z (el veneno se propaga al caer un rival), Garra Garfio, Toxisfera; y subir el rasgo Veneno (T7-T8) con más shiny/aurora Veneno.
+- Incienso Suave reduce también nuestro daño directo a la mitad: útil para sobrevivir, pero sin multiplicadores de veneno no remata a los Campeones.
