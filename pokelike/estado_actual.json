@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 6: vencidos los 8 gimnasios (… Calem, Lysandre). Equipo Nv83-88.",
+ "ultima_accion_confirmada": "Veneno 6: 8 gimnasios vencidos; equipo Nv89-96 curado; parado antes del Alto Mando.",
  "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -49,14 +49,14 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-6",
-  "mapa": "9 (pre-Liga)",
+  "mapa": "9 — PARADO ante el nodo de la Liga (Alto Mando para César)",
   "equipo": [
-   "GENGAR AURORA 53 — PENDIENTE (OBJETIVO)",
-   "Toxicroak AURORA 47 — PENDIENTE",
-   "Tentacruel aurora 49 (inicial)",
-   "Weezing 52",
-   "Beedrill shiny 51",
-   "Victreebel 53"
+   "GENGAR AURORA 96 — PENDIENTE (OBJETIVO; Lupa; Orbes Espectro)",
+   "Tentacruel aurora 92 (inicial; Hidrobomba)",
+   "Beedrill shiny 94 (Roca del Rey)",
+   "Weezing 91",
+   "Victreebel 89 (Semilla Milagro)",
+   "TOXICROAK AURORA 90 — PENDIENTE (Restos)"
   ],
   "reliquias": [
    "Shiny Hunter",
