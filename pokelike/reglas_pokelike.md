@@ -29,6 +29,7 @@ Fuente: prompt de traspaso del 2026-11-20. Orden de prioridad: instrucción actu
 - Forma mega, megapiedra, shiny y aurora son dimensiones distintas.
 
 **Equipo y ruta**
+- (César, 2026-11-22) Llegar a la Liga con MUCHO más nivel: el nivel es la prioridad; elegir rutas con el máximo de entrenadores aunque cueste capturas/objetos.
 - Nivel = prioridad alta; favorecer entrenadores si no compromete captura objetivo/curación/mejora decisiva.
 - Mapa 1: normalmente solo una captura además del inicial. ~6 nodos de Pokéball en total como orientación.
 - 1–3 combatientes fuertes + apoyos para rasgos. No sobrepriorizar tutores.
