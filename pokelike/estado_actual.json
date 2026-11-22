@@ -28,7 +28,8 @@
   "resultado": "BULBASAUR AURORA (objetivo)"
  },
  "excepciones_temporales_activas": [
-  "Veneno: tras capturar Gastly/Bulbasaur aurora, ganar el desafío (César: «no es tan difícil ganar, dale»)"
+  "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
+  "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
  "ultima_accion_confirmada": "Veneno 4 perdida ante el Campeón Blue; Bulbasaur aurora perdido.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",

@@ -40,7 +40,7 @@ Fuente: prompt de traspaso del 2026-11-20. Orden de prioridad: instrucción actu
 
 ## B. Excepciones temporales activas
 
-- 2026-11-22: en la próxima partida (Veneno 2) parar antes de enfrentarse al Alto Mando y avisar.
+- 2026-11-22 (vigente): NO jugar el Alto Mando. Al llegar al nodo de la Liga, parar y avisar a César; él lo juega.
 - 2026-11-22: diario Mono-Veneno con Tentacool: no salir del primer nodo hasta tener Gastly o Bulbasaur aurora (sin límite de 50 intentos); después ganar el desafío para registrarlo.
 
 - 2026-11-21: búsqueda dirigida Heracross/Meditite aurora en el diario Mono-Lucha (Riolu ya conseguido). Con Heracross: su ataque se queda en nivel 1 (Mega, Skill Link).
