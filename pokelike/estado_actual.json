@@ -24,8 +24,8 @@
  ],
  "busqueda_primer_nodo": {
   "run": "mono-poison-2026-11-22-2",
-  "intentos_confirmados": 3,
-  "resultado": "en curso (Gastly/Bulbasaur aurora)"
+  "intentos_confirmados": 229,
+  "resultado": "GASTLY AURORA (objetivo)"
  },
  "excepciones_temporales_activas": [
   "Diario Veneno: no salir del primer nodo hasta tener Gastly o Bulbasaur aurora (sin límite de 50; orden de César 2026-11-22)",
@@ -49,15 +49,18 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-2",
-  "mapa": "1 (primer nodo, intento 4 abierto)",
+  "mapa": "1",
   "equipo": [
-   "Tentacool aurora 5 (inicial)"
+   "Tentacool aurora 5 (inicial)",
+   "GASTLY AURORA 5 — PENDIENTE (OBJETIVO, intento 229)"
   ],
   "reliquias": [
    "Luck Incense"
   ]
  },
- "capturas_pendientes_registro": [],
+ "capturas_pendientes_registro": [
+  "Gastly aurora (OBJETIVO, intento 229)"
+ ],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
  "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras."
