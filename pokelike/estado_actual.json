@@ -30,7 +30,7 @@
  "excepciones_temporales_activas": [
   "Veneno: tras capturar Gastly/Bulbasaur aurora, ganar el desafío (César: «no es tan difícil ganar, dale»)"
  ],
- "ultima_accion_confirmada": "Veneno 3: vencidos Viola, Bugsy, Gardenia, Koga, Volkner, Valerie.",
+ "ultima_accion_confirmada": "Veneno 3: vencidos Viola, Bugsy, Gardenia, Koga, Volkner, Valerie, Silver, Archie.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -48,7 +48,7 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-3",
-  "mapa": "7",
+  "mapa": "9 (pre-Liga)",
   "equipo": [
    "MEGA GENGAR AURORA 52 — PENDIENTE (OBJETIVO)",
    "Garbodor AURORA 48 — PENDIENTE",
