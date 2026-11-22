@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 5: vencidos Viola, Wattson, Chuck, Maylene, Norman, Byron, Hugh.",
- "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
+ "ultima_accion_confirmada": "Veneno 5: vencidos Viola, Wattson, Chuck, Maylene, Norman, Byron, Hugh, Giovanni. Equipo curado; parado antes del Alto Mando para que lo juegue César.",
+ "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -49,21 +49,22 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-5",
-  "mapa": "8",
+  "mapa": "9 — PARADO ante el nodo de la Liga (Alto Mando para César)",
   "equipo": [
-   "MEGA VENUSAUR AURORA 38 — PENDIENTE (OBJETIVO)",
-   "Tentacruel AURORA 41 (inicial)",
-   "Gengar 41",
-   "Drapion 41",
-   "Arbok 41",
-   "Skrelp 41"
+   "Drapion 73 (Black Glasses, Desarme dominado)",
+   "Tentacruel AURORA 73 (inicial, Restos)",
+   "MEGA VENUSAUR AURORA 70 — PENDIENTE (OBJETIVO; Venusaurita; Rayo Solar)",
+   "Dragalge 73",
+   "Gengar 73 (Orbes Espectro)",
+   "Arbok 73"
   ],
   "reliquias": [
    "Shiny Hunter",
    "Luck Incense",
    "Lax Incense",
    "Wise Glasses",
-   "Oran Berry"
+   "Oran Berry",
+   "Destiny Knot"
   ]
  },
  "capturas_pendientes_registro": [
