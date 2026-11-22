@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 6: 8 gimnasios vencidos; equipo Nv89-96 curado; parado antes del Alto Mando.",
+ "ultima_accion_confirmada": "Veneno 6: Aaron y Bertha vencidos (cayeron Tentacruel y Victreebel). César termina la Liga desde su dispositivo. No se pudo mover Restos a Gengar en la pantalla de orden (clic y arrastre sin efecto en el navegador del agente).",
  "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -49,7 +49,7 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-6",
-  "mapa": "9 — PARADO ante el nodo de la Liga (Alto Mando para César)",
+  "mapa": "Liga de Sinnoh 3/5 (Flint) — en manos de César",
   "equipo": [
    "GENGAR AURORA 96 — PENDIENTE (OBJETIVO; Lupa; Orbes Espectro)",
    "Tentacruel aurora 92 (inicial; Hidrobomba)",
