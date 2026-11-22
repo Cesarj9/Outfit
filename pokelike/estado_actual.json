@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 6: vencidos Falkner, Whitney, Chuck.",
+ "ultima_accion_confirmada": "Veneno 6: vencidos Falkner, Whitney, Chuck, Wulfric, Norman.",
  "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -49,20 +49,22 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-6",
-  "mapa": "4",
+  "mapa": "6",
   "equipo": [
-   "HAUNTER AURORA 33 — PENDIENTE (OBJETIVO)",
-   "Croagunk AURORA 27 — PENDIENTE",
-   "Tentacool aurora 29 (inicial)",
-   "Golbat 31",
-   "Koffing 32",
-   "Weepinbell 33"
+   "GENGAR AURORA 53 — PENDIENTE (OBJETIVO)",
+   "Toxicroak AURORA 47 — PENDIENTE",
+   "Tentacruel aurora 49 (inicial)",
+   "Weezing 52",
+   "Beedrill shiny 51",
+   "Victreebel 53"
   ],
   "reliquias": [
    "Shiny Hunter",
    "Luck Incense",
    "Grip Claw",
-   "Casteliacone"
+   "Casteliacone",
+   "Poisonium Z",
+   "Shiny Power"
   ]
  },
  "capturas_pendientes_registro": [
