@@ -31,7 +31,7 @@
   "Diario Veneno: no salir del primer nodo hasta tener Gastly o Bulbasaur aurora (sin límite de 50; orden de César 2026-11-22)",
   "Partida Veneno 2: DETENERSE antes de entrar en el Alto Mando (no pulsar el nodo de la Liga); orden de César 2026-11-22"
  ],
- "ultima_accion_confirmada": "Veneno 2 iniciada (Luck Incense); 3 intentos en el primer nodo; pausada por César.",
+ "ultima_accion_confirmada": "Veneno 2: vencidos Erika, Wattson, Jasmine, Maylene. Parar antes del Alto Mando.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -49,13 +49,22 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-2",
-  "mapa": "1",
+  "mapa": "5",
   "equipo": [
-   "Tentacool aurora 5 (inicial)",
-   "GASTLY AURORA 5 — PENDIENTE (OBJETIVO, intento 229)"
+   "Golbat 34 (Choice Band)",
+   "HAUNTER AURORA 31 — PENDIENTE (OBJETIVO; Gengarita; TM)",
+   "Stunky 33",
+   "Tentacruel AURORA 33 (inicial)",
+   "Skorupi 34",
+   "Croagunk 27"
   ],
   "reliquias": [
-   "Luck Incense"
+   "Shiny Hunter",
+   "Luck Incense",
+   "Stardust",
+   "Poison Memory",
+   "Enigma Berry",
+   "Toxic Plate"
   ]
  },
  "capturas_pendientes_registro": [
