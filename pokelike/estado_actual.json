@@ -30,7 +30,7 @@
  "excepciones_temporales_activas": [
   "Diario Veneno: no salir del primer nodo hasta tener Gastly o Bulbasaur aurora (sin límite de 50; orden de César 2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 1: vencidos Erika, Whitney, Sabrina, Koga.",
+ "ultima_accion_confirmada": "Veneno 1: vencidos Erika, Whitney, Sabrina, Koga, Olympia, Fantina, Barry.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -48,7 +48,7 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-1",
-  "mapa": "5",
+  "mapa": "8",
   "equipo": [
    "Gengar 38 (Choice Specs)",
    "Tentacruel AURORA 38 (inicial)",
@@ -60,10 +60,11 @@
   "reliquias": [
    "Shiny Hunter",
    "Oval Charm",
-   "Antidote",
    "Luck Incense",
    "Macho Brace",
-   "Poisonium Z"
+   "Lax Incense",
+   "Iron Ball",
+   "Miracle Seed"
   ]
  },
  "capturas_pendientes_registro": [
