@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-22",
  "version_juego": "v3.8",
- "bloqueo": null,
+ "bloqueo": "Navegador del agente detenido por el límite de 2 h (2026-11-22) durante la búsqueda en el primer nodo de Veneno 3. Sin captura pendiente.",
  "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
  "inicial": "Tentacool aurora (consejo de César)",
  "objetivo_actual": "Gastly aurora o Bulbasaur aurora en el diario Veneno; ganar para registrarlo.",
@@ -24,14 +24,14 @@
  ],
  "busqueda_primer_nodo": {
   "run": "mono-poison-2026-11-22-3",
-  "intentos_confirmados": 300,
+  "intentos_confirmados": 323,
   "resultado": "en curso"
  },
  "excepciones_temporales_activas": [
   "Diario Veneno: no salir del primer nodo hasta tener Gastly o Bulbasaur aurora (sin límite de 50; orden de César 2026-11-22)",
   "Partida Veneno 2: DETENERSE antes de entrar en el Alto Mando (no pulsar el nodo de la Liga); orden de César 2026-11-22"
  ],
- "ultima_accion_confirmada": "Veneno 2 perdida ante Clair (mapa 5); Gastly aurora perdido.",
+ "ultima_accion_confirmada": "Veneno 3: 323 intentos en el primer nodo sin Gastly/Bulbasaur aurora (vistos Croagunk aurora y varios shiny).",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
