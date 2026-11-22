@@ -28765,6 +28765,26 @@
    "nivel_final": 38,
    "causa_derrota_si_confirmada": "Clair (mapa 5): 3 Dragonite + Kingdra Nv55-58 contra equipo Nv30-38.",
    "aprendizaje": "Sin Lax Incense/Macho Brace el equipo Veneno sufre en cada entrenador y no sube nivel (los debilitados no ganan EXP). Movimientos de nivel 1 (Poison Sting, Bubble) lastran. Priorizar reliquias defensivas y tutores."
+  },
+  {
+   "run_id": "mono-poison-2026-11-22-3",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Poison Challenge",
+   "inicial": "Tentacool aurora",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-22",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Gastly/Bulbasaur aurora",
+   "capturas_pendientes": "GASTLY AURORA (OBJETIVO, intento 369 → Mega Gengar), ZUBAT AURORA (mapa 4 → Crobat), TRUBBISH/GARBODOR AURORA (mapa 5)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 369,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Gengar aurora 89, Garbodor aurora 83, Crobat aurora 81 (Metrónomo), Tentacruel aurora 80, Vileplume shiny 79, Nidoking 78",
+   "reliquias_finales": "Shiny Hunter, Antidote, Iron Ball, Ring Target, Smooth Rock, Power Bracer",
+   "nivel_final": 89,
+   "causa_derrota_si_confirmada": "Campeona Cynthia (Liga de Sinnoh 5/5): cayeron Garchomp, Milotic y Cresselia; quedaron Darkrai (124/341), Palkia y Giratina. Bertha (Tierra) había debilitado a 3; Sinnoh no cura.",
+   "aprendizaje": "Ganados los 8 gimnasios y 4 del Alto Mando. Contra Bertha (Tierra) el Veneno sufre: llevar más Agua/Planta/Volador o ir con más nivel. Gengarita apareció en mapa 1 (partida 2) y mapa 5 (partida 3)."
   }
  ],
  "observaciones": [
