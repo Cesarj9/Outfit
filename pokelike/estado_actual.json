@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 5: vencidos Viola, Wattson, Chuck, Maylene, Norman.",
+ "ultima_accion_confirmada": "Veneno 5: vencidos Viola, Wattson, Chuck, Maylene, Norman, Byron, Hugh.",
  "siguiente_decision": "Partida 8 con Riolu aurora; primer nodo buscando Heracross/Meditite aurora; luego ruta con máximos entrenadores.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -49,7 +49,7 @@
  ],
  "run_actual": {
   "run": "mono-poison-2026-11-22-5",
-  "mapa": "6",
+  "mapa": "8",
   "equipo": [
    "MEGA VENUSAUR AURORA 38 — PENDIENTE (OBJETIVO)",
    "Tentacruel AURORA 41 (inicial)",
