@@ -28825,6 +28825,26 @@
    "nivel_final": 81,
    "causa_derrota_si_confirmada": "Campeona Diantha (Liga de Kalos 5/5): solo cayó Mega Gardevoir; quedaron Aurorus, Tyrantrum, Goodra, Hawlucha y Xerneas a tope.",
    "aprendizaje": "Alto Mando jugado con órdenes de César: Malva (Tentacruel 1º), Siebold (Gengar 1º), Wikstrom (Gengar 1º; cayó Gengar), Drasna (Tentacruel 1º): todos sin apenas daño gracias a Lax Incense. Contra la Campeona Nv135-140 el equipo Nv78-81 no llega: César insiste en subir MUCHO más de nivel antes de la Liga."
+  },
+  {
+   "run_id": "mono-poison-2026-11-22-6",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Poison Challenge",
+   "inicial": "Tentacool aurora",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-22",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Gastly/Bulbasaur aurora",
+   "capturas_pendientes": "GASTLY AURORA (OBJETIVO, intento 148 → Gengar), CROAGUNK AURORA (mapa 1 → Toxicroak)",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 148,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar aurora 104, Beedrill shiny 102, Weezing 99, Toxicroak aurora 98, Tentacruel aurora 96, Victreebel 93",
+   "reliquias_finales": "Shiny Hunter, Luck Incense, Casteliacone, Shiny Power, Shiny Guard, Kebia Berry",
+   "nivel_final": 104,
+   "causa_derrota_si_confirmada": "Campeona Cynthia (Liga de Sinnoh 5/5): cayeron Garchomp, Milotic y Cresselia; quedaron Darkrai, Palkia y Giratina a tope. Bertha (Tierra) había debilitado a Tentacruel y Victreebel; Sinnoh no cura.",
+   "aprendizaje": "Con prioridad de nivel el equipo llegó a la Liga a Nv89-96 (antes 70-81) y ganó Aaron, Bertha, Flint y Lucian. Reliquias Porcehelado + Poder/Guardia Shiny + Baya Kebia funcionaron. Falta más nivel o más reliquias de veneno (Tabla Tóxica, Brazal Firme) para el Campeón. En la pantalla de orden de la Liga no se pueden mover objetos (ni clic ni arrastre en el navegador del agente)."
   }
  ],
  "observaciones": [
