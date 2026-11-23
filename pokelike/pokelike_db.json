@@ -28950,6 +28950,26 @@
    "nivel_final": 104,
    "causa_derrota_si_confirmada": "Campeona Cynthia (Liga de Sinnoh 5/5): cayeron Garchomp, Milotic y Cresselia; quedaron Darkrai, Palkia y Giratina a tope. Bertha (Tierra) había debilitado a Tentacruel y Victreebel; Sinnoh no cura.",
    "aprendizaje": "Con prioridad de nivel el equipo llegó a la Liga a Nv89-96 (antes 70-81) y ganó Aaron, Bertha, Flint y Lucian. Reliquias Porcehelado + Poder/Guardia Shiny + Baya Kebia funcionaron. Falta más nivel o más reliquias de veneno (Tabla Tóxica, Brazal Firme) para el Campeón. En la pantalla de orden de la Liga no se pueden mover objetos (ni clic ni arrastre en el navegador del agente)."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-1",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Ganar con Groudon MVP (camino a Groudon Primigenio) + auroras nuevas",
+   "capturas_pendientes": "ninguna aurora nueva vista",
+   "capturas_registradas_pc": "sin cambios en PC (comprobado tras la victoria; Zygarde sigue normal)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 93, Zygarde 93, Krookodile 93, Hippowdon shiny 93, Garchomp shiny ~92, Rhyperior ~91",
+   "reliquias_finales": "Shiny Hunter (amuleto), Ground Memory, Damp Rock, Groundium Z, Smooth Rock, Meadow Plate",
+   "nivel_final": 93,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "MVP 'Slayer' Groudon: 293,309 de 362,838 de daño, 114 KO. Liga de Kalos: Malva (Rhyperior 1º por Talonflame), Siebold (Garchomp 1º), Wikstrom (Groudon 1º, sin daño), Drasna (Garchomp 1º), Diantha (Groudon 1º). Combo clave: bajadas de Velocidad (rasgo Tierra + Smooth Rock ×2 con Meadow Plate) multiplicadas por Ground Memory + Groundium Z + Damp Rock (+30% por nivel bajado, sin tope). Groudon con Expert Belt."
   }
  ],
  "observaciones": [
