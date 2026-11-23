@@ -31,11 +31,11 @@
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 100,
+   "pc_aurora": 101,
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 100,
+  "total_auroras_pc": 101,
   "ultima_actualizacion": "2026-11-23: refresco tras juego de César (borrado de caché + login). PC 356 tarjetas (98 aurora, 294 shiny+), Pokédex shiny 681, aurora 297, dinero 172,077 ₽, logros auditados.",
   "dinero_visible": {
    "valor": 172077,
@@ -19746,8 +19746,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19757,10 +19757,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Tierra 13 y verificado en PC 2026-11-23."
   },
   {
    "linea_id": 345,
@@ -29190,6 +29190,26 @@
    "nivel_final": 110,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Primer nodo: Sandile shiny en el 41. Liga de Hoenn (no cura): Sidney y Fátima barridos por Groudon, Glacia (Swampert/Mamoswine 1º, ambos cayeron), Drake (Garchomp barrió), Steven (Groudon 1º, Tierra x2-x4 contra Acero). MVP Groudon 119,046/130,967."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-13",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Groudon MVP (Primal 13/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "BALTOY AURORA (nuevo, primer nodo intento 5; verificado en PC: shiny -> aurora)",
+   "intentos_primer_nodo_confirmados": 5,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 108, Garchomp 108, Excadrill shiny 108, Mamoswine 108, Claydol aurora 108, Whiscash 102",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Ground Tera Shard, Damp Rock, Soft Sand, Groundium Z, Smooth Rock",
+   "nivel_final": 108,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Kalos: Malva (Whiscash 1º, barrió), Siebold (Whiscash+Garchomp), Wikstrom (Groudon barrió), Drasna (Mamoswine barrió), Diantha (Groudon 1º). Arena Fina + Pañuelo Elección en Groudon. MVP Groudon 167,366/182,561."
   }
  ],
  "observaciones": [
