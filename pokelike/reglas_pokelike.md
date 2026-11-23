@@ -15,8 +15,7 @@ Fuente: prompt de traspaso del 2026-11-20. Orden de prioridad: instrucción actu
 **Primer nodo de captura**
 - Intento = entrar en el primer encuentro y revisar sus opciones (3 cartas + 1 reroll por carta = hasta 6 candidatos).
 - Revisar las 3 cartas, luego cada reroll inmediatamente. Usar todos los rerolls salvo que ya haya algo a conservar (no rerollear encima de un aurora objetivo).
-- Intentos 1–50: solo objetivos aurora activos (o aurora nuevo útil si no hay especie objetivo).
-- Tras el 50: aceptar cualquier shiny/aurora útil. No aceptar un normal solo por llegar a 50.
+- **LEY (César, 2026-11-23): el primer nodo NUNCA se salta.** Intentos 1–20: solo aurora NUEVO (o aurora objetivo activo). Tras el 20 sin aurora nuevo: seguir reiniciando hasta encontrar cualquier aurora o shiny útil (ya registrado vale). No aceptar un normal. (Antes el límite era 50; César lo bajó a 20.)
 - Shiny ≠ aurora. Aurora ya registrado ≠ «aurora nuevo».
 - Revisar rerolls también en capturas/eventos posteriores.
 - Contador real de intentos en `estado_actual.json`; separar confirmados de inciertos.
