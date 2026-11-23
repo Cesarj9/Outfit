@@ -29130,6 +29130,26 @@
    "nivel_final": 98,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Primer nodo: Stunfisk shiny en el 25. Rhyperior aurora apareció en un nodo ? del mapa 9 (evento aurora). Liga de Johto: Mento (Groudon 1º), Koga (Mamoswine 1º), Bruno (Garchomp 1º), Karen (Tyranitar 1º), Lance (Mamoswine 1º: Hielo ×4). MVP Groudon 105,831/119,483. KEEP en cnode evita rerollear Swinub/Gible/Barboach."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-10",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 4/5",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 27,
+   "intentos_inciertos": 0,
+   "equipo_final": "Garchomp 103, Golem 103, Stunfisk shiny 103, Whiscash 101, Mamoswine 101, Groudon 97",
+   "reliquias_finales": "Shiny Hunter, Ground Memory, Iron Ball, Room Service, Groundium Z, Wave Incense",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "Liga de Johto (no cura): Mamoswine cayó con Koga, Garchomp y Groudon con Bruno; Golem/Whiscash/Stunfisk no pudieron con Karen (quedaron Gengar y Tyranitar).",
+   "aprendizaje": "Groudon con Cola Plúmbea (Lagging Tail) cayó dos veces en el mapa (llegó con menos nivel que el resto). Sin Smooth Rock otra vez faltó daño. Tras un combate duro sin Centro cerca, Groudon queda rezagado de nivel."
   }
  ],
  "observaciones": [
