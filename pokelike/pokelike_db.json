@@ -28990,6 +28990,26 @@
    "nivel_final": 90,
    "causa_derrota_si_confirmada": "Liga de Sinnoh (no cura): Groudon cayó contra Aaron (Bicho resiste Tierra); Bertha (Tierra Nv112-116) barrió al resto, solo quedó su Garchomp a 240/376.",
    "aprendizaje": "Error: se saltó la búsqueda de aurora en el primer nodo (César lo convirtió en LEY: 20 intentos). Sin Smooth Rock + Meadow Plate el daño total fue 117k (vs 362k en la partida 1): ese combo es la clave. En Ligas sin curación no poner a Groudon delante contra tipos que resisten Tierra (Bicho/Planta/voladores). Groudon fue MVP aun así (108k dmg)."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-3",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Groudon MVP (Primal Groudon 7/50 tras esta victoria) + aurora nuevo en primer nodo",
+   "capturas_pendientes": "ninguna nueva (Swinub aurora y Rhyhorn/Larvitar shiny ya estaban en PC)",
+   "capturas_registradas_pc": "sin cambios en PC (comprobado)",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mamoswine aurora 104, Tyranitar shiny 104, Rhyperior shiny 104, Groudon 104, Hippowdon 104, Whiscash 96",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Ground Tera Shard, Ground Memory, Soft Sand, Groundium Z, Smooth Rock",
+   "nivel_final": 104,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Primer nodo: 20 intentos sin aurora nuevo, Rhyhorn shiny en el 23. Liga de Kanto (no cura): Lorelei (Whiscash 1º, cayó solo él), Bruno y Agatha barridos por Groudon sin daño, Lance (Mamoswine 1º, Rhyperior 2º), Blue (Mamoswine, Tyranitar, Rhyperior, Groudon). MVP Groudon 201,708/222,033 dmg, 129 KO. Contador visible: Mega Bracelet → Primal Groudon x/50 MVP."
   }
  ],
  "observaciones": [

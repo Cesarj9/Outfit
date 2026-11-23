@@ -4,7 +4,7 @@
  "bloqueo": null,
  "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
  "inicial": "Tentacool aurora (consejo de César)",
- "objetivo_actual": "Gastly aurora o Bulbasaur aurora en el diario Veneno; ganar para registrarlo.",
+ "objetivo_actual": "Primal Groudon: 50 victorias de desafío con Groudon como MVP (Mono-Tierra diario). Ley primer nodo: 20 intentos aurora nuevo, luego aurora/shiny.",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)",
@@ -54,5 +54,11 @@
  "capturas_pendientes_registro": [],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
- "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras."
+ "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras.",
+ "progreso_primal_groudon": {
+  "mvp": 7,
+  "meta": 50,
+  "fecha": "2026-11-23",
+  "fuente": "Mega Bracelet (botón btn-mega-nav) → Primal Groudon x/50 MVP"
+ }
 }
