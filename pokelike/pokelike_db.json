@@ -29150,6 +29150,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "Liga de Johto (no cura): Mamoswine cayó con Koga, Garchomp y Groudon con Bruno; Golem/Whiscash/Stunfisk no pudieron con Karen (quedaron Gengar y Tyranitar).",
    "aprendizaje": "Groudon con Cola Plúmbea (Lagging Tail) cayó dos veces en el mapa (llegó con menos nivel que el resto). Sin Smooth Rock otra vez faltó daño. Tras un combate duro sin Centro cerca, Groudon queda rezagado de nivel."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-11",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (shinies ya en PC)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 106, Garchomp shiny 106, Whiscash shiny 106, Flygon 106, Mamoswine 106, Excadrill 106",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Soft Sand, Smooth Rock, Groundium Z, Room Service",
+   "nivel_final": 106,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Primer nodo: Diglett shiny en el 21. Combo Roca Suave (mapa 5) + Geostal Z + Servicio Raro + Arena Fina: Groudon barrió TODA la Liga de Teselia sin recibir daño (211,200/212,472 dmg, 149 KO, solo 727 de daño recibido)."
   }
  ],
  "observaciones": [
