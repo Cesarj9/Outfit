@@ -29090,6 +29090,26 @@
    "nivel_final": 98,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Primer nodo: Swinub shiny en el 24. Partida reanudada tras cierre del navegador (botón REANUDAR DESAFÍO). Liga de Johto: Mento (Groudon 1º, barrido), Koga (Mamoswine 1º vs Crobat), Bruno (Groudon 1º), Karen (Excadrill 1º vs Weavile), Lance (Mega Garchomp 1º, Garchompite encontrado en el mapa 9). MVP Groudon 64,036/74,174. OJO: Groudon tuvo Terratemblor hasta Nv70: enseñarle Terremoto en el primer tutor."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-8",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Mapa 3",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 26,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 27, Dugtrio shiny 27, Barboach 27, Hippopotas 27, Larvitar 27",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Smooth Rock, Sticky Barb",
+   "nivel_final": 27,
+   "causa_derrota_si_confirmada": "Mapa 3: un Cazabichos (Bicho resiste Tierra) debilitó a 4 de 5; el siguiente nodo obligado era un entrenador (Caballero, Nv30) y Larvitar solo cayó.",
+   "aprendizaje": "La ruta con más entrenadores sin Centro en medio es peligrosa con equipo de 5 y bajo nivel. Evitar Cazabichos/entrenadores de Planta cuando el equipo es solo Tierra; tras un combate duro, mirar si hay Centro antes de seguir."
   }
  ],
  "observaciones": [
