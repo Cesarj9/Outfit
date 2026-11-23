@@ -29050,6 +29050,26 @@
    "nivel_final": 102,
    "causa_derrota_si_confirmada": "Campeón Blue (Kanto, no cura): llegaron solo Groudon (118/474) y Golurk; Aerodactyl/Gyarados/Charizard/Zapdos voladores inmunes a Tierra.",
    "aprendizaje": "Primer nodo: Sandile shiny en el 21. Sin el motor Smooth Rock + Ground Memory + Groundium Z el daño no escala: prioridad absoluta a esas reliquias (y Meadow Plate solo si hay Smooth Rock). En Kanto hace falta Hielo/Roca contra voladores (Mamoswine fue clave en la partida 3). cnode STAY ya no rerollea shinies."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-6",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Mapa 4",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "GLIGAR AURORA (nuevo, primer nodo intento 3) — perdido",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 32, Gligar aurora 32, Excadrill 32, Krokorok 32, Pupitar 32, Graveler 32",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Wave Incense, Enigma Berry, Poison Barb, Weakness Policy",
+   "nivel_final": 32,
+   "causa_derrota_si_confirmada": "Crasher Wake (Agua Nv40-42) en el mapa 4: equipo Nv32 sin tipos que resistan Agua. Solo cayeron Gyarados y Floatzel.",
+   "aprendizaje": "Llegar a los jefes con nivel similar al suyo: la ruta del mapa 3-4 tenía pocos combates (ítems, pokeballs, tutor). Contra jefes Agua tempranos hace falta Whiscash/Quagsire/Gastrodon o un tipo Planta... no hay en mono-Tierra: subir nivel. Groudon sin tutor hasta el mapa 4 (Bulldoze)."
   }
  ],
  "observaciones": [
