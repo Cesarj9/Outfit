@@ -31,11 +31,11 @@
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 98,
+   "pc_aurora": 99,
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 98,
+  "total_auroras_pc": 99,
   "ultima_actualizacion": "2026-11-23: refresco tras juego de César (borrado de caché + login). PC 356 tarjetas (98 aurora, 294 shiny+), Pokédex shiny 681, aurora 297, dinero 172,077 ₽, logros auditados.",
   "dinero_visible": {
    "valor": 172077,
@@ -18221,8 +18221,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18232,10 +18232,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Tierra 4 y verificado en PC 2026-11-23."
   },
   {
    "linea_id": 234,
@@ -29010,6 +29010,26 @@
    "nivel_final": 104,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Primer nodo: 20 intentos sin aurora nuevo, Rhyhorn shiny en el 23. Liga de Kanto (no cura): Lorelei (Whiscash 1º, cayó solo él), Bruno y Agatha barridos por Groudon sin daño, Lance (Mamoswine 1º, Rhyperior 2º), Blue (Mamoswine, Tyranitar, Rhyperior, Groudon). MVP Groudon 201,708/222,033 dmg, 129 KO. Contador visible: Mega Bracelet → Primal Groudon x/50 MVP."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-4",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Groudon MVP (Primal 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "PHANPY AURORA (nuevo, verificado en PC: shiny -> aurora)",
+   "intentos_primer_nodo_confirmados": 24,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 95, Tyranitar 95, Excadrill shiny 95, Donphan aurora 95, Hippowdon 95, Golem shiny 95",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Ground Memory, Smooth Rock, Groundium Z, Room Service",
+   "nivel_final": 95,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Primer nodo: 20 sin aurora nuevo, Geodude shiny en el 24. Phanpy aurora salió en un nodo de captura del mapa 2. Liga de Teselia: Anís, Lotto, Catleya y Marshal con Groudon 1º; Mirto con Tyranitar 1º (Stone Edge vs Volcarona) y Groudon 2º. MVP Groudon 116,167/120,700. Room Service (DEF por Velocidad perdida) muy útil."
   }
  ],
  "observaciones": [
