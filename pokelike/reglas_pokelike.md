@@ -56,3 +56,8 @@ Histórico de traspaso (no verificado por este agente):
 - Tentacool aurora: registrado según el agente anterior (17/11/2026, #072).
 - Squirtle aurora: pendiente. Segunda búsqueda: 45 intentos confirmados sin éxito (Staryu shiny Nv5, Shiny Hunter, Big Pearl).
 Verificar todo en el PC real antes de usarlo.
+
+**Tierra / Groudon Primigenio (2026-11-23)**
+- Meta de César: Groudon Primigenio = 50 victorias de desafío con Groudon como MVP (contador en Brazalete Mega, botón `btn-mega-nav`).
+- Reliquias prioritarias Tierra: Roca Suave, Geostal Z, Disco Tierra, Banda Atadura + Cascabel Alivio, Servicio Raro, Incienso Acua. Groudon delante salvo contra voladores/Agua/Hielo.
+- Cuando cambie el diario, seguir con el Desafío de Gimnasios normal usando Groudon (las victorias MVP en cualquier desafío cuentan).

@@ -29230,6 +29230,26 @@
    "nivel_final": 86,
    "causa_derrota_si_confirmada": "Liga de Kanto (no cura) a Nv80 contra Nv106-128: Lorelei se llevó a Excadrill y Whiscash, Bruno a Garchomp y Golurk, Agatha a Hippowdon; Groudon solo contra Lance.",
    "aprendizaje": "Llegó a la Liga con Nv80 (las victorias llegaron con 94-100): el mapa 1 tuvo solo 2 Pokémon y rutas con pocos combates. Partida interrumpida por cierre del navegador a mitad. Sin Roca Suave."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-15",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 105, Mamoswine 105, Garchomp 105, Excadrill shiny 105, Flygon shiny 105, Marowak shiny 105",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Binding Band, Soothe Bell, Groundium Z, Ground Memory",
+   "nivel_final": 105,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Combo nuevo muy fuerte: Banda Atadura (rivales con -6 Vel pierden 1 de cada 2 turnos) + Cascabel Alivio (rasgos x2 al inicio) + Teralito Tierra. Solo 20 de daño recibido en toda la partida. Liga de Johto: Mento/Bruno (Groudon 1º), Koga y Lance (Mamoswine 1º), Karen (Excadrill 1º). MVP Groudon 179,034/195,711."
   }
  ],
  "observaciones": [
