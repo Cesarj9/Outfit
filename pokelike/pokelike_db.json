@@ -29210,6 +29210,26 @@
    "nivel_final": 108,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kalos: Malva (Whiscash 1º, barrió), Siebold (Whiscash+Garchomp), Wikstrom (Groudon barrió), Drasna (Mamoswine barrió), Diantha (Groudon 1º). Arena Fina + Pañuelo Elección en Groudon. MVP Groudon 167,366/182,561."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-14",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 4/5",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "BARBOACH AURORA (nuevo, primer nodo intento 20) — perdido",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 20,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 86, Hippowdon 86, Mega Garchomp 84, Golurk shiny 84, Excadrill shiny 82, Whiscash aurora 82",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Enigma Berry, Wave Incense, Soothe Bell, Groundium Z",
+   "nivel_final": 86,
+   "causa_derrota_si_confirmada": "Liga de Kanto (no cura) a Nv80 contra Nv106-128: Lorelei se llevó a Excadrill y Whiscash, Bruno a Garchomp y Golurk, Agatha a Hippowdon; Groudon solo contra Lance.",
+   "aprendizaje": "Llegó a la Liga con Nv80 (las victorias llegaron con 94-100): el mapa 1 tuvo solo 2 Pokémon y rutas con pocos combates. Partida interrumpida por cierre del navegador a mitad. Sin Roca Suave."
   }
  ],
  "observaciones": [
