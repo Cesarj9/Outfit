@@ -29030,6 +29030,26 @@
    "nivel_final": 95,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Primer nodo: 20 sin aurora nuevo, Geodude shiny en el 24. Phanpy aurora salió en un nodo de captura del mapa 2. Liga de Teselia: Anís, Lotto, Catleya y Marshal con Groudon 1º; Mirto con Tyranitar 1º (Stone Edge vs Volcarona) y Groudon 2º. MVP Groudon 116,167/120,700. Room Service (DEF por Velocidad perdida) muy útil."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-5",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP (Primal) + aurora nuevo",
+   "capturas_pendientes": "ninguna aurora nueva",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 102, Rhyperior shiny 100, Tyranitar 99, Golurk 99, Whiscash 93, Steelix shiny 93",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Relic Crown, Power Bracer, Pure Incense, Prism Scale",
+   "nivel_final": 102,
+   "causa_derrota_si_confirmada": "Campeón Blue (Kanto, no cura): llegaron solo Groudon (118/474) y Golurk; Aerodactyl/Gyarados/Charizard/Zapdos voladores inmunes a Tierra.",
+   "aprendizaje": "Primer nodo: Sandile shiny en el 21. Sin el motor Smooth Rock + Ground Memory + Groundium Z el daño no escala: prioridad absoluta a esas reliquias (y Meadow Plate solo si hay Smooth Rock). En Kanto hace falta Hielo/Roca contra voladores (Mamoswine fue clave en la partida 3). cnode STAY ya no rerollea shinies."
   }
  ],
  "observaciones": [
