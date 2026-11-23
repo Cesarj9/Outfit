@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "2026-11-23: Tierra 7 ganada; Primal Groudon 9/50.",
+ "ultima_accion_confirmada": "2026-11-23: navegador cerrado por límite de 2 h a mitad de Tierra 14 (mapa 4). Primal Groudon 13/50.",
  "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -50,7 +50,7 @@
   "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
   "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
  ],
- "run_actual": "mono-ground-2026-11-23-14",
+ "run_actual": "mono-ground-2026-11-23-14 (en curso: mapa 4, equipo Nv32; Barboach AURORA pendiente → Whiscash)",
  "capturas_pendientes_registro": [
   "Barboach AURORA (nuevo; PC solo shiny) — primer nodo intento 20, partida Tierra 14"
  ],
