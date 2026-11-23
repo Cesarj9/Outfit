@@ -29070,6 +29070,26 @@
    "nivel_final": 32,
    "causa_derrota_si_confirmada": "Crasher Wake (Agua Nv40-42) en el mapa 4: equipo Nv32 sin tipos que resistan Agua. Solo cayeron Gyarados y Floatzel.",
    "aprendizaje": "Llegar a los jefes con nivel similar al suyo: la ruta del mapa 3-4 tenía pocos combates (ítems, pokeballs, tutor). Contra jefes Agua tempranos hace falta Whiscash/Quagsire/Gastrodon o un tipo Planta... no hay en mono-Tierra: subir nivel. Groudon sin tutor hasta el mapa 4 (Bulldoze)."
+  },
+  {
+   "run_id": "mono-ground-2026-11-23-7",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Ground Challenge",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Groudon MVP (Primal 9/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "sin cambios en PC (comprobado)",
+   "intentos_primer_nodo_confirmados": 24,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Garchomp 98, Groudon 98, Quagsire 98, Marowak shiny 98, Excadrill shiny 96, Mamoswine shiny 92",
+   "reliquias_finales": "Shiny Hunter, Ground Tera Shard, Power Bracer, Absorb Bulb, Adrenaline Orb, Razor Claw",
+   "nivel_final": 98,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Primer nodo: Swinub shiny en el 24. Partida reanudada tras cierre del navegador (botón REANUDAR DESAFÍO). Liga de Johto: Mento (Groudon 1º, barrido), Koga (Mamoswine 1º vs Crobat), Bruno (Groudon 1º), Karen (Excadrill 1º vs Weavile), Lance (Mega Garchomp 1º, Garchompite encontrado en el mapa 9). MVP Groudon 64,036/74,174. OJO: Groudon tuvo Terratemblor hasta Nv70: enseñarle Terremoto en el primer tutor."
   }
  ],
  "observaciones": [
