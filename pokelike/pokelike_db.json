@@ -29310,6 +29310,26 @@
    "nivel_final": 122,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Huevo Suerte + Caramelo Raro en Groudon: llegó a Nv110 a la Liga (resto Nv94) y barrió Sidney/Fátima/Steven. Nincada shiny evoluciona a Ninjask (no Tierra) y deja un Shedinja: no conviene en Mono-Tierra. MVP Groudon 117,819/123,551."
+  },
+  {
+   "run_id": "gym-boulder-2026-11-23-19",
+   "modo": "Gym Challenge (Medalla Roca)",
+   "desafio_visible": "Desafío de Gimnasios estándar",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "TEDDIURSA AURORA (primer nodo intento 12), GULPIN AURORA (mapa 1), PRINPLUP AURORA (mapa 3) — perdidos",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 90, Ursaring aurora 90, Swalot aurora 90, Chesnaught 90, Empoleon aurora 86, Mantine shiny 84",
+   "reliquias_finales": "Shiny Hunter, Damp Mulch, Room Service, Pure Incense, Casteliacone, Binding Band",
+   "nivel_final": 90,
+   "causa_derrota_si_confirmada": "Campeona Cynthia (Sinnoh, no cura) a Nv90 contra Nv135-140: cayeron Garchomp, Milotic y Cresselia; quedaron Darkrai, Palkia y Giratina.",
+   "aprendizaje": "El diario cambió a Mono-Volador a las 23:00 UTC; se jugó el Desafío de Gimnasios normal (Medalla Roca). Muchas auroras nuevas aparecen al haber todos los tipos (3 en una partida). Abono Lento + Porcehelado + Banda Atadura muy fuerte: ganó Barry y Giovanni yendo 25-30 niveles por debajo. Pero se llegó a la Liga con Nv82: hay que subir más nivel (rutas con más entrenadores, Huevo Suerte/Caramelos en Groudon)."
   }
  ],
  "observaciones": [
