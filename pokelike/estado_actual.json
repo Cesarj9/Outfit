@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-22",
+ "fecha": "2026-11-23",
  "version_juego": "v3.8",
  "bloqueo": null,
  "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Veneno 6 perdida ante la Campeona Cynthia (3 de 6 vencidos); Gastly y Croagunk aurora perdidos. Pantalla de derrota sin pulsar CONTINUAR.",
+ "ultima_accion_confirmada": "2026-11-23: César jugó por su cuenta; se borró caché/perfil, se volvió a iniciar sesión (Rasecj9) y se refrescó PC, Pokédex, logros y dinero (172,077 ₽). Navegador abierto en menú principal.",
  "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -40,7 +40,10 @@
   "notas de parche a tablas"
  ],
  "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/",
- "cuenta": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
+ "cuenta": {
+  "valor_previo": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
+  "dinero_visible_2026_11_23": 172077
+ },
  "notas_ui": [
   "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
   "La cuenta tiene la interfaz en español (se carga desde la nube).",

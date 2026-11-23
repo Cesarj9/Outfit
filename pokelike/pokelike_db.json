@@ -7,7 +7,7 @@
   "auditorias": {
    "items_guide": "COMPLETA (207 reliquias, 37 equipables, 4 utilizables; totales cuadran con la UI)",
    "pokedex": "COMPLETA 721/721 (normal 721, shiny 681, aurora 228); formas mega/alternativas no auditadas",
-   "pc_sin_filtro": "COMPLETA 352 tarjetas",
+   "pc_sin_filtro": "COMPLETA 356 tarjetas (2026-11-23)",
    "pc_shiny": "COMPLETA 291",
    "pc_aurora": "COMPLETA 86 (2026-11-21, v3.8; derivada de clases de tarjeta: el filtro AURORA desapareció en 3.8, ahora hay botón RAREST)",
    "patch_notes": "TEXTO BRUTO GUARDADO (patch_notes_raw_v3.7.1.txt), sin extraer a tablas",
@@ -21,22 +21,27 @@
    "reliquias": 207,
    "objetos_equipables": 37,
    "objetos_utilizables": 4,
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-23",
    "fuente": "UI v3.7.1, sesión anónima",
    "pc_lineas_desbloqueadas": 311,
    "pc_legendarios": 41,
    "pokedex_shiny": 681,
-   "pokedex_aurora": 228,
+   "pokedex_aurora": 297,
    "amuletos_activos": [
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 86,
-   "pc_shiny_o_superior": 291,
+   "pc_aurora": 98,
+   "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 88,
-  "ultima_actualizacion": "2026-11-22: auditoría PC (352 tarjetas: 88 aurora, 292 shiny+; nuevo Budew shiny) y Pokédex (aurora 265/721, shiny 681/721)."
+  "total_auroras_pc": 98,
+  "ultima_actualizacion": "2026-11-23: refresco tras juego de César (borrado de caché + login). PC 356 tarjetas (98 aurora, 294 shiny+), Pokédex shiny 681, aurora 297, dinero 172,077 ₽, logros auditados.",
+  "dinero_visible": {
+   "valor": 172077,
+   "fecha": "2026-11-23",
+   "fuente": "Menú principal tras borrar caché y volver a iniciar sesión"
+  }
  },
  "especies_formas": [
   {
@@ -611,11 +616,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -632,11 +637,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -910,11 +915,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -932,11 +937,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -1107,11 +1112,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -1128,11 +1133,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -1508,11 +1513,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -1530,11 +1535,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -1552,11 +1557,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -2008,11 +2013,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -2030,11 +2035,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -2052,11 +2057,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -2074,11 +2079,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -2265,11 +2270,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -2286,11 +2291,11 @@
    "generacion_si_visible": 1,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -3654,11 +3659,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -4471,11 +4476,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7072,11 +7077,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7094,11 +7099,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7116,11 +7121,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -9544,11 +9549,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -9566,11 +9571,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -9588,11 +9593,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -9673,11 +9678,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -9694,11 +9699,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -10169,11 +10174,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 3 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -11383,11 +11388,11 @@
    "generacion_si_visible": 5,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -11405,11 +11410,11 @@
    "generacion_si_visible": 5,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -12246,11 +12251,11 @@
    "generacion_si_visible": 5,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -13378,11 +13383,11 @@
    "generacion_si_visible": 5,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -13400,11 +13405,11 @@
    "generacion_si_visible": 5,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -14204,11 +14209,11 @@
    "generacion_si_visible": 6,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-23",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -15766,8 +15771,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -15777,8 +15782,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -15966,8 +15971,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -15977,8 +15982,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -16466,8 +16471,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -16477,8 +16482,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -16591,8 +16596,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -16602,8 +16607,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -18417,8 +18422,8 @@
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
    "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "normal",
-   "shiny_o_superior": "NO",
+   "variante_mostrada_pc": "shiny",
+   "shiny_o_superior": "SI",
    "puntos_mejora": 30,
    "favorito_si_visible": "DESCONOCIDO",
    "objeto_inicial": null,
@@ -18427,8 +18432,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -18491,8 +18496,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18502,8 +18507,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -18642,8 +18647,8 @@
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
    "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "normal",
-   "shiny_o_superior": "NO",
+   "variante_mostrada_pc": "shiny",
+   "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
    "objeto_inicial": null,
@@ -18652,8 +18657,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -19516,8 +19521,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19527,8 +19532,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -21066,8 +21071,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -21077,8 +21082,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -21141,8 +21146,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -21152,8 +21157,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -23016,8 +23021,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -23027,8 +23032,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -23541,8 +23546,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -23552,8 +23557,8 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
-   "version_juego": "3.7.1",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -24381,6 +24386,106 @@
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+  },
+  {
+   "linea_id": 484,
+   "especie_representante_id": 484,
+   "numero_visible": "#484",
+   "nombre_pc": "Palkia",
+   "legendario": "SI",
+   "en_pc": "SI",
+   "normal_exacto_confirmado": "DESCONOCIDO",
+   "shiny_exacto_confirmado": "DESCONOCIDO",
+   "aurora_confirmado": "NO",
+   "variante_mostrada_pc": "normal",
+   "shiny_o_superior": "NO",
+   "puntos_mejora": 0,
+   "favorito_si_visible": "DESCONOCIDO",
+   "objeto_inicial": null,
+   "megapiedra_inicial": null,
+   "formas_desbloqueadas_confirmadas": null,
+   "auditoria_normal_completa": "SI",
+   "auditoria_shiny_completa": "SI",
+   "auditoria_aurora_completa": "SI",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
+   "fuente": "PC lista completa 2026-11-23",
+   "notas": "Nuevo en PC 2026-11-23"
+  },
+  {
+   "linea_id": 490,
+   "especie_representante_id": 490,
+   "numero_visible": "#490",
+   "nombre_pc": "Manaphy",
+   "legendario": "SI",
+   "en_pc": "SI",
+   "normal_exacto_confirmado": "DESCONOCIDO",
+   "shiny_exacto_confirmado": "DESCONOCIDO",
+   "aurora_confirmado": "NO",
+   "variante_mostrada_pc": "normal",
+   "shiny_o_superior": "NO",
+   "puntos_mejora": 0,
+   "favorito_si_visible": "DESCONOCIDO",
+   "objeto_inicial": null,
+   "megapiedra_inicial": null,
+   "formas_desbloqueadas_confirmadas": null,
+   "auditoria_normal_completa": "SI",
+   "auditoria_shiny_completa": "SI",
+   "auditoria_aurora_completa": "SI",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
+   "fuente": "PC lista completa 2026-11-23",
+   "notas": "Nuevo en PC 2026-11-23"
+  },
+  {
+   "linea_id": 491,
+   "especie_representante_id": 491,
+   "numero_visible": "#491",
+   "nombre_pc": "Darkrai",
+   "legendario": "SI",
+   "en_pc": "SI",
+   "normal_exacto_confirmado": "DESCONOCIDO",
+   "shiny_exacto_confirmado": "DESCONOCIDO",
+   "aurora_confirmado": "NO",
+   "variante_mostrada_pc": "normal",
+   "shiny_o_superior": "NO",
+   "puntos_mejora": 0,
+   "favorito_si_visible": "DESCONOCIDO",
+   "objeto_inicial": null,
+   "megapiedra_inicial": null,
+   "formas_desbloqueadas_confirmadas": null,
+   "auditoria_normal_completa": "SI",
+   "auditoria_shiny_completa": "SI",
+   "auditoria_aurora_completa": "SI",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
+   "fuente": "PC lista completa 2026-11-23",
+   "notas": "Nuevo en PC 2026-11-23"
+  },
+  {
+   "linea_id": 721,
+   "especie_representante_id": 721,
+   "numero_visible": "#721",
+   "nombre_pc": "Volcanion",
+   "legendario": "SI",
+   "en_pc": "SI",
+   "normal_exacto_confirmado": "DESCONOCIDO",
+   "shiny_exacto_confirmado": "DESCONOCIDO",
+   "aurora_confirmado": "NO",
+   "variante_mostrada_pc": "normal",
+   "shiny_o_superior": "NO",
+   "puntos_mejora": 0,
+   "favorito_si_visible": "DESCONOCIDO",
+   "objeto_inicial": null,
+   "megapiedra_inicial": null,
+   "formas_desbloqueadas_confirmadas": null,
+   "auditoria_normal_completa": "SI",
+   "auditoria_shiny_completa": "SI",
+   "auditoria_aurora_completa": "SI",
+   "fecha_verificacion": "2026-11-23",
+   "version_juego": "3.8",
+   "fuente": "PC lista completa 2026-11-23",
+   "notas": "Nuevo en PC 2026-11-23"
   }
  ],
  "objetos_reliquias": [
@@ -28946,5 +29051,2250 @@
    "sustituye_observacion": null,
    "motivo_cambio": null
   }
- ]
+ ],
+ "logros": {
+  "fecha": "2026-11-23",
+  "cabecera": "27 / 207 unlocked || 17 Trainer Rank 17 · Ace Trainer Rank 18: 2 Comet Shards + Background: Office 0/6 to next rank REWARDS",
+  "pestanas": [
+   "STORY 27/207",
+   "BATTLE TOWER 14/43",
+   "CHALLENGES 12/36 2",
+   "COLLECTION 25/38"
+  ],
+  "recompensas_sin_reclamar": "2 (CLAIM ALL 10,000 ₽: Quickening 5,000 + World Champion 5,000) — no reclamadas por el agente",
+  "filas": [
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Badges",
+    "desc": "Clear Map 8 and defeat Giovanni | 8/8",
+    "done": true,
+    "fin": "done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Elite Four Champion",
+    "desc": "Defeat the Kanto Elite Four",
+    "done": true,
+    "fin": "2,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Bulbasaur Champion",
+    "desc": "Choose Bulbasaur as your starter and beat the game",
+    "done": true,
+    "fin": "1,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Charmander Champion",
+    "desc": "Choose Charmander as your starter and beat the game",
+    "done": true,
+    "fin": "1,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Squirtle Champion",
+    "desc": "Choose Squirtle as your starter and beat the game",
+    "done": true,
+    "fin": "1,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Kanto Nuzlocke",
+    "desc": "Beat a Gen 1 Nuzlocke run",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Bird Keeper",
+    "desc": "Beat the game with Articuno, Zapdos, and Moltres all on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Kanto Classics",
+    "desc": "Beat Gen 1 with Venusaur, Charizard and Blastoise all on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "One is Enough",
+    "desc": "Beat the game while keeping only 1 Pokémon on your team",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "No Tombstone",
+    "desc": "Beat a Gen 1 Nuzlocke run without a single Pokémon ever fainting",
+    "done": false,
+    "fin": "4,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Minimalist",
+    "desc": "Beat Gen 1 without picking up a single item",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "No TMs",
+    "desc": "Beat Gen 1 without using a TM item or a Move Tutor",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Avoid Poké Balls",
+    "desc": "Beat Gen 1 adding new Pokémon only from ? nodes, never a Catch node",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Ironman",
+    "desc": "Beat the game without stopping at a Pokémon Center",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Frequent Visitor",
+    "desc": "Beat Gen 1 using the Pokémon Center on every map that has one",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Treasure Hunter",
+    "desc": "Beat Gen 1 after picking up 10 or more items",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Type Master",
+    "desc": "Beat Gen 1 with a team that all shares a single type",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Rainbow Team",
+    "desc": "Beat Gen 1 with at least 3 Pokémon and no type shared by any two of them",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Pure Types",
+    "desc": "Beat Gen 1 with a team of at least 3 Pokémon that all have a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Brute Force",
+    "desc": "Beat Gen 1 with a team of at least 3 Pokémon that all attack physically",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Mind Over Matter",
+    "desc": "Beat Gen 1 with a team of at least 3 Pokémon that all attack specially",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Purist",
+    "desc": "Beat Gen 1 with a team of Pokémon that never evolve",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Shiny Squad",
+    "desc": "Beat Gen 1 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Time Traveler",
+    "desc": "Beat the Gen 1 Elite Four without a Gen 1 Pokémon on your team",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Nuzlocke Ironman",
+    "desc": "Beat a Gen 1 Nuzlocke run without using a Pokémon Center",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Bulbasaur Master",
+    "desc": "Beat a Gen 1 Nuzlocke run with Bulbasaur as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Charmander Master",
+    "desc": "Beat a Gen 1 Nuzlocke run with Charmander as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "Squirtle Master",
+    "desc": "Beat a Gen 1 Nuzlocke run with Squirtle as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "League Veteran 31/40",
+    "desc": "Beat Gen 1 40 times | 1/2",
+    "done": false,
+    "fin": "20,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KANTO 25/39",
+    "nombre": "On a Roll",
+    "desc": "Beat Gen 1 three times in a row | 2/2",
+    "done": true,
+    "fin": "done"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Johto",
+    "desc": "",
+    "done": true,
+    "fin": "done"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Chikorita Champion",
+    "desc": "Beat Gen 2 with Chikorita as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Cyndaquil Champion",
+    "desc": "Beat Gen 2 with Cyndaquil as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Totodile Champion",
+    "desc": "Beat Gen 2 with Totodile as your starter",
+    "done": true,
+    "fin": "1,000 ₽ done"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Johto Nuzlocke",
+    "desc": "Beat a Gen 2 Nuzlocke run",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Beast Tamer",
+    "desc": "Beat Gen 2 with Raikou, Entei, and Suicune all on your team",
+    "done": false,
+    "fin": "6,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Lone Survivor",
+    "desc": "Beat Gen 2 without ever defeating your rival (any mode)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Minimalist",
+    "desc": "Beat Gen 2 without picking up a single item",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "No TMs",
+    "desc": "Beat Gen 2 without using a TM item or a Move Tutor",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Avoid Poké Balls",
+    "desc": "Beat Gen 2 adding new Pokémon only from ? nodes, never a Catch node",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Ironman",
+    "desc": "Beat Gen 2 without using a Pokémon Center (any mode)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Frequent Visitor",
+    "desc": "Beat Gen 2 using the Pokémon Center on every map that has one",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Treasure Hunter",
+    "desc": "Beat Gen 2 after picking up 10 or more items",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Type Master",
+    "desc": "Beat Gen 2 with a team that all shares a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Rainbow Team",
+    "desc": "Beat Gen 2 with at least 3 Pokémon and no type shared by any two of them",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Pure Types",
+    "desc": "Beat Gen 2 with a team of at least 3 Pokémon that all have a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Brute Force",
+    "desc": "Beat Gen 2 with a team of at least 3 Pokémon that all attack physically",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Mind Over Matter",
+    "desc": "Beat Gen 2 with a team of at least 3 Pokémon that all attack specially",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Purist",
+    "desc": "Beat Gen 2 with a team of Pokémon that never evolve",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Shiny Squad",
+    "desc": "Beat Gen 2 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Time Traveler",
+    "desc": "Beat the Gen 2 Elite Four without a Gen 2 Pokémon on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Nuzlocke Ironman",
+    "desc": "Beat a Gen 2 Nuzlocke run without using a Pokémon Center",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Chikorita Master",
+    "desc": "Beat a Gen 2 Nuzlocke run with Chikorita as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Cyndaquil Master",
+    "desc": "Beat a Gen 2 Nuzlocke run with Cyndaquil as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "Totodile Master",
+    "desc": "Beat a Gen 2 Nuzlocke run with Totodile as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "League Veteran 1/10",
+    "desc": "Beat Gen 2 10 times | 0/2",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "JOHTO 2/29",
+    "nombre": "On a Roll 0/2",
+    "desc": "Beat Gen 2 twice in a row | 0/2",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Hoenn League Champion",
+    "desc": "Beat the game in Gen 3 (Hoenn)",
+    "done": false,
+    "fin": "2,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Treecko Champion",
+    "desc": "Beat Gen 3 with Treecko as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Torchic Champion",
+    "desc": "Beat Gen 3 with Torchic as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Mudkip Champion",
+    "desc": "Beat Gen 3 with Mudkip as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Hoenn Nuzlocke",
+    "desc": "Beat a Gen 3 Nuzlocke run",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Magma Extinguished",
+    "desc": "Defeat Maxie, leader of Team Magma",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Aqua Drained",
+    "desc": "Defeat Archie, leader of Team Aqua",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Neutral Party",
+    "desc": "Beat Gen 3 without ever fighting Team Aqua or Team Magma",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Primal Duo",
+    "desc": "Beat Gen 3 with both Groudon and Kyogre on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Titan Trio",
+    "desc": "Beat Gen 3 with Regirock, Regice, and Registeel on your team",
+    "done": false,
+    "fin": "9,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Eon Duo",
+    "desc": "Beat Gen 3 with both Latias and Latios on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Eclipse",
+    "desc": "Beat Gen 3 with both Lunatone and Solrock on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Positively Charged",
+    "desc": "Beat Gen 3 with both Plusle and Minun on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Minimalist",
+    "desc": "Beat Gen 3 without picking up a single item",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "No TMs",
+    "desc": "Beat Gen 3 without using a TM item or a Move Tutor",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Avoid Poké Balls",
+    "desc": "Beat Gen 3 adding new Pokémon only from ? nodes, never a Catch node",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Ironman",
+    "desc": "Beat Gen 3 without using a Pokémon Center (any mode)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Frequent Visitor",
+    "desc": "Beat Gen 3 using the Pokémon Center on every map that has one",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Treasure Hunter",
+    "desc": "Beat Gen 3 after picking up 10 or more items",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Type Master",
+    "desc": "Beat Gen 3 with a team that all shares a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Rainbow Team",
+    "desc": "Beat Gen 3 with at least 3 Pokémon and no type shared by any two of them",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Pure Types",
+    "desc": "Beat Gen 3 with a team of at least 3 Pokémon that all have a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Brute Force",
+    "desc": "Beat Gen 3 with a team of at least 3 Pokémon that all attack physically",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Mind Over Matter",
+    "desc": "Beat Gen 3 with a team of at least 3 Pokémon that all attack specially",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Purist",
+    "desc": "Beat Gen 3 with a team of Pokémon that never evolve",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Shiny Squad",
+    "desc": "Beat Gen 3 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Ordinary",
+    "desc": "Beat Gen 3 without a Legendary on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Nuzlocke Ironman",
+    "desc": "Beat a Gen 3 Nuzlocke run without using a Pokémon Center",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Treecko Master",
+    "desc": "Beat a Gen 3 Nuzlocke run with Treecko as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Torchic Master",
+    "desc": "Beat a Gen 3 Nuzlocke run with Torchic as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "Mudkip Master",
+    "desc": "Beat a Gen 3 Nuzlocke run with Mudkip as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "League Veteran 0/10",
+    "desc": "Beat Gen 3 10 times | 0/2",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "HOENN 0/35",
+    "nombre": "On a Roll 0/2",
+    "desc": "Beat Gen 3 twice in a row | 0/2",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Sinnoh League Champion",
+    "desc": "Beat the game in Gen 4 (Sinnoh)",
+    "done": false,
+    "fin": "2,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Turtwig Champion",
+    "desc": "Beat Gen 4 with Turtwig as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Chimchar Champion",
+    "desc": "Beat Gen 4 with Chimchar as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Piplup Champion",
+    "desc": "Beat Gen 4 with Piplup as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Sinnoh Nuzlocke",
+    "desc": "Beat a Gen 4 Nuzlocke run",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Surface Dweller",
+    "desc": "Beat Gen 4 without entering the Underground or Distortion World",
+    "done": false,
+    "fin": "4,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Minimalist",
+    "desc": "Beat Gen 4 without picking up a single item",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "No TMs",
+    "desc": "Beat Gen 4 without using a TM item or a Move Tutor",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Avoid Poké Balls",
+    "desc": "Beat Gen 4 adding new Pokémon only from ? nodes, never a Catch node",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Ironman",
+    "desc": "Beat Gen 4 without using a Pokémon Center (any mode)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Frequent Visitor",
+    "desc": "Beat Gen 4 using the Pokémon Center on every map that has one",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Treasure Hunter",
+    "desc": "Beat Gen 4 after picking up 10 or more items",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Type Master",
+    "desc": "Beat Gen 4 with a team that all shares a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Rainbow Team",
+    "desc": "Beat Gen 4 with at least 3 Pokémon and no type shared by any two of them",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Pure Types",
+    "desc": "Beat Gen 4 with a team of at least 3 Pokémon that all have a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Brute Force",
+    "desc": "Beat Gen 4 with a team of at least 3 Pokémon that all attack physically",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Mind Over Matter",
+    "desc": "Beat Gen 4 with a team of at least 3 Pokémon that all attack specially",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Purist",
+    "desc": "Beat Gen 4 with a team of Pokémon that never evolve",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Shiny Squad",
+    "desc": "Beat Gen 4 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Ordinary",
+    "desc": "Beat Gen 4 without a Legendary on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Nuzlocke Ironman",
+    "desc": "Beat a Gen 4 Nuzlocke run without using a Pokémon Center",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Turtwig Master",
+    "desc": "Beat a Gen 4 Nuzlocke run with Turtwig as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Chimchar Master",
+    "desc": "Beat a Gen 4 Nuzlocke run with Chimchar as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "Piplup Master",
+    "desc": "Beat a Gen 4 Nuzlocke run with Piplup as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "League Veteran 0/10",
+    "desc": "Beat Gen 4 10 times | 0/2",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "SINNOH 0/28",
+    "nombre": "On a Roll 0/2",
+    "desc": "Beat Gen 4 twice in a row | 0/2",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Unova League Champion",
+    "desc": "Beat the game in Gen 5 (Unova)",
+    "done": false,
+    "fin": "2,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Snivy Champion",
+    "desc": "Beat Gen 5 with Snivy as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Tepig Champion",
+    "desc": "Beat Gen 5 with Tepig as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Oshawott Champion",
+    "desc": "Beat Gen 5 with Oshawott as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Unova Nuzlocke",
+    "desc": "Beat a Gen 5 Nuzlocke run",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Hero of Truth",
+    "desc": "Defeat N at all four rival battles in Gen 5",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Truth Untested",
+    "desc": "Beat Gen 5 without ever battling N on the map",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Dream Team",
+    "desc": "Beat Gen 5 with every Pokémon on your team using its Hidden Ability",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Minimalist",
+    "desc": "Beat Gen 5 without picking up a single item",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "No TMs",
+    "desc": "Beat Gen 5 without using a TM item or a Move Tutor",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Avoid Poké Balls",
+    "desc": "Beat Gen 5 adding new Pokémon only from ? nodes, never a Catch node",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Ironman",
+    "desc": "Beat Gen 5 without using a Pokémon Center (any mode)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Frequent Visitor",
+    "desc": "Beat Gen 5 using the Pokémon Center on every map that has one",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Treasure Hunter",
+    "desc": "Beat Gen 5 after picking up 10 or more items",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Type Master",
+    "desc": "Beat Gen 5 with a team that all shares a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Rainbow Team",
+    "desc": "Beat Gen 5 with at least 3 Pokémon and no type shared by any two of them",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Pure Types",
+    "desc": "Beat Gen 5 with a team of at least 3 Pokémon that all have a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Brute Force",
+    "desc": "Beat Gen 5 with a team of at least 3 Pokémon that all attack physically",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Mind Over Matter",
+    "desc": "Beat Gen 5 with a team of at least 3 Pokémon that all attack specially",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Purist",
+    "desc": "Beat Gen 5 with a team of Pokémon that never evolve",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Shiny Squad",
+    "desc": "Beat Gen 5 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Ordinary",
+    "desc": "Beat Gen 5 without a Legendary on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Nuzlocke Ironman",
+    "desc": "Beat a Gen 5 Nuzlocke run without using a Pokémon Center",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Snivy Master",
+    "desc": "Beat a Gen 5 Nuzlocke run with Snivy as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Tepig Master",
+    "desc": "Beat a Gen 5 Nuzlocke run with Tepig as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "Oshawott Master",
+    "desc": "Beat a Gen 5 Nuzlocke run with Oshawott as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "League Veteran 0/10",
+    "desc": "Beat Gen 5 10 times | 0/2",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "UNOVA 0/30",
+    "nombre": "On a Roll 0/2",
+    "desc": "Beat Gen 5 twice in a row | 0/2",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Kalos League Champion",
+    "desc": "Beat the game in Gen 6 (Kalos)",
+    "done": false,
+    "fin": "2,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Chespin Champion",
+    "desc": "Beat Gen 6 with Chespin as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Fennekin Champion",
+    "desc": "Beat Gen 6 with Fennekin as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Froakie Champion",
+    "desc": "Beat Gen 6 with Froakie as your starter",
+    "done": false,
+    "fin": "1,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Kalos Nuzlocke",
+    "desc": "Beat a Gen 6 Nuzlocke run",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Lights Out, Lysandre",
+    "desc": "Defeat Lysandre when Team Flare comes for you",
+    "done": false,
+    "fin": "7,500 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Flare Extinguished",
+    "desc": "Beat Gen 6 after defeating 5 Team Flare Grunts in one run",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Tower of Mastery",
+    "desc": "Beat Gen 6 after winning Korrina's 1-on-1 against her Mega Lucario",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Horde Breaker",
+    "desc": "Beat Gen 6 after winning 5 horde battles in that run",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Mega-Free Kalos",
+    "desc": "Beat Gen 6 with no Mega-Evolved Pokémon on your team",
+    "done": false,
+    "fin": "7,500 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Pure Kalos",
+    "desc": "Beat Gen 6 with only Gen 6 Pokémon on your team",
+    "done": false,
+    "fin": "7,500 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Abandon Wisdom",
+    "desc": "Beat Gen 6 without battling Professor Sycamore",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Abandon Power",
+    "desc": "Beat Gen 6 without taking Korrina's Mega Lucario 1-on-1",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Abandon Legacy",
+    "desc": "Beat Gen 6 without fighting the Master Ball legendary",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Abandon Everything",
+    "desc": "Beat Gen 6 without Sycamore, Korrina or the Master Ball",
+    "done": false,
+    "fin": "15,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Mirror Match",
+    "desc": "Beat Diantha with a Mega Gardevoir of your own in the fight",
+    "done": false,
+    "fin": "7,500 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "David & Lucario",
+    "desc": "Win Korrina's 1-on-1 with a Pokémon that can still evolve",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Kanto Revival",
+    "desc": "Beat Gen 6 with Sycamore's Kanto starter Mega Evolved",
+    "done": false,
+    "fin": "7,500 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Second Wind",
+    "desc": "Land a fight's final KO with the Pokémon Xerneas revived",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Last Rites",
+    "desc": "Finish Diantha's Mega Gardevoir with Yveltal",
+    "done": false,
+    "fin": "10,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Grand Design",
+    "desc": "Win a fight you would have lost, by reordering the foe with Zygarde's Aura of Order",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Fairy tale",
+    "desc": "Beat all four Elite Four members with at least 3 Fairy-type Pokémon on your team",
+    "done": false,
+    "fin": "10,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Dragon Slayer",
+    "desc": "Beat Drasna with only Fairy-type Pokémon fighting",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Tag Team",
+    "desc": "Beat the Pokémon League with your starter and Sycamore's Kanto starter dealing over half your damage",
+    "done": false,
+    "fin": "15,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Minimalist",
+    "desc": "Beat Gen 6 without picking up a single item",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "No TMs",
+    "desc": "Beat Gen 6 without using a TM item or a Move Tutor",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Avoid Poké Balls",
+    "desc": "Beat Gen 6 adding new Pokémon only from ? nodes, never a Catch node",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Ironman",
+    "desc": "Beat Gen 6 without using a Pokémon Center (any mode)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Frequent Visitor",
+    "desc": "Beat Gen 6 using the Pokémon Center on every map that has one",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Treasure Hunter",
+    "desc": "Beat Gen 6 after picking up 10 or more items",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Type Master",
+    "desc": "Beat Gen 6 with a team that all shares a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Rainbow Team",
+    "desc": "Beat Gen 6 with at least 3 Pokémon and no type shared by any two of them",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Pure Types",
+    "desc": "Beat Gen 6 with a team of at least 3 Pokémon that all have a single type",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Brute Force",
+    "desc": "Beat Gen 6 with a team of at least 3 Pokémon that all attack physically",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Mind Over Matter",
+    "desc": "Beat Gen 6 with a team of at least 3 Pokémon that all attack specially",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Purist",
+    "desc": "Beat Gen 6 with a team of Pokémon that never evolve",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Shiny Squad",
+    "desc": "Beat Gen 6 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Ordinary",
+    "desc": "Beat Gen 6 without a Legendary on your team",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Nuzlocke Ironman",
+    "desc": "Beat a Gen 6 Nuzlocke run without using a Pokémon Center",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Chespin Master",
+    "desc": "Beat a Gen 6 Nuzlocke run with Chespin as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Fennekin Master",
+    "desc": "Beat a Gen 6 Nuzlocke run with Fennekin as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "Froakie Master",
+    "desc": "Beat a Gen 6 Nuzlocke run with Froakie as your starter",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "League Veteran 0/10",
+    "desc": "Beat Gen 6 10 times | 0/2",
+    "done": false,
+    "fin": "5,000 ₽ RUN"
+   },
+   {
+    "tab": "story",
+    "reg": "KALOS 0/46",
+    "nombre": "On a Roll 0/2",
+    "desc": "Beat Gen 6 twice in a row | 0/2",
+    "done": false,
+    "fin": "3,000 ₽ RUN"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Battle Tower",
+    "desc": "Defeat Zinnia and clear Stage 7 (ORAS) of Battle Tower | 7/7",
+    "done": true,
+    "fin": "done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Tower Tycoon",
+    "desc": "Clear Battle Tower stage 7 (ORAS) in Hardcore | 0/2",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Second Lap",
+    "desc": "Clear the same Battle Tower stage 5 times",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Regional Regular 3/7",
+    "desc": "Clear every Battle Tower stage at least 3 times",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Clean Sweep",
+    "desc": "Clear a Battle Tower stage without any of your Pokémon fainting",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Oak's Challenge",
+    "desc": "Win a Stage 1 run starting with Bulbasaur, Charmander, or Squirtle",
+    "done": true,
+    "fin": "2,000 ₽ done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Elm's Challenge",
+    "desc": "Win a Stage 2 run starting with Chikorita, Cyndaquil, or Totodile",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Birch's Challenge",
+    "desc": "Win a Stage 3 run starting with Treecko, Torchic, or Mudkip",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Rowan's Challenge",
+    "desc": "Win a Stage 4 run starting with Turtwig, Chimchar, or Piplup",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Juniper's Challenge",
+    "desc": "Win a Stage 5 run starting with Snivy, Tepig, or Oshawott",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Sycamore's Challenge",
+    "desc": "Win a Stage 6 run starting with Chespin, Fennekin, or Froakie",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Birch's Encore",
+    "desc": "Win a Stage 7 (ORAS) run starting with Treecko, Torchic, or Mudkip",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Copycat",
+    "desc": "Clear a Battle Tower stage with a starter from the final boss's own team (Pikachu against Ash, Garchomp against Cynthia, and so on)",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Rock Smash",
+    "desc": "Beat Steven Stone with a team where every Pokémon is Fire, Fighting or Ground type",
+    "done": true,
+    "fin": "5,000 ₽ done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Cold Front",
+    "desc": "Knock out Cynthia's Garchomp with an Ice-type move",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Dragon of Ideals",
+    "desc": "Beat N with Reshiram or Zekrom on your team",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Eternal Flower",
+    "desc": "Beat AZ with a Fairy-type Pokémon landing the final blow",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Draconid Rival",
+    "desc": "Beat Zinnia with a Mega Evolved Pokémon on your team",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Untouchable",
+    "desc": "Beat a Battle Tower stage's final boss without taking any damage",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Monotype Tower",
+    "desc": "Clear a Battle Tower stage with a team of at least 3 Pokémon that all share one type | 0/2",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Starter Squad",
+    "desc": "Clear a Battle Tower stage with 3 different starter Pokémon on your team (from any region, at any stage)",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Frontier Rules",
+    "desc": "Clear Battle Tower stage 7 (ORAS) with no legendary or mythical Pokémon on your team",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Shiny Tower",
+    "desc": "Clear a Battle Tower stage with 3 shiny Pokémon on your team (Aurora Pokémon count too) | 0/4",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Aurora Climber",
+    "desc": "Clear a Battle Tower stage with an Aurora Pokémon on your team",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Z-Power",
+    "desc": "Clear a Battle Tower stage while holding a Z-Crystal relic",
+    "done": false,
+    "fin": "1,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Charm Bracelet",
+    "desc": "Hold the Shiny Hunter, Legend Lure and Oval Charm at the same time",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Relic Hunter",
+    "desc": "Take 100 relics, counted over all runs",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Hanging On",
+    "desc": "Win a boss battle in the Battle Tower or Challenge Mode with your last Pokémon standing below 10% HP",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Marathon Battle",
+    "desc": "Win a battle in the Battle Tower or Challenge Mode that goes into overtime",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Koga's Lesson",
+    "desc": "Knock out 3 enemies with poison damage in one battle in the Battle Tower or Challenge Mode",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Lucky Streak",
+    "desc": "Land 5 critical hits in one battle in the Battle Tower or Challenge Mode",
+    "done": true,
+    "fin": "1,000 ₽ done"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Super Effective!",
+    "desc": "Win a boss battle in the Battle Tower or Challenge Mode where every hit you landed was super effective",
+    "done": true,
+    "fin": "5,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Wishmaker",
+    "desc": "Win a Challenge run with a legendary Pokémon as the MVP: unlocks the Star Piece starting relic",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Quickening",
+    "desc": "Clear a Challenge run in under 6 minutes | 2/2",
+    "done": true,
+    "fin": "CLAIM 5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Hazard Master",
+    "desc": "Win Challenge Mode 10 times",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Win Streak",
+    "desc": "Clear 10 Challenge runs in a row without a loss",
+    "done": true,
+    "fin": "5,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Heavy Hitter",
+    "desc": "Land a single hit of 2,000 damage or more in a Challenge run",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "It's Super Effective",
+    "desc": "Land 100 super-effective hits in one Challenge run",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Iron Defense",
+    "desc": "Clear a Challenge run with fewer than 3 faints in total",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Gotta Catch Them",
+    "desc": "Catch 15 Pokémon in one Challenge run",
+    "done": false,
+    "fin": "1,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Field Medic",
+    "desc": "Heal 20,000 HP in one Challenge run",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Full Badge Case",
+    "desc": "Clear the Gym Challenge at the Earth Badge level",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Eight Badges, Eight Partners 0/8",
+    "desc": "Clear all 8 Gym Challenge badge levels, each with a different starter",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Soul Survivor",
+    "desc": "Clear the Gym Challenge at the Soul Badge level or higher without your lead Pokémon fainting in any battle",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Double Champion",
+    "desc": "At the Earth Badge level, beat both Champions without any of your Pokémon fainting in either battle",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Humble Beginnings",
+    "desc": "Clear the Gym Challenge at the Earth Badge level with a starter that is not shiny, not Aurora and not legendary",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "World Champion",
+    "desc": "Beat the Elite Four and Champion of all 6 leagues (Kanto to Kalos) in Challenge Mode",
+    "done": true,
+    "fin": "CLAIM 5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Elite Sweep",
+    "desc": "Beat the whole Elite Four and Champion gauntlet without any of your Pokémon fainting",
+    "done": true,
+    "fin": "5,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Counter Pick",
+    "desc": "Beat a Challenge Mode map boss with a team where every Pokémon resists that boss's type",
+    "done": true,
+    "fin": "5,000 ₽ done"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "From the Sidelines",
+    "desc": "Win a Challenge run with your starter still on the team, without it dealing any damage all run",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Single-Minded",
+    "desc": "Win a Challenge run with exactly one trait active in the final battle, at any tier",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "No Sparkle",
+    "desc": "Win a Challenge run without a shiny or Aurora Pokémon ever on your team, starter included",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Weekly Streak 2/4",
+    "desc": "Beat 4 weekly challenges in a row | 0/2",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Daily Habit 3/7",
+    "desc": "Clear the Daily challenge 7 days in a row",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Rainbow Daily 3/18",
+    "desc": "Clear the Daily Mono-Type challenge with all 18 types",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Top Rung",
+    "desc": "Beat the hardest difficulty of a weekly challenge",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Weekly Completionist",
+    "desc": "Beat every difficulty of a weekly challenge that has at least 2",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Endless Normal",
+    "desc": "Reach map 100 in Endless Normal | 1/3",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Endless Hardcore 44/50",
+    "desc": "Reach map 50 in Endless Hardcore | 1/2",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "No Retreat",
+    "desc": "Reach map 30 in Endless Hardcore without any of your Pokémon fainting",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Mutant Menace",
+    "desc": "Beat a Big Boss in Endless Hardcore with a mutated Pokémon on your team",
+    "done": false,
+    "fin": "1,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Signature Style 0/5",
+    "desc": "Take 5 different Signature Items, counted over all runs",
+    "done": false,
+    "fin": "3,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Expanded Bag",
+    "desc": "Fill all 10 relic slots in an Endless Hardcore run",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Kanto",
+    "desc": "Catch all Gen 1 Pokémon across any number of runs",
+    "done": true,
+    "fin": "1,510 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Johto",
+    "desc": "Catch all Gen 2 Pokémon across any number of runs",
+    "done": true,
+    "fin": "1,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Hoenn",
+    "desc": "Catch all Gen 3 Pokémon across any number of runs",
+    "done": true,
+    "fin": "1,350 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Sinnoh",
+    "desc": "Catch all Gen 4 Pokémon across any number of runs",
+    "done": true,
+    "fin": "1,070 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Unova",
+    "desc": "Catch all Gen 5 Pokémon across any number of runs",
+    "done": true,
+    "fin": "1,560 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Kalos",
+    "desc": "Catch all Gen 6 Pokémon across any number of runs",
+    "done": true,
+    "fin": "5,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Pokédex Master",
+    "desc": "Catch every Pokémon across all five generations: unlocks the Shiny Hunter starting relic",
+    "done": true,
+    "fin": "25,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Kanto",
+    "desc": "Have every Gen 1 evolution line in your PC",
+    "done": true,
+    "fin": "15,100 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Johto",
+    "desc": "Have every Gen 2 evolution line in your PC",
+    "done": true,
+    "fin": "10,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Hoenn",
+    "desc": "Have every Gen 3 evolution line in your PC",
+    "done": true,
+    "fin": "13,500 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Sinnoh 37/38",
+    "desc": "Have every Gen 4 evolution line in your PC",
+    "done": false,
+    "fin": "10,700 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Unova 68/69",
+    "desc": "Have every Gen 5 evolution line in your PC",
+    "done": false,
+    "fin": "15,600 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Kalos",
+    "desc": "Have every Gen 6 evolution line in your PC",
+    "done": true,
+    "fin": "7,200 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Kanto 147/151",
+    "desc": "Catch a shiny version of every Gen 1 Pokémon (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "15,100 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Johto 97/100",
+    "desc": "Catch a shiny version of every Gen 2 Pokémon (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "10,000 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Hoenn 126/135",
+    "desc": "Catch a shiny version of every Gen 3 Pokémon (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "13,500 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Sinnoh 96/107",
+    "desc": "Catch a shiny version of every Gen 4 Pokémon (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "10,700 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Unova 147/156",
+    "desc": "Catch a shiny version of every Gen 5 Pokémon (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "15,600 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Kalos 68/72",
+    "desc": "Catch a shiny version of every Gen 6 Pokémon (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "7,200 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Ultimate Shiny Hunter",
+    "desc": "Catch a shiny version of every Pokémon across all gens (Aurora Pokémon count too)",
+    "done": false,
+    "fin": "50,000 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Shiny Collector 681/700",
+    "desc": "Catch 700 different shiny Pokémon (Aurora Pokémon count too) | 6/7",
+    "done": false,
+    "fin": "35,000 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Peak Stats",
+    "desc": "Max out all 5 stats on a single Pokémon | 5/5",
+    "done": true,
+    "fin": "done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Stone Collector",
+    "desc": "Unlock 10 Mega Stones",
+    "done": true,
+    "fin": "3,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Wheeler Dealer 48/100",
+    "desc": "Complete 100 trades across all Story generations",
+    "done": false,
+    "fin": "2,000 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Master Catcher",
+    "desc": "Catch 300 Pokémon at Catch nodes across all Story generations",
+    "done": true,
+    "fin": "4,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Hoarder",
+    "desc": "Pick up 400 items across all Story generations",
+    "done": true,
+    "fin": "8,000 ₽ done"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Lucky Sevens 233/777",
+    "desc": "Open 777 ? nodes across all Story generations",
+    "done": false,
+    "fin": "12,000 ₽"
+   },
+   {
+    "tab": "coll",
+    "reg": "",
+    "nombre": "Battle Legend 3272/5000",
+    "desc": "Win 5,000 trainer battles across all Story generations",
+    "done": false,
+    "fin": "15,000 ₽"
+   }
+  ]
+ }
 }
