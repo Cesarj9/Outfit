@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "2026-11-24: Volador 13 en curso, 3 gimnasios ganados (mapa 4). Equipo: Skarmory, Gyarados, Pelipper, Fletchinder, Hawlucha, Rayquaza. Mega-Rayquaza 8/50.",
- "siguiente_decision": "Reanudar Volador 13 (REANUDAR DESAFÍO). En mapas, Rayquaza detrás (la exp es compartida) y delante solo en jefes.",
+ "ultima_accion_confirmada": "2026-11-24: navegador cerrado por límite de 2 h. Volador 13 en curso: 5 gimnasios ganados, inicio del mapa 6. Rayquaza Nv45 sin Dragon Ascent todavía (tutores en n4_0/n5_1/n6_0). Mega-Rayquaza 8/50.",
+ "siguiente_decision": "Reanudar Volador 13 (REANUDAR DESAFÍO): ruta n1_1 n2_1 n3_2 n4_1 n5_1(tutor Rayquaza) n6_1 n7_1(centro).",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
