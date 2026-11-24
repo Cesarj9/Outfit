@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 112,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 165461,
+  "dinero_visible": 167511,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -29917,6 +29917,26 @@
    "nivel_final": 96,
    "causa_derrota_si_confirmada": "Campeón Blue (Kanto): quedó solo Mewtwo 446/446",
    "aprendizaje": "Kanto entrando con Nv86 casi se gana; Blue cae con Mantine 1º + Rayquaza. Faltó un poco de nivel."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-29",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeona Cynthia)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 11/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Zubat aurora nuevo, primer nodo intento 9, perdido con la derrota)",
+   "intentos_primer_nodo_confirmados": 9,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 117, Crobat aurora 100, Pelipper 102, Talonflame 100, Skarmory 100, Mega-Aerodactyl 101",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Ring Target, Quick Powder, Adrenaline Orb, Berry Juice",
+   "nivel_final": 117,
+   "causa_derrota_si_confirmada": "Campeona Cynthia: KO mutuo (todos los rivales y todo mi equipo a 0 PS); el juego lo da como derrota",
+   "aprendizaje": "Sinnoh con Nv108 de entrada estuvo a un golpe de ganar. Aerodactylita encontrada en el mapa 9."
   }
  ],
  "observaciones": [

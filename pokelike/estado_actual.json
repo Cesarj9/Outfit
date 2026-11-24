@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "2026-11-24: Volador 29 en curso, 8 medallas (inicio mapa 9). Rayquaza Nv96 con Dragon Ascent; Crobat aurora (nuevo, pendiente de victoria), Pelipper, Talonflame, Skarmory, Mega-Aerodactyl. Mega-Rayquaza 11/50.",
- "siguiente_decision": "Reanudar Volador 29 (REANUDAR DESAFÍO): mapa 9 y Liga.",
+ "ultima_accion_confirmada": "2026-11-24: Volador 29 DERROTA (Cynthia, KO mutuo). Mega-Rayquaza 11/50.",
+ "siguiente_decision": "Iniciar Volador 30 cuando César diga sigue.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -50,10 +50,8 @@
   "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
   "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
  ],
- "run_actual": "mono-flying-2026-11-24-29 (Rayquaza)",
- "capturas_pendientes_registro": [
-  "Zubat AURORA (nuevo; Golbat en equipo) — primer nodo intento 9, Volador 29"
- ],
+ "run_actual": null,
+ "capturas_pendientes_registro": [],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
  "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras.",
