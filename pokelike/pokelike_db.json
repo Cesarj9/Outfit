@@ -29837,6 +29837,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "Campeón Lance (Johto) Nv135-140: quedaron Zekrom 359/427 y Rayquaza 444/444",
    "aprendizaje": "Dragon Ascent llegó tarde (mapa 5) y el nivel quedó en 95 al entrar a la Liga de Johto. Lance sigue pidiendo Nv110+."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-25",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "2",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 11/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Hawlucha aurora nuevo, intento 23, perdido con la derrota)",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 11, Hawlucha aurora 12, Fletchling 13, Rufflet 12",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Stardust",
+   "nivel_final": 13,
+   "causa_derrota_si_confirmada": "Mapa 2: dos nodos de hierba dejaron al equipo KO y un Científico Nv18 remató (equipo Nv11-13)",
+   "aprendizaje": "El mapa 1 con 2 objetos y 1 captura dejó el equipo en Nv8-10: hace falta pasar por 3-4 entrenadores en el mapa 1. La hierba del mapa 2 es peligrosa con equipo bajo."
   }
  ],
  "observaciones": [
