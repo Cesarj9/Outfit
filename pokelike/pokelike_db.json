@@ -29355,6 +29355,26 @@
    "nivel_final": 100,
    "causa_derrota_si_confirmada": "Campeón Mirto (Teselia, no cura) a Nv100 contra Nv135-140: solo cayó Volcarona. Catleya dejó a Groudon a 173/456 y Marshal se llevó a Starmie y Lanturn.",
    "aprendizaje": "Partida reanudada tras cierre del navegador (seguía en la pantalla de orden). En el Desafío de Gimnasios normal los Campeones llegan con Nv135-140 y mi equipo llega a ~Nv100: hace falta Roca Suave/Geostal Z o más nivel para el Campeón."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-1",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 0/50) + aurora nuevo",
+   "capturas_pendientes": "LEDYBA AURORA (nuevo, primer nodo intento 12) — perdido",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 103, Hawlucha 103, Swellow 103, Xatu shiny 103, Ledian aurora 103, Delibird 103",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Focus Sash, Shiny Guard, Charti Berry, Prism Scale",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "Campeón Steven (Hoenn, todo Acero Nv135-140): el Acero resiste Volador/Psíquico/Bicho/Hielo; solo bajó un Metagross a 117/361.",
+   "aprendizaje": "Sidney, Fátima (Rayquaza 1º, barridos sin daño), Glacia (Hawlucha 1º) y Drake (Delibird 1º) bien. Falta respuesta a Acero en Mono-Volador: coger Gligar/Gliscor (Tierra/Volador), Moltres/Charizard/Talonflame (Fuego) o Zapdos. Proteger en las tiradas a Aerodactyl, Skarmory, Gligar y voladores Fuego."
   }
  ],
  "observaciones": [
