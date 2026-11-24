@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "2026-11-24: Volador 29 DERROTA (Cynthia, KO mutuo). Mega-Rayquaza 11/50.",
- "siguiente_decision": "Iniciar Volador 30 cuando César diga sigue.",
+ "ultima_accion_confirmada": "2026-11-24: Volador 30 GANADA (Kalos). Fletchling aurora nuevo verificado. Mega-Rayquaza 12/50.",
+ "siguiente_decision": "Iniciar Volador 31.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -63,7 +63,7 @@
  },
  "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca).",
  "progreso_mega_rayquaza": {
-  "mvp": 11,
+  "mvp": 12,
   "meta": 50,
   "fecha": "2026-11-24"
  }

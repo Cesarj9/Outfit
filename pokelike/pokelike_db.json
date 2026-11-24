@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 112,
+  "total_auroras_pc": 113,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 167511,
+  "dinero_visible": 168011,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -23578,8 +23578,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -23592,7 +23592,8 @@
    "fecha_verificacion": "2026-11-20",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "nota_aurora": "Aurora verificado en PC 2026-11-24 (Volador 30)"
   },
   {
    "linea_id": 664,
@@ -29937,6 +29938,26 @@
    "nivel_final": 117,
    "causa_derrota_si_confirmada": "Campeona Cynthia: KO mutuo (todos los rivales y todo mi equipo a 0 PS); el juego lo da como derrota",
    "aprendizaje": "Sinnoh con Nv108 de entrada estuvo a un golpe de ganar. Aerodactylita encontrada en el mapa 9."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-30",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 12/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "FLETCHLING AURORA (nuevo, primer nodo intento 17, evolucionado a Talonflame; verificado en PC)",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 114, Talonflame aurora 110, Mantine 112, Delibird 112, Hawlucha 112, Sigilyph shiny 112",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Soothe Bell, Power Lens, Pure Incense, Swift Wing",
+   "nivel_final": 114,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Kalos ganada con Nv104 de entrada. Mapa 1 por entrenadores (Nv16 al gimnasio 1). Dragon Ascent por MT en mapa 4. MVP 248,339/249,927."
   }
  ],
  "observaciones": [
