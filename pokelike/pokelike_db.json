@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 111,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 163661,
+  "dinero_visible": 164961,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -29776,6 +29776,26 @@
    "nivel_final": 125,
    "causa_derrota_si_confirmada": "Campeón Steven (Hoenn): 3 Metagross + Aggron + Heatran + Jirachi Nv135-140; Dragon Ascent resistido por Acero, solo se dañó el primer Metagross",
    "aprendizaje": "Contra Steven hace falta Fuego/Agua/Lucha fuertes y con nivel (Talonflame Nv109 no basta). Rayquaza llegó a Nv125 con Huevo Suerte + Polvo Estelar."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-22",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 10/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (20 sin aurora nuevo; Drifloon shiny intento 29)",
+   "intentos_primer_nodo_confirmados": 29,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 100, Pelipper shiny 96, Talonflame 95, Aerodactyl 95, Emolga 95, Hawlucha 91",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Razor Claw, Sun Stone, Salac Berry, Flyinium Z",
+   "nivel_final": 100,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Teselia; Rayquaza primero salvo Grimsley (Hawlucha). Alder con Dragón: Rayquaza 1º y barrió. Dragon Ascent por tutor en mapa 4."
   }
  ],
  "observaciones": [
