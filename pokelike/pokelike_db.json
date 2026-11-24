@@ -29756,6 +29756,26 @@
    "nivel_final": 94,
    "causa_derrota_si_confirmada": "Campeón Blue (Kanto, sin curas) Nv135-140 con equipo Nv94; Rayquaza solo",
    "aprendizaje": "Dragon Ascent en mapa 2 pero se llegó a la Liga con Nv86: las rutas del mapa 9 fueron de hierba. Kanto necesita Nv105+."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-21",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Steven)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 9/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (20 sin aurora nuevo; Ledyba aurora ya registrado, intento 21)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 125, Talonflame 109, Swanna 105, Charizard shiny 111, Ledian aurora 111, Hawlucha 106",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Focus Sash, Stardust, Oran Berry, Sky Plate",
+   "nivel_final": 125,
+   "causa_derrota_si_confirmada": "Campeón Steven (Hoenn): 3 Metagross + Aggron + Heatran + Jirachi Nv135-140; Dragon Ascent resistido por Acero, solo se dañó el primer Metagross",
+   "aprendizaje": "Contra Steven hace falta Fuego/Agua/Lucha fuertes y con nivel (Talonflame Nv109 no basta). Rayquaza llegó a Nv125 con Huevo Suerte + Polvo Estelar."
   }
  ],
  "observaciones": [
