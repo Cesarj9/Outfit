@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 113,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 168011,
+  "dinero_visible": 168511,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -29958,6 +29958,26 @@
    "nivel_final": 114,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kalos ganada con Nv104 de entrada. Mapa 1 por entrenadores (Nv16 al gimnasio 1). Dragon Ascent por MT en mapa 4. MVP 248,339/249,927."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-31",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 13/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (20 sin aurora nuevo; Tropius shiny intento 29)",
+   "intentos_primer_nodo_confirmados": 29,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 97, Mandibuzz aurora 91, Charizard shiny 92, Pelipper shiny 90, Gyarados 89, Aerodactyl 90",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Salac Berry, Power Bracer, Prism Scale, Soothe Bell",
+   "nivel_final": 97,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Teselia ganada con Rayquaza 1º en todo; MVP 109,333/109,333. Dragon Ascent por tutor en mapa 5; dos Caramelos Raros en Rayquaza."
   }
  ],
  "observaciones": [
