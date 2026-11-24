@@ -29635,6 +29635,26 @@
    "nivel_final": 92,
    "causa_derrota_si_confirmada": "Liga de Kanto sin curas: Rayquaza cayó contra Bruno (Nv112-116) y el equipo contra Lance (Nv124-128). Equipo Nv88-92.",
    "aprendizaje": "Dragon Ascent por MT en mapa 2 y Rayquaza primero barrió los mapas, pero el nivel quedó bajo (gimnasios 6-8 a +20-30 niveles). Hace falta Huevo Suerte/Polvo Estelar/Caramelos y rutas con más entrenadores."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-15",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Lance)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (20 sin aurora nuevo; Aerodactyl shiny intento 24)",
+   "intentos_primer_nodo_confirmados": 24,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 96, Aerodactyl shiny 95, Mandibuzz 95, Pelipper 95, Talonflame shiny 95, Scizor 89",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Sky Plate, Air Balloon, Flyinium Z, Power Bracer",
+   "nivel_final": 96,
+   "causa_derrota_si_confirmada": "Campeón Lance (Johto) Nv135-140; Rayquaza entró con media vida (Johto no cura del todo).",
+   "aprendizaje": "Dragon Ascent llegó en mapa 4 por tutor. En Johto llegar con Nv110+ es necesario contra Lance."
   }
  ],
  "observaciones": [
