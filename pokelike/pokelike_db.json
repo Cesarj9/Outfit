@@ -29395,6 +29395,26 @@
    "nivel_final": 28,
    "causa_derrota_si_confirmada": "Mapa 4: un evento ? dejó 5 debilitados y un Venomoth salvaje Nv39 acabó con Hawlucha (equipo Nv23-28).",
    "aprendizaje": "Rayquaza cayó dos veces en el mapa 2-3 yendo delante a nivel bajo y perdió experiencia; el equipo llegó al mapa 4 muy por debajo (Nv23 vs Nv39). Los nodos ? pueden ser combates duros. En Mono-Volador priorizar rutas con más combates fáciles al principio y no arriesgar a Rayquaza delante hasta que tenga nivel."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-3",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP + aurora nuevo",
+   "capturas_pendientes": "FARFETCH'D AURORA (nuevo, primer nodo) — perdido",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 98, Pidgeot 98, Staraptor 98, Swanna 98, Hawlucha 98, Farfetch'd aurora 98",
+   "reliquias_finales": "Shiny Hunter, Charti Berry, Chilan Berry, Big Root, Legend Might, Leaf Stone",
+   "nivel_final": 98,
+   "causa_derrota_si_confirmada": "Campeón Steven (Hoenn, Acero) otra vez: llegaron los 6 vivos pero solo bajaron un Metagross a 161/361.",
+   "aprendizaje": "Sidney, Fátima y Drake barridos por Rayquaza; Glacia con Hawlucha. Steven (Metagross x3, Aggron, Heatran, Jirachi) es el muro del Mono-Volador: hace falta Fuego (Talonflame/Charizard/Moltres/Ho-Oh), Eléctrico (Emolga/Zapdos) o Tierra (Gligar/Landorus). Elegir esos en las capturas aunque sean más flojos."
   }
  ],
  "observaciones": [
