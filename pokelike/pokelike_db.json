@@ -29375,6 +29375,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "Campeón Steven (Hoenn, todo Acero Nv135-140): el Acero resiste Volador/Psíquico/Bicho/Hielo; solo bajó un Metagross a 117/361.",
    "aprendizaje": "Sidney, Fátima (Rayquaza 1º, barridos sin daño), Glacia (Hawlucha 1º) y Drake (Delibird 1º) bien. Falta respuesta a Acero en Mono-Volador: coger Gligar/Gliscor (Tierra/Volador), Moltres/Charizard/Talonflame (Fuego) o Zapdos. Proteger en las tiradas a Aerodactyl, Skarmory, Gligar y voladores Fuego."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-2",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Mapa 4",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP + aurora nuevo",
+   "capturas_pendientes": "NATU AURORA (nuevo, primer nodo intento 27) — perdido",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 27,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 26, Ducklett 28, Xatu aurora 28, Hawlucha 24, Skarmory shiny 23, Aerodactyl 23",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Light Clay, Adrenaline Orb, Soothe Bell",
+   "nivel_final": 28,
+   "causa_derrota_si_confirmada": "Mapa 4: un evento ? dejó 5 debilitados y un Venomoth salvaje Nv39 acabó con Hawlucha (equipo Nv23-28).",
+   "aprendizaje": "Rayquaza cayó dos veces en el mapa 2-3 yendo delante a nivel bajo y perdió experiencia; el equipo llegó al mapa 4 muy por debajo (Nv23 vs Nv39). Los nodos ? pueden ser combates duros. En Mono-Volador priorizar rutas con más combates fáciles al principio y no arriesgar a Rayquaza delante hasta que tenga nivel."
   }
  ],
  "observaciones": [
