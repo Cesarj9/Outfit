@@ -30142,6 +30142,26 @@
    "nivel_final": 117,
    "causa_derrota_si_confirmada": "Campeón Steven (Hoenn): Metagross x3 + Aggron, Heatran, Jirachi Nv135-140; Scizor y Talonflame caídos vs Glacia",
    "aprendizaje": "Hoenn otra vez: sin Agua y con Fuego gastado en Glacia, Steven es imposible. Con Liga de Hoenn hay que llevar Agua fuerte y no usar Fuego/Acero contra Glacia si caen."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-40",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeona Cynthia)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 18/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (Ledyba aurora ya registrado, primer nodo intento 21)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Ledian aurora 118, Mega Scizor 112, Rayquaza 110, Talonflame 107, Togekiss 106, Pelipper 100",
+   "reliquias_finales": "Shiny Hunter, Charti Berry, Flying Gem, Stardust, Big Root, Sky Plate",
+   "nivel_final": 118,
+   "causa_derrota_si_confirmada": "Campeona Cynthia (Sinnoh): cayó todo el equipo dejando a Giratina 411/570; Pelipper, Togekiss y Talonflame gastados vs Bertha/Flint",
+   "aprendizaje": "Sinnoh no cura a los debilitados. Faltó muy poco: preservar Togekiss (Hada) para Cynthia y no usar a Pelipper primero contra Bertha (cayó)."
   }
  ],
  "observaciones": [
