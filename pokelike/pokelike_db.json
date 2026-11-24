@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 109,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 159961,
+  "dinero_visible": 160461,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -29534,6 +29534,26 @@
    "nivel_final": 115,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Teselia (cura entre combates) ganada con Rayquaza delante en todo; MVP 121,036/122,119. Rayquaza cayó en mapa 2 por ir delante sin curas y quedó 5 niveles por detrás, pero aun así fue MVP. Sigilyph shiny liberado por Masquerain aurora."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-10",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 6/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (20 intentos sin aurora nuevo; fase 2: Doduo aurora ya registrado, intento 22)",
+   "intentos_primer_nodo_confirmados": 22,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 108, Swanna 104, Gliscor 104, Dodrio aurora 104, Togekiss 104, Crobat 104",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Soothe Bell, Swift Wing, Focus Sash, Prism Scale",
+   "nivel_final": 108,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Sinnoh ganada con Rayquaza delante en todo; MVP 140,356/140,746. Dragon Ascent por tutor en mapa 2. Huevo Suerte en Rayquaza. KEEP de cnode es lista separada por comas (keep.env)."
   }
  ],
  "observaciones": [
