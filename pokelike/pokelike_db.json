@@ -29857,6 +29857,26 @@
    "nivel_final": 13,
    "causa_derrota_si_confirmada": "Mapa 2: dos nodos de hierba dejaron al equipo KO y un Científico Nv18 remató (equipo Nv11-13)",
    "aprendizaje": "El mapa 1 con 2 objetos y 1 captura dejó el equipo en Nv8-10: hace falta pasar por 3-4 entrenadores en el mapa 1. La hierba del mapa 2 es peligrosa con equipo bajo."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-26",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Blue)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 11/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (20 sin aurora nuevo; Taillow shiny intento 21)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 96, Swanna 92, Hawlucha 92, Swellow shiny 90, Honchkrow 90, Swoobat aurora 88",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Sky Plate, Prism Scale, Ring Target, Adrenaline Orb",
+   "nivel_final": 96,
+   "causa_derrota_si_confirmada": "Campeón Blue (Kanto) Nv135-140: barrida total sin daño al rival",
+   "aprendizaje": "Kanto con Nv88 de entrada no es viable contra Blue; el mapa 9 tuvo pocos entrenadores."
   }
  ],
  "observaciones": [
