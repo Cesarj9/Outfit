@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 116,
+  "total_auroras_pc": 117,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 170811,
+  "dinero_visible": 171311,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -18800,8 +18800,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18814,7 +18814,8 @@
    "fecha_verificacion": "2026-11-20",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "nota_aurora": "Aurora conseguido en Volador 37 (primer nodo intento 12), verificado en PC 2026-11-24"
   },
   {
    "linea_id": 278,
@@ -30081,6 +30082,23 @@
    "nivel_final": 122,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kanto ganada: Blue con Scizor 1º (Acero resiste Roca de Aerodactyl) y Rayquaza 2º. Lorelei: Talonflame/Scizor/Archeops delante. Zumo de Baya + Gafas Especiales + Volador T4. MVP 116,463/121,081."
+  },
+  {
+   "id_partida": "mono-flying-2026-11-24-37",
+   "modo": "Gym Challenge",
+   "desafio": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version": "3.8",
+   "fecha": "2026-11-24",
+   "progreso": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivo": "Rayquaza MVP (Mega-Rayquaza 17/50) + aurora nuevo",
+   "capturas_aurora": "TAILLOW AURORA (nuevo, primer nodo intento 12, evolucionado a Swellow; verificado en PC)",
+   "intentos_primer_nodo": 12,
+   "equipo_final": "Rayquaza 110, Togekiss 108, Hawlucha 108, Vivillon shiny 106, Archeops 106, Swellow aurora 106",
+   "reliquias": "Shiny Hunter, Dragon Tera Shard, Float Stone, Booster Energy, Power Bracer, Charti Berry",
+   "nivel_max": 110,
+   "notas": "Liga de Teselia ganada. Dragon Ascent en mapa 6 (tutores mapas 4 y 6). Sin curación entre Alto Mando: Caitlin tumbó a 3. Alder (Dragón T2) con Rayquaza 1º: barrida. MVP 54,198 daño / 106 KO."
   }
  ],
  "observaciones": [
