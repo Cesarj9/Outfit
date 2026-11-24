@@ -31,11 +31,11 @@
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 103,
+   "pc_aurora": 105,
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 103,
+  "total_auroras_pc": 105,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
   "dinero_visible": {
    "valor": 156111,
@@ -19951,8 +19951,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19962,10 +19962,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Volador 5 y verificado en PC 2026-11-24."
   },
   {
    "linea_id": 359,
@@ -21251,8 +21251,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -21262,10 +21262,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Volador 5 y verificado en PC 2026-11-24."
   },
   {
    "linea_id": 459,
@@ -29435,6 +29435,26 @@
    "nivel_final": 101,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kanto: Lorelei (Hawlucha 1º), Bruno/Agatha/Lance barridos por Rayquaza sin daño, Blue con Rayquaza 1º. Equipo con cobertura Fuego/Agua/Roca/Lucha/Siniestro. MT + tutor en el mapa 1 dieron Ascenso Draco muy pronto. MVP Rayquaza 122,761/132,754."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-5",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 2/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "TROPIUS AURORA y MANTYKE AURORA (nuevos; verificados en PC)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 95, Swanna 93, Mantine aurora 93, Gliscor 93, Tropius aurora 93, Talonflame 87",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Pure Incense, Prism Scale, Rock Incense, Wise Glasses",
+   "nivel_final": 95,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Kanto otra vez: Lorelei (Talonflame/Mantine/Swanna), Bruno/Agatha/Lance/Blue con Rayquaza 1º. Cinta Elección en Rayquaza + Gafas Especiales + Incienso Puro. MVP Rayquaza 82,002/87,605."
   }
  ],
  "observaciones": [
