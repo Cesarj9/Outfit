@@ -29897,6 +29897,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "Hoenn sin curas completas: Talonflame, Pelipper y Emolga cayeron contra Glacia; Steven (3 Metagross) barrió a Rayquaza",
    "aprendizaje": "Contra Glacia no gastar a Talonflame/Pelipper: guardarlos para Steven. Glacia: Emolga/Farfetch’d/Togekiss delante. Mapa 1 con entrenadores (GRASSSC 1.5) dio Nv17 al gimnasio 1."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-28",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Blue)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 11/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Delibird aurora nuevo del mapa 2 perdido con la derrota; primer nodo: Rufflet shiny intento 25)",
+   "intentos_primer_nodo_confirmados": 25,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 96, Mantine 96, Delibird aurora 96, Talonflame 94, Mandibuzz shiny 91, Braviary shiny 92",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Booster Energy, Power Bracer, Focus Sash, Stardust",
+   "nivel_final": 96,
+   "causa_derrota_si_confirmada": "Campeón Blue (Kanto): quedó solo Mewtwo 446/446",
+   "aprendizaje": "Kanto entrando con Nv86 casi se gana; Blue cae con Mantine 1º + Rayquaza. Faltó un poco de nivel."
   }
  ],
  "observaciones": [
