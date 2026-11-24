@@ -31,11 +31,11 @@
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 102,
+   "pc_aurora": 103,
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 102,
+  "total_auroras_pc": 103,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
   "dinero_visible": {
    "valor": 156111,
@@ -23126,8 +23126,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -23137,10 +23137,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Volador 4 y verificado en PC 2026-11-24."
   },
   {
    "linea_id": 631,
@@ -29415,6 +29415,26 @@
    "nivel_final": 98,
    "causa_derrota_si_confirmada": "Campeón Steven (Hoenn, Acero) otra vez: llegaron los 6 vivos pero solo bajaron un Metagross a 161/361.",
    "aprendizaje": "Sidney, Fátima y Drake barridos por Rayquaza; Glacia con Hawlucha. Steven (Metagross x3, Aggron, Heatran, Jirachi) es el muro del Mono-Volador: hace falta Fuego (Talonflame/Charizard/Moltres/Ho-Oh), Eléctrico (Emolga/Zapdos) o Tierra (Gligar/Landorus). Elegir esos en las capturas aunque sean más flojos."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-4",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 1/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "VULLABY AURORA (nuevo, primer nodo; verificado en PC: shiny -> aurora)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 101, Swanna 99, Aerodactyl 99, Mandibuzz aurora 99, Hawlucha 99, Talonflame 99",
+   "reliquias_finales": "Shiny Hunter, Charti Berry, Rock Incense, Adrenaline Orb, Prism Scale, Sky Plate",
+   "nivel_final": 101,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Kanto: Lorelei (Hawlucha 1º), Bruno/Agatha/Lance barridos por Rayquaza sin daño, Blue con Rayquaza 1º. Equipo con cobertura Fuego/Agua/Roca/Lucha/Siniestro. MT + tutor en el mapa 1 dieron Ascenso Draco muy pronto. MVP Rayquaza 122,761/132,754."
   }
  ],
  "observaciones": [

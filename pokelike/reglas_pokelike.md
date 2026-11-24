@@ -61,3 +61,8 @@ Verificar todo en el PC real antes de usarlo.
 - Meta de César: Groudon Primigenio = 50 victorias de desafío con Groudon como MVP (contador en Brazalete Mega, botón `btn-mega-nav`).
 - Reliquias prioritarias Tierra: Roca Suave, Geostal Z, Disco Tierra, Banda Atadura + Cascabel Alivio, Servicio Raro, Incienso Acua. Groudon delante salvo contra voladores/Agua/Hielo.
 - Cuando cambie el diario, seguir con el Desafío de Gimnasios normal usando Groudon (las victorias MVP en cualquier desafío cuentan).
+
+**Volador / Mega-Rayquaza (2026-11-24)**
+- Meta: Mega-Rayquaza = 50 victorias de desafío con Rayquaza MVP. Misma ley de primer nodo.
+- Equipo ganador: Rayquaza + Fuego (Fletchling→Talonflame) + Agua (Ducklett→Swanna) + Roca (Aerodactyl) + Lucha (Hawlucha) + Siniestro (Vullaby). Steven (Acero) gana a equipos sin Fuego/Agua/Lucha.
+- Rayquaza detrás en combates de mapa hasta tener Ascenso Draco y nivel; delante en jefes salvo contra Hielo.
