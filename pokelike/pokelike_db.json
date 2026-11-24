@@ -29615,6 +29615,26 @@
    "nivel_final": 53,
    "causa_derrota_si_confirmada": "Científico Nv63 en mapa 6 con el equipo agotado; sin centro y Rayquaza solo con Tornado (no hubo tutor hasta mapa 6)",
    "aprendizaje": "Sin tutor temprano Rayquaza se queda con Tornado y el equipo pierde nivel relativo. Elegir rutas con poke-center y tutor; no pasar por ? y hierba con el equipo dañado. Olvidé CATCH=1 en mapa 1 (equipo de 2)."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-14",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 4/5 (Lance)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Fletchling aurora nuevo del primer nodo, intento 4, perdido con la derrota)",
+   "intentos_primer_nodo_confirmados": 4,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 90, Talonflame 90, Archeops 92, Hawlucha 92, Swanna 92, Noivern 92",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Soothe Bell, Booster Energy, Adrenaline Orb, Pure Incense",
+   "nivel_final": 92,
+   "causa_derrota_si_confirmada": "Liga de Kanto sin curas: Rayquaza cayó contra Bruno (Nv112-116) y el equipo contra Lance (Nv124-128). Equipo Nv88-92.",
+   "aprendizaje": "Dragon Ascent por MT en mapa 2 y Rayquaza primero barrió los mapas, pero el nivel quedó bajo (gimnasios 6-8 a +20-30 niveles). Hace falta Huevo Suerte/Polvo Estelar/Caramelos y rutas con más entrenadores."
   }
  ],
  "observaciones": [
