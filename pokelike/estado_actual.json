@@ -1,72 +1,72 @@
 {
- "fecha": "2026-11-23",
- "version_juego": "v3.8",
- "bloqueo": null,
- "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
- "inicial": "Tentacool aurora (consejo de César)",
- "objetivo_actual": "Mega-Rayquaza: 50 victorias de desafío con Rayquaza como MVP (empezando por el diario Mono-Volador). Misma ley de primer nodo (20 intentos aurora nuevo, luego aurora/shiny). César quiere ver cada decisión.",
- "objetivos_registrados_verificados_por_este_agente": [
-  "Charmander aurora (PC+Pokédex)",
-  "Tentacool aurora (PC+Pokédex)",
-  "Riolu aurora #447 (victoria Mono-Lucha 6 + PC, 2026-11-21)",
-  "Chimchar aurora #390 (victoria Mono-Lucha 6 + PC, 2026-11-21)"
- ],
- "objetivos_registrados_segun_traspaso": [
-  "Charmander aurora (16/11/2026)",
-  "Tentacool aurora #072 (17/11/2026)"
- ],
- "objetivos_pendientes": [
-  "Gastly aurora",
-  "Bulbasaur aurora",
-  "Heracross aurora",
-  "Meditite aurora",
-  "Squirtle aurora (diario Agua)"
- ],
- "busqueda_primer_nodo": {
-  "run": "mono-poison-2026-11-22-6",
-  "intentos_confirmados": 148,
-  "resultado": "GASTLY AURORA (objetivo)"
- },
- "excepciones_temporales_activas": [
-  "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
-  "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
- ],
- "ultima_accion_confirmada": "2026-11-24: Volador 37 en curso, gimnasio 1 ganado (inicio mapa 2). Rayquaza Nv17 (Tornado, Gafas Elección), Taillow aurora (nuevo, pendiente). Mega-Rayquaza 16/50.",
- "siguiente_decision": "Reanudar Volador 37 (REANUDAR DESAFÍO) en el mapa 2; buscar tutor.",
- "auditorias_pendientes": [
-  "fichas de detalle del PC (objeto inicial, megapiedra)",
-  "formas mega en Pokédex",
-  "rasgos desde la UI en partida",
-  "notas de parche a tablas"
- ],
- "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/",
- "cuenta": {
-  "valor_previo": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
-  "dinero_visible_2026_11_23": 172077
- },
- "notas_ui": [
-  "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
-  "La cuenta tiene la interfaz en español (se carga desde la nube).",
-  "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
-  "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
- ],
- "run_actual": "mono-flying-2026-11-24-37 (Rayquaza)",
- "capturas_pendientes_registro": [
-  "Taillow AURORA (nuevo) — primer nodo intento 12, Volador 37"
- ],
- "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
- "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
- "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras.",
- "progreso_primal_groudon": {
-  "mvp": 17,
-  "meta": 50,
   "fecha": "2026-11-23",
-  "fuente": "Mega Bracelet (botón btn-mega-nav) → Primal Groudon x/50 MVP"
- },
- "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca).",
- "progreso_mega_rayquaza": {
-  "mvp": 16,
-  "meta": 50,
-  "fecha": "2026-11-24"
- }
+  "version_juego": "v3.8",
+  "bloqueo": null,
+  "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
+  "inicial": "Tentacool aurora (consejo de César)",
+  "objetivo_actual": "Mega-Rayquaza: 50 victorias de desafío con Rayquaza como MVP (empezando por el diario Mono-Volador). Misma ley de primer nodo (20 intentos aurora nuevo, luego aurora/shiny). César quiere ver cada decisión.",
+  "objetivos_registrados_verificados_por_este_agente": [
+    "Charmander aurora (PC+Pokédex)",
+    "Tentacool aurora (PC+Pokédex)",
+    "Riolu aurora #447 (victoria Mono-Lucha 6 + PC, 2026-11-21)",
+    "Chimchar aurora #390 (victoria Mono-Lucha 6 + PC, 2026-11-21)"
+  ],
+  "objetivos_registrados_segun_traspaso": [
+    "Charmander aurora (16/11/2026)",
+    "Tentacool aurora #072 (17/11/2026)"
+  ],
+  "objetivos_pendientes": [
+    "Gastly aurora",
+    "Bulbasaur aurora",
+    "Heracross aurora",
+    "Meditite aurora",
+    "Squirtle aurora (diario Agua)"
+  ],
+  "busqueda_primer_nodo": {
+    "run": "mono-poison-2026-11-22-6",
+    "intentos_confirmados": 148,
+    "resultado": "GASTLY AURORA (objetivo)"
+  },
+  "excepciones_temporales_activas": [
+    "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
+    "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
+  ],
+  "ultima_accion_confirmada": "Volador 37 en curso: gimnasio 2 (Bicho) ganado, reliquia Porcehelado; inicio mapa 3. Equipo Rayquaza Nv25, Swellow aurora, Vivillon shiny, Archen, Togetic",
+  "siguiente_decision": "Reanudar Volador 37 (REANUDAR DESAFÍO) en el mapa 2; buscar tutor.",
+  "auditorias_pendientes": [
+    "fichas de detalle del PC (objeto inicial, megapiedra)",
+    "formas mega en Pokédex",
+    "rasgos desde la UI en partida",
+    "notas de parche a tablas"
+  ],
+  "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/",
+  "cuenta": {
+    "valor_previo": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
+    "dinero_visible_2026_11_23": 172077
+  },
+  "notas_ui": [
+    "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
+    "La cuenta tiene la interfaz en español (se carga desde la nube).",
+    "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
+    "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
+  ],
+  "run_actual": "mono-flying-2026-11-24-37 (Rayquaza)",
+  "capturas_pendientes_registro": [
+    "Taillow AURORA (nuevo) — primer nodo intento 12, Volador 37"
+  ],
+  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
+  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
+  "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras.",
+  "progreso_primal_groudon": {
+    "mvp": 17,
+    "meta": 50,
+    "fecha": "2026-11-23",
+    "fuente": "Mega Bracelet (botón btn-mega-nav) → Primal Groudon x/50 MVP"
+  },
+  "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca).",
+  "progreso_mega_rayquaza": {
+    "mvp": 16,
+    "meta": 50,
+    "fecha": "2026-11-24"
+  }
 }
