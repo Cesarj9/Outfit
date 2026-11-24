@@ -31,7 +31,7 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Volador 39 perdida contra Steven (Liga de Hoenn 5/5). Mega-Rayquaza sigue 17/50.",
+  "ultima_accion_confirmada": "Volador 40 en curso: 8 gimnasios ganados. Primer nodo: Ledyba aurora (ya registrado) intento 21. Rayquaza Nv95 con Dragon Ascent; Mega Scizor, Togekiss, Talonflame, Ledian aurora, Pelipper.",
   "siguiente_decision": "Reanudar Volador 37 (REANUDAR DESAFÍO) en el mapa 2; buscar tutor.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -50,7 +50,7 @@
     "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
     "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
   ],
-  "run_actual": null,
+  "run_actual": "mono-flying-2026-11-24-40 (Rayquaza)",
   "capturas_pendientes_registro": [],
   "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
   "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
