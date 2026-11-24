@@ -29655,6 +29655,26 @@
    "nivel_final": 96,
    "causa_derrota_si_confirmada": "Campeón Lance (Johto) Nv135-140; Rayquaza entró con media vida (Johto no cura del todo).",
    "aprendizaje": "Dragon Ascent llegó en mapa 4 por tutor. En Johto llegar con Nv110+ es necesario contra Lance."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-16",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "5 (gimnasio Volkner)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (20 sin aurora nuevo; Farfetch’d shiny intento 22)",
+   "intentos_primer_nodo_confirmados": 22,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 44, Scizor 43, Vullaby 45, Farfetch’d shiny 45, Talonflame 43, Swanna 41",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Power Herb, Legend Might, Power Bracer, Booster Energy",
+   "nivel_final": 45,
+   "causa_derrota_si_confirmada": "Gimnasio Eléctrico (Volkner Nv55-58) con equipo Nv41-45; Rayquaza solo con Tajo Aéreo (sin Dragon Ascent: un tutor en 4 mapas)",
+   "aprendizaje": "Sin Dragon Ascent antes del mapa 4 la run se hunde. El gimnasio 5 escala a Nv55+."
   }
  ],
  "observaciones": [
