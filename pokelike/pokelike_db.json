@@ -30182,6 +30182,26 @@
    "nivel_final": 107,
    "causa_derrota_si_confirmada": "Campeón Lance (Johto) Nv135-140 (Kyurem/Zekrom/Rayquaza) contra Rayquaza+Scizor solos; Johto no revive y Bruno/Koga tumbaron a 4",
    "aprendizaje": "Johto: el Alto Mando desgasta mucho; hacen falta Nv115+ para llegar con equipo entero a Lance."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-42",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeona Diantha)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 18/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo: Pidove shiny intento 32; Gyarados shiny evento)",
+   "intentos_primer_nodo_confirmados": 32,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 101, Charizard 97, Gyarados shiny 93, Mandibuzz 91, Pelipper 89, Hawlucha 89",
+   "reliquias_finales": "Shiny Hunter, Legend Lure, Dragon Skull, Razor Claw, Berry Juice, Air Balloon, Stardust",
+   "nivel_final": 101,
+   "causa_derrota_si_confirmada": "Campeona Diantha (Kalos) Nv135-140; Siebold tumbó a 4 (equipo Nv87-93 vs Nv112+)",
+   "aprendizaje": "Kalos con equipo <Nv100 no se gana. Los niveles del Alto Mando (112-128) exigen llegar con Nv110+."
   }
  ],
  "observaciones": [
