@@ -30102,6 +30102,26 @@
    "nivel_final": 110,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Teselia ganada. Dragon Ascent en mapa 6 (tutores mapas 4 y 6). Sin curación entre Alto Mando: Caitlin tumbó a 3. Alder (Dragón T2) con Rayquaza 1º: barrida. MVP 54,198 daño / 106 KO."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-38",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeona Diantha)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 18/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (Hoothoot aurora ya registrado, primer nodo intento 23; Aerodactyl/Emolga/Masquerain shiny ya en PC)",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 92, Masquerain shiny 92, Talonflame 92, Emolga shiny 91, Mega Aerodactyl shiny 90, Swanna 84",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Salac Berry, Pure Incense, Stardust, Float Stone",
+   "nivel_final": 92,
+   "causa_derrota_si_confirmada": "Campeona Diantha (Kalos) Nv135-140 contra equipo Nv84-92; sin curación entre Alto Mando",
+   "aprendizaje": "Esta partida los niveles de jefes escalaron fuerte (gim 6 Nv86-90, gim 7 Nv102-106) y el equipo llegó a la Liga con Nv~90: muy por debajo. Hace falta más exp en mapas (más entrenadores) y/o Polvo Estelar/Huevo Suerte antes. Kalos no cura entre combates."
   }
  ],
  "observaciones": [
