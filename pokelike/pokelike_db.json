@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 110,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 160961,
+  "dinero_visible": 161461,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -29575,6 +29575,26 @@
    "nivel_final": 115,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kanto ganada; MVP 227,359/231,331. Lorelei: Talonflame delante, Rayquaza último. Blue: Pelipper delante contra Aerodactyl. MT x2 y Caramelo Raro en Rayquaza."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-12",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (20 intentos sin aurora nuevo; Tropius shiny intento 21)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 102, Salamence shiny, Gyarados, Gliscor shiny, Crobat shiny, Talonflame",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Razor Claw, Shiny Guard, Prism Scale, Booster Energy",
+   "nivel_final": 102,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Kanto; MVP Rayquaza 103,271/107,561. Lorelei: Talonflame delante, Rayquaza último; Blue: Gyarados delante."
   }
  ],
  "observaciones": [
