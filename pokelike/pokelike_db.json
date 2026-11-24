@@ -29999,6 +29999,26 @@
    "nivel_final": 102,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Johto ganada con Nv92 de entrada (Lance con Nv100 y el equipo a tope): Zumo de Baya + Volador T6 cura mucho entre turnos. Mento/Karen: Archeops 1º; Koga/Bruno/Lance: Rayquaza 1º."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-33",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeona Diantha)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 14/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (20 sin aurora nuevo; Combee shiny intento 21)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 115, Scizor 115, Charizard 115, Gyarados 115, Skarmory 115, Delibird 115",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Resonance, Oran Berry, Air Balloon, Swift Wing",
+   "nivel_final": 115,
+   "causa_derrota_si_confirmada": "Campeona Diantha: quedaron Goodra 244/396, Hawlucha y Xerneas",
+   "aprendizaje": "Diantha es dura incluso con Nv115: Gardevoir-mega y Xerneas (Hada). Hace falta Veneno/Acero fuerte y más daño."
   }
  ],
  "observaciones": [
