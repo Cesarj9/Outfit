@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 107,
+  "total_auroras_pc": 109,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 159461,
+  "dinero_visible": 159961,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -17872,8 +17872,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -17886,7 +17886,8 @@
    "fecha_verificacion": "2026-11-20",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "nota_aurora": "Aurora verificado en PC 2026-11-24 (Volador 9)"
   },
   {
    "linea_id": 209,
@@ -18872,8 +18873,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18886,7 +18887,8 @@
    "fecha_verificacion": "2026-11-20",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "nota_aurora": "Aurora verificado en PC 2026-11-24 (Volador 9)"
   },
   {
    "linea_id": 285,
@@ -29512,6 +29514,26 @@
    "nivel_final": 116,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Johto ganada: Rayquaza 395,443/396,547 de daño. Llegar a Nv112 (antes 78) bastó contra Lance Nv140. Reliquias de velocidad (Gema Voladora, Pluma Ímpetu, Tabla Cielo, Aerostal Z) + Volador T5. Karen: Mantine delante por Weavile. Dragon Ascent por tutor en mapa 4."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-9",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 5/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "GLIGAR AURORA (nuevo, primer nodo intento 5, evolucionado a Gliscor) + SURSKIT AURORA (nuevo, Masquerain en evento ? mapa 8); ambos verificados en PC",
+   "intentos_primer_nodo_confirmados": 5,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 110, Togekiss 115, Aerodactyl 115, Gliscor aurora 115, Hawlucha 115, Masquerain aurora 114",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Swift Wing, Soothe Bell, Air Balloon, Flyinium Z",
+   "nivel_final": 115,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Teselia (cura entre combates) ganada con Rayquaza delante en todo; MVP 121,036/122,119. Rayquaza cayó en mapa 2 por ir delante sin curas y quedó 5 niveles por detrás, pero aun así fue MVP. Sigilyph shiny liberado por Masquerain aurora."
   }
  ],
  "observaciones": [
