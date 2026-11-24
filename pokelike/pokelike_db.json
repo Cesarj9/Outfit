@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 110,
+  "total_auroras_pc": 111,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 161711,
+  "dinero_visible": 163661,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -17372,8 +17372,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -17386,7 +17386,8 @@
    "fecha_verificacion": "2026-11-20",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "nota_aurora": "Aurora verificado en PC 2026-11-24 (Volador 19)"
   },
   {
    "linea_id": 167,
@@ -29715,6 +29716,26 @@
    "nivel_final": 102,
    "causa_derrota_si_confirmada": "Campeona Diantha (Kalos) Nv135-140: quedó Xerneas a 240/502",
    "aprendizaje": "Liga de Kalos: Malva (Fuego), Siebold, Wikstrom (Gyarados delante), Drasna y Diantha. Por muy poco; faltó algo más de nivel o daño."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-19",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 9/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "LEDYBA AURORA (nuevo, primer nodo intento 17, evolucionado a Ledian; verificado en PC)",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 117, Talonflame 114, Archeops aurora 114, Pelipper shiny 114, Hawlucha 114, Ledian aurora 114",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Salac Berry, Starf Berry, Swift Wing, Razor Claw",
+   "nivel_final": 117,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Sinnoh ganada con Rayquaza primero en todo (Cynthia con Dragón). MVP 115,432/115,609. Llegar a Nv106 a la Liga con rutas de entrenadores; Dragon Ascent por tutor en mapa 4. Cráneo Dragón + Rayquaza delante = casi sin daño."
   }
  ],
  "observaciones": [
