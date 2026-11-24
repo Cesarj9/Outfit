@@ -31,11 +31,11 @@
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 105,
+   "pc_aurora": 106,
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 105,
+  "total_auroras_pc": 106,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
   "dinero_visible": {
    "valor": 156111,
@@ -16826,8 +16826,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -16837,10 +16837,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Volador 6 y verificado en PC 2026-11-24."
   },
   {
    "linea_id": 127,
@@ -29455,6 +29455,26 @@
    "nivel_final": 95,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kanto otra vez: Lorelei (Talonflame/Mantine/Swanna), Bruno/Agatha/Lance/Blue con Rayquaza 1º. Cinta Elección en Rayquaza + Gafas Especiales + Incienso Puro. MVP Rayquaza 82,002/87,605."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-6",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 3/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "SCYTHER AURORA (nuevo, evolucionado a Scizor; verificado en PC)",
+   "intentos_primer_nodo_confirmados": 29,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 103, Swanna 97, Scizor aurora 97, Mandibuzz 96, Archeops shiny 93, Emolga shiny 92",
+   "reliquias_finales": "Shiny Hunter, Flying Gem, Shiny Guard, Soothe Bell, Power Herb, Casteliacone",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Partida reanudada tras cierre del navegador (mapa 9). Liga de Kanto: Lorelei (Archeops/Emolga/Scizor), Bruno y Lance (Rayquaza 1º), Agatha (Mandibuzz 1º), Blue (Swanna 1º contra Aerodactyl, luego Rayquaza). MVP Rayquaza 51,240/56,860."
   }
  ],
  "observaciones": [
