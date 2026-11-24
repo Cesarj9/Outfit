@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 110,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 161461,
+  "dinero_visible": 161711,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -29595,6 +29595,26 @@
    "nivel_final": 102,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Kanto; MVP Rayquaza 103,271/107,561. Lorelei: Talonflame delante, Rayquaza último; Blue: Gyarados delante."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-13",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "6",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (20 intentos sin aurora nuevo; Wingull shiny intento 23)",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Talonflame 53, Rayquaza 49, Pelipper 47, Hawlucha 51, Skarmory 52, Gyarados 50",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Flying Gem, Legend Might, Prism Scale, Iron Ball",
+   "nivel_final": 53,
+   "causa_derrota_si_confirmada": "Científico Nv63 en mapa 6 con el equipo agotado; sin centro y Rayquaza solo con Tornado (no hubo tutor hasta mapa 6)",
+   "aprendizaje": "Sin tutor temprano Rayquaza se queda con Tornado y el equipo pierde nivel relativo. Elegir rutas con poke-center y tutor; no pasar por ? y hierba con el equipo dañado. Olvidé CATCH=1 en mapa 1 (equipo de 2)."
   }
  ],
  "observaciones": [
