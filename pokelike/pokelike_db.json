@@ -29877,6 +29877,26 @@
    "nivel_final": 96,
    "causa_derrota_si_confirmada": "Campeón Blue (Kanto) Nv135-140: barrida total sin daño al rival",
    "aprendizaje": "Kanto con Nv88 de entrada no es viable contra Blue; el mapa 9 tuvo pocos entrenadores."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-27",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Steven)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 11/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (20 sin aurora nuevo; Farfetch’d shiny intento 26)",
+   "intentos_primer_nodo_confirmados": 26,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 103, Farfetch’d shiny 101, Togekiss 103, Talonflame 98, Emolga 99, Pelipper 98",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Dragon Skull, Razor Claw, Weakness Policy, Ring Target, Stardust",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "Hoenn sin curas completas: Talonflame, Pelipper y Emolga cayeron contra Glacia; Steven (3 Metagross) barrió a Rayquaza",
+   "aprendizaje": "Contra Glacia no gastar a Talonflame/Pelipper: guardarlos para Steven. Glacia: Emolga/Farfetch’d/Togekiss delante. Mapa 1 con entrenadores (GRASSSC 1.5) dio Nv17 al gimnasio 1."
   }
  ],
  "observaciones": [
