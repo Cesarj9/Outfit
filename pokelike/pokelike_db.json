@@ -30084,21 +30084,24 @@
    "aprendizaje": "Liga de Kanto ganada: Blue con Scizor 1º (Acero resiste Roca de Aerodactyl) y Rayquaza 2º. Lorelei: Talonflame/Scizor/Archeops delante. Zumo de Baya + Gafas Especiales + Volador T4. MVP 116,463/121,081."
   },
   {
-   "id_partida": "mono-flying-2026-11-24-37",
+   "run_id": "mono-flying-2026-11-24-37",
    "modo": "Gym Challenge",
-   "desafio": "Daily: Mono-Flying Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
    "inicial": "Rayquaza",
-   "version": "3.8",
-   "fecha": "2026-11-24",
-   "progreso": "Liga 5/5",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
    "resultado": "VICTORIA",
-   "objetivo": "Rayquaza MVP (Mega-Rayquaza 17/50) + aurora nuevo",
-   "capturas_aurora": "TAILLOW AURORA (nuevo, primer nodo intento 12, evolucionado a Swellow; verificado en PC)",
-   "intentos_primer_nodo": 12,
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 17/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "TAILLOW AURORA (nuevo, primer nodo intento 12, evolucionado a Swellow; verificado en PC)",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
    "equipo_final": "Rayquaza 110, Togekiss 108, Hawlucha 108, Vivillon shiny 106, Archeops 106, Swellow aurora 106",
-   "reliquias": "Shiny Hunter, Dragon Tera Shard, Float Stone, Booster Energy, Power Bracer, Charti Berry",
-   "nivel_max": 110,
-   "notas": "Liga de Teselia ganada. Dragon Ascent en mapa 6 (tutores mapas 4 y 6). Sin curación entre Alto Mando: Caitlin tumbó a 3. Alder (Dragón T2) con Rayquaza 1º: barrida. MVP 54,198 daño / 106 KO."
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Float Stone, Booster Energy, Power Bracer, Charti Berry",
+   "nivel_final": 110,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Teselia ganada. Dragon Ascent en mapa 6 (tutores mapas 4 y 6). Sin curación entre Alto Mando: Caitlin tumbó a 3. Alder (Dragón T2) con Rayquaza 1º: barrida. MVP 54,198 daño / 106 KO."
   }
  ],
  "observaciones": [
