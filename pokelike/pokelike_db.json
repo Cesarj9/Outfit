@@ -29475,6 +29475,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Partida reanudada tras cierre del navegador (mapa 9). Liga de Kanto: Lorelei (Archeops/Emolga/Scizor), Bruno y Lance (Rayquaza 1º), Agatha (Mandibuzz 1º), Blue (Swanna 1º contra Aerodactyl, luego Rayquaza). MVP Rayquaza 51,240/56,860."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-7",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Lance)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 3/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Farfetch’d, Fletchling/Talonflame y Hoothoot aurora perdidos con la derrota; PC sin cambios)",
+   "intentos_primer_nodo_confirmados": "",
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 78, Hawlucha 75, Talonflame aurora 75, Pelipper 75, Noctowl aurora 76, Farfetch’d aurora 75",
+   "reliquias_finales": "Shiny Hunter, Dragon Tera Shard, Big Root, Leaf Stone, Prism Scale, Berry Juice",
+   "nivel_final": 78,
+   "causa_derrota_si_confirmada": "Campeón Lance (Liga de Johto) con equipo Nv135-140 (Dragonite, Garchomp, Kingdra, Kyurem, Zekrom, Rayquaza); solo cayó Dragonite",
+   "aprendizaje": "Liga de Johto escala muy alto: el campeón llega a Nv140 frente a Nv78. Run de 18 min con poco nivel; hay que farmear más nivel antes de la liga (más nodos de entrenador/hierba)."
   }
  ],
  "observaciones": [
