@@ -4,7 +4,7 @@
  "bloqueo": null,
  "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
  "inicial": "Tentacool aurora (consejo de César)",
- "objetivo_actual": "Primal Groudon: 50 victorias de desafío con Groudon como MVP (Mono-Tierra diario). Ley primer nodo: 20 intentos aurora nuevo, luego aurora/shiny.",
+ "objetivo_actual": "Mega-Rayquaza: 50 victorias de desafío con Rayquaza como MVP (empezando por el diario Mono-Volador). Misma ley de primer nodo (20 intentos aurora nuevo, luego aurora/shiny). César quiere ver cada decisión.",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)",
@@ -31,7 +31,7 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "2026-11-24: sesión cerrada (Rasecj9) y navegador cerrado a petición de César, que va a jugar él. Dinero visto: 180,727 ₽. Primal Groudon 17/50.",
+ "ultima_accion_confirmada": "2026-11-24: sesión iniciada, refresco de BD hecho.",
  "siguiente_decision": "Esperar a César (juega el Alto Mando). Después, si gana, verificar Bulbasaur aurora en el PC y registrar.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -61,5 +61,10 @@
   "fecha": "2026-11-23",
   "fuente": "Mega Bracelet (botón btn-mega-nav) → Primal Groudon x/50 MVP"
  },
- "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca)."
+ "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca).",
+ "progreso_mega_rayquaza": {
+  "mvp": 0,
+  "meta": 50,
+  "fecha": "2026-11-24"
+ }
 }

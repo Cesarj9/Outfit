@@ -21,26 +21,31 @@
    "reliquias": 207,
    "objetos_equipables": 37,
    "objetos_utilizables": 4,
-   "fecha": "2026-11-23",
+   "fecha": "2026-11-24",
    "fuente": "UI v3.7.1, sesión anónima",
    "pc_lineas_desbloqueadas": 311,
    "pc_legendarios": 41,
-   "pokedex_shiny": 681,
-   "pokedex_aurora": 297,
+   "pokedex_shiny": 682,
+   "pokedex_aurora": 313,
    "amuletos_activos": [
     "Shiny Charm",
     "Aurora Charm"
    ],
-   "pc_aurora": 101,
+   "pc_aurora": 102,
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 101,
-  "ultima_actualizacion": "2026-11-23: refresco tras juego de César (borrado de caché + login). PC 356 tarjetas (98 aurora, 294 shiny+), Pokédex shiny 681, aurora 297, dinero 172,077 ₽, logros auditados.",
+  "total_auroras_pc": 102,
+  "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
   "dinero_visible": {
-   "valor": 172077,
-   "fecha": "2026-11-23",
-   "fuente": "Menú principal tras borrar caché y volver a iniciar sesión"
+   "valor": 156111,
+   "fecha": "2026-11-24",
+   "fuente": "Menú principal tras iniciar sesión"
+  },
+  "megas": {
+   "fecha": "2026-11-24",
+   "desbloqueadas": "27/48",
+   "texto": "27/48 desbloqueados\n\n¡Has conseguido el Mega Bracelet! Desbloquea cada Mega Stone a medida que la línea evolutiva de su Pokémon acumula victorias MVP en partidas de Desafío ganadas. Empieza una partida de Torre de Combate o de Desafío con un inicial compatible y este llevará la piedra: Mega Evoluciona en cada combate.\n\nMVP DE 1 PARTIDA DE DESAFÍO GANADA\n16/24\nMega-Venusaur\n✓ Desbloqueado\nMega-Blastoise\n✓ Desbloqueado\nMega-Charizard Y\n✓ Desbloqueado\nMega-Kangaskhan\n✓ Desbloqueado\nMega-Ampharos\n✓ Desbloqueado\nMega-Houndoom\n✓ Desbloqueado\nMega-Blaziken\n✓ Desbloqueado\nMega-Mawile\n✓ Desbloqueado\nMega-Aggron\n✓ Desbloqueado\nMega-Medicham\n✓ Desbloqueado\nMega-Manectric\n✓ Desbloqueado\nMega-Banette\n✓ Desbloqueado\nMega-Abomasnow\n✓ Desbloqueado\nMega-Sceptile\n✓ Desbloqueado\nMega-Swampert\n0/1 MVP\nMega-Beedrill\n0/1 MVP\nMega-Pidgeot\n✓ Desbloqueado\nMega-Audino\n0/1 MVP\nMega-Sableye\n0/1 MVP\nMega-Glalie\n0/1 MVP\nMega-Camerupt\n0/1 MVP\nMega-Sharpedo\n0/1 MVP\nMega-Lopunny\n0/1 MVP\nMega-Altaria\n✓ Desbloqueado\nMVP DE 5 PARTIDAS DE DESAFÍO GANADAS\n7/8\nMega-Pinsir\n✓ Desbloqueado\nMega-Heracross\n✓ Desbloqueado\nMega-Lucario\n✓ Desbloqueado\nMega-Gardevoir\n✓ Desbloqueado\nMega-Tyranitar\n✓ Desbloqueado\nMega-Slowbro\n0/5 MVP\nMega-Steelix\n✓ Desbloqueado\nMega-Gallade\n✓ Desbloqueado\nMVP DE 10 PARTIDAS DE DESAFÍO GANADAS\n4/9\nMega-Absol\n9/10 MVP\nMega-Garchomp\n✓ Desbloqueado\nMega-Scizor\n✓ Desbloqueado\nMega-Gyarados\n0/10 MVP\nMega-Gengar\n✓ Desbloqueado\nMega-Alakazam\n2/10 MVP\nMega-Aerodactyl\n✓ Desbloqueado\nMega-Salamence\n0/10 MVP\nMega-Metagross\n0/10 MVP\nMVP DE 50 PARTIDAS DE DESAFÍO GANADAS\n0/7\nMega-Mewtwo Y\n8/50 MVP\nMega-Latias\n10/50 MVP\nMega-Latios\n0/50 MVP\nMega-Diancie\n1/50 MVP\nMega-Rayquaza\n0/50 MVP\nKyogre Primigenio\n0/50 MVP\nGroudon Primigenio\n17/50 MVP\nEVENTO\n0/2\nMega-Charizard X\nPróximamente\nMega-Mewtwo X\nPróximamente"
   }
  },
  "especies_formas": [
@@ -4175,11 +4180,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -4671,11 +4676,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -4692,11 +4697,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -4996,11 +5001,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -5017,11 +5022,11 @@
    "generacion_si_visible": 2,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -6821,11 +6826,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -6842,11 +6847,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7316,11 +7321,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7338,11 +7343,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 3",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7403,11 +7408,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -7425,11 +7430,11 @@
    "generacion_si_visible": 3,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -8495,11 +8500,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -8517,11 +8522,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 3 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -10003,11 +10008,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 1 • Map 2 • Map 6 • Map 7 • Map 8 • Map 9 • Map 4 • Map 5",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -10110,11 +10115,11 @@
    "generacion_si_visible": 4,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 2 • Map 3 • Map 4",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -11431,11 +11436,11 @@
    "generacion_si_visible": 5,
    "desbloqueada_en_pokedex": "SI",
    "shiny_en_pokedex": "SI",
-   "aurora_en_pokedex": "NO",
+   "aurora_en_pokedex": "SI",
    "ubicaciones_visibles": "Battle Tower: Map 4 • Map 5 • Map 6 • Map 7 • Map 8 • Map 9",
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -15460,12 +15465,12 @@
    ],
    "generacion_si_visible": 6,
    "desbloqueada_en_pokedex": "SI",
-   "shiny_en_pokedex": "NO",
+   "shiny_en_pokedex": "SI",
    "aurora_en_pokedex": "NO",
    "ubicaciones_visibles": null,
    "fuente": "Pokédex (pestañas POKÉDEX/SHINY/AURORA, filtro ALL, 721 tarjetas sin virtualizar)",
    "version_juego": "3.7.1",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "confianza": "alta",
    "notas": "NO = la pestaña muestra ??? en una revisión completa de 721/721 tarjetas"
   },
@@ -17671,8 +17676,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -17682,10 +17687,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-20",
+   "fecha_verificacion": "2026-11-24",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | aurora visto en PC 2026-11-24."
   },
   {
    "linea_id": 194,
@@ -29453,255 +29458,254 @@
   }
  ],
  "logros": {
-  "fecha": "2026-11-23",
-  "cabecera": "27 / 207 unlocked || 17 Trainer Rank 17 · Ace Trainer Rank 18: 2 Comet Shards + Background: Office 0/6 to next rank REWARDS",
+  "fecha": "2026-11-24",
+  "cabecera": "27 / 207 desbloqueados || 17 Rango de Entrenador 17 · Entrenador guay Rango 18: 2 Trozos Cometa + Fondo: Oficina 3/6 para el siguiente rango RECOMPENSAS",
   "pestanas": [
-   "STORY 27/207",
-   "BATTLE TOWER 14/43",
-   "CHALLENGES 12/36 2",
-   "COLLECTION 25/38"
+   "HISTORIA 27/207",
+   "TORRE BATALLA 15/43 1",
+   "DESAFÍOS 14/36 4",
+   "COLECCIÓN 25/38"
   ],
-  "recompensas_sin_reclamar": "2 (CLAIM ALL 10,000 ₽: Quickening 5,000 + World Champion 5,000) — no reclamadas por el agente",
   "filas": [
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Badges",
-    "desc": "Clear Map 8 and defeat Giovanni | 8/8",
+    "nombre": "Medallas",
+    "desc": "Supera el Mapa 8 y derrota a Giovanni | 8/8",
     "done": true,
-    "fin": "done"
+    "fin": "hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Elite Four Champion",
-    "desc": "Defeat the Kanto Elite Four",
+    "nombre": "Campeón del Alto Mando",
+    "desc": "Derrota al Alto Mando de Kanto",
     "done": true,
-    "fin": "2,000 ₽ done"
+    "fin": "2,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Bulbasaur Champion",
-    "desc": "Choose Bulbasaur as your starter and beat the game",
+    "nombre": "Campeón de Planta",
+    "desc": "Elige a Bulbasaur como inicial y completa el juego",
     "done": true,
-    "fin": "1,000 ₽ done"
+    "fin": "1,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Charmander Champion",
-    "desc": "Choose Charmander as your starter and beat the game",
+    "nombre": "Campeón de Fuego",
+    "desc": "Elige a Charmander como inicial y completa el juego",
     "done": true,
-    "fin": "1,000 ₽ done"
+    "fin": "1,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Squirtle Champion",
-    "desc": "Choose Squirtle as your starter and beat the game",
+    "nombre": "Campeón de Agua",
+    "desc": "Elige a Squirtle como inicial y completa el juego",
     "done": true,
-    "fin": "1,000 ₽ done"
+    "fin": "1,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Kanto Nuzlocke",
-    "desc": "Beat a Gen 1 Nuzlocke run",
+    "nombre": "Nuzlocke de Kanto",
+    "desc": "Completa una partida Nuzlocke de la Gen 1",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Bird Keeper",
-    "desc": "Beat the game with Articuno, Zapdos, and Moltres all on your team",
+    "nombre": "Guardián de las Aves",
+    "desc": "Completa el juego con Articuno, Zapdos y Moltres en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Kanto Classics",
-    "desc": "Beat Gen 1 with Venusaur, Charizard and Blastoise all on your team",
+    "nombre": "Clásicos de Kanto",
+    "desc": "Gana la Gen 1 con Venusaur, Charizard y Blastoise en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "One is Enough",
-    "desc": "Beat the game while keeping only 1 Pokémon on your team",
+    "nombre": "Con Uno Basta",
+    "desc": "Completa el juego manteniendo solo 1 Pokémon en tu equipo",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "No Tombstone",
-    "desc": "Beat a Gen 1 Nuzlocke run without a single Pokémon ever fainting",
+    "nombre": "Sin Lápidas",
+    "desc": "Completa una partida Nuzlocke de la Gen 1 sin que ni un solo Pokémon se debilite jamás",
     "done": false,
-    "fin": "4,000 ₽ RUN"
+    "fin": "4,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Minimalist",
-    "desc": "Beat Gen 1 without picking up a single item",
+    "nombre": "Minimalista",
+    "desc": "Completa la Gen 1 sin recoger ni un solo objeto",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "No TMs",
-    "desc": "Beat Gen 1 without using a TM item or a Move Tutor",
+    "nombre": "Sin MTs",
+    "desc": "Completa la Gen 1 sin usar una MT ni un Maestro de Movimientos",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Avoid Poké Balls",
-    "desc": "Beat Gen 1 adding new Pokémon only from ? nodes, never a Catch node",
+    "nombre": "Evita las Poké Balls",
+    "desc": "Completa la Gen 1 añadiendo Pokémon nuevos solo desde nodos ?: nunca un nodo de captura",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
     "nombre": "Ironman",
-    "desc": "Beat the game without stopping at a Pokémon Center",
+    "desc": "Completa el juego sin parar en un Centro Pokémon",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Frequent Visitor",
-    "desc": "Beat Gen 1 using the Pokémon Center on every map that has one",
+    "nombre": "Cliente Habitual",
+    "desc": "Completa la Gen 1 usando el Centro Pokémon en cada mapa que tenga uno",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Treasure Hunter",
-    "desc": "Beat Gen 1 after picking up 10 or more items",
+    "nombre": "Cazatesoros",
+    "desc": "Completa la Gen 1 tras recoger 10 objetos o más",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Type Master",
-    "desc": "Beat Gen 1 with a team that all shares a single type",
+    "nombre": "Maestro de tipo",
+    "desc": "Completa la Gen 1 con un equipo que comparta un solo tipo",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Rainbow Team",
-    "desc": "Beat Gen 1 with at least 3 Pokémon and no type shared by any two of them",
+    "nombre": "Equipo Arcoíris",
+    "desc": "Completa la Gen 1 con al menos 3 Pokémon sin que dos de ellos compartan tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Pure Types",
-    "desc": "Beat Gen 1 with a team of at least 3 Pokémon that all have a single type",
+    "nombre": "Tipos Puros",
+    "desc": "Completa la Gen 1 con un equipo de al menos 3 Pokémon que tengan un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Brute Force",
-    "desc": "Beat Gen 1 with a team of at least 3 Pokémon that all attack physically",
+    "nombre": "Fuerza Bruta",
+    "desc": "Completa la Gen 1 con un equipo de al menos 3 Pokémon que ataquen todos de forma física",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Mind Over Matter",
-    "desc": "Beat Gen 1 with a team of at least 3 Pokémon that all attack specially",
+    "nombre": "La Mente sobre la Materia",
+    "desc": "Completa la Gen 1 con un equipo de al menos 3 Pokémon que ataquen todos de forma especial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Purist",
-    "desc": "Beat Gen 1 with a team of Pokémon that never evolve",
+    "nombre": "Purista",
+    "desc": "Completa la Gen 1 con un equipo de Pokémon que nunca evolucionan",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Shiny Squad",
-    "desc": "Beat Gen 1 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "nombre": "Escuadrón variocolor",
+    "desc": "Completa la Gen 1 con al menos 3 Pokémon shiny en tu equipo (los Pokémon Aurora también cuentan)",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Time Traveler",
-    "desc": "Beat the Gen 1 Elite Four without a Gen 1 Pokémon on your team",
+    "nombre": "Viajero en el Tiempo",
+    "desc": "Derrota al Alto Mando de la Gen 1 sin un Pokémon de la Gen 1 en tu equipo",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
     "nombre": "Nuzlocke Ironman",
-    "desc": "Beat a Gen 1 Nuzlocke run without using a Pokémon Center",
+    "desc": "Completa una partida Nuzlocke de la Gen 1 sin usar un Centro Pokémon",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Bulbasaur Master",
-    "desc": "Beat a Gen 1 Nuzlocke run with Bulbasaur as your starter",
+    "nombre": "Superviviente de Kanto: Planta",
+    "desc": "Completa una partida Nuzlocke de la Gen 1 con Bulbasaur como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Charmander Master",
-    "desc": "Beat a Gen 1 Nuzlocke run with Charmander as your starter",
+    "nombre": "Superviviente de Kanto: Fuego",
+    "desc": "Completa una partida Nuzlocke de la Gen 1 con Charmander como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "Squirtle Master",
-    "desc": "Beat a Gen 1 Nuzlocke run with Squirtle as your starter",
+    "nombre": "Superviviente de Kanto: Agua",
+    "desc": "Completa una partida Nuzlocke de la Gen 1 con Squirtle como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "League Veteran 31/40",
-    "desc": "Beat Gen 1 40 times | 1/2",
+    "nombre": "Veterano de la Liga 31/40",
+    "desc": "Completa la Gen 1 40 veces | 1/2",
     "done": false,
-    "fin": "20,000 ₽ RUN"
+    "fin": "20,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KANTO 25/39",
-    "nombre": "On a Roll",
-    "desc": "Beat Gen 1 three times in a row | 2/2",
+    "nombre": "En Racha",
+    "desc": "Completa la Gen 1 tres veces seguidas | 2/2",
     "done": true,
-    "fin": "done"
+    "fin": "hecho"
    },
    {
     "tab": "story",
@@ -29709,1717 +29713,1717 @@
     "nombre": "Johto",
     "desc": "",
     "done": true,
-    "fin": "done"
+    "fin": "hecho"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Chikorita Champion",
-    "desc": "Beat Gen 2 with Chikorita as your starter",
+    "nombre": "Campeón de Planta de Johto",
+    "desc": "Completa la Gen 2 con Chikorita como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Cyndaquil Champion",
-    "desc": "Beat Gen 2 with Cyndaquil as your starter",
+    "nombre": "Campeón de Fuego de Johto",
+    "desc": "Completa la Gen 2 con Cyndaquil como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Totodile Champion",
-    "desc": "Beat Gen 2 with Totodile as your starter",
+    "nombre": "Campeón de Agua de Johto",
+    "desc": "Completa la Gen 2 con Totodile como inicial",
     "done": true,
-    "fin": "1,000 ₽ done"
+    "fin": "1,000 ₽ hecho"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Johto Nuzlocke",
-    "desc": "Beat a Gen 2 Nuzlocke run",
+    "nombre": "Nuzlocke de Johto",
+    "desc": "Completa una partida Nuzlocke de la Gen 2",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Beast Tamer",
-    "desc": "Beat Gen 2 with Raikou, Entei, and Suicune all on your team",
+    "nombre": "Domador de Bestias",
+    "desc": "Completa la Gen 2 con Raikou, Entei y Suicune en tu equipo",
     "done": false,
-    "fin": "6,000 ₽ RUN"
+    "fin": "6,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Lone Survivor",
-    "desc": "Beat Gen 2 without ever defeating your rival (any mode)",
+    "nombre": "Solitario Superviviente",
+    "desc": "Completa la Gen 2 sin derrotar jamás a tu rival (cualquier modo)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Minimalist",
-    "desc": "Beat Gen 2 without picking up a single item",
+    "nombre": "Minimalista",
+    "desc": "Completa la Gen 2 sin recoger ni un solo objeto",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "No TMs",
-    "desc": "Beat Gen 2 without using a TM item or a Move Tutor",
+    "nombre": "Sin MTs",
+    "desc": "Completa la Gen 2 sin usar una MT ni un Maestro de Movimientos",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Avoid Poké Balls",
-    "desc": "Beat Gen 2 adding new Pokémon only from ? nodes, never a Catch node",
+    "nombre": "Evita las Poké Balls",
+    "desc": "Completa la Gen 2 añadiendo Pokémon nuevos solo desde nodos ?: nunca un nodo de captura",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
     "nombre": "Ironman",
-    "desc": "Beat Gen 2 without using a Pokémon Center (any mode)",
+    "desc": "Completa la Gen 2 sin usar un Centro Pokémon (cualquier modo)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Frequent Visitor",
-    "desc": "Beat Gen 2 using the Pokémon Center on every map that has one",
+    "nombre": "Cliente Habitual",
+    "desc": "Completa la Gen 2 usando el Centro Pokémon en cada mapa que tenga uno",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Treasure Hunter",
-    "desc": "Beat Gen 2 after picking up 10 or more items",
+    "nombre": "Cazatesoros",
+    "desc": "Completa la Gen 2 tras recoger 10 objetos o más",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Type Master",
-    "desc": "Beat Gen 2 with a team that all shares a single type",
+    "nombre": "Maestro de tipo",
+    "desc": "Completa la Gen 2 con un equipo que comparta un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Rainbow Team",
-    "desc": "Beat Gen 2 with at least 3 Pokémon and no type shared by any two of them",
+    "nombre": "Equipo Arcoíris",
+    "desc": "Completa la Gen 2 con al menos 3 Pokémon sin que dos de ellos compartan tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Pure Types",
-    "desc": "Beat Gen 2 with a team of at least 3 Pokémon that all have a single type",
+    "nombre": "Tipos Puros",
+    "desc": "Completa la Gen 2 con un equipo de al menos 3 Pokémon que tengan un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Brute Force",
-    "desc": "Beat Gen 2 with a team of at least 3 Pokémon that all attack physically",
+    "nombre": "Fuerza Bruta",
+    "desc": "Completa la Gen 2 con un equipo de al menos 3 Pokémon que ataquen todos de forma física",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Mind Over Matter",
-    "desc": "Beat Gen 2 with a team of at least 3 Pokémon that all attack specially",
+    "nombre": "La Mente sobre la Materia",
+    "desc": "Completa la Gen 2 con un equipo de al menos 3 Pokémon que ataquen todos de forma especial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Purist",
-    "desc": "Beat Gen 2 with a team of Pokémon that never evolve",
+    "nombre": "Purista",
+    "desc": "Completa la Gen 2 con un equipo de Pokémon que nunca evolucionan",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Shiny Squad",
-    "desc": "Beat Gen 2 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "nombre": "Escuadrón variocolor",
+    "desc": "Completa la Gen 2 con al menos 3 Pokémon shiny en tu equipo (los Pokémon Aurora también cuentan)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Time Traveler",
-    "desc": "Beat the Gen 2 Elite Four without a Gen 2 Pokémon on your team",
+    "nombre": "Viajero en el Tiempo",
+    "desc": "Derrota al Alto Mando de la Gen 2 sin un Pokémon de la Gen 2 en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
     "nombre": "Nuzlocke Ironman",
-    "desc": "Beat a Gen 2 Nuzlocke run without using a Pokémon Center",
+    "desc": "Completa una partida Nuzlocke de la Gen 2 sin usar un Centro Pokémon",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Chikorita Master",
-    "desc": "Beat a Gen 2 Nuzlocke run with Chikorita as your starter",
+    "nombre": "Superviviente de Johto: Planta",
+    "desc": "Completa una partida Nuzlocke de la Gen 2 con Chikorita como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Cyndaquil Master",
-    "desc": "Beat a Gen 2 Nuzlocke run with Cyndaquil as your starter",
+    "nombre": "Superviviente de Johto: Fuego",
+    "desc": "Completa una partida Nuzlocke de la Gen 2 con Cyndaquil como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "Totodile Master",
-    "desc": "Beat a Gen 2 Nuzlocke run with Totodile as your starter",
+    "nombre": "Superviviente de Johto: Agua",
+    "desc": "Completa una partida Nuzlocke de la Gen 2 con Totodile como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "League Veteran 1/10",
-    "desc": "Beat Gen 2 10 times | 0/2",
+    "nombre": "Veterano de la Liga 1/10",
+    "desc": "Completa la Gen 2 10 veces | 0/2",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "JOHTO 2/29",
-    "nombre": "On a Roll 0/2",
-    "desc": "Beat Gen 2 twice in a row | 0/2",
+    "nombre": "En Racha 0/2",
+    "desc": "Completa la Gen 2 dos veces seguidas | 0/2",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Hoenn League Champion",
-    "desc": "Beat the game in Gen 3 (Hoenn)",
+    "nombre": "Campeón de la Liga de Hoenn",
+    "desc": "Completa el juego en la Gen 3 (Hoenn)",
     "done": false,
-    "fin": "2,000 ₽ RUN"
+    "fin": "2,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Treecko Champion",
-    "desc": "Beat Gen 3 with Treecko as your starter",
+    "nombre": "Campeón de Planta de Hoenn",
+    "desc": "Completa la Gen 3 con Treecko como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Torchic Champion",
-    "desc": "Beat Gen 3 with Torchic as your starter",
+    "nombre": "Campeón de Fuego de Hoenn",
+    "desc": "Completa la Gen 3 con Torchic como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Mudkip Champion",
-    "desc": "Beat Gen 3 with Mudkip as your starter",
+    "nombre": "Campeón de Agua de Hoenn",
+    "desc": "Completa la Gen 3 con Mudkip como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Hoenn Nuzlocke",
-    "desc": "Beat a Gen 3 Nuzlocke run",
+    "nombre": "Nuzlocke de Hoenn",
+    "desc": "Completa una partida Nuzlocke de la Gen 3",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Magma Extinguished",
-    "desc": "Defeat Maxie, leader of Team Magma",
+    "nombre": "Magma Extinguido",
+    "desc": "Derrota a Magno, líder del Equipo Magma",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Aqua Drained",
-    "desc": "Defeat Archie, leader of Team Aqua",
+    "nombre": "Aqua Drenado",
+    "desc": "Derrota a Aquiles, líder del Equipo Aqua",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Neutral Party",
-    "desc": "Beat Gen 3 without ever fighting Team Aqua or Team Magma",
+    "nombre": "Parte Neutral",
+    "desc": "Completa la Gen 3 sin combatir nunca contra el Team Aqua ni el Team Magma",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Primal Duo",
-    "desc": "Beat Gen 3 with both Groudon and Kyogre on your team",
+    "nombre": "Dúo Primigenio",
+    "desc": "Completa la Gen 3 con Groudon y Kyogre en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Titan Trio",
-    "desc": "Beat Gen 3 with Regirock, Regice, and Registeel on your team",
+    "nombre": "Trío Titánico",
+    "desc": "Completa la Gen 3 con Regirock, Regice y Registeel en tu equipo",
     "done": false,
-    "fin": "9,000 ₽ RUN"
+    "fin": "9,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Eon Duo",
-    "desc": "Beat Gen 3 with both Latias and Latios on your team",
+    "nombre": "Dúo Eón",
+    "desc": "Completa la Gen 3 con Latias y Latios en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
     "nombre": "Eclipse",
-    "desc": "Beat Gen 3 with both Lunatone and Solrock on your team",
+    "desc": "Completa la Gen 3 con Lunatone y Solrock en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Positively Charged",
-    "desc": "Beat Gen 3 with both Plusle and Minun on your team",
+    "nombre": "Carga Positiva",
+    "desc": "Completa la Gen 3 con Plusle y Minun en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Minimalist",
-    "desc": "Beat Gen 3 without picking up a single item",
+    "nombre": "Minimalista",
+    "desc": "Completa la Gen 3 sin recoger ni un solo objeto",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "No TMs",
-    "desc": "Beat Gen 3 without using a TM item or a Move Tutor",
+    "nombre": "Sin MTs",
+    "desc": "Completa la Gen 3 sin usar una MT ni un Maestro de Movimientos",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Avoid Poké Balls",
-    "desc": "Beat Gen 3 adding new Pokémon only from ? nodes, never a Catch node",
+    "nombre": "Evita las Poké Balls",
+    "desc": "Completa la Gen 3 añadiendo Pokémon nuevos solo desde nodos ?: nunca un nodo de captura",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
     "nombre": "Ironman",
-    "desc": "Beat Gen 3 without using a Pokémon Center (any mode)",
+    "desc": "Completa la Gen 3 sin usar un Centro Pokémon (cualquier modo)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Frequent Visitor",
-    "desc": "Beat Gen 3 using the Pokémon Center on every map that has one",
+    "nombre": "Cliente Habitual",
+    "desc": "Completa la Gen 3 usando el Centro Pokémon en cada mapa que tenga uno",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Treasure Hunter",
-    "desc": "Beat Gen 3 after picking up 10 or more items",
+    "nombre": "Cazatesoros",
+    "desc": "Completa la Gen 3 tras recoger 10 objetos o más",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Type Master",
-    "desc": "Beat Gen 3 with a team that all shares a single type",
+    "nombre": "Maestro de tipo",
+    "desc": "Completa la Gen 3 con un equipo que comparta un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Rainbow Team",
-    "desc": "Beat Gen 3 with at least 3 Pokémon and no type shared by any two of them",
+    "nombre": "Equipo Arcoíris",
+    "desc": "Completa la Gen 3 con al menos 3 Pokémon sin que dos de ellos compartan tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Pure Types",
-    "desc": "Beat Gen 3 with a team of at least 3 Pokémon that all have a single type",
+    "nombre": "Tipos Puros",
+    "desc": "Completa la Gen 3 con un equipo de al menos 3 Pokémon que tengan un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Brute Force",
-    "desc": "Beat Gen 3 with a team of at least 3 Pokémon that all attack physically",
+    "nombre": "Fuerza Bruta",
+    "desc": "Completa la Gen 3 con un equipo de al menos 3 Pokémon que ataquen todos de forma física",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Mind Over Matter",
-    "desc": "Beat Gen 3 with a team of at least 3 Pokémon that all attack specially",
+    "nombre": "La Mente sobre la Materia",
+    "desc": "Completa la Gen 3 con un equipo de al menos 3 Pokémon que ataquen todos de forma especial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Purist",
-    "desc": "Beat Gen 3 with a team of Pokémon that never evolve",
+    "nombre": "Purista",
+    "desc": "Completa la Gen 3 con un equipo de Pokémon que nunca evolucionan",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Shiny Squad",
-    "desc": "Beat Gen 3 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "nombre": "Escuadrón variocolor",
+    "desc": "Completa la Gen 3 con al menos 3 Pokémon shiny en tu equipo (los Pokémon Aurora también cuentan)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Ordinary",
-    "desc": "Beat Gen 3 without a Legendary on your team",
+    "nombre": "Corriente",
+    "desc": "Completa la Gen 3 sin ningún legendario en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
     "nombre": "Nuzlocke Ironman",
-    "desc": "Beat a Gen 3 Nuzlocke run without using a Pokémon Center",
+    "desc": "Completa una partida Nuzlocke de la Gen 3 sin usar un Centro Pokémon",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Treecko Master",
-    "desc": "Beat a Gen 3 Nuzlocke run with Treecko as your starter",
+    "nombre": "Superviviente de Hoenn: Planta",
+    "desc": "Completa una partida Nuzlocke de la Gen 3 con Treecko como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Torchic Master",
-    "desc": "Beat a Gen 3 Nuzlocke run with Torchic as your starter",
+    "nombre": "Superviviente de Hoenn: Fuego",
+    "desc": "Completa una partida Nuzlocke de la Gen 3 con Torchic como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "Mudkip Master",
-    "desc": "Beat a Gen 3 Nuzlocke run with Mudkip as your starter",
+    "nombre": "Superviviente de Hoenn: Agua",
+    "desc": "Completa una partida Nuzlocke de la Gen 3 con Mudkip como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "League Veteran 0/10",
-    "desc": "Beat Gen 3 10 times | 0/2",
+    "nombre": "Veterano de la Liga 0/10",
+    "desc": "Completa la Gen 3 10 veces | 0/2",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "HOENN 0/35",
-    "nombre": "On a Roll 0/2",
-    "desc": "Beat Gen 3 twice in a row | 0/2",
+    "nombre": "En Racha 0/2",
+    "desc": "Completa la Gen 3 dos veces seguidas | 0/2",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Sinnoh League Champion",
-    "desc": "Beat the game in Gen 4 (Sinnoh)",
+    "nombre": "Campeón de la Liga de Sinnoh",
+    "desc": "Completa el juego en la Gen 4 (Sinnoh)",
     "done": false,
-    "fin": "2,000 ₽ RUN"
+    "fin": "2,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Turtwig Champion",
-    "desc": "Beat Gen 4 with Turtwig as your starter",
+    "nombre": "Campeón con Turtwig",
+    "desc": "Completa la Gen 4 con Turtwig como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Chimchar Champion",
-    "desc": "Beat Gen 4 with Chimchar as your starter",
+    "nombre": "Campeón con Chimchar",
+    "desc": "Completa la Gen 4 con Chimchar como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Piplup Champion",
-    "desc": "Beat Gen 4 with Piplup as your starter",
+    "nombre": "Campeón con Piplup",
+    "desc": "Completa la Gen 4 con Piplup como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Sinnoh Nuzlocke",
-    "desc": "Beat a Gen 4 Nuzlocke run",
+    "nombre": "Nuzlocke de Sinnoh",
+    "desc": "Completa una partida Nuzlocke de la Gen 4",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Surface Dweller",
-    "desc": "Beat Gen 4 without entering the Underground or Distortion World",
+    "nombre": "Habitante de la Superficie",
+    "desc": "Completa la Gen 4 sin entrar en el Subsuelo ni en el Mundo Distorsión",
     "done": false,
-    "fin": "4,000 ₽ RUN"
+    "fin": "4,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Minimalist",
-    "desc": "Beat Gen 4 without picking up a single item",
+    "nombre": "Minimalista",
+    "desc": "Completa la Gen 4 sin recoger ni un solo objeto",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "No TMs",
-    "desc": "Beat Gen 4 without using a TM item or a Move Tutor",
+    "nombre": "Sin MTs",
+    "desc": "Completa la Gen 4 sin usar una MT ni un Maestro de Movimientos",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Avoid Poké Balls",
-    "desc": "Beat Gen 4 adding new Pokémon only from ? nodes, never a Catch node",
+    "nombre": "Evita las Poké Balls",
+    "desc": "Completa la Gen 4 añadiendo Pokémon nuevos solo desde nodos ?: nunca un nodo de captura",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
     "nombre": "Ironman",
-    "desc": "Beat Gen 4 without using a Pokémon Center (any mode)",
+    "desc": "Completa la Gen 4 sin usar un Centro Pokémon (cualquier modo)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Frequent Visitor",
-    "desc": "Beat Gen 4 using the Pokémon Center on every map that has one",
+    "nombre": "Cliente Habitual",
+    "desc": "Completa la Gen 4 usando el Centro Pokémon en cada mapa que tenga uno",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Treasure Hunter",
-    "desc": "Beat Gen 4 after picking up 10 or more items",
+    "nombre": "Cazatesoros",
+    "desc": "Completa la Gen 4 tras recoger 10 objetos o más",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Type Master",
-    "desc": "Beat Gen 4 with a team that all shares a single type",
+    "nombre": "Maestro de tipo",
+    "desc": "Completa la Gen 4 con un equipo que comparta un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Rainbow Team",
-    "desc": "Beat Gen 4 with at least 3 Pokémon and no type shared by any two of them",
+    "nombre": "Equipo Arcoíris",
+    "desc": "Completa la Gen 4 con al menos 3 Pokémon sin que dos de ellos compartan tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Pure Types",
-    "desc": "Beat Gen 4 with a team of at least 3 Pokémon that all have a single type",
+    "nombre": "Tipos Puros",
+    "desc": "Completa la Gen 4 con un equipo de al menos 3 Pokémon que tengan un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Brute Force",
-    "desc": "Beat Gen 4 with a team of at least 3 Pokémon that all attack physically",
+    "nombre": "Fuerza Bruta",
+    "desc": "Completa la Gen 4 con un equipo de al menos 3 Pokémon que ataquen todos de forma física",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Mind Over Matter",
-    "desc": "Beat Gen 4 with a team of at least 3 Pokémon that all attack specially",
+    "nombre": "La Mente sobre la Materia",
+    "desc": "Completa la Gen 4 con un equipo de al menos 3 Pokémon que ataquen todos de forma especial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Purist",
-    "desc": "Beat Gen 4 with a team of Pokémon that never evolve",
+    "nombre": "Purista",
+    "desc": "Completa la Gen 4 con un equipo de Pokémon que nunca evolucionan",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Shiny Squad",
-    "desc": "Beat Gen 4 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "nombre": "Escuadrón variocolor",
+    "desc": "Completa la Gen 4 con al menos 3 Pokémon shiny en tu equipo (los Pokémon Aurora también cuentan)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Ordinary",
-    "desc": "Beat Gen 4 without a Legendary on your team",
+    "nombre": "Corriente",
+    "desc": "Completa la Gen 4 sin ningún legendario en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
     "nombre": "Nuzlocke Ironman",
-    "desc": "Beat a Gen 4 Nuzlocke run without using a Pokémon Center",
+    "desc": "Completa una partida Nuzlocke de la Gen 4 sin usar un Centro Pokémon",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Turtwig Master",
-    "desc": "Beat a Gen 4 Nuzlocke run with Turtwig as your starter",
+    "nombre": "Maestro con Turtwig",
+    "desc": "Completa una partida Nuzlocke de la Gen 4 con Turtwig como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Chimchar Master",
-    "desc": "Beat a Gen 4 Nuzlocke run with Chimchar as your starter",
+    "nombre": "Maestro con Chimchar",
+    "desc": "Completa una partida Nuzlocke de la Gen 4 con Chimchar como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "Piplup Master",
-    "desc": "Beat a Gen 4 Nuzlocke run with Piplup as your starter",
+    "nombre": "Maestro con Piplup",
+    "desc": "Completa una partida Nuzlocke de la Gen 4 con Piplup como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "League Veteran 0/10",
-    "desc": "Beat Gen 4 10 times | 0/2",
+    "nombre": "Veterano de la Liga 0/10",
+    "desc": "Completa la Gen 4 10 veces | 0/2",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "SINNOH 0/28",
-    "nombre": "On a Roll 0/2",
-    "desc": "Beat Gen 4 twice in a row | 0/2",
+    "nombre": "En Racha 0/2",
+    "desc": "Completa la Gen 4 dos veces seguidas | 0/2",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Unova League Champion",
-    "desc": "Beat the game in Gen 5 (Unova)",
+    "nombre": "Campeón de la Liga de Teselia",
+    "desc": "Completa el juego en la Gen 5 (Teselia)",
     "done": false,
-    "fin": "2,000 ₽ RUN"
+    "fin": "2,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Snivy Champion",
-    "desc": "Beat Gen 5 with Snivy as your starter",
+    "nombre": "Campeón con Snivy",
+    "desc": "Completa la Gen 5 con Snivy como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Tepig Champion",
-    "desc": "Beat Gen 5 with Tepig as your starter",
+    "nombre": "Campeón con Tepig",
+    "desc": "Completa la Gen 5 con Tepig como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Oshawott Champion",
-    "desc": "Beat Gen 5 with Oshawott as your starter",
+    "nombre": "Campeón con Oshawott",
+    "desc": "Completa la Gen 5 con Oshawott como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Unova Nuzlocke",
-    "desc": "Beat a Gen 5 Nuzlocke run",
+    "nombre": "Nuzlocke de Teselia",
+    "desc": "Completa una partida Nuzlocke de la Gen 5",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Hero of Truth",
-    "desc": "Defeat N at all four rival battles in Gen 5",
+    "nombre": "Héroe de la Verdad",
+    "desc": "Derrota a N en los cuatro combates de rival de la Gen 5",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Truth Untested",
-    "desc": "Beat Gen 5 without ever battling N on the map",
+    "nombre": "Verdad sin Probar",
+    "desc": "Completa la Gen 5 sin combatir nunca contra N en el mapa",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Dream Team",
-    "desc": "Beat Gen 5 with every Pokémon on your team using its Hidden Ability",
+    "nombre": "Equipo de Ensueño",
+    "desc": "Completa la Gen 5 con todos los Pokémon de tu equipo usando su habilidad oculta",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Minimalist",
-    "desc": "Beat Gen 5 without picking up a single item",
+    "nombre": "Minimalista",
+    "desc": "Completa la Gen 5 sin recoger ni un solo objeto",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "No TMs",
-    "desc": "Beat Gen 5 without using a TM item or a Move Tutor",
+    "nombre": "Sin MTs",
+    "desc": "Completa la Gen 5 sin usar una MT ni un Maestro de Movimientos",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Avoid Poké Balls",
-    "desc": "Beat Gen 5 adding new Pokémon only from ? nodes, never a Catch node",
+    "nombre": "Evita las Poké Balls",
+    "desc": "Completa la Gen 5 añadiendo Pokémon nuevos solo desde nodos ?: nunca un nodo de captura",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
     "nombre": "Ironman",
-    "desc": "Beat Gen 5 without using a Pokémon Center (any mode)",
+    "desc": "Completa la Gen 5 sin usar un Centro Pokémon (cualquier modo)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Frequent Visitor",
-    "desc": "Beat Gen 5 using the Pokémon Center on every map that has one",
+    "nombre": "Cliente Habitual",
+    "desc": "Completa la Gen 5 usando el Centro Pokémon en cada mapa que tenga uno",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Treasure Hunter",
-    "desc": "Beat Gen 5 after picking up 10 or more items",
+    "nombre": "Cazatesoros",
+    "desc": "Completa la Gen 5 tras recoger 10 objetos o más",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Type Master",
-    "desc": "Beat Gen 5 with a team that all shares a single type",
+    "nombre": "Maestro de tipo",
+    "desc": "Completa la Gen 5 con un equipo que comparta un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Rainbow Team",
-    "desc": "Beat Gen 5 with at least 3 Pokémon and no type shared by any two of them",
+    "nombre": "Equipo Arcoíris",
+    "desc": "Completa la Gen 5 con al menos 3 Pokémon sin que dos de ellos compartan tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Pure Types",
-    "desc": "Beat Gen 5 with a team of at least 3 Pokémon that all have a single type",
+    "nombre": "Tipos Puros",
+    "desc": "Completa la Gen 5 con un equipo de al menos 3 Pokémon que tengan un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Brute Force",
-    "desc": "Beat Gen 5 with a team of at least 3 Pokémon that all attack physically",
+    "nombre": "Fuerza Bruta",
+    "desc": "Completa la Gen 5 con un equipo de al menos 3 Pokémon que ataquen todos de forma física",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Mind Over Matter",
-    "desc": "Beat Gen 5 with a team of at least 3 Pokémon that all attack specially",
+    "nombre": "La Mente sobre la Materia",
+    "desc": "Completa la Gen 5 con un equipo de al menos 3 Pokémon que ataquen todos de forma especial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Purist",
-    "desc": "Beat Gen 5 with a team of Pokémon that never evolve",
+    "nombre": "Purista",
+    "desc": "Completa la Gen 5 con un equipo de Pokémon que nunca evolucionan",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Shiny Squad",
-    "desc": "Beat Gen 5 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "nombre": "Escuadrón variocolor",
+    "desc": "Completa la Gen 5 con al menos 3 Pokémon shiny en tu equipo (los Pokémon Aurora también cuentan)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Ordinary",
-    "desc": "Beat Gen 5 without a Legendary on your team",
+    "nombre": "Corriente",
+    "desc": "Completa la Gen 5 sin ningún legendario en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
     "nombre": "Nuzlocke Ironman",
-    "desc": "Beat a Gen 5 Nuzlocke run without using a Pokémon Center",
+    "desc": "Completa una partida Nuzlocke de la Gen 5 sin usar un Centro Pokémon",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Snivy Master",
-    "desc": "Beat a Gen 5 Nuzlocke run with Snivy as your starter",
+    "nombre": "Maestro con Snivy",
+    "desc": "Completa una partida Nuzlocke de la Gen 5 con Snivy como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Tepig Master",
-    "desc": "Beat a Gen 5 Nuzlocke run with Tepig as your starter",
+    "nombre": "Maestro con Tepig",
+    "desc": "Completa una partida Nuzlocke de la Gen 5 con Tepig como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "Oshawott Master",
-    "desc": "Beat a Gen 5 Nuzlocke run with Oshawott as your starter",
+    "nombre": "Maestro con Oshawott",
+    "desc": "Completa una partida Nuzlocke de la Gen 5 con Oshawott como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "League Veteran 0/10",
-    "desc": "Beat Gen 5 10 times | 0/2",
+    "nombre": "Veterano de la Liga 0/10",
+    "desc": "Completa la Gen 5 10 veces | 0/2",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "UNOVA 0/30",
-    "nombre": "On a Roll 0/2",
-    "desc": "Beat Gen 5 twice in a row | 0/2",
+    "nombre": "En Racha 0/2",
+    "desc": "Completa la Gen 5 dos veces seguidas | 0/2",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Kalos League Champion",
-    "desc": "Beat the game in Gen 6 (Kalos)",
+    "nombre": "Campeón de la Liga de Kalos",
+    "desc": "Completa el juego en la Gen 6 (Kalos)",
     "done": false,
-    "fin": "2,000 ₽ RUN"
+    "fin": "2,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Chespin Champion",
-    "desc": "Beat Gen 6 with Chespin as your starter",
+    "nombre": "Campeón con Chespin",
+    "desc": "Completa la Gen 6 con Chespin como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Fennekin Champion",
-    "desc": "Beat Gen 6 with Fennekin as your starter",
+    "nombre": "Campeón con Fennekin",
+    "desc": "Completa la Gen 6 con Fennekin como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Froakie Champion",
-    "desc": "Beat Gen 6 with Froakie as your starter",
+    "nombre": "Campeón con Froakie",
+    "desc": "Completa la Gen 6 con Froakie como inicial",
     "done": false,
-    "fin": "1,000 ₽ RUN"
+    "fin": "1,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Kalos Nuzlocke",
-    "desc": "Beat a Gen 6 Nuzlocke run",
+    "nombre": "Nuzlocke de Kalos",
+    "desc": "Completa una partida Nuzlocke de la Gen 6",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Lights Out, Lysandre",
-    "desc": "Defeat Lysandre when Team Flare comes for you",
+    "nombre": "Se apagan las luces, Lysson",
+    "desc": "Derrota a Lysson cuando el Team Flare venga a por ti",
     "done": false,
-    "fin": "7,500 ₽ RUN"
+    "fin": "7,500 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Flare Extinguished",
-    "desc": "Beat Gen 6 after defeating 5 Team Flare Grunts in one run",
+    "nombre": "Flare Extinguido",
+    "desc": "Completa la Gen 6 tras derrotar a 5 soldados del Team Flare en una partida",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Tower of Mastery",
-    "desc": "Beat Gen 6 after winning Korrina's 1-on-1 against her Mega Lucario",
+    "nombre": "Torre Maestra",
+    "desc": "Completa la Gen 6 tras ganar el 1 contra 1 de Corelia contra su Mega-Lucario",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Horde Breaker",
-    "desc": "Beat Gen 6 after winning 5 horde battles in that run",
+    "nombre": "Rompehordas",
+    "desc": "Completa la Gen 6 tras ganar 5 combates contra hordas en esa partida",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Mega-Free Kalos",
-    "desc": "Beat Gen 6 with no Mega-Evolved Pokémon on your team",
+    "nombre": "Kalos sin Megas",
+    "desc": "Completa la Gen 6 sin ningún Pokémon megaevolucionado en tu equipo",
     "done": false,
-    "fin": "7,500 ₽ RUN"
+    "fin": "7,500 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Pure Kalos",
-    "desc": "Beat Gen 6 with only Gen 6 Pokémon on your team",
+    "nombre": "Kalos Puro",
+    "desc": "Completa la Gen 6 solo con Pokémon de la Gen 6 en tu equipo",
     "done": false,
-    "fin": "7,500 ₽ RUN"
+    "fin": "7,500 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Abandon Wisdom",
-    "desc": "Beat Gen 6 without battling Professor Sycamore",
+    "nombre": "Abandona la Sabiduría",
+    "desc": "Completa la Gen 6 sin combatir contra el Profesor Ciprés",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Abandon Power",
-    "desc": "Beat Gen 6 without taking Korrina's Mega Lucario 1-on-1",
+    "nombre": "Abandona el Poder",
+    "desc": "Completa la Gen 6 sin aceptar el 1 contra 1 contra el Mega-Lucario de Corelia",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Abandon Legacy",
-    "desc": "Beat Gen 6 without fighting the Master Ball legendary",
+    "nombre": "Abandona el Legado",
+    "desc": "Completa la Gen 6 sin combatir contra el legendario de la Master Ball",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Abandon Everything",
-    "desc": "Beat Gen 6 without Sycamore, Korrina or the Master Ball",
+    "nombre": "Abandónalo Todo",
+    "desc": "Completa la Gen 6 sin Ciprés, Corelia ni la Master Ball",
     "done": false,
-    "fin": "15,000 ₽ RUN"
+    "fin": "15,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Mirror Match",
-    "desc": "Beat Diantha with a Mega Gardevoir of your own in the fight",
+    "nombre": "Combate Espejo",
+    "desc": "Vence a Dianta con tu propio Mega-Gardevoir en el combate",
     "done": false,
-    "fin": "7,500 ₽ RUN"
+    "fin": "7,500 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "David & Lucario",
-    "desc": "Win Korrina's 1-on-1 with a Pokémon that can still evolve",
+    "nombre": "David y Lucario",
+    "desc": "Gana el 1 contra 1 de Corelia con un Pokémon que aún pueda evolucionar",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Kanto Revival",
-    "desc": "Beat Gen 6 with Sycamore's Kanto starter Mega Evolved",
+    "nombre": "Renacer de Kanto",
+    "desc": "Completa la Gen 6 con el inicial de Kanto de Ciprés megaevolucionado",
     "done": false,
-    "fin": "7,500 ₽ RUN"
+    "fin": "7,500 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Second Wind",
-    "desc": "Land a fight's final KO with the Pokémon Xerneas revived",
+    "nombre": "Segundo Aliento",
+    "desc": "Asesta el KO final de un combate con el Pokémon que revivió Xerneas",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Last Rites",
-    "desc": "Finish Diantha's Mega Gardevoir with Yveltal",
+    "nombre": "Últimos Ritos",
+    "desc": "Remata al Mega-Gardevoir de Dianta con Yveltal",
     "done": false,
-    "fin": "10,000 ₽ RUN"
+    "fin": "10,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Grand Design",
-    "desc": "Win a fight you would have lost, by reordering the foe with Zygarde's Aura of Order",
+    "nombre": "Gran Designio",
+    "desc": "Gana un combate que habrías perdido reordenando al rival con el Aura de Orden de Zygarde",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Fairy tale",
-    "desc": "Beat all four Elite Four members with at least 3 Fairy-type Pokémon on your team",
+    "nombre": "Cuento de Hadas",
+    "desc": "Vence a los cuatro miembros del Alto Mando con al menos 3 Pokémon de tipo Hada en tu equipo",
     "done": false,
-    "fin": "10,000 ₽ RUN"
+    "fin": "10,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Dragon Slayer",
-    "desc": "Beat Drasna with only Fairy-type Pokémon fighting",
+    "nombre": "Matadragones",
+    "desc": "Vence a Drácena combatiendo solo con Pokémon de tipo Hada",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Tag Team",
-    "desc": "Beat the Pokémon League with your starter and Sycamore's Kanto starter dealing over half your damage",
+    "nombre": "Por Parejas",
+    "desc": "Vence a la Liga Pokémon con tu inicial y el inicial de Kanto de Ciprés infligiendo más de la mitad de tu daño",
     "done": false,
-    "fin": "15,000 ₽ RUN"
+    "fin": "15,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Minimalist",
-    "desc": "Beat Gen 6 without picking up a single item",
+    "nombre": "Minimalista",
+    "desc": "Completa la Gen 6 sin recoger ni un solo objeto",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "No TMs",
-    "desc": "Beat Gen 6 without using a TM item or a Move Tutor",
+    "nombre": "Sin MTs",
+    "desc": "Completa la Gen 6 sin usar una MT ni un Maestro de Movimientos",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Avoid Poké Balls",
-    "desc": "Beat Gen 6 adding new Pokémon only from ? nodes, never a Catch node",
+    "nombre": "Evita las Poké Balls",
+    "desc": "Completa la Gen 6 añadiendo Pokémon nuevos solo desde nodos ?: nunca un nodo de captura",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
     "nombre": "Ironman",
-    "desc": "Beat Gen 6 without using a Pokémon Center (any mode)",
+    "desc": "Completa la Gen 6 sin usar un Centro Pokémon (cualquier modo)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Frequent Visitor",
-    "desc": "Beat Gen 6 using the Pokémon Center on every map that has one",
+    "nombre": "Cliente Habitual",
+    "desc": "Completa la Gen 6 usando el Centro Pokémon en cada mapa que tenga uno",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Treasure Hunter",
-    "desc": "Beat Gen 6 after picking up 10 or more items",
+    "nombre": "Cazatesoros",
+    "desc": "Completa la Gen 6 tras recoger 10 objetos o más",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Type Master",
-    "desc": "Beat Gen 6 with a team that all shares a single type",
+    "nombre": "Maestro de tipo",
+    "desc": "Completa la Gen 6 con un equipo que comparta un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Rainbow Team",
-    "desc": "Beat Gen 6 with at least 3 Pokémon and no type shared by any two of them",
+    "nombre": "Equipo Arcoíris",
+    "desc": "Completa la Gen 6 con al menos 3 Pokémon sin que dos de ellos compartan tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Pure Types",
-    "desc": "Beat Gen 6 with a team of at least 3 Pokémon that all have a single type",
+    "nombre": "Tipos Puros",
+    "desc": "Completa la Gen 6 con un equipo de al menos 3 Pokémon que tengan un solo tipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Brute Force",
-    "desc": "Beat Gen 6 with a team of at least 3 Pokémon that all attack physically",
+    "nombre": "Fuerza Bruta",
+    "desc": "Completa la Gen 6 con un equipo de al menos 3 Pokémon que ataquen todos de forma física",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Mind Over Matter",
-    "desc": "Beat Gen 6 with a team of at least 3 Pokémon that all attack specially",
+    "nombre": "La Mente sobre la Materia",
+    "desc": "Completa la Gen 6 con un equipo de al menos 3 Pokémon que ataquen todos de forma especial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Purist",
-    "desc": "Beat Gen 6 with a team of Pokémon that never evolve",
+    "nombre": "Purista",
+    "desc": "Completa la Gen 6 con un equipo de Pokémon que nunca evolucionan",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Shiny Squad",
-    "desc": "Beat Gen 6 with at least 3 shiny Pokémon on your team (Aurora Pokémon count too)",
+    "nombre": "Escuadrón variocolor",
+    "desc": "Completa la Gen 6 con al menos 3 Pokémon shiny en tu equipo (los Pokémon Aurora también cuentan)",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Ordinary",
-    "desc": "Beat Gen 6 without a Legendary on your team",
+    "nombre": "Corriente",
+    "desc": "Completa la Gen 6 sin ningún legendario en tu equipo",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
     "nombre": "Nuzlocke Ironman",
-    "desc": "Beat a Gen 6 Nuzlocke run without using a Pokémon Center",
+    "desc": "Completa una partida Nuzlocke de la Gen 6 sin usar un Centro Pokémon",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Chespin Master",
-    "desc": "Beat a Gen 6 Nuzlocke run with Chespin as your starter",
+    "nombre": "Maestro con Chespin",
+    "desc": "Completa una partida Nuzlocke de la Gen 6 con Chespin como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Fennekin Master",
-    "desc": "Beat a Gen 6 Nuzlocke run with Fennekin as your starter",
+    "nombre": "Maestro con Fennekin",
+    "desc": "Completa una partida Nuzlocke de la Gen 6 con Fennekin como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "Froakie Master",
-    "desc": "Beat a Gen 6 Nuzlocke run with Froakie as your starter",
+    "nombre": "Maestro con Froakie",
+    "desc": "Completa una partida Nuzlocke de la Gen 6 con Froakie como inicial",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "League Veteran 0/10",
-    "desc": "Beat Gen 6 10 times | 0/2",
+    "nombre": "Veterano de la Liga 0/10",
+    "desc": "Completa la Gen 6 10 veces | 0/2",
     "done": false,
-    "fin": "5,000 ₽ RUN"
+    "fin": "5,000 ₽ JUGAR"
    },
    {
     "tab": "story",
     "reg": "KALOS 0/46",
-    "nombre": "On a Roll 0/2",
-    "desc": "Beat Gen 6 twice in a row | 0/2",
+    "nombre": "En Racha 0/2",
+    "desc": "Completa la Gen 6 dos veces seguidas | 0/2",
     "done": false,
-    "fin": "3,000 ₽ RUN"
+    "fin": "3,000 ₽ JUGAR"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Battle Tower",
-    "desc": "Defeat Zinnia and clear Stage 7 (ORAS) of Battle Tower | 7/7",
+    "nombre": "Torre Batalla",
+    "desc": "Derrota a Zinnia y supera la Fase 7 (ORAS) de la Torre Batalla | 7/7",
     "done": true,
-    "fin": "done"
+    "fin": "hecho"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Tower Tycoon",
-    "desc": "Clear Battle Tower stage 7 (ORAS) in Hardcore | 0/2",
+    "nombre": "Magnate de la Torre",
+    "desc": "Supera la Fase 7 (ORAS) de la Torre Batalla en Hardcore | 0/2",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Second Lap",
-    "desc": "Clear the same Battle Tower stage 5 times",
+    "nombre": "Segunda Vuelta",
+    "desc": "Supera la misma fase de la Torre Batalla 5 veces",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Regional Regular 3/7",
-    "desc": "Clear every Battle Tower stage at least 3 times",
+    "nombre": "Asiduo Regional 3/7",
+    "desc": "Supera cada fase de la Torre Batalla al menos 3 veces",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Clean Sweep",
-    "desc": "Clear a Battle Tower stage without any of your Pokémon fainting",
+    "nombre": "Sin Bajas",
+    "desc": "Supera una fase de la Torre Batalla sin que se debilite ninguno de tus Pokémon",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Oak's Challenge",
-    "desc": "Win a Stage 1 run starting with Bulbasaur, Charmander, or Squirtle",
+    "nombre": "El Reto de Oak",
+    "desc": "Gana una partida de la Fase 1 empezando con Bulbasaur, Charmander o Squirtle",
     "done": true,
-    "fin": "2,000 ₽ done"
+    "fin": "2,000 ₽ hecho"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Elm's Challenge",
-    "desc": "Win a Stage 2 run starting with Chikorita, Cyndaquil, or Totodile",
+    "nombre": "El Reto de Elm",
+    "desc": "Gana una partida de la Fase 2 empezando con Chikorita, Cyndaquil o Totodile",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Birch's Challenge",
-    "desc": "Win a Stage 3 run starting with Treecko, Torchic, or Mudkip",
+    "nombre": "El Reto de Abedul",
+    "desc": "Gana una partida de la Fase 3 empezando con Treecko, Torchic o Mudkip",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Rowan's Challenge",
-    "desc": "Win a Stage 4 run starting with Turtwig, Chimchar, or Piplup",
+    "nombre": "El Reto de Serbal",
+    "desc": "Gana una partida de la Fase 4 empezando con Turtwig, Chimchar o Piplup",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Juniper's Challenge",
-    "desc": "Win a Stage 5 run starting with Snivy, Tepig, or Oshawott",
+    "nombre": "El Reto de Juniper",
+    "desc": "Gana una partida de la Fase 5 empezando con Snivy, Tepig o Oshawott",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Sycamore's Challenge",
-    "desc": "Win a Stage 6 run starting with Chespin, Fennekin, or Froakie",
+    "nombre": "El Reto de Ciprés",
+    "desc": "Gana una partida de la Fase 6 empezando con Chespin, Fennekin o Froakie",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Birch's Encore",
-    "desc": "Win a Stage 7 (ORAS) run starting with Treecko, Torchic, or Mudkip",
+    "nombre": "El Bis de Abedul",
+    "desc": "Gana una partida de la Fase 7 (ORAS) empezando con Treecko, Torchic o Mudkip",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Copycat",
-    "desc": "Clear a Battle Tower stage with a starter from the final boss's own team (Pikachu against Ash, Garchomp against Cynthia, and so on)",
+    "nombre": "Copión",
+    "desc": "Supera una fase de la Torre Batalla con un inicial del propio equipo del jefe final (Pikachu contra Ash, Garchomp contra Cintia, etc.)",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Rock Smash",
-    "desc": "Beat Steven Stone with a team where every Pokémon is Fire, Fighting or Ground type",
+    "nombre": "Golpe Roca",
+    "desc": "Derrota a Máximo con un equipo en el que todos los Pokémon sean de tipo Fuego, Lucha o Tierra",
     "done": true,
-    "fin": "5,000 ₽ done"
+    "fin": "5,000 ₽ hecho"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Cold Front",
-    "desc": "Knock out Cynthia's Garchomp with an Ice-type move",
+    "nombre": "Frente Frío",
+    "desc": "Debilita al Garchomp de Cintia con un movimiento de tipo Hielo",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Dragon of Ideals",
-    "desc": "Beat N with Reshiram or Zekrom on your team",
+    "nombre": "Dragón de los Ideales",
+    "desc": "Derrota a N con Reshiram o Zekrom en tu equipo",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Eternal Flower",
-    "desc": "Beat AZ with a Fairy-type Pokémon landing the final blow",
+    "nombre": "Flor Eterna",
+    "desc": "Derrota a AZ asestando el golpe final con un Pokémon de tipo Hada",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Draconid Rival",
-    "desc": "Beat Zinnia with a Mega Evolved Pokémon on your team",
+    "nombre": "Rival Dracónida",
+    "desc": "Derrota a Zinnia con un Pokémon megaevolucionado en tu equipo",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Untouchable",
-    "desc": "Beat a Battle Tower stage's final boss without taking any damage",
+    "nombre": "Intocable",
+    "desc": "Derrota al jefe final de una fase de la Torre Batalla sin recibir ningún daño",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Monotype Tower",
-    "desc": "Clear a Battle Tower stage with a team of at least 3 Pokémon that all share one type | 0/2",
+    "nombre": "Torre Monotipo",
+    "desc": "Supera una fase de la Torre Batalla con un equipo de al menos 3 Pokémon que compartan un mismo tipo | 0/2",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Starter Squad",
-    "desc": "Clear a Battle Tower stage with 3 different starter Pokémon on your team (from any region, at any stage)",
+    "nombre": "Escuadrón Inicial",
+    "desc": "Supera una fase de la Torre Batalla con 3 Pokémon iniciales distintos en tu equipo (de cualquier región y en cualquier etapa evolutiva)",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Frontier Rules",
-    "desc": "Clear Battle Tower stage 7 (ORAS) with no legendary or mythical Pokémon on your team",
+    "nombre": "Reglas del Frente Batalla",
+    "desc": "Supera la Fase 7 (ORAS) de la Torre Batalla sin Pokémon legendarios ni singulares en tu equipo",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Shiny Tower",
-    "desc": "Clear a Battle Tower stage with 3 shiny Pokémon on your team (Aurora Pokémon count too) | 0/4",
+    "nombre": "Torre variocolor",
+    "desc": "Supera una fase de la Torre Batalla con 3 Pokémon variocolor en tu equipo (los Pokémon Aurora también cuentan) | 0/4",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Aurora Climber",
-    "desc": "Clear a Battle Tower stage with an Aurora Pokémon on your team",
+    "nombre": "Escalador Aurora",
+    "desc": "Supera una fase de la Torre Batalla con un Pokémon Aurora en tu equipo",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Z-Power",
-    "desc": "Clear a Battle Tower stage while holding a Z-Crystal relic",
+    "nombre": "Poder Z",
+    "desc": "Supera una fase de la Torre Batalla llevando una reliquia Cristal Z",
     "done": false,
     "fin": "1,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Charm Bracelet",
-    "desc": "Hold the Shiny Hunter, Legend Lure and Oval Charm at the same time",
+    "nombre": "Pulsera de Amuletos",
+    "desc": "Ten a la vez Cazador Shiny, Cebo Legendario y Amuleto Oval",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Relic Hunter",
-    "desc": "Take 100 relics, counted over all runs",
+    "nombre": "Cazarreliquias",
+    "desc": "Consigue 100 reliquias entre todas tus partidas",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Hanging On",
-    "desc": "Win a boss battle in the Battle Tower or Challenge Mode with your last Pokémon standing below 10% HP",
-    "done": false,
-    "fin": "3,000 ₽"
+    "nombre": "Por los Pelos",
+    "desc": "Gana un combate contra un jefe en la Torre Batalla o el Modo Desafío con tu último Pokémon en pie por debajo del 10% de PS",
+    "done": true,
+    "fin": "RECLAMAR 3,000 ₽"
    },
    {
     "tab": "tower",
     "reg": "",
-    "nombre": "Marathon Battle",
-    "desc": "Win a battle in the Battle Tower or Challenge Mode that goes into overtime",
-    "done": false,
-    "fin": "5,000 ₽"
-   },
-   {
-    "tab": "tower",
-    "reg": "",
-    "nombre": "Koga's Lesson",
-    "desc": "Knock out 3 enemies with poison damage in one battle in the Battle Tower or Challenge Mode",
-    "done": true,
-    "fin": "3,000 ₽ done"
-   },
-   {
-    "tab": "tower",
-    "reg": "",
-    "nombre": "Lucky Streak",
-    "desc": "Land 5 critical hits in one battle in the Battle Tower or Challenge Mode",
-    "done": true,
-    "fin": "1,000 ₽ done"
-   },
-   {
-    "tab": "tower",
-    "reg": "",
-    "nombre": "Super Effective!",
-    "desc": "Win a boss battle in the Battle Tower or Challenge Mode where every hit you landed was super effective",
-    "done": true,
-    "fin": "5,000 ₽ done"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "Wishmaker",
-    "desc": "Win a Challenge run with a legendary Pokémon as the MVP: unlocks the Star Piece starting relic",
-    "done": true,
-    "fin": "3,000 ₽ done"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "Quickening",
-    "desc": "Clear a Challenge run in under 6 minutes | 2/2",
-    "done": true,
-    "fin": "CLAIM 5,000 ₽"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "Hazard Master",
-    "desc": "Win Challenge Mode 10 times",
-    "done": true,
-    "fin": "3,000 ₽ done"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "Win Streak",
-    "desc": "Clear 10 Challenge runs in a row without a loss",
-    "done": true,
-    "fin": "5,000 ₽ done"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "Heavy Hitter",
-    "desc": "Land a single hit of 2,000 damage or more in a Challenge run",
-    "done": true,
-    "fin": "3,000 ₽ done"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "It's Super Effective",
-    "desc": "Land 100 super-effective hits in one Challenge run",
+    "nombre": "Combate Maratoniano",
+    "desc": "Gana un combate en la Torre Batalla o el Modo Desafío que llegue a la prórroga",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
-    "tab": "chal",
+    "tab": "tower",
     "reg": "",
-    "nombre": "Iron Defense",
-    "desc": "Clear a Challenge run with fewer than 3 faints in total",
+    "nombre": "La Lección de Koga",
+    "desc": "Debilita a 3 rivales con daño de veneno en un mismo combate de la Torre Batalla o el Modo Desafío",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "Racha de Suerte",
+    "desc": "Asesta 5 golpes críticos en un mismo combate de la Torre Batalla o el Modo Desafío",
+    "done": true,
+    "fin": "1,000 ₽ hecho"
+   },
+   {
+    "tab": "tower",
+    "reg": "",
+    "nombre": "¡Muy Eficaz!",
+    "desc": "Gana un combate contra un jefe en la Torre Batalla o el Modo Desafío en el que todos tus golpes hayan sido muy eficaces",
+    "done": true,
+    "fin": "5,000 ₽ hecho"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Gotta Catch Them",
-    "desc": "Catch 15 Pokémon in one Challenge run",
+    "nombre": "Pedidor de Deseos",
+    "desc": "Gana una partida de Reto con un Pokémon legendario como MVP: desbloquea la reliquia inicial Trozo de Estrella",
+    "done": true,
+    "fin": "3,000 ₽ hecho"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Aceleración",
+    "desc": "Supera una partida de Desafío en menos de 6 minutos | 2/2",
+    "done": true,
+    "fin": "RECLAMAR 5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Maestro de Trampas",
+    "desc": "Gana el Modo Reto 10 veces",
+    "done": true,
+    "fin": "3,000 ₽ hecho"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Racha de Victorias",
+    "desc": "Supera 10 partidas de Desafío seguidas sin perder ninguna",
+    "done": true,
+    "fin": "5,000 ₽ hecho"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Peso Pesado",
+    "desc": "Asesta un solo golpe de 2.000 de daño o más en una partida de Desafío",
+    "done": true,
+    "fin": "3,000 ₽ hecho"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "¡Es Muy Eficaz!",
+    "desc": "Asesta 100 golpes muy eficaces en una misma partida de Desafío",
+    "done": false,
+    "fin": "5,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Defensa Férrea",
+    "desc": "Supera una partida de Desafío con menos de 3 Pokémon debilitados en total",
+    "done": true,
+    "fin": "3,000 ₽ hecho"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "¡Hazte con Ellos!",
+    "desc": "Captura 15 Pokémon en una misma partida de Desafío",
     "done": false,
     "fin": "1,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Field Medic",
-    "desc": "Heal 20,000 HP in one Challenge run",
-    "done": false,
-    "fin": "3,000 ₽"
+    "nombre": "Médico de Campaña",
+    "desc": "Cura 20.000 PS en una misma partida de Desafío",
+    "done": true,
+    "fin": "RECLAMAR 3,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Full Badge Case",
-    "desc": "Clear the Gym Challenge at the Earth Badge level",
+    "nombre": "Estuche Completo",
+    "desc": "Supera el Desafío de Gimnasios en el nivel de la Medalla Tierra",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Eight Badges, Eight Partners 0/8",
-    "desc": "Clear all 8 Gym Challenge badge levels, each with a different starter",
+    "nombre": "Ocho Medallas, Ocho Compañeros 0/8",
+    "desc": "Supera los 8 niveles de medalla del Desafío de Gimnasios, cada uno con un inicial distinto",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Soul Survivor",
-    "desc": "Clear the Gym Challenge at the Soul Badge level or higher without your lead Pokémon fainting in any battle",
+    "nombre": "Alma Superviviente",
+    "desc": "Supera el Desafío de Gimnasios en el nivel de la Medalla Alma o superior sin que tu primer Pokémon se debilite en ningún combate",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Double Champion",
-    "desc": "At the Earth Badge level, beat both Champions without any of your Pokémon fainting in either battle",
+    "nombre": "Doble Campeón",
+    "desc": "En el nivel de la Medalla Tierra, derrota a los dos Campeones sin que se debilite ninguno de tus Pokémon en ninguno de los dos combates",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Humble Beginnings",
-    "desc": "Clear the Gym Challenge at the Earth Badge level with a starter that is not shiny, not Aurora and not legendary",
+    "nombre": "Orígenes Humildes",
+    "desc": "Supera el Desafío de Gimnasios en el nivel de la Medalla Tierra con un inicial que no sea variocolor, ni Aurora, ni legendario",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "World Champion",
-    "desc": "Beat the Elite Four and Champion of all 6 leagues (Kanto to Kalos) in Challenge Mode",
+    "nombre": "Campeón Mundial",
+    "desc": "Derrota al Alto Mando y al Campeón de las 6 ligas (de Kanto a Kalos) en el Modo Desafío",
     "done": true,
-    "fin": "CLAIM 5,000 ₽"
+    "fin": "RECLAMAR 5,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Elite Sweep",
-    "desc": "Beat the whole Elite Four and Champion gauntlet without any of your Pokémon fainting",
+    "nombre": "Élite Impecable",
+    "desc": "Derrota a todo el Alto Mando y al Campeón sin que se debilite ninguno de tus Pokémon",
     "done": true,
-    "fin": "5,000 ₽ done"
+    "fin": "5,000 ₽ hecho"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Counter Pick",
-    "desc": "Beat a Challenge Mode map boss with a team where every Pokémon resists that boss's type",
+    "nombre": "Elección Táctica",
+    "desc": "Derrota a un jefe de mapa del Modo Desafío con un equipo en el que todos los Pokémon resistan el tipo de ese jefe",
     "done": true,
-    "fin": "5,000 ₽ done"
+    "fin": "5,000 ₽ hecho"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "From the Sidelines",
-    "desc": "Win a Challenge run with your starter still on the team, without it dealing any damage all run",
+    "nombre": "Desde el Banquillo",
+    "desc": "Gana una partida de Desafío con tu inicial aún en el equipo, sin que haga nada de daño en toda la partida",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Single-Minded",
-    "desc": "Win a Challenge run with exactly one trait active in the final battle, at any tier",
+    "nombre": "Mente única",
+    "desc": "Gana una partida de Desafío con exactamente un rasgo activo en el combate final, en cualquier nivel",
+    "done": true,
+    "fin": "RECLAMAR 10,000 ₽"
+   },
+   {
+    "tab": "chal",
+    "reg": "",
+    "nombre": "Sin brillo",
+    "desc": "Gana una partida de Desafío sin tener nunca un Pokémon variocolor o Aurora en tu equipo, inicial incluido",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "No Sparkle",
-    "desc": "Win a Challenge run without a shiny or Aurora Pokémon ever on your team, starter included",
-    "done": false,
-    "fin": "10,000 ₽"
-   },
-   {
-    "tab": "chal",
-    "reg": "",
-    "nombre": "Weekly Streak 2/4",
-    "desc": "Beat 4 weekly challenges in a row | 0/2",
+    "nombre": "Racha semanal 2/4",
+    "desc": "Supera 4 desafíos semanales seguidos | 0/2",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Daily Habit 3/7",
-    "desc": "Clear the Daily challenge 7 days in a row",
+    "nombre": "Hábito Diario 4/7",
+    "desc": "Supera el Desafío diario 7 días seguidos",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Rainbow Daily 3/18",
-    "desc": "Clear the Daily Mono-Type challenge with all 18 types",
+    "nombre": "Arcoíris Diario 4/18",
+    "desc": "Supera el Desafío diario Mono-tipo con los 18 tipos",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Top Rung",
-    "desc": "Beat the hardest difficulty of a weekly challenge",
+    "nombre": "En la Cima",
+    "desc": "Supera la dificultad más alta de un desafío semanal",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Weekly Completionist",
-    "desc": "Beat every difficulty of a weekly challenge that has at least 2",
+    "nombre": "Completista Semanal",
+    "desc": "Supera todas las dificultades de un desafío semanal que tenga al menos 2",
     "done": false,
     "fin": "3,000 ₽"
    },
@@ -31427,7 +31431,7 @@
     "tab": "chal",
     "reg": "",
     "nombre": "Endless Normal",
-    "desc": "Reach map 100 in Endless Normal | 1/3",
+    "desc": "Llega al mapa 100 en Endless Normal | 1/3",
     "done": false,
     "fin": "5,000 ₽"
    },
@@ -31435,39 +31439,39 @@
     "tab": "chal",
     "reg": "",
     "nombre": "Endless Hardcore 44/50",
-    "desc": "Reach map 50 in Endless Hardcore | 1/2",
+    "desc": "Llega al mapa 50 en Endless Hardcore | 1/2",
     "done": false,
     "fin": "5,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "No Retreat",
-    "desc": "Reach map 30 in Endless Hardcore without any of your Pokémon fainting",
+    "nombre": "Sin Retirada",
+    "desc": "Llega al mapa 30 en Endless Hardcore sin que se debilite ninguno de tus Pokémon",
     "done": false,
     "fin": "10,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Mutant Menace",
-    "desc": "Beat a Big Boss in Endless Hardcore with a mutated Pokémon on your team",
+    "nombre": "Amenaza Mutante",
+    "desc": "Derrota a un Gran Jefe en Endless Hardcore con un Pokémon Mutante en tu equipo",
     "done": false,
     "fin": "1,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Signature Style 0/5",
-    "desc": "Take 5 different Signature Items, counted over all runs",
+    "nombre": "Estilo Distintivo 0/5",
+    "desc": "Consigue 5 Objetos Distintivos diferentes entre todas tus partidas",
     "done": false,
     "fin": "3,000 ₽"
    },
    {
     "tab": "chal",
     "reg": "",
-    "nombre": "Expanded Bag",
-    "desc": "Fill all 10 relic slots in an Endless Hardcore run",
+    "nombre": "Mochila Ampliada",
+    "desc": "Llena los 10 huecos de reliquia en una partida de Endless Hardcore",
     "done": false,
     "fin": "5,000 ₽"
    },
@@ -31475,87 +31479,87 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Kanto",
-    "desc": "Catch all Gen 1 Pokémon across any number of runs",
+    "desc": "Captura a todos los Pokémon de la 1ª generación en cualquier número de partidas",
     "done": true,
-    "fin": "1,510 ₽ done"
+    "fin": "1,510 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Johto",
-    "desc": "Catch all Gen 2 Pokémon across any number of runs",
+    "desc": "Captura a todos los Pokémon de la 2ª generación en cualquier número de partidas",
     "done": true,
-    "fin": "1,000 ₽ done"
+    "fin": "1,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Hoenn",
-    "desc": "Catch all Gen 3 Pokémon across any number of runs",
+    "desc": "Captura a todos los Pokémon de la 3ª generación en cualquier número de partidas",
     "done": true,
-    "fin": "1,350 ₽ done"
+    "fin": "1,350 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Sinnoh",
-    "desc": "Catch all Gen 4 Pokémon across any number of runs",
+    "desc": "Captura a todos los Pokémon de la 4ª generación en cualquier número de partidas",
     "done": true,
-    "fin": "1,070 ₽ done"
+    "fin": "1,070 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Unova",
-    "desc": "Catch all Gen 5 Pokémon across any number of runs",
+    "desc": "Captura a todos los Pokémon de la 5ª generación en cualquier número de partidas",
     "done": true,
-    "fin": "1,560 ₽ done"
+    "fin": "1,560 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Kalos",
-    "desc": "Catch all Gen 6 Pokémon across any number of runs",
+    "desc": "Captura a todos los Pokémon de la 6ª generación en cualquier número de partidas",
     "done": true,
-    "fin": "5,000 ₽ done"
+    "fin": "5,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Pokédex Master",
-    "desc": "Catch every Pokémon across all five generations: unlocks the Shiny Hunter starting relic",
+    "nombre": "Maestro de la Pokédex",
+    "desc": "Captura a cada Pokémon de las cinco generaciones: desbloquea la reliquia inicial Cazador de Shinys",
     "done": true,
-    "fin": "25,000 ₽ done"
+    "fin": "25,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Kanto",
-    "desc": "Have every Gen 1 evolution line in your PC",
+    "desc": "Ten todas las líneas evolutivas de la Gen 1 en tu PC",
     "done": true,
-    "fin": "15,100 ₽ done"
+    "fin": "15,100 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Johto",
-    "desc": "Have every Gen 2 evolution line in your PC",
+    "desc": "Ten todas las líneas evolutivas de la Gen 2 en tu PC",
     "done": true,
-    "fin": "10,000 ₽ done"
+    "fin": "10,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Hoenn",
-    "desc": "Have every Gen 3 evolution line in your PC",
+    "desc": "Ten todas las líneas evolutivas de la Gen 3 en tu PC",
     "done": true,
-    "fin": "13,500 ₽ done"
+    "fin": "13,500 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Sinnoh 37/38",
-    "desc": "Have every Gen 4 evolution line in your PC",
+    "desc": "Ten todas las líneas evolutivas de la Gen 4 en tu PC",
     "done": false,
     "fin": "10,700 ₽"
    },
@@ -31563,7 +31567,7 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Unova 68/69",
-    "desc": "Have every Gen 5 evolution line in your PC",
+    "desc": "Ten todas las líneas evolutivas de la Gen 5 en tu PC",
     "done": false,
     "fin": "15,600 ₽"
    },
@@ -31571,15 +31575,15 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Kalos",
-    "desc": "Have every Gen 6 evolution line in your PC",
+    "desc": "Ten todas las líneas evolutivas de la Gen 6 en tu PC",
     "done": true,
-    "fin": "7,200 ₽ done"
+    "fin": "7,200 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
     "nombre": "Kanto 147/151",
-    "desc": "Catch a shiny version of every Gen 1 Pokémon (Aurora Pokémon count too)",
+    "desc": "Captura una versión shiny de cada Pokémon de la 1ª generación (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "15,100 ₽"
    },
@@ -31587,7 +31591,7 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Johto 97/100",
-    "desc": "Catch a shiny version of every Gen 2 Pokémon (Aurora Pokémon count too)",
+    "desc": "Captura una versión shiny de cada Pokémon de la Gen 2 (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "10,000 ₽"
    },
@@ -31595,7 +31599,7 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Hoenn 126/135",
-    "desc": "Catch a shiny version of every Gen 3 Pokémon (Aurora Pokémon count too)",
+    "desc": "Captura una versión shiny de cada Pokémon de la Gen 3 (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "13,500 ₽"
    },
@@ -31603,7 +31607,7 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Sinnoh 96/107",
-    "desc": "Catch a shiny version of every Gen 4 Pokémon (Aurora Pokémon count too)",
+    "desc": "Captura una versión shiny de cada Pokémon de la Gen 4 (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "10,700 ₽"
    },
@@ -31611,87 +31615,87 @@
     "tab": "coll",
     "reg": "",
     "nombre": "Unova 147/156",
-    "desc": "Catch a shiny version of every Gen 5 Pokémon (Aurora Pokémon count too)",
+    "desc": "Captura una versión shiny de cada Pokémon de la Gen 5 (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "15,600 ₽"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Kalos 68/72",
-    "desc": "Catch a shiny version of every Gen 6 Pokémon (Aurora Pokémon count too)",
+    "nombre": "Kalos 69/72",
+    "desc": "Captura una versión shiny de cada Pokémon de la Gen 6 (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "7,200 ₽"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Ultimate Shiny Hunter",
-    "desc": "Catch a shiny version of every Pokémon across all gens (Aurora Pokémon count too)",
+    "nombre": "Cazador de Shinys Supremo",
+    "desc": "Captura una versión shiny de cada Pokémon de todas las generaciones (los Pokémon Aurora también cuentan)",
     "done": false,
     "fin": "50,000 ₽"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Shiny Collector 681/700",
-    "desc": "Catch 700 different shiny Pokémon (Aurora Pokémon count too) | 6/7",
+    "nombre": "Coleccionista variocolor 682/700",
+    "desc": "Captura 700 Pokémon shiny distintos (los Pokémon Aurora también cuentan) | 6/7",
     "done": false,
     "fin": "35,000 ₽"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Peak Stats",
-    "desc": "Max out all 5 stats on a single Pokémon | 5/5",
+    "nombre": "Estadísticas al máximo",
+    "desc": "Maximiza las 5 estadísticas en un solo Pokémon | 5/5",
     "done": true,
-    "fin": "done"
+    "fin": "hecho"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Stone Collector",
-    "desc": "Unlock 10 Mega Stones",
+    "nombre": "Coleccionista de Piedras",
+    "desc": "Desbloquea 10 Mega Stones",
     "done": true,
-    "fin": "3,000 ₽ done"
+    "fin": "3,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Wheeler Dealer 48/100",
-    "desc": "Complete 100 trades across all Story generations",
+    "nombre": "Gran Negociante 48/100",
+    "desc": "Completa 100 intercambios entre todas las generaciones de Historia",
     "done": false,
     "fin": "2,000 ₽"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Master Catcher",
-    "desc": "Catch 300 Pokémon at Catch nodes across all Story generations",
+    "nombre": "Maestro Capturador",
+    "desc": "Captura 300 Pokémon en nodos de captura entre todas las generaciones de Historia",
     "done": true,
-    "fin": "4,000 ₽ done"
+    "fin": "4,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Hoarder",
-    "desc": "Pick up 400 items across all Story generations",
+    "nombre": "Acaparador",
+    "desc": "Recoge 400 objetos entre todas las generaciones de Historia",
     "done": true,
-    "fin": "8,000 ₽ done"
+    "fin": "8,000 ₽ hecho"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Lucky Sevens 233/777",
-    "desc": "Open 777 ? nodes across all Story generations",
+    "nombre": "Sietes de la Suerte 233/777",
+    "desc": "Abre 777 nodos ? entre todas las generaciones de Historia",
     "done": false,
     "fin": "12,000 ₽"
    },
    {
     "tab": "coll",
     "reg": "",
-    "nombre": "Battle Legend 3272/5000",
-    "desc": "Win 5,000 trainer battles across all Story generations",
+    "nombre": "Leyenda del Combate 3272/5000",
+    "desc": "Gana 5.000 combates contra entrenadores entre todas las generaciones de Historia",
     "done": false,
     "fin": "15,000 ₽"
    }
