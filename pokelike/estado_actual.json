@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "2026-11-24: Volador 35 DERROTA (Blue). Mega-Rayquaza 15/50.",
- "siguiente_decision": "Iniciar Volador 36.",
+ "ultima_accion_confirmada": "2026-11-24: Volador 36 en curso, 2 gimnasios ganados (inicio mapa 3). Rayquaza Nv25 con Dragon Ascent; Noibat aurora, Fletchinder, Scyther, Archen. Mega-Rayquaza 15/50.",
+ "siguiente_decision": "Reanudar Volador 36 (REANUDAR DESAFÍO) en el mapa 3.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -50,7 +50,7 @@
   "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
   "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
  ],
- "run_actual": null,
+ "run_actual": "mono-flying-2026-11-24-36 (Rayquaza)",
  "capturas_pendientes_registro": [],
  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
