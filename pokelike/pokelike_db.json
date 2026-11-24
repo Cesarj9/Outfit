@@ -29695,6 +29695,26 @@
    "nivel_final": 12,
    "causa_derrota_si_confirmada": "Mapa 2: hierba y Pescador Nv17 contra equipo Nv12 (mapa 1 casi todo capturas, sin exp)",
    "aprendizaje": "Las capturas no dan exp: en el mapa 1 hay que mezclar capturas con entrenadores. best.sh: pokeball 2.0 (PBSC)."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-18",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeona Diantha)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 8/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Natu aurora nuevo intento 6 y Zubat aurora nuevo mapa 6 perdidos con la derrota)",
+   "intentos_primer_nodo_confirmados": 6,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 102, Archeops 98, Hawlucha 98, Crobat aurora 98, Xatu aurora 98, Gyarados 96",
+   "reliquias_finales": "Shiny Hunter, Power Bracer, Legend Might, Prism Scale, Ring Target, Adrenaline Orb",
+   "nivel_final": 102,
+   "causa_derrota_si_confirmada": "Campeona Diantha (Kalos) Nv135-140: quedó Xerneas a 240/502",
+   "aprendizaje": "Liga de Kalos: Malva (Fuego), Siebold, Wikstrom (Gyarados delante), Drasna y Diantha. Por muy poco; faltó algo más de nivel o daño."
   }
  ],
  "observaciones": [
