@@ -30162,6 +30162,26 @@
    "nivel_final": 118,
    "causa_derrota_si_confirmada": "Campeona Cynthia (Sinnoh): cayó todo el equipo dejando a Giratina 411/570; Pelipper, Togekiss y Talonflame gastados vs Bertha/Flint",
    "aprendizaje": "Sinnoh no cura a los debilitados. Faltó muy poco: preservar Togekiss (Hada) para Cynthia y no usar a Pelipper primero contra Bertha (cayó)."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-41",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5 (Campeón Lance)",
+   "resultado": "DERROTA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 18/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo: Ledyba shiny intento 28; Articuno legendario capturado en mapa 8)",
+   "intentos_primer_nodo_confirmados": 28,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 107, Scizor 107, Articuno 105, Swanna 105, Ledian shiny 105, Skarmory 102",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Baya Chilan, Big Root, Sky Plate, Pluma Ímpetu",
+   "nivel_final": 107,
+   "causa_derrota_si_confirmada": "Campeón Lance (Johto) Nv135-140 (Kyurem/Zekrom/Rayquaza) contra Rayquaza+Scizor solos; Johto no revive y Bruno/Koga tumbaron a 4",
+   "aprendizaje": "Johto: el Alto Mando desgasta mucho; hacen falta Nv115+ para llegar con equipo entero a Lance."
   }
  ],
  "observaciones": [
