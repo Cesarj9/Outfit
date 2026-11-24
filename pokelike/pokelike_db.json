@@ -29330,6 +29330,26 @@
    "nivel_final": 90,
    "causa_derrota_si_confirmada": "Campeona Cynthia (Sinnoh, no cura) a Nv90 contra Nv135-140: cayeron Garchomp, Milotic y Cresselia; quedaron Darkrai, Palkia y Giratina.",
    "aprendizaje": "El diario cambió a Mono-Volador a las 23:00 UTC; se jugó el Desafío de Gimnasios normal (Medalla Roca). Muchas auroras nuevas aparecen al haber todos los tipos (3 en una partida). Abono Lento + Porcehelado + Banda Atadura muy fuerte: ganó Barry y Giovanni yendo 25-30 niveles por debajo. Pero se llegó a la Liga con Nv82: hay que subir más nivel (rutas con más entrenadores, Huevo Suerte/Caramelos en Groudon)."
+  },
+  {
+   "run_id": "gym-boulder-2026-11-23-20",
+   "modo": "Gym Challenge (Medalla Roca)",
+   "desafio_visible": "Desafío de Gimnasios estándar",
+   "inicial": "Groudon",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-23",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "DERROTA",
+   "objetivos": "Groudon MVP + aurora nuevo",
+   "capturas_pendientes": "AUDINO AURORA (nuevo, mapa 6) — perdido",
+   "capturas_registradas_pc": "ninguna (derrota)",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Groudon 100, Emboar 100, Serperior shiny 100, Audino aurora 100, Starmie 100, Lanturn 100",
+   "reliquias_finales": "Shiny Hunter, Oval Charm, Damp Mulch, Binding Band, Room Service, Ground Memory, Pure Incense",
+   "nivel_final": 100,
+   "causa_derrota_si_confirmada": "Campeón Mirto (Teselia, no cura) a Nv100 contra Nv135-140: solo cayó Volcarona. Catleya dejó a Groudon a 173/456 y Marshal se llevó a Starmie y Lanturn.",
+   "aprendizaje": "Partida reanudada tras cierre del navegador (seguía en la pantalla de orden). En el Desafío de Gimnasios normal los Campeones llegan con Nv135-140 y mi equipo llega a ~Nv100: hace falta Roca Suave/Geostal Z o más nivel para el Campeón."
   }
  ],
  "observaciones": [
