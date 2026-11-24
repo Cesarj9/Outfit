@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 115,
+  "total_auroras_pc": 116,
   "ultima_actualizacion": "2026-11-24: refresco (Yanma aurora nuevo en PC; 102 auroras; Pokédex aurora 313; megas 27/48; Mega-Rayquaza 0/50; dinero 156,111 ₽).",
-  "dinero_visible": 169911,
+  "dinero_visible": 170811,
   "megas": {
    "fecha": "2026-11-24",
    "desbloqueadas": "27/48",
@@ -15872,8 +15872,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -15886,7 +15886,8 @@
    "fecha_verificacion": "2026-11-20",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "nota_aurora": "Aurora verificado en PC 2026-11-24 (Volador 36)"
   },
   {
    "linea_id": 43,
@@ -30060,6 +30061,26 @@
    "nivel_final": 119,
    "causa_derrota_si_confirmada": "Campeón Blue (Kanto): barrida total sin dañar a Aerodactyl, aun con Rayquaza Nv119",
    "aprendizaje": "Blue en Kanto parece imposible sin un counter fuerte de Aerodactyl (Agua/Acero de alto nivel). Disco Acero no bastó."
+  },
+  {
+   "run_id": "mono-flying-2026-11-24-36",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Flying Challenge",
+   "inicial": "Rayquaza",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-24",
+   "mapa_actual": "Liga 5/5",
+   "resultado": "VICTORIA",
+   "objetivos": "Rayquaza MVP (Mega-Rayquaza 16/50) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ZUBAT AURORA (nuevo, nodo de captura mapa 3, evolucionado a Crobat; verificado en PC). Primer nodo: Noibat aurora (ya registrado) intento 22.",
+   "intentos_primer_nodo_confirmados": 22,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rayquaza 122, Crobat aurora 119, Noivern aurora 119, Archeops 120, Scizor 110, Talonflame 108",
+   "reliquias_finales": "Shiny Hunter, Dragon Skull, Stardust, Berry Juice, Power Bracer, Wise Glasses",
+   "nivel_final": 122,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Liga de Kanto ganada: Blue con Scizor 1º (Acero resiste Roca de Aerodactyl) y Rayquaza 2º. Lorelei: Talonflame/Scizor/Archeops delante. Zumo de Baya + Gafas Especiales + Volador T4. MVP 116,463/121,081."
   }
  ],
  "observaciones": [
