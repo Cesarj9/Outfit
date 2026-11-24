@@ -64,5 +64,7 @@ Verificar todo en el PC real antes de usarlo.
 
 **Volador / Mega-Rayquaza (2026-11-24)**
 - Meta: Mega-Rayquaza = 50 victorias de desafío con Rayquaza MVP. Misma ley de primer nodo.
+- En los mapas, Rayquaza va DETRÁS (la exp se reparte igual entre todos); delante solo en jefes. Si va delante en el mapa sin curas, cae y se queda atrás de nivel (Volador 9 y 13).
+- Llegar a la Liga con Nv100+ (en Volador 7 se perdió contra Lance Nv140 con Nv78). Tutores/MT para Dragon Ascent pronto; Huevo Suerte o Caramelo Raro en Rayquaza.
 - Equipo ganador: Rayquaza + Fuego (Fletchling→Talonflame) + Agua (Ducklett→Swanna) + Roca (Aerodactyl) + Lucha (Hawlucha) + Siniestro (Vullaby). Steven (Acero) gana a equipos sin Fuego/Agua/Lucha.
 - Rayquaza detrás en combates de mapa hasta tener Ascenso Draco y nivel; delante en jefes salvo contra Hielo.
