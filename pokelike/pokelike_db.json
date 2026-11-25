@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 128,
-  "ultima_actualizacion": "2026-11-25: sincronización PC tras partidas de César; 128 auroras; 153,030 ₽.",
-  "dinero_visible": 153030,
+  "total_auroras_pc": 129,
+  "ultima_actualizacion": "2026-11-25: Bicho 1 ganada (Scyther MVP); Kricketot aurora (129); 153,530 ₽.",
+  "dinero_visible": 153530,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -20530,8 +20530,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -20544,7 +20544,7 @@
    "fecha_verificacion": "2026-11-25",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 1 (agente) y verificado en PC 2026-11-25."
   },
   {
    "linea_id": 403,
@@ -30743,6 +30743,26 @@
    "nivel_final": 52,
    "causa_derrota_si_confirmada": "Equipo arrasado en el mapa 7 por entrenadores (científico, «?») y un Salamence salvaje Nv72 en un «?», sin Centro entre medias. Solo 1 shiny en todo el equipo (0 shinies en ~12 capturas): Psíquico T3, rellenos débiles.",
    "aprendizaje": "Sin shinies los rellenos no aguantan: en mapas 6-7 los «?» y Caballeros/Científicos van +20-25 niveles. Mega-Gardevoir (Megasinfonía) DESACTIVA el rasgo Psíquico: no usar Gardevoirita en Mono-Psíquico. Destello Inicial: el 1.º Pokémon cuenta como shiny (Hada T2 con Mr. Mime delante) — bueno en gimnasios, pero en el mapa el líder frágil cae primero. Evitar «?» en mapas 6-7 sin Centro detrás."
+  },
+  {
+   "run_id": "Bicho-1",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Teselia)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Kricketot aurora (NUEVO, verificado en PC: 129 auroras)",
+   "intentos_primer_nodo_confirmados": 5,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 147 (MVP), Kricketune 145 (aurora), Beedrill 134 (shiny), Leavanny (shiny), Mothim (shiny), Armaldo (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Muda Concha, Cinta Fuerte, Hierba Blanca, Polvo Plata",
+   "nivel_final": 147,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Disco Bicho + rasgo Bicho T7 (14 puntos: 2 auroras + 4 shinies) = +1 nivel seguro por combate y a veces +2: Nv71 en el mapa 5, Nv101 en el mapa 7, Nv131 en la Liga. Rellenar con shinies de los «?» (Burmy→Mothim, Sewaddle, Kakuna) y liberar normales. Scizor megaevoluciona al evolucionar (Scizorita del inicial). Ante Fuego (gym 8, Campeón Alder) poner relleno delante y Armaldo/Kricketune a tanquear. Los nodos legendarios del mapa 8-9 dieron Genesect normal (ya en PC): no compensa perder Bicho T7."
   }
  ],
  "observaciones": [
