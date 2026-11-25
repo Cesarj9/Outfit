@@ -30243,6 +30243,26 @@
    "nivel_final": 94,
    "causa_derrota_si_confirmada": "Drake (Hoenn) Nv124-128; Hoenn no cura y Phoebe/Glacia desgastaron",
    "aprendizaje": "Mono-Psíquico: Liga de Hoenn llega con ~Nv90 contra 112-128. Sidney (Siniestro) se ganó con Slowbro (Agua). Falta nivel: buscar Huevo Suerte/Polvo Estelar y más entrenadores."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-2",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 2 (Bugsy, Bicho)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo Elgyem shiny intento 23; Munna shiny NUEVO visto en intento 20 pero rerolado por la regla)",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 18, Meditite shiny 18, Elgyem shiny 18, Exeggcute 18, Ralts 18",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Ring Target",
+   "nivel_final": 18,
+   "causa_derrota_si_confirmada": "Bugsy (Bicho) contra equipo Psíquico Nv18 con Kadabra debilitado en mapa (sin Centro antes del gimnasio)",
+   "aprendizaje": "Mono-Psíquico es muy frágil al principio; no entrar al gimnasio con Kadabra caído: priorizar ruta con Centro Pokémon y más nivel."
   }
  ],
  "observaciones": [
