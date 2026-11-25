@@ -30303,6 +30303,26 @@
    "nivel_final": 35,
    "causa_derrota_si_confirmada": "Mapa 5: hierba + Científico + Caballero tumbaron al equipo (Nv30-35) sin Centro Pokémon cercano",
    "aprendizaje": "Mono-Psíquico: los combates de mapa 5 superan al equipo; hay que llegar con más nivel (Huevo Suerte/Caramelos) y no encadenar combates tras perder 3 miembros."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-5",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Mapa 3 (Electabuzz salvaje en hierba)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "LUNATONE AURORA (nuevo, primer nodo intento 10) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 10,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 21, Sigilyph 21, Lunatone aurora 20, Exeggcute 20, Woobat 20, Beldum 18",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Razor Claw, Exp. Share",
+   "nivel_final": 21,
+   "causa_derrota_si_confirmada": "Electabuzz salvaje (nodo hierba) barrió al equipo con 3 miembros ya caídos en el mapa",
+   "aprendizaje": "Mono-Psíquico: los nodos de hierba (salvajes) son peligrosísimos; evitarlos (GRASSSC bajo) y curar antes de seguir."
   }
  ],
  "observaciones": [
