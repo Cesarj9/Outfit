@@ -30283,6 +30283,26 @@
    "nivel_final": 21,
    "causa_derrota_si_confirmada": "Whitney (Miltank/Munchlax) contra equipo de 3 con Beldum caído y Kadabra al 50%",
    "aprendizaje": "Mono-Psíquico mapa 2: elegir ruta con Centro Pokémon antes del gimnasio y llevar 4+ Pokémon."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-4",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Mapa 5 (entrenador Caballero)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "SOLROCK AURORA (nuevo, primer nodo intento 26) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 26,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 35, Swoobat 34, Gardevoir 33, Baltoy 33, Solrock aurora 30, Metang 30",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Ring Target, Rock Gem, Chilan Berry",
+   "nivel_final": 35,
+   "causa_derrota_si_confirmada": "Mapa 5: hierba + Científico + Caballero tumbaron al equipo (Nv30-35) sin Centro Pokémon cercano",
+   "aprendizaje": "Mono-Psíquico: los combates de mapa 5 superan al equipo; hay que llegar con más nivel (Huevo Suerte/Caramelos) y no encadenar combates tras perder 3 miembros."
   }
  ],
  "observaciones": [
