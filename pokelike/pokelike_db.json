@@ -30343,6 +30343,26 @@
    "nivel_final": 34,
    "causa_derrota_si_confirmada": "Blaine (Fuego) Nv40-42 contra equipo Nv23-34",
    "aprendizaje": "Mono-Psíquico llega ~10 niveles por debajo en cada gimnasio; los combates de mapa tumban a medio equipo. Kadabra no recibió tutor hasta el mapa 4."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-7",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 5 (Clair, Dragón)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "GIRAFARIG AURORA (nuevo, nodo de captura mapa 2) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 26,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 34, Mega Gallade 32, Girafarig aurora 32, Swoobat 32, Slowpoke shiny 32, Metang 32",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Mind Plate, Kee Berry, Big Root",
+   "nivel_final": 34,
+   "causa_derrota_si_confirmada": "Clair (Dragón) Nv55-58 contra equipo Nv32-34",
+   "aprendizaje": "El hueco de niveles crece (gim 5 = Nv55+). Con Mono-Psíquico no se pueden encadenar combates de mapa; hace falta Huevo Suerte/Polvo Estelar/Repartir Exp temprano."
   }
  ],
  "observaciones": [
