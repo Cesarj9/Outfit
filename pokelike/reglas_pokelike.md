@@ -103,3 +103,8 @@ Verificar todo en el PC real antes de usarlo.
 - Mega-Gardevoir (Megasinfonía) DESACTIVA el rasgo Psíquico: no equipar Gardevoirita en Mono-Psíquico.
 - En mapas 6-7, los «?», Caballeros y Científicos van 20-25 niveles por encima: no encadenar más de 2 combates fuertes sin Centro; evitar «?» si no hay Centro justo después.
 - Destello Inicial (el 1.º Pokémon cuenta como shiny): poner el relleno de Hada delante SOLO en gimnasios y Liga; en el mapa, Mewtwo delante.
+
+## Desafío Bicho (César, 2026-11-25 noche)
+- Inicial Scyther o Weedle (ambos aurora) hasta conseguir **Heracross aurora**; después usar Heracross con su ataque en nivel 1 (no mejorarlo con tutores: Mega/Skill Link).
+- Misión: el máximo número de auroras posible. Ley del primer nodo: 20 intentos aurora nuevo, luego cualquier aurora/shiny.
+- Tarea automática cada 2 h para reiniciar el navegador si se cierra por el límite.

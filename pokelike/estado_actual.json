@@ -2,9 +2,9 @@
   "fecha": "2026-11-25",
   "version_juego": "v3.8",
   "bloqueo": null,
-  "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
-  "inicial": "Tentacool aurora (consejo de César)",
-  "objetivo_actual": "Mega-Mewtwo Y (11/50 MVP) — diario Mono-Psíquico con Mewtwo",
+  "modo_desafio": "Desafío Bicho (Gym Challenge Mono-Bicho)",
+  "inicial": "Scyther aurora o Weedle aurora hasta conseguir Heracross aurora; después Heracross (ataque en nivel 1, sin tutores)",
+  "objetivo_actual": "Máximo número de auroras en el desafío Bicho (César, 2026-11-25 noche). Objetivo dirigido: Heracross aurora.",
   "objetivos_registrados_verificados_por_este_agente": [
     "Charmander aurora (PC+Pokédex)",
     "Tentacool aurora (PC+Pokédex)",
@@ -31,8 +31,8 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Psíquico-Mewtwo 13 PERDIDA en el mapa 7 (equipo sin shinies). Agente detenido: juega César. Mega-Mewtwo Y 11/50.",
-  "siguiente_decision": "Esperar a César (él juega tras una derrota).",
+  "ultima_accion_confirmada": "PC sincronizado tras partidas de César: auroras nuevas Weedle, Spoink, Sewaddle (128). 153,030 ₽. Tarea automática cada 2 h (trig_01BwKxMvn7mDVwLduB2D178p) para reiniciar el navegador.",
+  "siguiente_decision": "Empezar desafío Bicho con Scyther aurora.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
     "formas mega en Pokédex",
@@ -42,7 +42,8 @@
   "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/",
   "cuenta": {
     "valor_previo": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
-    "dinero_visible_2026_11_23": 172077
+    "dinero_visible_2026_11_23": 172077,
+    "dinero_visible_2026_11_25": 153030
   },
   "notas_ui": [
     "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
@@ -75,5 +76,10 @@
   "progreso_mega_mewtwo_y": {
     "mvp": 11,
     "meta": 50
+  },
+  "tarea_automatica": {
+    "id": "trig_01BwKxMvn7mDVwLduB2D178p",
+    "cron": "24 */2 * * * (UTC)",
+    "motivo": "Reiniciar navegador (límite 2 h) y seguir mientras César duerme"
   }
 }
