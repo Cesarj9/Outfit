@@ -30643,6 +30643,26 @@
    "nivel_final": 105,
    "causa_derrota_si_confirmada": "Drake: Haxorus 34 PS y Gyarados 85 PS al final; Sidney se llevó a Gallade/Mr. Mime/Delphox (Hoenn sin curas)",
    "aprendizaje": "Ruta de máximo nivel: Liga con Nv99. Sidney, Phoebe, Glacia ganados. En Hoenn reservar Hada (Mr. Mime) para Drake; contra Sidney arriesgar menos atacantes."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-9",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 3 (Jasmine)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 22, Kadabra 24 (shiny), Kirlia 24, Inkay 24 (shiny), Elgyem 24, Meditite 24",
+   "reliquias_finales": "Teralito Psíquico, Lazo Destino, Baya Aranja",
+   "nivel_final": 24,
+   "causa_derrota_si_confirmada": "Ruta de 4 nodos de hierba + escupefuego en mapa 3 sin Centro: el equipo llegó debilitado al gimnasio",
+   "aprendizaje": "Hierba en mapas tempranos con equipo bajo es peligrosa; no encadenar hierba sin Centro antes del gimnasio. boss.sh entra directo al gimnasio: revisar PS antes."
   }
  ],
  "observaciones": [
