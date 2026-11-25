@@ -30503,6 +30503,26 @@
    "nivel_final": 83,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Teralito Psíquico de inicio + Mewtwo primero en todo arrasa; tutor Psicorrayo→Psíquico→Onda Mental en mapa 3. Mantener T6 Psíquico (shiny/aurora cuentan doble). Mewtwo MVP con 36k daño, 84 KO."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-2",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Hoenn (Drake 4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Espurr aurora (perdido), Slowpoke aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 10,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 91, Celebi 88, Slowbro 88 (aurora), Meowstic 87 (aurora), Bronzong 87 (aurora), Victini 84",
+   "reliquias_finales": "Teralito Psíquico, Baya Arabol, Porcehelado, Incienso Raro, Tubérculo (+Cebo Legendario)",
+   "nivel_final": 91,
+   "causa_derrota_si_confirmada": "Drake (Dragón Nv124-128) tras Sidney/Phoebe/Glacia sin curar; Victini cayó con Sidney, Mewtwo llegó con 1/3 de PS",
+   "aprendizaje": "Hoenn sin curas entre combates: llegar con mucho más nivel; contra Siniestro psíquicos no sirven. Faltó Hada/Hielo para Drake. No se tomó tutor Onda Mental (mapa 9 sin centro)."
   }
  ],
  "observaciones": [
