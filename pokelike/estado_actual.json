@@ -4,7 +4,7 @@
   "bloqueo": null,
   "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
   "inicial": "Tentacool aurora (consejo de César)",
-  "objetivo_actual": "Mega-Alakazam conseguida → siguiente: Mega-Mewtwo Y (8/50 MVP)",
+  "objetivo_actual": "Mega-Mewtwo Y (9/50 MVP) — diario Mono-Psíquico con Mewtwo, Teralito Psíquico de reliquia inicial, ley de primer nodo 20 intentos",
   "objetivos_registrados_verificados_por_este_agente": [
     "Charmander aurora (PC+Pokédex)",
     "Tentacool aurora (PC+Pokédex)",
@@ -31,7 +31,7 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Re-login y refresco: Mega-Alakazam desbloqueada (28/48), Metagross 1/10; auroras nuevas Natu y Gothita (123 en PC); 151,132 ₽.",
+  "ultima_accion_confirmada": "Psíquico-Mewtwo 1 GANADA (Kalos/Diantha), Mewtwo MVP → Mega-Mewtwo Y 9/50. Meditite aurora registrado en PC (intento 8). 151,632 ₽.",
   "siguiente_decision": "Reanudar Volador 37 (REANUDAR DESAFÍO) en el mapa 2; buscar tutor.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -71,5 +71,10 @@
     "mvp": 10,
     "meta": 10,
     "estado": "DESBLOQUEADA (confirmado en panel 2026-11-25)"
+  },
+  "progreso_mega_mewtwo_y": {
+    "mvp": 9,
+    "meta": 50,
+    "fuente": "Brazalete Mega 2026-11-25"
   }
 }

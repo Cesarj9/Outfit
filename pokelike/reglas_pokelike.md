@@ -76,3 +76,9 @@ Verificar todo en el PC real antes de usarlo.
 - CORREGIDO (Psíquico 8): Abra/Kadabra/Alakazam PRIMERO en mapas y gimnasios. Al final del orden no gana nivel y el resto cae; delante arrasa con la salpicadura y gana todo el nivel.
 - Pasar siempre por Centro Pokémon antes del gimnasio (CENTERSC=15). Llevar 4+ Pokémon antes del gimnasio 2 (Bugsy Bicho / Whitney Normal).
 - Liga de Hoenn (Sidney Siniestro): solo Agua/Lucha le hacen daño; Slowbro le ganó.
+
+## Mono-Psíquico con Mewtwo (Mega-Mewtwo Y), 2026-11-25
+- (César) Reliquia inicial SIEMPRE Teralito Psíquico (salpicadura −1 DEF esp.). Ley primer nodo: 20 intentos aurora nuevo, luego cualquier aurora/shiny.
+- Mewtwo primero en mapas y gimnasios; tutores pronto (Psicorrayo→Psíquico→Onda Mental). En Alto Mando, por tipo (Acero: Fuego delante).
+- Shiny/aurora/legendario cuentan doble para el rasgo Psíquico: al liberar, mantener T6 (12+).
+- Psíquico-Mewtwo 1: victoria en Kalos (Diantha) con Mewtwo Nv83 MVP.

@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 123,
-  "ultima_actualizacion": "2026-11-25: refresco (Natu y Gothita aurora; 123 auroras en PC; megas 28/48: Mega-Alakazam desbloqueada, Metagross 1/10; dinero 151,132 ₽).",
-  "dinero_visible": 151132,
+  "total_auroras_pc": 124,
+  "ultima_actualizacion": "2026-11-25: Psíquico-Mewtwo 1 ganada (Kalos, Mewtwo MVP); Meditite aurora registrado (124); Mega-Mewtwo Y 9/50; 151,632 ₽.",
+  "dinero_visible": 151632,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -19204,8 +19204,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19216,7 +19216,7 @@
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
    "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
+   "version_juego": "3.8",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
@@ -30483,6 +30483,26 @@
    "nivel_final": 22,
    "causa_derrota_si_confirmada": "Kadabra sin tutor (Psicorrayo) cayó en Bicho/Escupefuego; Dustox salvaje remató",
    "aprendizaje": "Sin tutor de Psíquico en mapa 1, Kadabra no aguanta el mapa 2. Equipo de 3 insuficiente."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-1",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Kalos",
+   "resultado": "VICTORIA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Meditite aurora (PC verificado)",
+   "intentos_primer_nodo_confirmados": 8,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 83, Medicham 88 (aurora), Victini 84, Delphox (shiny), Claydol (aurora), Chimecho (shiny)",
+   "reliquias_finales": "Cazador Shiny, Teralito Psíquico, Incienso Raro, Blanco, Banda Focus, Escama Bella",
+   "nivel_final": 83,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Teralito Psíquico de inicio + Mewtwo primero en todo arrasa; tutor Psicorrayo→Psíquico→Onda Mental en mapa 3. Mantener T6 Psíquico (shiny/aurora cuentan doble). Mewtwo MVP con 36k daño, 84 KO."
   }
  ],
  "observaciones": [
