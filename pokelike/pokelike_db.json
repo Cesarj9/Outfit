@@ -30543,6 +30543,26 @@
    "nivel_final": 62,
    "causa_derrota_si_confirmada": "Rival Hugh Nv86-90 (Feraligatr, Scrafty, Hydreigon, Floatzel, Haxorus) con rasgo Psíquico solo T3",
    "aprendizaje": "Sin aurora nuevo en 20 intentos → Spoink shiny (intento 25). Al liberar shinies el rasgo Psíquico bajó a T3: conservar shiny/aurora/legendarios para T5-T6. Nivel 25 por debajo del rival."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-4",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Mapa 6",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Chingling aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 39, Hoopa 40, Metang 39 (shiny), Solrock x2 (shiny), Chimecho 39 (aurora)",
+   "reliquias_finales": "Teralito Psíquico, Semilla Psique, Blanco, Baya Jaboca, Incienso Acua (+Cebo Legendario)",
+   "nivel_final": 39,
+   "causa_derrota_si_confirmada": "Hierba salvaje dejó a Mewtwo/Hoopa a 0% y el Científico Nv61 barrió al resto (gap 22 niveles)",
+   "aprendizaje": "Cebo Legendario convierte nodos de captura en legendarios y quita entrenadores: el equipo se queda muy atrás de nivel. No usar Cebo Legendario. Evitar hierba en mapas 5+ si vamos bajos de nivel."
   }
  ],
  "observaciones": [

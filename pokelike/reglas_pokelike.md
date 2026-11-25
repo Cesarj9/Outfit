@@ -82,3 +82,4 @@ Verificar todo en el PC real antes de usarlo.
 - Mewtwo primero en mapas y gimnasios; tutores pronto (Psicorrayo→Psíquico→Onda Mental). En Alto Mando, por tipo (Acero: Fuego delante).
 - Shiny/aurora/legendario cuentan doble para el rasgo Psíquico: al liberar, mantener T6 (12+).
 - Psíquico-Mewtwo 1: victoria en Kalos (Diantha) con Mewtwo Nv83 MVP.
+- Mewtwo 2-4: derrotas por nivel (Drake Hoenn; rival Hugh; Científico mapa 6). NO coger Cebo Legendario (quita entrenadores). No liberar shinies/auroras si baja el rasgo Psíquico. Evitar hierba con el equipo bajo.
