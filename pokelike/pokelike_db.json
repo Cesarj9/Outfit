@@ -30463,6 +30463,26 @@
    "nivel_final": 9,
    "causa_derrota_si_confirmada": "Misty: Lapras quedó con 2 PS; equipo Nv9 (mapa 1 con pocos combates)",
    "aprendizaje": "Mapa 1 sin suficientes combates deja al equipo Nv9 frente a Nv10-11; priorizar entrenadores en el mapa 1."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-13",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Mapa 2 (Dustox salvaje)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "SPOINK AURORA (nuevo, primer nodo intento 9) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 9,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 20, Spoink aurora 20, Meditite 22",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Jaboca Berry",
+   "nivel_final": 22,
+   "causa_derrota_si_confirmada": "Kadabra sin tutor (Psicorrayo) cayó en Bicho/Escupefuego; Dustox salvaje remató",
+   "aprendizaje": "Sin tutor de Psíquico en mapa 1, Kadabra no aguanta el mapa 2. Equipo de 3 insuficiente."
   }
  ],
  "observaciones": [
