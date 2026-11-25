@@ -4,7 +4,7 @@
   "bloqueo": null,
   "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
   "inicial": "Tentacool aurora (consejo de César)",
-  "objetivo_actual": "Mega-Alakazam (10 victorias de Desafío con Abra/Alakazam MVP; 7/10 al empezar) → luego Mega-Mewtwo Y (8/50)",
+  "objetivo_actual": "Mega-Alakazam conseguida → siguiente: Mega-Mewtwo Y (8/50 MVP)",
   "objetivos_registrados_verificados_por_este_agente": [
     "Charmander aurora (PC+Pokédex)",
     "Tentacool aurora (PC+Pokédex)",
@@ -31,7 +31,7 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Sesión cerrada y caché/datos del sitio borrados a petición de César (147,968 ₽). Psíquico 14 quedó en el primer nodo, sin jugar. Mega-Alakazam 7/10.",
+  "ultima_accion_confirmada": "Re-login y refresco: Mega-Alakazam desbloqueada (28/48), Metagross 1/10; auroras nuevas Natu y Gothita (123 en PC); 151,132 ₽.",
   "siguiente_decision": "Reanudar Volador 37 (REANUDAR DESAFÍO) en el mapa 2; buscar tutor.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -68,7 +68,8 @@
     "fecha": "2026-11-24"
   },
   "progreso_mega_alakazam": {
-    "mvp": 7,
-    "meta": 10
+    "mvp": 10,
+    "meta": 10,
+    "estado": "DESBLOQUEADA (confirmado en panel 2026-11-25)"
   }
 }
