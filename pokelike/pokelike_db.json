@@ -30623,6 +30623,26 @@
    "nivel_final": 97,
    "causa_derrota_si_confirmada": "Campeón Blue Nv135-140: quedaron 4 rivales con poca vida",
    "aprendizaje": "Ruta de máximo nivel (entrenadores + hierba) por indicación de César: llegamos a la Liga con Nv89 (récord), Alto Mando de Kanto sin bajas. Mewtwo Onda Mental en mapa 5."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-8",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Hoenn (Drake 4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Spoink aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 2,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 105, Alakazam 104, Grumpig 104 (aurora), Gallade 100, Mr. Mime 100, Delphox 100",
+   "reliquias_finales": "Teralito Psíquico, Baya Aranja, Garra Afilada, Cascabel Alivio, Gafas Especiales",
+   "nivel_final": 105,
+   "causa_derrota_si_confirmada": "Drake: Haxorus 34 PS y Gyarados 85 PS al final; Sidney se llevó a Gallade/Mr. Mime/Delphox (Hoenn sin curas)",
+   "aprendizaje": "Ruta de máximo nivel: Liga con Nv99. Sidney, Phoebe, Glacia ganados. En Hoenn reservar Hada (Mr. Mime) para Drake; contra Sidney arriesgar menos atacantes."
   }
  ],
  "observaciones": [
