@@ -70,3 +70,9 @@ Verificar todo en el PC real antes de usarlo.
 - Campeones vistos con Volador: Lance (Johto, Dragón: Rayquaza 1º, hace falta Nv110+), Blue (Kanto: Scizor 1º contra Aerodactyl ganó en Volador 36; Pelipper/Gyarados 1º ganó en 11-12; Mantine 1º perdió), Cynthia (Sinnoh, Dragón: Rayquaza 1º), Diantha (Kalos, Dragón), Alder (Teselia), Steven (Hoenn: 3 Metagross; Dragon Ascent resistido; hace falta Fuego/Agua/Lucha fuertes y llegar con ellos vivos: no gastarlos contra Glacia). Kanto y Johto no curan entre combates del Alto Mando.
 - Equipo ganador: Rayquaza + Fuego (Fletchling→Talonflame) + Agua (Ducklett→Swanna) + Roca (Aerodactyl) + Lucha (Hawlucha) + Siniestro (Vullaby). Steven (Acero) gana a equipos sin Fuego/Agua/Lucha.
 - Rayquaza detrás en combates de mapa hasta tener Ascenso Draco y nivel; delante en jefes salvo contra Hielo.
+
+## Mono-Psíquico con Abra (Mega-Alakazam), 2026-11-25
+- Muy frágil al principio. Nodos de hierba (salvajes) muy peligrosos y solo dan +1 nivel: evitarlos (GRASSSC=0.3); entrenadores dan +2.
+- En los mapas, Abra/Kadabra/Alakazam al FINAL del orden (si cae en el mapa no hace daño en el gimnasio); en gimnasios, primero para ser MVP.
+- Pasar siempre por Centro Pokémon antes del gimnasio (CENTERSC=15). Llevar 4+ Pokémon antes del gimnasio 2 (Bugsy Bicho / Whitney Normal).
+- Liga de Hoenn (Sidney Siniestro): solo Agua/Lucha le hacen daño; Slowbro le ganó.

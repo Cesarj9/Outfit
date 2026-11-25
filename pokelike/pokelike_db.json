@@ -30323,6 +30323,26 @@
    "nivel_final": 21,
    "causa_derrota_si_confirmada": "Electabuzz salvaje (nodo hierba) barrió al equipo con 3 miembros ya caídos en el mapa",
    "aprendizaje": "Mono-Psíquico: los nodos de hierba (salvajes) son peligrosísimos; evitarlos (GRASSSC bajo) y curar antes de seguir."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-6",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 4 (Blaine, Fuego)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "MIME JR. AURORA (nuevo, primer nodo intento 12) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 34, Mr. Mime aurora 29, Solosis 29, Kirlia 28, Metang 27, Bronzor 23",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Wise Glasses, Absorb Bulb, Booster Energy",
+   "nivel_final": 34,
+   "causa_derrota_si_confirmada": "Blaine (Fuego) Nv40-42 contra equipo Nv23-34",
+   "aprendizaje": "Mono-Psíquico llega ~10 niveles por debajo en cada gimnasio; los combates de mapa tumban a medio equipo. Kadabra no recibió tutor hasta el mapa 4."
   }
  ],
  "observaciones": [
