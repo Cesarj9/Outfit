@@ -30263,6 +30263,26 @@
    "nivel_final": 18,
    "causa_derrota_si_confirmada": "Bugsy (Bicho) contra equipo Psíquico Nv18 con Kadabra debilitado en mapa (sin Centro antes del gimnasio)",
    "aprendizaje": "Mono-Psíquico es muy frágil al principio; no entrar al gimnasio con Kadabra caído: priorizar ruta con Centro Pokémon y más nivel."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-3",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 2 (Whitney, Normal)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "ESPURR AURORA (nuevo, primer nodo intento 14) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 14,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 21, Espurr aurora 21, Beldum 16",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Ring Target",
+   "nivel_final": 21,
+   "causa_derrota_si_confirmada": "Whitney (Miltank/Munchlax) contra equipo de 3 con Beldum caído y Kadabra al 50%",
+   "aprendizaje": "Mono-Psíquico mapa 2: elegir ruta con Centro Pokémon antes del gimnasio y llevar 4+ Pokémon."
   }
  ],
  "observaciones": [
