@@ -1,10 +1,10 @@
 {
-  "fecha": "2026-11-23",
+  "fecha": "2026-11-25",
   "version_juego": "v3.8",
   "bloqueo": null,
   "modo_desafio": "Diario Mono-Veneno (Gym Challenge solo Veneno)",
   "inicial": "Tentacool aurora (consejo de César)",
-  "objetivo_actual": "Mega-Mewtwo Y (10/50 MVP) — diario Mono-Psíquico con Mewtwo",
+  "objetivo_actual": "Mega-Mewtwo Y (11/50 MVP) — diario Mono-Psíquico con Mewtwo",
   "objetivos_registrados_verificados_por_este_agente": [
     "Charmander aurora (PC+Pokédex)",
     "Tentacool aurora (PC+Pokédex)",
@@ -31,7 +31,7 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Psíquico-Mewtwo 11 GANADA (Johto, Lance), Mewtwo MVP → Mega-Mewtwo Y 10/50. 155,182 ₽.",
+  "ultima_accion_confirmada": "Psíquico-Mewtwo 12 GANADA (Sinnoh, Cynthia), Mewtwo MVP → Mega-Mewtwo Y 11/50. Slowpoke aurora nuevo en PC (125). 156,650 ₽.",
   "siguiente_decision": "Reanudar Volador 37 (REANUDAR DESAFÍO) en el mapa 2; buscar tutor.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -73,8 +73,7 @@
     "estado": "DESBLOQUEADA (confirmado en panel 2026-11-25)"
   },
   "progreso_mega_mewtwo_y": {
-    "mvp": 10,
-    "meta": 50,
-    "fuente": "Brazalete Mega 2026-11-25"
+    "mvp": 11,
+    "meta": 50
   }
 }
