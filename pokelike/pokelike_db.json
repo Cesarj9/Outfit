@@ -30443,6 +30443,26 @@
    "nivel_final": 28,
    "causa_derrota_si_confirmada": "Kadabra cayó en hierba del mapa 4 y el Científico (Muk/Magneton Nv39) barrió al resto",
    "aprendizaje": "Mapa 4 ya tiene rivales Nv39 frente a equipo Nv24-28."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-12",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 1 (Misty)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Espurr shiny intento 22)",
+   "intentos_primer_nodo_confirmados": 22,
+   "intentos_inciertos": 0,
+   "equipo_final": "Abra 9, Espurr shiny 9, Beldum 9",
+   "reliquias_finales": "Shiny Hunter, Mental Herb",
+   "nivel_final": 9,
+   "causa_derrota_si_confirmada": "Misty: Lapras quedó con 2 PS; equipo Nv9 (mapa 1 con pocos combates)",
+   "aprendizaje": "Mapa 1 sin suficientes combates deja al equipo Nv9 frente a Nv10-11; priorizar entrenadores en el mapa 1."
   }
  ],
  "observaciones": [
