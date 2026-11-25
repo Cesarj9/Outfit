@@ -30403,6 +30403,26 @@
    "nivel_final": 90,
    "causa_derrota_si_confirmada": "Drake (Dragón Nv124-128) tumbó a 5; Steven (Metagross x3) imposible para Psíquico",
    "aprendizaje": "Con Alakazam 1º en todo, 8 gimnasios y 3 del Alto Mando sin bajas (Sidney con Slowbro/Lunatone delante). Falla contra Drake y Steven: falta nivel (Nv90 vs 124-140). Hoenn es la peor Liga para Psíquico."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-10",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Mapa 3 (Caballero)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (Sigilyph shiny intento 28, Ralts shiny evento)",
+   "intentos_primer_nodo_confirmados": 28,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 16, Meditite 20, Kirlia shiny 20, Solrock 22, Slowpoke 22, Sigilyph shiny 22",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Adrenaline Orb, Relic Crown",
+   "nivel_final": 22,
+   "causa_derrota_si_confirmada": "Kadabra cayó en el primer combate del mapa 3 (Escupefuego) y el equipo no sostuvo Team Rocket x2 + Caballero Nv29",
+   "aprendizaje": "Si Kadabra (sin tutor/objeto) cae pronto, la partida se hunde. No elegir rutas con 4 entrenadores seguidos en mapa 3 sin Centro."
   }
  ],
  "observaciones": [
