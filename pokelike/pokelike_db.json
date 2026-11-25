@@ -30523,6 +30523,26 @@
    "nivel_final": 91,
    "causa_derrota_si_confirmada": "Drake (Dragón Nv124-128) tras Sidney/Phoebe/Glacia sin curar; Victini cayó con Sidney, Mewtwo llegó con 1/3 de PS",
    "aprendizaje": "Hoenn sin curas entre combates: llegar con mucho más nivel; contra Siniestro psíquicos no sirven. Faltó Hada/Hielo para Drake. No se tomó tutor Onda Mental (mapa 9 sin centro)."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-3",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 7 (rival Hugh)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 25,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 62, Mega Gardevoir 59 (shiny Ralts), Victini 60, Metagross 59, Jynx 60, Hoopa 60",
+   "reliquias_finales": "Teralito Psíquico, Baya Arabol, Hierba Mental, Raíz Grande, Gafas Especiales",
+   "nivel_final": 62,
+   "causa_derrota_si_confirmada": "Rival Hugh Nv86-90 (Feraligatr, Scrafty, Hydreigon, Floatzel, Haxorus) con rasgo Psíquico solo T3",
+   "aprendizaje": "Sin aurora nuevo en 20 intentos → Spoink shiny (intento 25). Al liberar shinies el rasgo Psíquico bajó a T3: conservar shiny/aurora/legendarios para T5-T6. Nivel 25 por debajo del rival."
   }
  ],
  "observaciones": [
