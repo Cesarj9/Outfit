@@ -30583,6 +30583,26 @@
    "nivel_final": 82,
    "causa_derrota_si_confirmada": "Campeón Alder Nv135-140; Teselia no cura entre combates, llegaron solo Mewtwo y Chimecho",
    "aprendizaje": "Ganados Shauntal/Grimsley/Caitlin/Marshal; Cenizas Sagradas usables en la pantalla de orden (clic en la bolsa → elegir Pokémon). Un evento ? en mapa 9 tumbó a 2 miembros. Falta nivel (~55 por debajo del Campeón)."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-6",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Johto (Karen 4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Espurr aurora (perdido), Jynx/Smoochum aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 14,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 79, Celebi 81, Alakazam 81, Hoopa 81, Jynx 81 (aurora), Meowstic 81 (aurora)",
+   "reliquias_finales": "Teralito Psíquico, Roca Lluvia, Incienso Raro, Escama Bella, Bola Férrea",
+   "nivel_final": 81,
+   "causa_derrota_si_confirmada": "Karen (Siniestro Nv124-128): psíquicos inmunes; solo Celebi/Jynx hacían daño",
+   "aprendizaje": "Ganados Will/Koga/Bruno sin bajas. Contra Alto Mando Siniestro (Karen/Sidney/Grimsley) hace falta un atacante Lucha/Hada/Bicho fuerte (Gallade, Gardevoir, Medicham, Mr. Mime). Cenizas Sagradas no usadas."
   }
  ],
  "observaciones": [
