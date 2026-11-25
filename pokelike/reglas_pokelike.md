@@ -87,3 +87,4 @@ Verificar todo en el PC real antes de usarlo.
 - Mewtwo 6: perdida ante Karen (Siniestro). Para el Alto Mando, llevar SIEMPRE un atacante Hada/Lucha fuerte (Gardevoir/Gallade/Medicham) contra Siniestro.
 - (César 2026-11-25) Centrarse en subir el máximo de nivel (rutas con más entrenadores, la hierba también suma) y en mejorar pronto el ataque de Mewtwo (tutores). Hada baja el ATK rival. Mewtwo 7 llegó a la Liga con Nv89 y casi gana a Blue.
 - Mewtwo 9: NO encadenar hierba sin Centro en mapas 1-4 (equipo debilitado antes del gimnasio). La hierba vale para niveles solo si hay Centro después.
+- Mewtwo 11 GANADA: sin objetos equipados + Incienso Puro (+60%), Porcehelado+Baya Arabol, Roca Lluvia. Mewtwo al final contra Karen y solo contra Lance.

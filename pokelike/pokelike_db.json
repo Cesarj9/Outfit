@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 124,
   "ultima_actualizacion": "2026-11-25: Psíquico-Mewtwo 1 ganada (Kalos, Mewtwo MVP); Meditite aurora registrado (124); Mega-Mewtwo Y 9/50; 151,632 ₽.",
-  "dinero_visible": 154682,
+  "dinero_visible": 155182,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -30683,6 +30683,26 @@
    "nivel_final": 102,
    "causa_derrota_si_confirmada": "Lance: Mewtwo solo dejó a Zekrom 14 PS y Rayquaza 31 PS; Karen se llevó a los otros 5",
    "aprendizaje": "Liga con Nv94; Will/Koga/Bruno sin bajas. Karen sigue costando 5 Pokémon: hace falta Gallade/Hada más fuerte. Mewtwo con Tubérculo+Gafas Especiales casi gana solo."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-11",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Johto",
+   "resultado": "VICTORIA",
+   "objetivos": "Mega-Mewtwo Y (MVP)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "(sin aurora nuevo; Gothita shiny inicial)",
+   "intentos_primer_nodo_confirmados": 29,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 96, Exeggutor 94, Claydol 94 (shiny), Gardevoir 94, Gothitelle 94 (shiny), Xatu 94 (shiny)",
+   "reliquias_finales": "Teralito Psíquico, Roca Lluvia, Baya Arabol, Porcehelado, Incienso Puro",
+   "nivel_final": 96,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Victoria: Mewtwo solo ganó a Lance con 309 PS. Incienso Puro (+10% por miembro sin objeto, 6 → +60%) muy fuerte; Porcehelado+Arabol. MT en mapa 2 + tutor → Onda Mental pronto. Mewtwo MVP 85k daño, 117 KO. Mega-Mewtwo Y 10/50."
   }
  ],
  "observaciones": [
