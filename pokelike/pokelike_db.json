@@ -30363,6 +30363,26 @@
    "nivel_final": 34,
    "causa_derrota_si_confirmada": "Clair (Dragón) Nv55-58 contra equipo Nv32-34",
    "aprendizaje": "El hueco de niveles crece (gim 5 = Nv55+). Con Mono-Psíquico no se pueden encadenar combates de mapa; hace falta Huevo Suerte/Polvo Estelar/Repartir Exp temprano."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-8",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Gimnasio 8 (Maxie, Tierra/Fuego)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "GOTHITA AURORA (nuevo, primer nodo intento 4, evolucionó a Gothitelle) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna (Deoxys y Jirachi capturados en mapa 8; Bronzor aurora ya registrado)",
+   "intentos_primer_nodo_confirmados": 4,
+   "intentos_inciertos": 0,
+   "equipo_final": "Alakazam shiny 65, Jirachi 52, Deoxys 50, Mega Gallade 49, Slowbro 48, Gothitelle aurora 47",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Metal Powder, Focus Sash, Enigma Berry, Stardust",
+   "nivel_final": 65,
+   "causa_derrota_si_confirmada": "Maxie (Groudon/Blaziken/Camerupt/Sandslash/Crustle Nv102-106): quedaron Sandslash 59 PS y Crustle 51 PS",
+   "aprendizaje": "CLAVE: poner a Abra/Kadabra/Alakazam PRIMERO también en los mapas: arrasa con la salpicadura Psíquica y gana todo el nivel (llegó a Nv65 mientras el resto ~Nv48). Los demás mueren antes de ayudar."
   }
  ],
  "observaciones": [

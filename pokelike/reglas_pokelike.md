@@ -73,6 +73,6 @@ Verificar todo en el PC real antes de usarlo.
 
 ## Mono-Psíquico con Abra (Mega-Alakazam), 2026-11-25
 - Muy frágil al principio. Nodos de hierba (salvajes) muy peligrosos y solo dan +1 nivel: evitarlos (GRASSSC=0.3); entrenadores dan +2.
-- En los mapas, Abra/Kadabra/Alakazam al FINAL del orden (si cae en el mapa no hace daño en el gimnasio); en gimnasios, primero para ser MVP.
+- CORREGIDO (Psíquico 8): Abra/Kadabra/Alakazam PRIMERO en mapas y gimnasios. Al final del orden no gana nivel y el resto cae; delante arrasa con la salpicadura y gana todo el nivel.
 - Pasar siempre por Centro Pokémon antes del gimnasio (CENTERSC=15). Llevar 4+ Pokémon antes del gimnasio 2 (Bugsy Bicho / Whitney Normal).
 - Liga de Hoenn (Sidney Siniestro): solo Agua/Lucha le hacen daño; Slowbro le ganó.
