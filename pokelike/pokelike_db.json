@@ -30223,6 +30223,26 @@
    "nivel_final": 119,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Liga de Teselia ganada. Huevo Suerte en Rayquaza desde mapa 3 (Nv101 al gimnasio 8). Dragon Ascent llegó tarde (mapa 9) pero Rayquaza 1º contra Alder barrió. Zumo de Baya + Raíz Grande + Baya Zidra: mucha curación. MVP 35,896 daño / 112 KO."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-1",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga 4/5 (Drake)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo: Espurr shiny intento 28)",
+   "intentos_primer_nodo_confirmados": 28,
+   "intentos_inciertos": 0,
+   "equipo_final": "Meowstic shiny 94, Swoobat 94, Gardevoir 94, Alakazam 92, Reuniclus 90, Slowbro 82",
+   "reliquias_finales": "Shiny Hunter, Banda Focus, Power Bracer, Ring Target, Psychium Z, Big Root",
+   "nivel_final": 94,
+   "causa_derrota_si_confirmada": "Drake (Hoenn) Nv124-128; Hoenn no cura y Phoebe/Glacia desgastaron",
+   "aprendizaje": "Mono-Psíquico: Liga de Hoenn llega con ~Nv90 contra 112-128. Sidney (Siniestro) se ganó con Slowbro (Agua). Falta nivel: buscar Huevo Suerte/Polvo Estelar y más entrenadores."
   }
  ],
  "observaciones": [
