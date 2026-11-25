@@ -30603,6 +30603,26 @@
    "nivel_final": 81,
    "causa_derrota_si_confirmada": "Karen (Siniestro Nv124-128): psíquicos inmunes; solo Celebi/Jynx hacían daño",
    "aprendizaje": "Ganados Will/Koga/Bruno sin bajas. Contra Alto Mando Siniestro (Karen/Sidney/Grimsley) hace falta un atacante Lucha/Hada/Bicho fuerte (Gallade, Gardevoir, Medicham, Mr. Mime). Cenizas Sagradas no usadas."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-7",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Kanto (Campeón Blue)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Mime Jr. aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 9,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 97, Gallade 97, Espeon 97, Exeggutor 97, Mr. Mime 97 (aurora), Swoobat 97 (shiny)",
+   "reliquias_finales": "Teralito Psíquico, Gafas Especiales, Tabla Mental, Tabla Pradal, Escama Bella",
+   "nivel_final": 97,
+   "causa_derrota_si_confirmada": "Campeón Blue Nv135-140: quedaron 4 rivales con poca vida",
+   "aprendizaje": "Ruta de máximo nivel (entrenadores + hierba) por indicación de César: llegamos a la Liga con Nv89 (récord), Alto Mando de Kanto sin bajas. Mewtwo Onda Mental en mapa 5."
   }
  ],
  "observaciones": [

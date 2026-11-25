@@ -85,3 +85,4 @@ Verificar todo en el PC real antes de usarlo.
 - Mewtwo 2-4: derrotas por nivel (Drake Hoenn; rival Hugh; Científico mapa 6). NO coger Cebo Legendario (quita entrenadores). No liberar shinies/auroras si baja el rasgo Psíquico. Evitar hierba con el equipo bajo.
 - Cenizas Sagradas: en la pantalla «Elige tu Orden» del Alto Mando, clic en el objeto de la BOLSA y elegir el Pokémon debilitado.
 - Mewtwo 6: perdida ante Karen (Siniestro). Para el Alto Mando, llevar SIEMPRE un atacante Hada/Lucha fuerte (Gardevoir/Gallade/Medicham) contra Siniestro.
+- (César 2026-11-25) Centrarse en subir el máximo de nivel (rutas con más entrenadores, la hierba también suma) y en mejorar pronto el ataque de Mewtwo (tutores). Hada baja el ATK rival. Mewtwo 7 llegó a la Liga con Nv89 y casi gana a Blue.
