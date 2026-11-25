@@ -30423,6 +30423,26 @@
    "nivel_final": 22,
    "causa_derrota_si_confirmada": "Kadabra cayó en el primer combate del mapa 3 (Escupefuego) y el equipo no sostuvo Team Rocket x2 + Caballero Nv29",
    "aprendizaje": "Si Kadabra (sin tutor/objeto) cae pronto, la partida se hunde. No elegir rutas con 4 entrenadores seguidos en mapa 3 sin Centro."
+  },
+  {
+   "run_id": "mono-psychic-2026-11-25-11",
+   "modo": "Gym Challenge",
+   "desafio_visible": "Daily: Mono-Psychic Challenge",
+   "inicial": "Abra",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Mapa 4 (Científico Nv39)",
+   "resultado": "DERROTA",
+   "objetivos": "Alakazam MVP (Mega-Alakazam 8/10) + aurora nuevo",
+   "capturas_pendientes": "SPOINK AURORA (nuevo, primer nodo intento 17) PERDIDO por derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kadabra 24, Sigilyph 27, Metang 28, Solrock 28, Gothita shiny 28, Spoink aurora 26",
+   "reliquias_finales": "Shiny Hunter, Mental Herb, Quick Powder, Chilan Berry, Wise Glasses",
+   "nivel_final": 28,
+   "causa_derrota_si_confirmada": "Kadabra cayó en hierba del mapa 4 y el Científico (Muk/Magneton Nv39) barrió al resto",
+   "aprendizaje": "Mapa 4 ya tiene rivales Nv39 frente a equipo Nv24-28."
   }
  ],
  "observaciones": [
