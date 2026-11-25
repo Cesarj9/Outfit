@@ -98,3 +98,8 @@ Verificar todo en el PC real antes de usarlo.
 - Tabla Duende: en Gardevoir gana el gym 8 Siniestro; si Gardevoir cae en la Liga, pasarla a Mr. Mime en la pantalla «Elige tu Orden» (badge Restos → CAMBIAR en Gardevoir; badge Tabla → EQUIPAR en Mr. Mime).
 - Cascabel Concha en Mewtwo: en Liga sin Centro se recupera del todo pegando (80 → 355 PS en un combate).
 - Reliquias de bajadas: Baya Enigma + Roca Lluvia (+10% de daño por cada bajada) + Hada.
+
+### Derrota Mewtwo 13 — lecciones
+- Mega-Gardevoir (Megasinfonía) DESACTIVA el rasgo Psíquico: no equipar Gardevoirita en Mono-Psíquico.
+- En mapas 6-7, los «?», Caballeros y Científicos van 20-25 niveles por encima: no encadenar más de 2 combates fuertes sin Centro; evitar «?» si no hay Centro justo después.
+- Destello Inicial (el 1.º Pokémon cuenta como shiny): poner el relleno de Hada delante SOLO en gimnasios y Liga; en el mapa, Mewtwo delante.
