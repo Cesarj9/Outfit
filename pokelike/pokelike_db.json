@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 124,
   "ultima_actualizacion": "2026-11-25: Psíquico-Mewtwo 1 ganada (Kalos, Mewtwo MVP); Meditite aurora registrado (124); Mega-Mewtwo Y 9/50; 151,632 ₽.",
-  "dinero_visible": 151632,
+  "dinero_visible": 154682,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -30663,6 +30663,26 @@
    "nivel_final": 24,
    "causa_derrota_si_confirmada": "Ruta de 4 nodos de hierba + escupefuego en mapa 3 sin Centro: el equipo llegó debilitado al gimnasio",
    "aprendizaje": "Hierba en mapas tempranos con equipo bajo es peligrosa; no encadenar hierba sin Centro antes del gimnasio. boss.sh entra directo al gimnasio: revisar PS antes."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-10",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Johto (Campeón Lance)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Smoochum/Jynx aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 2,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 102, Mr. Mime 102, Slowbro 102, Exeggutor 102 (aurora), Girafarig 102 (shiny), Jynx 101 (aurora)",
+   "reliquias_finales": "Teralito Psíquico, Cascabel Alivio, Gafas Especiales, Tubérculo, Escama Bella",
+   "nivel_final": 102,
+   "causa_derrota_si_confirmada": "Lance: Mewtwo solo dejó a Zekrom 14 PS y Rayquaza 31 PS; Karen se llevó a los otros 5",
+   "aprendizaje": "Liga con Nv94; Will/Koga/Bruno sin bajas. Karen sigue costando 5 Pokémon: hace falta Gallade/Hada más fuerte. Mewtwo con Tubérculo+Gafas Especiales casi gana solo."
   }
  ],
  "observaciones": [
