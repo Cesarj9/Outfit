@@ -1,0 +1,1 @@
+require('./lib')(async p => { const t=await p.evaluate(()=>{ const ms=[...document.querySelectorAll('.game-modal, [class*="modal"]')].filter(e=>e.offsetParent && e.innerText.trim()); return (ms.length? ms.map(m=>'['+(m.id||m.className.slice(0,30))+'] '+m.innerText).join('\n#####\n') : document.body.innerText); }); console.log(t.slice(0, +process.argv[2]||4000)); });

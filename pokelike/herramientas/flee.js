@@ -1,0 +1,1 @@
+require('./lib')(async p=>{await p.evaluate(()=>{const b=[...document.querySelectorAll('button')].find(x=>x.offsetParent&&/SKIP|FLEE|SALTAR|HUIR|RECHAZAR|DECLINE/i.test(x.innerText));b&&b.click()});await p.waitForTimeout(1500);console.log('fled')})

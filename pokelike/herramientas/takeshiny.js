@@ -1,0 +1,1 @@
+require('./lib')(async p=>{ console.log(await p.evaluate(()=>{const b=document.getElementById('btn-take-shiny'); if(!b) return 'nobtn'; b.click(); return 'ok';})); await p.waitForTimeout(2500); console.log((await p.evaluate(()=>document.body.innerText)).replace(/\s+/g,' ').slice(-300)); });

@@ -1,0 +1,4 @@
+const fs=require('fs');
+require('./lib')(async p=>{await p.keyboard.press('Escape');await p.waitForTimeout(500);await p.evaluate(()=>document.getElementById('btn-mega-nav').click());await p.waitForTimeout(2500);
+const r=await p.evaluate(()=>{const h=[...document.querySelectorAll('*')].find(e=>e.offsetParent&&e.children.length===0&&/^(MEGA BRACELET|BRAZALETE MEGA|PULSERA MEGA)$/i.test(e.innerText.trim()));let m=h;for(let i=0;i<6&&m;i++)m=m.parentElement;return m?m.innerText:document.body.innerText});
+fs.writeFileSync('mega.txt',r);const s=r.replace(/\n+/g,' | ');console.log(s.slice(0,200));console.log((s.match(/Mega[^|]*\| [^|]*(Desbloquead|Unlocked|MVP)[^|]*/g)||[]).length);console.log(s.match(/(Mega Rayquaza|Groudon Primigenio|Primal Groudon)[^|]*\|[^|]*/g));await p.keyboard.press('Escape')})

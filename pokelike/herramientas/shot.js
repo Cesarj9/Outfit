@@ -1,0 +1,1 @@
+require('./lib')(async p => { await p.screenshot({ path: process.argv[2]||'s.png' }); console.log(await p.evaluate(()=>[...document.querySelectorAll('[id$="modal"]')].filter(e=>getComputedStyle(e).display!=='none').map(e=>e.id+':'+e.className))); });

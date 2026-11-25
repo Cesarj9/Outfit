@@ -1,0 +1,1 @@
+require('./lib')(async p => { await p.mouse.click(+process.argv[2], +process.argv[3]); await p.waitForTimeout(+process.argv[4]||2500); if(process.argv[5]) await p.screenshot({path:process.argv[5]}); });

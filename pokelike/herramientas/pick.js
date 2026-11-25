@@ -1,0 +1,1 @@
+require('./lib')(async p => { const r=await p.evaluate(i=>{ const cs=[...document.querySelectorAll('.poke-choice-wrap')].filter(w=>w.offsetParent).map(w=>w.querySelector('.poke-card')); const c=cs[i]; if(!c) return 'NONE'; c.click(); return c.querySelector('.poke-name').innerText+' '+c.className; }, +process.argv[2]); await p.waitForTimeout(2500); console.log('picked', r); });
