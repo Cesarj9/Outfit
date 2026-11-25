@@ -30563,6 +30563,26 @@
    "nivel_final": 39,
    "causa_derrota_si_confirmada": "Hierba salvaje dejó a Mewtwo/Hoopa a 0% y el Científico Nv61 barrió al resto (gap 22 niveles)",
    "aprendizaje": "Cebo Legendario convierte nodos de captura en legendarios y quita entrenadores: el equipo se queda muy atrás de nivel. No usar Cebo Legendario. Evitar hierba en mapas 5+ si vamos bajos de nivel."
+  },
+  {
+   "run_id": "Psiquico-Mewtwo-5",
+   "modo": "Desafío diario",
+   "desafio_visible": "Mono-Psíquico",
+   "inicial": "Mewtwo",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-25",
+   "mapa_actual": "Liga de Teselia (Campeón Alder)",
+   "resultado": "DERROTA",
+   "objetivos": "Mega-Mewtwo Y (MVP) + aurora nuevo",
+   "capturas_pendientes": "Chingling aurora (perdido)",
+   "capturas_registradas_pc": "",
+   "intentos_primer_nodo_confirmados": 13,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 82, Chimecho 83 (aurora), Alakazam 79, Meloetta 76, Slowbro 78, Delphox 77",
+   "reliquias_finales": "Teralito Psíquico, Roca Lluvia, Banda Focus, Baya Chilan, Escama Bella",
+   "nivel_final": 82,
+   "causa_derrota_si_confirmada": "Campeón Alder Nv135-140; Teselia no cura entre combates, llegaron solo Mewtwo y Chimecho",
+   "aprendizaje": "Ganados Shauntal/Grimsley/Caitlin/Marshal; Cenizas Sagradas usables en la pantalla de orden (clic en la bolsa → elegir Pokémon). Un evento ? en mapa 9 tumbó a 2 miembros. Falta nivel (~55 por debajo del Campeón)."
   }
  ],
  "observaciones": [
