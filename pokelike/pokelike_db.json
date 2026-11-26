@@ -31343,6 +31343,26 @@
    "nivel_final": 69,
    "causa_derrota_si_confirmada": "Rival del mapa 8 (Siniestro/Volador, Nv102-106, Yveltal y Gyarados-mega) contra el equipo a Nv58-69. Le quedaron 92 PS al último. Faltó nivel: sin reliquias de nivel (Polvo Estelar sustituido) y con muchos nodos de objetos/captura.",
    "aprendizaje": "REINICIAR en el primer mapa tira de nuevo el objetivo semanal (no hay límite de intentos). Objetivos vistos: ¡Hazte con Ellos! (15 capturas), Defensa Férrea (<3 debilitados), Médico de Campaña (curar 20000), Aceleración (ganar en <10 min), Elección Táctica (jefe con todo el equipo resistiendo su tipo), Peso Pesado (golpe ≥2000). Con equipos variados y Mewtwo, el nivel cae 30-40 por debajo de los jefes: hay que priorizar entrenadores en todos los mapas y reliquias de nivel (Polvo Estelar/Repartir Exp/Caramelo Exp). El Desafío normal (no mono) escala igual que el Bicho, pero sin el rasgo Bicho de +nivel."
+  },
+  {
+   "run_id": "Semanal-3",
+   "modo": "Desafío semanal (Lista del Entrenador, Fácil)",
+   "desafio_visible": "Lista del Entrenador Fácil: objetivo «¡Hazte con Ellos!» (15 capturas)",
+   "inicial": "Mewtwo (normal) + equipo Bicho",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga de Teselia: Campeón Alder",
+   "resultado": "DERROTA",
+   "objetivos": "Semanal Fácil + MVP Mewtwo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 103, Ninjask 103, Zygarde 100, Durant 100, Keldeo 99, Pinsir 95",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Disco Bicho, Tabla Bicho, Seguro Debilidad, Banda Focus, Polvo Metálico",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "Campeón Alder (Nv135-140) contra el equipo a Nv95-103: faltaron unos 35 niveles. El objetivo de 15 capturas se completó en el mapa 6.",
+   "aprendizaje": "Disco Bicho salió por el Catálogo Rotom y Bicho + Mewtwo puso al equipo a la par de los jefes hasta el gimnasio 5. Al cambiar Bichos por legendarios (Zygarde, Keldeo) el rasgo Bicho bajó a T1 y se perdió el motor de niveles. Para la semanal, mantener 5 Bichos todo el tiempo (rasgo T5+) y usar Mewtwo como sexto; no cambiarlos por legendarios. Las capturas se pueden hacer con un hueco comodín. Tabla Bicho baja niveles al rival al debilitarse."
   }
  ],
  "observaciones": [
