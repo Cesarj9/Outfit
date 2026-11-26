@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 140,
-  "ultima_actualizacion": "2026-11-26: Bicho 11 ganada; Anorith y Burmy aurora (140); 158,330 ₽.",
-  "dinero_visible": 158330,
+  "total_auroras_pc": 141,
+  "ultima_actualizacion": "2026-11-26: Bicho 12 ganada; Venonat aurora (141); 158,830 ₽.",
+  "dinero_visible": 158830,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -15949,8 +15949,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -15960,10 +15960,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 12 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 50,
@@ -30963,6 +30963,26 @@
    "nivel_final": 163,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Un objeto dio Pinsirita: Mega-Pinsir fue el de más nivel (158). Contra Alder (Fuego) pusimos Butterfree y Wormadam delante como relleno y los Mega acabaron con todo."
+  },
+  {
+   "run_id": "Bicho-12",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kanto)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Venonat aurora (NUEVO, primer nodo, intento 18): verificado en PC, 141 auroras",
+   "intentos_primer_nodo_confirmados": 18,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 138 (MVP), Escavalier, Venomoth (aurora), Ariados (shiny), Ninjask (shiny), Volcarona",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Poder Shiny, Muda Concha, Banda Focus, Guardia Shiny",
+   "nivel_final": 138,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Piedra Lunar sobre Scyther en el mapa 1. Ojo: Volcarona delante contra un escupefuegos cayó (llevan Agua o Roca); mejor Scizor delante en el mapa. Revisar el tutor para Scizor en cada mapa: se quedó con Picadura hasta el mapa 7."
   }
  ],
  "observaciones": [
