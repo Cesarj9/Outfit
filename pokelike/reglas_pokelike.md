@@ -110,3 +110,4 @@ Verificar todo en el PC real antes de usarlo.
 - Tarea automática cada 2 h para reiniciar el navegador si se cierra por el límite.
 - (Bicho 1-3) Receta: Disco Bicho (si no sale, REINICIAR en la pantalla de reliquia inicial vuelve a sortear) + llenar el equipo de shinies/auroras de los «?» hasta Bicho T7 (+1 nivel por combate). Rutas con muchos entrenadores, evitando escupefuegos (Fuego). Al volver a tirar en un «?», no relanzar shinies (attempt.js corregido).
 - (Bicho 8) Si el navegador hay que reiniciarlo a mitad de partida: NO hacer logout; el menú muestra REANUDAR DESAFÍO y la partida sigue igual.
+- (Bicho 20) ERROR: en un «?» se huyó después de volver a tirar y se perdió un Nincada aurora nuevo. Desde ahora usar wild.sh (vuelve a tirar y, si sale un aurora nuevo, NO huye). Tampoco pulsar SALTAR en los objetos sin leerlos (se perdió una Heracronita).
