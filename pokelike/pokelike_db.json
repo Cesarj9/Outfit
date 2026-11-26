@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 134,
-  "ultima_actualizacion": "2026-11-26: Bicho 7 ganada; Spinarak aurora (134); 156,330 ₽.",
-  "dinero_visible": 156330,
+  "total_auroras_pc": 136,
+  "ultima_actualizacion": "2026-11-26: Bicho 8 ganada; Illumise y Wurmple aurora (136); 156,830 ₽.",
+  "dinero_visible": 156830,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -18726,8 +18726,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18737,10 +18737,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 8 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 270,
@@ -19329,8 +19329,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19340,10 +19340,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 8 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 316,
@@ -30883,6 +30883,26 @@
    "nivel_final": 154,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Cambiar normales por shinies de captura y de «?» (Venipede, Pinsir) y Genesect del nodo legendario. Contra el Campeón Lance (dragones), Scizor y Genesect (Acero) delante."
+  },
+  {
+   "run_id": "Bicho-8",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Sinnoh)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Illumise aurora (captura del mapa 2) y Wurmple aurora (Cascoon de la captura del mapa 5): verificados en PC, 136 auroras",
+   "intentos_primer_nodo_confirmados": 61,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 153 (MVP), Galvantula (shiny), Vivillon (shiny), Illumise (aurora), Dustox (aurora), Ariados (aurora)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Poder Shiny, Muda Concha, Bola Férrea, Gafas Especiales",
+   "nivel_final": 153,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Los nodos de captura de mapas 2-5 dan auroras nuevas: revisar siempre (con Cazador Shiny). Bicho T8 con todo el equipo shiny/aurora. Reiniciar el navegador a mitad de partida funciona: en el menú sale REANUDAR DESAFÍO y la partida continúa (sin logout)."
   }
  ],
  "observaciones": [

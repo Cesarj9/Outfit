@@ -109,3 +109,4 @@ Verificar todo en el PC real antes de usarlo.
 - Misión: el máximo número de auroras posible. Ley del primer nodo (César, 2026-11-25 noche): **50 intentos** aurora nuevo, luego cualquier aurora/shiny. Si se pierde una partida, empezar otra (seguir toda la noche).
 - Tarea automática cada 2 h para reiniciar el navegador si se cierra por el límite.
 - (Bicho 1-3) Receta: Disco Bicho (si no sale, REINICIAR en la pantalla de reliquia inicial vuelve a sortear) + llenar el equipo de shinies/auroras de los «?» hasta Bicho T7 (+1 nivel por combate). Rutas con muchos entrenadores, evitando escupefuegos (Fuego). Al volver a tirar en un «?», no relanzar shinies (attempt.js corregido).
+- (Bicho 8) Si el navegador hay que reiniciarlo a mitad de partida: NO hacer logout; el menú muestra REANUDAR DESAFÍO y la partida sigue igual.
