@@ -31143,6 +31143,26 @@
    "nivel_final": 161,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Insectostal Z en los mapas 8-9 dispara los niveles (Bicho T7 + x2). Genesect del encuentro legendario es un buen refuerzo. Se perdió una Nincada aurora en el mapa 3 por encadenar flee tras attempt (ahora wild.sh); se recuperó otra en el mapa 5."
+  },
+  {
+   "run_id": "Bicho-21",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kalos)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Alto Mando 3 Wikstrom",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (primer nodo: Caterpie shiny tras 53 intentos)",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Escavalier 105, Mega Scizor 105, Genesect 105, Scolipede 103 (shiny), Mega Pinsir 104, Butterfree 103 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Bola Férrea, Baya Chilan, Incienso Roca, Guardia Shiny",
+   "nivel_final": 105,
+   "causa_derrota_si_confirmada": "El rival del mapa 9 (Fuego/Volador con Ho-Oh, Volcarona, Chandelure) debilitó a tres antes de la Liga y la Liga de Kalos no cura entre combates; Wikstrom (Acero + Heatran) remató al resto. El equipo llegó a Nv103, frente a los Nv118-122 de Kalos.",
+   "aprendizaje": "Sin Polvo Plata ni Insectostal Z como reliquias el nivel se queda corto (Nv105 frente a 161 en Bicho 20). Prioridad: reliquias de nivel Bicho (Polvo Plata, Repartir Exp, Insectostal Z) por encima de las defensivas. Piedra Lunar en el mapa 3 dio Mega Scizor y la Pinsirita en el mapa 9 dio Mega Pinsir."
   }
  ],
  "observaciones": [
