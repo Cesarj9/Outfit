@@ -36,8 +36,8 @@
    "version": "3.8"
   },
   "total_auroras_pc": 147,
-  "ultima_actualizacion": "2026-11-26: Bicho 24 ganada; Dwebble aurora (147); 164,530 ₽.",
-  "dinero_visible": 164530,
+  "ultima_actualizacion": "2026-11-26: Bicho 25 ganada (Johto); 147 auroras; 165,030 ₽.",
+  "dinero_visible": 165030,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -31223,6 +31223,26 @@
    "nivel_final": 139,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "275 intentos en el primer nodo para la Dwebble aurora. Genesect con Metrónomo ataca con tipo Acero, ideal contra Diantha (Hada, Roca y Hielo). Pinsirita en el mapa 9. Crustle y Galvantula como líderes contra el rival Fuego/Volador. El Amuleto Oval da 4 cartas: attempt.js y loop.js ya lo admiten."
+  },
+  {
+   "run_id": "Bicho-25",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Johto)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeón Lance",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas (Heracross, Scatterbug)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo: Volbeat shiny tras 52 intentos)",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 130, Escavalier 127 (Metrónomo, Cuerpo Pesado), Scolipede 127, Ledian 128 (shiny), Butterfree 127, Volbeat 127 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Banda Focus, Roca Suave, Disco Tierra, Brazal Recio",
+   "nivel_final": 132,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Roca Suave + Disco Tierra + Banda Focus: la Liga de Johto sin bajas. Escavalier con Metrónomo usa ataques Acero (Cola Férrea / Cuerpo Pesado)."
   }
  ],
  "observaciones": [
