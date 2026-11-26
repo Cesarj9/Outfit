@@ -31,8 +31,8 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Refresco PC: Shedinja aurora confirmada (de César). 150 auroras; 167,180 ₽.",
-  "siguiente_decision": "En pausa: César juega él mismo. No jugar a la vez; esperar instrucciones.",
+  "ultima_accion_confirmada": "Semanal-2 (Fácil, Peso Pesado) en curso con Mewtwo: SWIRLIX AURORA (mapa 2) y MACHAMP AURORA (mapa 6) nuevas, pendientes de ganar + PC.",
+  "siguiente_decision": "Ganar Semanal-2 (golpe ≥2000 y victoria).",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
     "formas mega en Pokédex",

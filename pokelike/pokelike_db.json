@@ -31323,6 +31323,26 @@
    "nivel_final": 83,
    "causa_derrota_si_confirmada": "Nivel muy bajo: la ruta de capturas (pokéball/? en cada mapa) dejó al equipo unos 30-40 niveles por debajo de los jefes (Nv41-46 frente a Nv70 en el gimnasio 6). Karen (Siniestro) anula a Mewtwo y a Celebi (Psíquico).",
    "aprendizaje": "Reglas de la semanal: objetivos al azar (1 en Fácil, 2 en Difícil). Si se rompe uno, la partida termina; si se cumplen todos y se gana, se supera. «¡Hazte con Ellos!» se cumplió en el mapa 6 (15 capturas). Los legendarios no cuentan como captura. Con el equipo lleno hay que liberar a un miembro que ya estuviera (no al recién capturado). El logro quedó con 1,000 ₽ por reclamar (no reclamado). Mejora: hacer las capturas pronto (mapas 1-4, 3-4 por mapa) y desde el mapa 5 ir a por entrenadores y reliquias de nivel. Gafas Especiales + Lente Recia + Energía Potenciadora compensaron mucha diferencia de nivel. Mewtwo necesita apoyo contra Siniestro (Lucha/Bicho/Hada)."
+  },
+  {
+   "run_id": "Semanal-2",
+   "modo": "Desafío semanal (Lista del Entrenador, Fácil)",
+   "desafio_visible": "Lista del Entrenador Fácil: objetivo «Peso Pesado» (un golpe de ≥2000 de daño y ganar)",
+   "inicial": "Mewtwo (normal, Cola Plúmbea)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Mapa 8: rival Lysandre",
+   "resultado": "DERROTA",
+   "objetivos": "Semanal Fácil + MVP Mewtwo",
+   "capturas_pendientes": "Swirlix aurora (NUEVA, mapa 2) y Machamp aurora (NUEVA, mapa 6): PERDIDAS por la derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 69, Slowbro 63 (shiny), Victini 63, Regice 62, Slurpuff 61 (Swirlix aurora), Machamp 58 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Hierba Mental, Guardia Shiny, Destello Inicial, Poder Legendario, Nerviosfera",
+   "nivel_final": 69,
+   "causa_derrota_si_confirmada": "Rival del mapa 8 (Siniestro/Volador, Nv102-106, Yveltal y Gyarados-mega) contra el equipo a Nv58-69. Le quedaron 92 PS al último. Faltó nivel: sin reliquias de nivel (Polvo Estelar sustituido) y con muchos nodos de objetos/captura.",
+   "aprendizaje": "REINICIAR en el primer mapa tira de nuevo el objetivo semanal (no hay límite de intentos). Objetivos vistos: ¡Hazte con Ellos! (15 capturas), Defensa Férrea (<3 debilitados), Médico de Campaña (curar 20000), Aceleración (ganar en <10 min), Elección Táctica (jefe con todo el equipo resistiendo su tipo), Peso Pesado (golpe ≥2000). Con equipos variados y Mewtwo, el nivel cae 30-40 por debajo de los jefes: hay que priorizar entrenadores en todos los mapas y reliquias de nivel (Polvo Estelar/Repartir Exp/Caramelo Exp). El Desafío normal (no mono) escala igual que el Bicho, pero sin el rasgo Bicho de +nivel."
   }
  ],
  "observaciones": [
