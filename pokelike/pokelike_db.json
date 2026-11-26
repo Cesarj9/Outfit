@@ -31463,6 +31463,26 @@
    "nivel_final": 81,
    "causa_derrota_si_confirmada": "Lance (Dragón T4, Nv135-140) contra el equipo a Nv75-81: unos 55 niveles de diferencia. Pasé a Koga, Bruno y Karen.",
    "aprendizaje": "El rasgo Roca da DEF/DEF esp. (T3 +3, T5 +5 tras atacar), no niveles: el equipo llega a la Liga a Nv80. Hacen falta reliquias de nivel (Polvo Estelar, Repartir Exp, Caramelo Exp) y más entrenadores. Las Cenizas Sagradas se usan en la pantalla de orden: clic en el objeto y luego clic en la fila del Pokémon (ash.js). La Tyranitarita aparece como objeto. Las auroras nuevas salen en el primer nodo (Corsola en el intento 21) y en las pokéball (Binacle)."
+  },
+  {
+   "run_id": "Roca-2",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Gimnasio 4: Maylene (Lucha/Psíquico)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Corsola aurora (primer nodo, intento 1): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 1,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lairon 33, Corsola 33 (aurora), Graveler 34 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Corona Antigua, Tabla Pétrea, Incienso Roca",
+   "nivel_final": 34,
+   "causa_derrota_si_confirmada": "Gimnasio 4 Lucha/Psíquico (Nv40-42) con solo 3 Pokémon de Roca/Acero (débiles a Lucha) a Nv33-34.",
+   "aprendizaje": "Ir con poco equipo NO sirve en Mono-Roca: muchos tipos (Lucha, Agua, Planta, Tierra, Acero) son supereficaces contra Roca y hace falta variedad y cuerpos de sobra. Volver al equipo completo de Roca-1 con más entrenadores y reliquias de nivel."
   }
  ],
  "observaciones": [
