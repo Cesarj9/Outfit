@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 141,
-  "ultima_actualizacion": "2026-11-26: Bicho 12 ganada; Venonat aurora (141); 158,830 ₽.",
-  "dinero_visible": 158830,
+  "total_auroras_pc": 142,
+  "ultima_actualizacion": "2026-11-26: Bicho 13 ganada; Joltik aurora (142); 159,330 ₽.",
+  "dinero_visible": 159330,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -22708,8 +22708,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -22719,10 +22719,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 13 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 597,
@@ -30983,6 +30983,26 @@
    "nivel_final": 138,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Piedra Lunar sobre Scyther en el mapa 1. Ojo: Volcarona delante contra un escupefuegos cayó (llevan Agua o Roca); mejor Scizor delante en el mapa. Revisar el tutor para Scizor en cada mapa: se quedó con Picadura hasta el mapa 7."
+  },
+  {
+   "run_id": "Bicho-13",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Teselia)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Joltik aurora (NUEVO, «?» del mapa 8): verificado en PC, 142 auroras",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 131 (MVP), Genesect, Galvantula (aurora), Leavanny (shiny), Scolipede (shiny), Masquerain (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Baya Enigma, Tabla Bicho, Hierba Única, Escama Bella",
+   "nivel_final": 131,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Hasta en el mapa 8 aparecen auroras nuevas en los «?» (Joltik). Contra Alder (Nv135-140, nosotros 127), Leavanny y Scolipede delante como relleno y el resto ganó. Escama Bella con 5-6 tipos distintos."
   }
  ],
  "observaciones": [
