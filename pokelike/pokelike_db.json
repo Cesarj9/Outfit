@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 145,
-  "ultima_actualizacion": "2026-11-26: Bicho 18 ganada; Karrablast aurora (145); 161,730 ₽.",
-  "dinero_visible": 161730,
+  "total_auroras_pc": 146,
+  "ultima_actualizacion": "2026-11-26: Bicho 20 ganada; Nincada aurora (146); 162,630 ₽.",
+  "dinero_visible": 162630,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -18954,8 +18954,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -18965,10 +18965,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora conseguida en Bicho-20 (verificada PC 2026-11-26)."
   },
   {
    "linea_id": 292,
@@ -31123,6 +31123,26 @@
    "nivel_final": 131,
    "causa_derrota_si_confirmada": "Lucian (Psíquico, Alto Mando 4) debilitó a cuatro y solo Parasect y Volcarona llegaron a Cynthia (Nv135-140). Scyther fue rezagado todo el mapa (el científico del mapa 3 lo debilitó) y Mega Scizor llegó al nivel más bajo del equipo.",
    "aprendizaje": "Contra Lucian, que barre a los Bicho, hace falta Siniestro o Acero a tope. No dejar que Scizor se quede atrás en niveles. Se me pasó una Heracronita por pulsar SALTAR en un objeto: leer antes las opciones."
+  },
+  {
+   "run_id": "Bicho-20",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kanto)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeón Blue",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Nincada aurora (NUEVA, verificada en PC)",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 161, Heracross 155 (shiny), Beedrill (Weedle aurora), Ninjask (Nincada aurora), Genesect (legendario mapa 8), Escavalier 156 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Polvo Plata, Brazal Firme, Guardia Shiny, Insectostal Z",
+   "nivel_final": 161,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Insectostal Z en los mapas 8-9 dispara los niveles (Bicho T7 + x2). Genesect del encuentro legendario es un buen refuerzo. Se perdió una Nincada aurora en el mapa 3 por encadenar flee tras attempt (ahora wild.sh); se recuperó otra en el mapa 5."
   }
  ],
  "observaciones": [

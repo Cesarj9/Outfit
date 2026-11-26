@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-25",
+  "fecha": "2026-11-26",
   "version_juego": "v3.8",
   "bloqueo": null,
   "modo_desafio": "Desafío Bicho (Gym Challenge Mono-Bicho)",
@@ -31,8 +31,8 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Bicho 19 PERDIDA ante la Campeona Cynthia. Sin auroras pendientes perdidas.",
-  "siguiente_decision": "Bicho 20 con Scyther.",
+  "ultima_accion_confirmada": "Bicho 20 GANADA (Liga de Kanto). Nincada aurora verificada en PC (146 auroras).",
+  "siguiente_decision": "Reiniciar navegador y Bicho 21 con Scyther.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
     "formas mega en Pokédex",

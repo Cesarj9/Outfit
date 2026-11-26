@@ -1,0 +1,1 @@
+require('./lib')(async p=>{ if(process.argv[2]) { await p.locator('*:visible',{hasText:new RegExp('^'+process.argv[2]+'$')}).last().click(); await p.waitForTimeout(2000);} console.log((await p.evaluate(()=>document.body.innerText)).replace(/\s+/g,' ').slice(+(process.env.S||0),+(process.env.S||0)+900)); });
