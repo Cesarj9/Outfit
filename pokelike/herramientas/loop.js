@@ -13,9 +13,9 @@ require('./lib')(async p => {
     const box = await p.evaluate(id=>{ const b=document.querySelector(`g.map-node[data-node-id="${id}"]`).getBoundingClientRect(); return [b.x+b.width/2,b.y+b.height/2]; }, pb.id);
     await p.mouse.click(box[0], box[1]); await p.waitForTimeout(2200);
     let cards = await readCards(p);
-    if (cards.length!==3) { console.log('NOT_CATCH_SCREEN', JSON.stringify(cards)); break; }
+    if ((cards.length<3||cards.length>4)) { console.log('NOT_CATCH_SCREEN', JSON.stringify(cards)); break; }
     const seen=[...cards]; let hit=cards.find(isNewAurora);
-    for (let i=0;i<3 && !hit;i++) {
+    for (let i=0;i<cards.length && !hit;i++) {
       if (cards[i].reroll!=='avail') continue;
       if (STOP_ANY_SHINY && isShiny(cards[i])) continue;
       await p.locator('.poke-choice-wrap').nth(i).getByRole('button',{name:/reroll|volver a tirar/i}).click({timeout:5000});

@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 146,
-  "ultima_actualizacion": "2026-11-26: Bicho 23 ganada (Sinnoh); 146 auroras; 164,030 ₽.",
-  "dinero_visible": 164030,
+  "total_auroras_pc": 147,
+  "ultima_actualizacion": "2026-11-26: Bicho 24 ganada; Dwebble aurora (147); 164,530 ₽.",
+  "dinero_visible": 164530,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -22258,8 +22258,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -22269,10 +22269,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora conseguida en Bicho-24 (verificada PC 2026-11-26)."
   },
   {
    "linea_id": 559,
@@ -31203,6 +31203,26 @@
    "nivel_final": 133,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Amuleto Oval (no ocupa hueco) añade una opción en cada nodo de captura, así que hay más oportunidades de aurora. Polvo Metálico con 3 Acero (-45%) y los tres Acero frescos ganaron a Lucian y a Cynthia. Contra Flint, abrir con los Bicho/Veneno. Scyther evolucionó a Scizor por nivel en el mapa 4. Se perdió un Galvantula shiny en un nodo ? (wild.sh huía ante NOT_CATCH_SCREEN): corregido."
+  },
+  {
+   "run_id": "Bicho-24",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kalos)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeona Diantha",
+   "resultado": "VICTORIA",
+   "objetivos": "Aurora nueva (primer nodo sin límite, orden de César); Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Dwebble aurora (NUEVA, verificada en PC)",
+   "intentos_primer_nodo_confirmados": 275,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 130, Genesect 130 (Metrónomo), Mega Pinsir 136, Crustle 115 (Dwebble aurora), Galvantula 122, Scolipede 124",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Disco Bicho, Tabla Pradal, Poder Shiny, Gafas Especiales, Polvo Metálico",
+   "nivel_final": 139,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "275 intentos en el primer nodo para la Dwebble aurora. Genesect con Metrónomo ataca con tipo Acero, ideal contra Diantha (Hada, Roca y Hielo). Pinsirita en el mapa 9. Crustle y Galvantula como líderes contra el rival Fuego/Volador. El Amuleto Oval da 4 cartas: attempt.js y loop.js ya lo admiten."
   }
  ],
  "observaciones": [
