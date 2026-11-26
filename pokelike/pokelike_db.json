@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 144,
   "ultima_actualizacion": "2026-11-26: Bicho 15 ganada; Pinsir aurora (144); 160,330 ₽.",
-  "dinero_visible": 160330,
+  "dinero_visible": 161230,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -31063,6 +31063,26 @@
    "nivel_final": 125,
    "causa_derrota_si_confirmada": "Campeón Alder (Nv135-140) con el equipo 10-15 niveles por debajo: solo quedó Reshiram con 90/388 PS. Mal arranque: en el mapa 3 una patrulla Rocket debilitó a 4 y en el mapa 4 un «?» a 3, así que el equipo fue bajo de nivel toda la partida.",
    "aprendizaje": "En los mapas 3-4 no encadenar dos Rocket ni entrar a un «?» con el equipo débil (Nv20-30). Llegar a la Liga de Teselia por encima de Nv130 (Alder es Nv135-140)."
+  },
+  {
+   "run_id": "Bicho-17",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kanto)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo: Weedle aurora ya registrado, 53 intentos)",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 144 (MVP), Mega-Beedrill (aurora, Beedrillita), Mega-Heracross (shiny, Heracronita), Forretress, Scolipede, Illumise (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Garra Afilada, Incienso Puro, Roca Suave, Poder Shiny",
+   "nivel_final": 144,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Tres megapiedras en objetos (Beedrillita en el mapa 1, Heracronita en el 5): tres Mega en el equipo. Heracross shiny con su ataque sin subir con tutores, como pidió César."
   }
  ],
  "observaciones": [
