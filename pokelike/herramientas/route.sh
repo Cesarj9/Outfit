@@ -3,7 +3,7 @@
 for n in "$@"; do
   spr=$(node map.js 2>/dev/null | awk -v id=$n '$1==id{print $2}')
   if [ "$spr" = "pokeball" ] && [ -n "$CATCH" ]; then
-    out=$(STAY=1 node cnode.js $n 2>&1 | grep -v agent-proxy); echo "$n: $out"; exit 5
+    out=$(STAY=1 NOREROLL=$NOREROLL node cnode.js $n 2>&1 | grep -v agent-proxy); echo "$n: $out"; exit 5
   elif [ "$spr" = "pokeball" ]; then
     out=$(node cnode.js $n 2>&1 | grep -v agent-proxy); echo "$n: $out"
     echo "$out" | grep -q "NEW AURORA" && exit 2

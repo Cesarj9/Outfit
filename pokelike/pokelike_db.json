@@ -31303,6 +31303,26 @@
    "nivel_final": 128,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Spewpa aurora salió al hacer reroll (wild.sh) en un nodo ? con el Amuleto Oval (4 cartas). Mega Heracross aurora con Brazal Firme barrió a Cynthia en solitario. Contra Flint y Lucian se cayó casi todo el equipo: faltó nivel (Nv120 frente a 135-140)."
+  },
+  {
+   "run_id": "Semanal-1",
+   "modo": "Desafío semanal (Lista del Entrenador, Fácil)",
+   "desafio_visible": "Lista del Entrenador Fácil: objetivo «¡Hazte con Ellos!» (capturar 15 Pokémon en la partida)",
+   "inicial": "Mewtwo (normal)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga de Johto: Alto Mando 4 Karen",
+   "resultado": "DERROTA",
+   "objetivos": "Semanal Fácil + MVP de Mewtwo",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 83 (MVP: 28,380 daño, 61 KO), Raikou 82, Celebi 81, Metagross 78, Absol 77 (shiny), Suicune 74",
+   "reliquias_finales": "Cazador Shiny, Energía Potenciadora, Gafas Especiales, Banda Focus, Lente Recia, Piedra Dura",
+   "nivel_final": 83,
+   "causa_derrota_si_confirmada": "Nivel muy bajo: la ruta de capturas (pokéball/? en cada mapa) dejó al equipo unos 30-40 niveles por debajo de los jefes (Nv41-46 frente a Nv70 en el gimnasio 6). Karen (Siniestro) anula a Mewtwo y a Celebi (Psíquico).",
+   "aprendizaje": "Reglas de la semanal: objetivos al azar (1 en Fácil, 2 en Difícil). Si se rompe uno, la partida termina; si se cumplen todos y se gana, se supera. «¡Hazte con Ellos!» se cumplió en el mapa 6 (15 capturas). Los legendarios no cuentan como captura. Con el equipo lleno hay que liberar a un miembro que ya estuviera (no al recién capturado). El logro quedó con 1,000 ₽ por reclamar (no reclamado). Mejora: hacer las capturas pronto (mapas 1-4, 3-4 por mapa) y desde el mapa 5 ir a por entrenadores y reliquias de nivel. Gafas Especiales + Lente Recia + Energía Potenciadora compensaron mucha diferencia de nivel. Mewtwo necesita apoyo contra Siniestro (Lucha/Bicho/Hada)."
   }
  ],
  "observaciones": [

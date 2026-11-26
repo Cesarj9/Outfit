@@ -116,3 +116,10 @@ Verificar todo en el PC real antes de usarlo.
 - Importantes: **Heracross** (prioridad máxima), Dwebble, Scatterbug.
 - Shedinja viene de Nincada (ya aurora): no buscarlo. Genesect no saldrá en aurora: ignorarlo.
 - Próxima partida (Bicho 24): primer nodo SIN límite de intentos hasta aurora nueva.
+
+### Desafío Semanal «Lista del Entrenador» (aprendido 2026-11-26)
+- Fácil: 1 objetivo (logro de Desafío al azar), 3,000 ₽. Difícil: 2 objetivos, 8,000 ₽ + avatar «Entrenador Guay». Difícil parece bloqueado hasta superar Fácil.
+- El objetivo se ve en el panel OBJETIVOS (botón `.achx-goal`, title con progreso). Si se rompe uno, la partida termina.
+- «¡Hazte con Ellos!»: capturar 15 en la partida. Los legendarios NO cuentan. Con el equipo lleno, liberar a un miembro que ya estuviera (no se puede soltar al nuevo). Conviene un hueco «comodín» que se va rotando.
+- Error de Semanal-1: demasiados nodos de captura dejaron al equipo a −30 niveles. Capturar pronto y luego subir de nivel.
+- `NOREROLL=1 CATCH=1 bash route.sh nodo` evita que cnode tire de nuevo las cartas (no perder buenas opciones).
