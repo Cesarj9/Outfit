@@ -31383,6 +31383,26 @@
    "nivel_final": 104,
    "causa_derrota_si_confirmada": "Steven (Acero T4, 3 Metagross, Heatran, Jirachi; Nv135-140) contra el equipo a Nv92-104. Volcarona, la única Fuego, cayó ante Glacia. Los Bicho no hacen daño al Acero.",
    "aprendizaje": "En la semanal el primer nodo es de capturas normales, no de Bicho: hasta el mapa 5 hubo no-Bichos y el nivel quedó por debajo del Desafío Bicho (Nv104 frente a 130-160). Opción «MANTENER EQUIPO» en los legendarios para no romper el rasgo Bicho. Con una Liga de Hoenn hay que guardar Volcarona con Carbón para Steven (no usarla contra Glacia)."
+  },
+  {
+   "run_id": "Semanal-5",
+   "modo": "Desafío semanal (Lista del Entrenador, Fácil)",
+   "desafio_visible": "Lista del Entrenador Fácil: objetivo «Elección Táctica» (ganar a un jefe con todo el equipo resistiendo su tipo)",
+   "inicial": "Mewtwo + Trubbish shiny (Veneno; resiste Lucha como Mewtwo)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Gimnasio 5: Clair (Dragón)",
+   "resultado": "DERROTA",
+   "objetivos": "Semanal Fácil (estrategia de César)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 54,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 42, Garbodor 43 (shiny), Breloom 44, Genesect 42, Darkrai 39, Volcanion 39",
+   "reliquias_finales": "Cazador Shiny, Cebo Legendario, Hierba Mental, Energía Potenciadora, Polvo Estelar, Baya Chilan",
+   "nivel_final": 44,
+   "causa_derrota_si_confirmada": "Gimnasio 5 Dragón (Nv55-58) contra el equipo a Nv39-44. Hierba y montañero del mapa 5 debilitaron a medio equipo y el salto de nivel de los gimnasios 4 a 5 es de unos 15 niveles.",
+   "aprendizaje": "La estrategia de César funciona: Mewtwo + compañero que resista Lucha (Trubbish shiny tras 54 intentos con el objetivo fijado). Con el equipo de solo 2 se cumplió Elección Táctica en el gimnasio 3 (Lucha: Hawlucha/Riolu/Machoke). Cebo Legendario convierte los nodos de captura en legendarios y se pueden añadir sin liberar (Darkrai, Volcanion, Genesect). Falló el nivel después: hay que meter reliquias de nivel y evitar la hierba desde el mapa 5 (salvajes muy fuertes). El objetivo se consiguió pronto, así que el resto de la partida debería ir a por niveles."
   }
  ],
  "observaciones": [
