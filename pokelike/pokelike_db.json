@@ -31423,6 +31423,26 @@
    "nivel_final": 86,
    "causa_derrota_si_confirmada": "No salió ningún jefe Psíquico en los mapas 1-8 (salieron Bicho, Veneno, mixto, Hielo, Normal, Fantasma, Hada y Siniestro). Al entrar en el jefe del mapa 9 el juego avisa: «Esto acaba con un objetivo… Si ganas el combate final así, la partida fracasa».",
    "aprendizaje": "El jefe del mapa 9 cuenta como combate final: Elección Táctica hay que cumplirla como muy tarde en el jefe del mapa 8. Con 2 Pokémon el nivel va por delante (Nv60 en el gimnasio 5) y aguanta hasta el gimnasio 7. Un compañero que solo resiste un tipo de jefe (Inkay: Psíquico) deja poca probabilidad: mejor uno que resista Lucha Y Psíquico (Psíquico puro, Psíquico/Hada o Psíquico/Volador) para duplicar las opciones."
+  },
+  {
+   "run_id": "Semanal-7",
+   "modo": "Desafío semanal (Lista del Entrenador, Fácil)",
+   "desafio_visible": "Lista del Entrenador Fácil: objetivo «Elección Táctica»",
+   "inicial": "Kyogre (5 estrellas: 50 EV con vitaminas, 10,000 ₽)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga de Hoenn: Alto Mando 4 Drake",
+   "resultado": "DERROTA",
+   "objetivos": "Semanal Fácil (estrategia de César: cumplir el objetivo en el mapa 1)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Kyogre 88, Electrode 87, Cresselia 86, Machamp 84, Infernape 79, Aegislash 79",
+   "reliquias_finales": "Cazador Shiny, Incienso Puro, Banda Focus, Brazal Recio, Bola Férrea, Raíz Grande",
+   "nivel_final": 88,
+   "causa_derrota_si_confirmada": "Drake (Dragón, Nv124-128) contra el equipo a Nv79-88, tras Phoebe y Glacia sin curación. No usé las Cenizas Sagradas: al pulsarlas se abre un menú para elegir Pokémon y no lo vi a tiempo.",
+   "aprendizaje": "ELECCIÓN TÁCTICA CUMPLIDA EN EL MAPA 1: Kyogre solo contra el jefe Agua (Staryu/Lapras), en la 4.ª vuelta de tryboss.sh. Al llegar a la pantalla del jefe, REINICIAR → «REINICIAR DESDE EL PRINCIPIO» reinicia la partida conservando el inicial. El PC dentro de la partida permite cambiar el inicial en el mapa 1. Vitaminas: Tienda Poké → vitamina → tocar el Pokémon del Salón de la Fama (200 ₽, máx. 10 por estadística y 50 en total; las estrellas = estadísticas mejoradas). Jefes del mapa 1 vistos: Agua, Planta/Veneno, Roca/Tierra, Normal/Volador, Bicho, Eléctrico. Siguen faltando niveles en la Liga (unos 40 por debajo)."
   }
  ],
  "observaciones": [

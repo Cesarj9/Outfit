@@ -123,3 +123,5 @@ Verificar todo en el PC real antes de usarlo.
 - «¡Hazte con Ellos!»: capturar 15 en la partida. Los legendarios NO cuentan. Con el equipo lleno, liberar a un miembro que ya estuviera (no se puede soltar al nuevo). Conviene un hueco «comodín» que se va rotando.
 - Error de Semanal-1: demasiados nodos de captura dejaron al equipo a −30 niveles. Capturar pronto y luego subir de nivel.
 - `NOREROLL=1 CATCH=1 bash route.sh nodo` evita que cnode tire de nuevo las cartas (no perder buenas opciones).
+- Elección Táctica (aprendido 2026-11-26): cumplirla en el MAPA 1 con el inicial solo. tryboss.sh reinicia hasta que coinciden el objetivo y un jefe que el inicial resiste. Funcionó con Kyogre contra el jefe Agua del mapa 1. El jefe del mapa 9 ya cuenta como combate final (la partida fracasa si el objetivo no está cumplido).
+- Objetos usables en la pantalla de orden: al pulsar el objeto se abre un menú con el equipo para elegir a quién usarlo (Cenizas Sagradas).
