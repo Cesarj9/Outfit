@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 129,
   "ultima_actualizacion": "2026-11-25: Bicho 1 ganada (Scyther MVP); Kricketot aurora (129); 153,530 ₽.",
-  "dinero_visible": 153530,
+  "dinero_visible": 153930,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -30763,6 +30763,26 @@
    "nivel_final": 147,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Disco Bicho + rasgo Bicho T7 (14 puntos: 2 auroras + 4 shinies) = +1 nivel seguro por combate y a veces +2: Nv71 en el mapa 5, Nv101 en el mapa 7, Nv131 en la Liga. Rellenar con shinies de los «?» (Burmy→Mothim, Sewaddle, Kakuna) y liberar normales. Scizor megaevoluciona al evolucionar (Scizorita del inicial). Ante Fuego (gym 8, Campeón Alder) poner relleno delante y Armaldo/Kricketune a tanquear. Los nodos legendarios del mapa 8-9 dieron Genesect normal (ya en PC): no compensa perder Bicho T7."
+  },
+  {
+   "run_id": "Bicho-2",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kalos)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeona Diantha",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "Wurmple aurora (perdido con la derrota)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 110, Escavalier 118 (MVP), Beautifly 110 (aurora), Crustle 112 (shiny), Volbeat 116 (shiny), Genesect 111",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Gafas Especiales, Bola Férrea, Lazo Destino, Banda Focus",
+   "nivel_final": 118,
+   "causa_derrota_si_confirmada": "Liga de Kalos: Malva (Fuego) debilitó a Crustle, Volbeat y Genesect; Scizor, Escavalier y Beautifly llegaron tocados y sin curar a Diantha (Nv135-140), unos 20 niveles por encima.",
+   "aprendizaje": "Solo Bicho T6 (12 puntos: faltaron shinies), así que hubo menos niveles que en Bicho 1 (Nv110-118 frente a 131-147 en la Liga). Un escupefuegos en el mapa 5 debilitó a Scizor y Beautifly (Fuego). Prioridad: llenar el equipo de shinies/auroras para llegar a Bicho T7, y evitar escupefuegos con Scizor delante. La Liga de Kalos empieza con Fuego: hace falta un tanque de Roca/Agua."
   }
  ],
  "observaciones": [
