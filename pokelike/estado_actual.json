@@ -2,9 +2,9 @@
   "fecha": "2026-11-26",
   "version_juego": "v3.8",
   "bloqueo": null,
-  "modo_desafio": "Desafío Bicho (Gym Challenge Mono-Bicho)",
-  "inicial": "Heracross aurora (ataque en nivel 1, sin tutores sobre su movimiento) — conseguido 2026-11-26",
-  "objetivo_actual": "Máximo número de auroras en el desafío Bicho (César, 2026-11-25 noche). Objetivo dirigido: Heracross aurora.",
+  "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
+  "inicial": "Aron (Mega Aggron)",
+  "objetivo_actual": "Toda la noche desafío Roca; parar si todas las líneas Roca no legendarias están en aurora. Faltan: Omanyte, Aerodactyl, Corsola, Nosepass, Lunatone, Solrock, Lileep, Cranidos, Tirtouga, Binacle, Amaura, Carbink.",
   "objetivos_registrados_verificados_por_este_agente": [
     "Charmander aurora (PC+Pokédex)",
     "Tentacool aurora (PC+Pokédex)",
@@ -31,7 +31,7 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Semanal-6 (Elección Táctica) en curso: Mewtwo + Inkay aurora (ya en PC) del primer nodo.",
+  "ultima_accion_confirmada": "Inicio Desafío Roca.",
   "siguiente_decision": "Ganar Semanal-2 (golpe ≥2000 y victoria).",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
@@ -77,5 +77,5 @@
     "mvp": 11,
     "meta": 50
   },
-  "tarea_automatica": "BORRADA 2026-11-26 10:03 UTC a petición de César (trig_01BwKxMvn7mDVwLduB2D178p)."
+  "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)"
 }
