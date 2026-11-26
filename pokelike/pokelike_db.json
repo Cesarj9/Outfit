@@ -31043,6 +31043,26 @@
    "nivel_final": 160,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Roca Suave (−5 VEL por turno) + Disco Tierra (+10% por cada nivel de VEL perdido) es un combo enorme. Pinsirita de nuevo en un objeto: Mega Pinsir aurora, segundo atacante."
+  },
+  {
+   "run_id": "Bicho-16",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Teselia)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeón Alder",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (no salió aurora nuevo; primer nodo: Dwebble shiny tras 57 intentos)",
+   "intentos_primer_nodo_confirmados": 57,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 123, Armaldo 123 (aurora), Crustle 121 (shiny), Volbeat 125 (shiny), Ninjask 123 (shiny), Vespiquen 122 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Blanco, Poder Shiny, Muda Concha, Guardia Shiny",
+   "nivel_final": 125,
+   "causa_derrota_si_confirmada": "Campeón Alder (Nv135-140) con el equipo 10-15 niveles por debajo: solo quedó Reshiram con 90/388 PS. Mal arranque: en el mapa 3 una patrulla Rocket debilitó a 4 y en el mapa 4 un «?» a 3, así que el equipo fue bajo de nivel toda la partida.",
+   "aprendizaje": "En los mapas 3-4 no encadenar dos Rocket ni entrar a un «?» con el equipo débil (Nv20-30). Llegar a la Liga de Teselia por encima de Nv130 (Alder es Nv135-140)."
   }
  ],
  "observaciones": [
