@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 129,
-  "ultima_actualizacion": "2026-11-25: Bicho 1 ganada (Scyther MVP); Kricketot aurora (129); 153,530 ₽.",
-  "dinero_visible": 153930,
+  "total_auroras_pc": 131,
+  "ultima_actualizacion": "2026-11-26: Bicho 3 ganada; Venipede y Shuckle aurora (131); 154,430 ₽.",
+  "dinero_visible": 154430,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -17951,8 +17951,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -17962,10 +17962,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 3 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 214,
@@ -22083,8 +22083,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -22094,10 +22094,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 3 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 546,
@@ -30783,6 +30783,26 @@
    "nivel_final": 118,
    "causa_derrota_si_confirmada": "Liga de Kalos: Malva (Fuego) debilitó a Crustle, Volbeat y Genesect; Scizor, Escavalier y Beautifly llegaron tocados y sin curar a Diantha (Nv135-140), unos 20 niveles por encima.",
    "aprendizaje": "Solo Bicho T6 (12 puntos: faltaron shinies), así que hubo menos niveles que en Bicho 1 (Nv110-118 frente a 131-147 en la Liga). Un escupefuegos en el mapa 5 debilitó a Scizor y Beautifly (Fuego). Prioridad: llenar el equipo de shinies/auroras para llegar a Bicho T7, y evitar escupefuegos con Scizor delante. La Liga de Kalos empieza con Fuego: hace falta un tanque de Roca/Agua."
+  },
+  {
+   "run_id": "Bicho-3",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Hoenn)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Venipede aurora (Scolipede del «?» del mapa 3) y Shuckle aurora (otro «?» del mapa 3): verificados en PC, 131 auroras",
+   "intentos_primer_nodo_confirmados": 57,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 165 (MVP), Vivillon 160 (shiny), Beedrill 160 (shiny), Shuckle 160 (aurora), Volcarona 160, Scolipede 160 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Brazal Firme, Muda Concha, Blanco, Bola Férrea",
+   "nivel_final": 165,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Disco Bicho (se busca con REINICIAR en la pantalla de reliquia inicial) + Brazal Firme + Muda Concha. Los «?» del mapa 3 dieron 2 auroras nuevas: siempre pasar por «?». Ruta con muchos entrenadores evitando escupefuegos: Nv71 en el mapa 5, Nv129 antes del gym 8, Nv150 en la Liga. Volcarona capturado en el mapa 9 (sustituyendo a un normal) para la Liga."
   }
  ],
  "observaciones": [
