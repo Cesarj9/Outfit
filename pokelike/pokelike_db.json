@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 147,
-  "ultima_actualizacion": "2026-11-26: Bicho 25 ganada (Johto); 147 auroras; 165,030 ₽.",
-  "dinero_visible": 165030,
+  "total_auroras_pc": 148,
+  "ultima_actualizacion": "2026-11-26: Bicho 26 ganada; HERACROSS aurora (148); 165,530 ₽.",
+  "dinero_visible": 165530,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -17976,8 +17976,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -17987,10 +17987,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora conseguida en Bicho-26 (verificada PC 2026-11-26)."
   },
   {
    "linea_id": 215,
@@ -31243,6 +31243,26 @@
    "nivel_final": 132,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Roca Suave + Disco Tierra + Banda Focus: la Liga de Johto sin bajas. Escavalier con Metrónomo usa ataques Acero (Cola Férrea / Cuerpo Pesado)."
+  },
+  {
+   "run_id": "Bicho-26",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Teselia)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeón Alder",
+   "resultado": "VICTORIA",
+   "objetivos": "Heracross aurora (objetivo principal)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "HERACROSS aurora (NUEVA, objetivo, verificada en PC)",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 146, Heracross 141 (aurora, sin tutor), Beedrill 142 (shiny), Accelgor 142, Genesect 142, Forretress 145",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Incienso Puro, Baya Chilan, Gafas Especiales, Polvo Plata",
+   "nivel_final": 150,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Heracross aurora salió en el intento 12 del primer nodo. Incienso Puro (4-5 sin objeto) + Gafas Especiales + Polvo Plata: Teselia sin problemas. Contra Alder, abrir con Accelgor y Beedrill como escudo ante Volcarona."
   }
  ],
  "observaciones": [

@@ -3,7 +3,7 @@
   "version_juego": "v3.8",
   "bloqueo": null,
   "modo_desafio": "Desafío Bicho (Gym Challenge Mono-Bicho)",
-  "inicial": "Scyther aurora o Weedle aurora hasta conseguir Heracross aurora; después Heracross (ataque en nivel 1, sin tutores)",
+  "inicial": "Heracross aurora (ataque en nivel 1, sin tutores sobre su movimiento) — conseguido 2026-11-26",
   "objetivo_actual": "Máximo número de auroras en el desafío Bicho (César, 2026-11-25 noche). Objetivo dirigido: Heracross aurora.",
   "objetivos_registrados_verificados_por_este_agente": [
     "Charmander aurora (PC+Pokédex)",
@@ -31,8 +31,8 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Bicho 25 GANADA (Johto, Lance). Sin auroras nuevas.",
-  "siguiente_decision": "Bicho 26 con Scyther.",
+  "ultima_accion_confirmada": "Bicho 26 GANADA (Teselia). HERACROSS AURORA verificada en PC (148).",
+  "siguiente_decision": "Bicho 27 con Heracross aurora de inicial (sin tutor). Objetivo restante: Scatterbug aurora.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
     "formas mega en Pokédex",
