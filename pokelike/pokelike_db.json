@@ -30803,6 +30803,26 @@
    "nivel_final": 165,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Disco Bicho (se busca con REINICIAR en la pantalla de reliquia inicial) + Brazal Firme + Muda Concha. Los «?» del mapa 3 dieron 2 auroras nuevas: siempre pasar por «?». Ruta con muchos entrenadores evitando escupefuegos: Nv71 en el mapa 5, Nv129 antes del gym 8, Nv150 en la Liga. Volcarona capturado en el mapa 9 (sustituyendo a un normal) para la Liga."
+  },
+  {
+   "run_id": "Bicho-4",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Hoenn)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeón Steven",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "Larvesta, Silcoon (Wurmple), Accelgor (Shelmet) y Scatterbug aurora: perdidos con la derrota",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 36,
+   "intentos_inciertos": 0,
+   "equipo_final": "Volcarona 157 (aurora), Mega Scizor 158, Vivillon 156 (aurora), Beautifly 153 (aurora), Accelgor 153 (shiny), Accelgor 156 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Bola Férrea, Brazal Recio, Blanco, Polvo Plata",
+   "nivel_final": 158,
+   "causa_derrota_si_confirmada": "Campeón Steven (Acero/Psíquico/Roca): equipo arrasado; quedaban Heatran (43%) y Jirachi intactos. El Bicho no es eficaz contra Acero, y los atacantes especiales (Accelgor, Beautifly, Vivillon) llevaban movimientos de nivel 1-2 porque no usé los tutores.",
+   "aprendizaje": "Con 4 auroras pendientes, priorizar ganar: usar TODOS los tutores para subir los movimientos de los atacantes (no solo Scizor). Contra el Campeón de Acero hacen falta Fuego o Tierra: Volcarona con Carbón o Metrónomo y más de un atacante de Fuego. Brazal Firme + Muda Concha (Bicho 3) rindieron mucho más que Brazal Recio + Bola Férrea."
   }
  ],
  "observaciones": [
