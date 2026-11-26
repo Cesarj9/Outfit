@@ -31,8 +31,8 @@
     "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
-  "ultima_accion_confirmada": "Bicho 27 GANADA (Kanto) con Heracross aurora de inicial. Sin auroras nuevas.",
-  "siguiente_decision": "Bicho 28 con Heracross aurora (sin tutor). Objetivo: Scatterbug aurora.",
+  "ultima_accion_confirmada": "Bicho 28 GANADA (Sinnoh). SCATTERBUG AURORA verificada en PC (149). Todas las líneas Bicho objetivo ya en aurora (faltan solo Shedinja/Genesect, ignorados por César).",
+  "siguiente_decision": "Consultar a César: el desafío Bicho ya no tiene auroras objetivo.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
     "formas mega en Pokédex",

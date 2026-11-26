@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 148,
-  "ultima_actualizacion": "2026-11-26: Bicho 27 ganada (Kanto) con Heracross aurora de inicial; 148 auroras; 166,030 ₽.",
-  "dinero_visible": 166030,
+  "total_auroras_pc": 149,
+  "ultima_actualizacion": "2026-11-26: Bicho 28 ganada; SCATTERBUG aurora (149); todas las líneas Bicho objetivo en aurora; 166,530 ₽.",
+  "dinero_visible": 166530,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -23609,8 +23609,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -23620,10 +23620,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora conseguida en Bicho-28 (Spewpa en nodo ?, verificada PC 2026-11-26)."
   },
   {
    "linea_id": 667,
@@ -31283,6 +31283,26 @@
    "nivel_final": 133,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Primera partida con Heracross aurora de inicial (Mega Heracross con Heracronita) sin tutor: ganada. Piedra Lunar en el mapa 1 dio Escavalier. Catálogo Rotom permite elegir otra reliquia inicial."
+  },
+  {
+   "run_id": "Bicho-28",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Sinnoh)",
+   "inicial": "Heracross aurora (Heracronita; ataque nivel 1, sin tutor)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeona Cynthia",
+   "resultado": "VICTORIA",
+   "objetivos": "Scatterbug aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "SCATTERBUG aurora (NUEVA, como Spewpa en un nodo ? del mapa 6; verificada en PC)",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Heracross aurora 128 (Picadura nivel 1; ganó sola a Cynthia), Genesect, Accelgor (shiny), Pinsir (aurora), Vivillon (Scatterbug aurora), Scolipede (shiny)",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Disco Bicho, Escama Bella, Brazal Firme, Baya Chilan, Bola Férrea",
+   "nivel_final": 128,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Spewpa aurora salió al hacer reroll (wild.sh) en un nodo ? con el Amuleto Oval (4 cartas). Mega Heracross aurora con Brazal Firme barrió a Cynthia en solitario. Contra Flint y Lucian se cayó casi todo el equipo: faltó nivel (Nv120 frente a 135-140)."
   }
  ],
  "observaciones": [
