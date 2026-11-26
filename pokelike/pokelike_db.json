@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 144,
-  "ultima_actualizacion": "2026-11-26: Bicho 15 ganada; Pinsir aurora (144); 160,330 ₽.",
-  "dinero_visible": 161230,
+  "total_auroras_pc": 145,
+  "ultima_actualizacion": "2026-11-26: Bicho 18 ganada; Karrablast aurora (145); 161,730 ₽.",
+  "dinero_visible": 161730,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -22608,8 +22608,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -22619,10 +22619,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 18 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 590,
@@ -31083,6 +31083,26 @@
    "nivel_final": 144,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Tres megapiedras en objetos (Beedrillita en el mapa 1, Heracronita en el 5): tres Mega en el equipo. Heracross shiny con su ataque sin subir con tutores, como pidió César."
+  },
+  {
+   "run_id": "Bicho-18",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Teselia)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Karrablast aurora (NUEVO, primer nodo, intento 31): verificado en PC, 145 auroras",
+   "intentos_primer_nodo_confirmados": 31,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 146 (MVP), Escavalier (aurora), Mega-Beedrill (Beedrillita), Butterfree (shiny), Volbeat (shiny), Ninjask (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Banda Focus, Incienso Puro, Poder Shiny, Caramelo Exp.",
+   "nivel_final": 146,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Llegar a la Liga de Teselia a Nv134+ y poner relleno (Butterfree, Volbeat) delante contra Alder funcionó. Mapa 3 sin patrullas Rocket. Acero T3 (Scizor + Escavalier aurora)."
   }
  ],
  "observaciones": [
