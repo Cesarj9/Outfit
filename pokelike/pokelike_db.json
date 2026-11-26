@@ -31103,6 +31103,26 @@
    "nivel_final": 146,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Llegar a la Liga de Teselia a Nv134+ y poner relleno (Butterfree, Volbeat) delante contra Alder funcionó. Mapa 3 sin patrullas Rocket. Acero T3 (Scizor + Escavalier aurora)."
+  },
+  {
+   "run_id": "Bicho-19",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Sinnoh)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeona Cynthia",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (primer nodo: Larvesta shiny tras 53 intentos)",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 123, Scizor 128 (shiny), Leavanny 127 (shiny), Illumise 131 (shiny), Parasect 130 (aurora), Volcarona 124 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Roca Suave, Disco Tierra, Tabla Pradal, Semilla Milagro",
+   "nivel_final": 131,
+   "causa_derrota_si_confirmada": "Lucian (Psíquico, Alto Mando 4) debilitó a cuatro y solo Parasect y Volcarona llegaron a Cynthia (Nv135-140). Scyther fue rezagado todo el mapa (el científico del mapa 3 lo debilitó) y Mega Scizor llegó al nivel más bajo del equipo.",
+   "aprendizaje": "Contra Lucian, que barre a los Bicho, hace falta Siniestro o Acero a tope. No dejar que Scizor se quede atrás en niveles. Se me pasó una Heracronita por pulsar SALTAR en un objeto: leer antes las opciones."
   }
  ],
  "observaciones": [
