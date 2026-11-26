@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 133,
-  "ultima_actualizacion": "2026-11-26: Bicho 6 ganada; Volbeat aurora (133); 155,830 ₽.",
-  "dinero_visible": 155830,
+  "total_auroras_pc": 134,
+  "ultima_actualizacion": "2026-11-26: Bicho 7 ganada; Spinarak aurora (134); 156,330 ₽.",
+  "dinero_visible": 156330,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -17400,8 +17400,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -17411,10 +17411,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 7 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 170,
@@ -30863,6 +30863,26 @@
    "nivel_final": 150,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Piedra Lunar sobre Scyther en el mapa 3 = Mega Scizor temprano. Un «?» del mapa 2 fue un combate fuerte que debilitó a 3 (ir con el equipo sano). Genesect del nodo legendario sustituyó a un normal. Metrónomo en Crustle (ataca con Roca) para el Campeón Blue."
+  },
+  {
+   "run_id": "Bicho-7",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Johto)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Spinarak aurora (NUEVO, primer nodo, intento 52): verificado en PC, 134 auroras",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 154 (MVP), Pinsir (shiny), Genesect, Scolipede (shiny), Ariados (aurora), Kricketune (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Banda Focus, Gafas Especiales, Brazal Recio, Caramelo Exp.",
+   "nivel_final": 154,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Cambiar normales por shinies de captura y de «?» (Venipede, Pinsir) y Genesect del nodo legendario. Contra el Campeón Lance (dragones), Scizor y Genesect (Acero) delante."
   }
  ],
  "observaciones": [
