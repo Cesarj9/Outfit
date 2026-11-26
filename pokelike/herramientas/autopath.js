@@ -1,0 +1,7 @@
+// prints a path n1->n7 preferring poke-center at n7 and non-grass nodes; output: node ids space-separated
+require('./lib')(async p=>{ const r=await p.evaluate(()=>{const gs=[...document.querySelectorAll('g.map-node')];const nodes=gs.map(g=>{const b=g.getBoundingClientRect();const img=g.querySelector('image.map-node-sprite');return {id:g.dataset.nodeId,spr:img?(img.getAttribute('href')||'').replace(/^.*\//,'').replace('.png',''):'',cx:b.x+b.width/2,cy:b.y+b.height/2}});const svg=gs[0].ownerSVGElement;const E=[];for(const l of svg.querySelectorAll('line')){const M=l.getScreenCTM();const tp=(x,y)=>{const q=svg.createSVGPoint();q.x=x;q.y=y;const t=q.matrixTransform(M);return [t.x,t.y]};const a=tp(+l.getAttribute('x1'),+l.getAttribute('y1')),b=tp(+l.getAttribute('x2'),+l.getAttribute('y2'));const near=pt=>nodes.reduce((m,n)=>{const d=Math.hypot(n.cx-pt[0],n.cy-pt[1]);return d<m[0]?[d,n.id]:m},[1e9,null]);E.push([near(a)[1],near(b)[1]])}return {nodes,E}});
+ const spr={};r.nodes.forEach(n=>spr[n.id]=n.spr);const adj={};r.E.forEach(([a,b])=>{(adj[a]=adj[a]||[]).push(b)});
+ const cost=s=>/grass|question|legendary/.test(s)?3:/item|move-tutor|trade|pokeball/.test(s)?2:/poke-center/.test(s)?0:1;
+ const memo={};const best=id=>{if(id==='n8_0')return [0,[]];if(memo[id])return memo[id];let b=[1e9,[]];for(const nx of (adj[id]||[])){const [c,pth]=best(nx);const cc=c+cost(spr[nx]);if(cc<b[0])b=[cc,[nx,...pth]]}return memo[id]=b};
+ const [c,path]=best('n0_0');console.log(path.filter(x=>x!=='n8_0').join(' '));
+});
