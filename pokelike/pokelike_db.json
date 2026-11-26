@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 131,
-  "ultima_actualizacion": "2026-11-26: Bicho 3 ganada; Venipede y Shuckle aurora (131); 154,430 ₽.",
-  "dinero_visible": 154430,
+  "total_auroras_pc": 132,
+  "ultima_actualizacion": "2026-11-26: Bicho 5 ganada; Caterpie aurora (132); 155,330 ₽.",
+  "dinero_visible": 155330,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -15623,8 +15623,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -15634,10 +15634,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 5 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 13,
@@ -30823,6 +30823,26 @@
    "nivel_final": 158,
    "causa_derrota_si_confirmada": "Campeón Steven (Acero/Psíquico/Roca): equipo arrasado; quedaban Heatran (43%) y Jirachi intactos. El Bicho no es eficaz contra Acero, y los atacantes especiales (Accelgor, Beautifly, Vivillon) llevaban movimientos de nivel 1-2 porque no usé los tutores.",
    "aprendizaje": "Con 4 auroras pendientes, priorizar ganar: usar TODOS los tutores para subir los movimientos de los atacantes (no solo Scizor). Contra el Campeón de Acero hacen falta Fuego o Tierra: Volcarona con Carbón o Metrónomo y más de un atacante de Fuego. Brazal Firme + Muda Concha (Bicho 3) rindieron mucho más que Brazal Recio + Bola Férrea."
+  },
+  {
+   "run_id": "Bicho-5",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Kanto)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Caterpie aurora (NUEVO, primer nodo, intento 31): verificado en PC, 132 auroras",
+   "intentos_primer_nodo_confirmados": 31,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 134 (MVP), Armaldo (shiny), Genesect, Beedrill (aurora), Volcarona, Butterfree (aurora)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Guardia Shiny, Garra Afilada, Gafas Especiales, Caramelo Exp.",
+   "nivel_final": 134,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Guardia Shiny (−10% de daño por shiny) con 5 shinies/auroras = −50%. Todos los tutores usados (Megacuerno a Scizor y Beedrill, Roca Afilada a Armaldo). Contra el Campeón Blue (Roca/Volador) pusimos Scizor y Armaldo delante. Genesect del nodo legendario sustituyó a un shiny débil (Ledian) sin bajar de Bicho T7."
   }
  ],
  "observaciones": [
