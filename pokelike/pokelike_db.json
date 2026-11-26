@@ -36,8 +36,8 @@
    "version": "3.8"
   },
   "total_auroras_pc": 146,
-  "ultima_actualizacion": "2026-11-26: Bicho 22 ganada (Kalos); 146 auroras; 163,530 ₽.",
-  "dinero_visible": 163530,
+  "ultima_actualizacion": "2026-11-26: Bicho 23 ganada (Sinnoh); 146 auroras; 164,030 ₽.",
+  "dinero_visible": 164030,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -31183,6 +31183,26 @@
    "nivel_final": 128,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Caramelo Exp. + Insectostal Z en los mapas 7-9 subieron el equipo de Nv75 a Nv115. Armaldo con ataque Roca como líder aguanta al rival Fuego/Volador del mapa 9. La Liga de Kalos sí cura entre combates. Piedra Lunar en el mapa 2 dio Mega Scizor."
+  },
+  {
+   "run_id": "Bicho-23",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Sinnoh)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeona Cynthia",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna nueva (primer nodo: Heracross shiny tras 55 intentos)",
+   "intentos_primer_nodo_confirmados": 55,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 130, Genesect 129, Escavalier 129, Beedrill 127, Heracross 126 (shiny), Scolipede 123",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Disco Bicho, Baya Chilan, Repartir Exp, Hierba Blanca, Polvo Metálico",
+   "nivel_final": 133,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Amuleto Oval (no ocupa hueco) añade una opción en cada nodo de captura, así que hay más oportunidades de aurora. Polvo Metálico con 3 Acero (-45%) y los tres Acero frescos ganaron a Lucian y a Cynthia. Contra Flint, abrir con los Bicho/Veneno. Scyther evolucionó a Scizor por nivel en el mapa 4. Se perdió un Galvantula shiny en un nodo ? (wild.sh huía ante NOT_CATCH_SCREEN): corregido."
   }
  ],
  "observaciones": [
