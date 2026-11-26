@@ -32,7 +32,7 @@
     "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
   ],
   "ultima_accion_confirmada": "Bicho 28 GANADA (Sinnoh). SCATTERBUG AURORA verificada en PC (149). Todas las líneas Bicho objetivo ya en aurora (faltan solo Shedinja/Genesect, ignorados por César).",
-  "siguiente_decision": "Consultar a César: el desafío Bicho ya no tiene auroras objetivo.",
+  "siguiente_decision": "En pausa: César juega él mismo. No jugar a la vez; esperar instrucciones.",
   "auditorias_pendientes": [
     "fichas de detalle del PC (objeto inicial, megapiedra)",
     "formas mega en Pokédex",
@@ -77,9 +77,5 @@
     "mvp": 11,
     "meta": 50
   },
-  "tarea_automatica": {
-    "id": "trig_01BwKxMvn7mDVwLduB2D178p",
-    "cron": "24 */2 * * * (UTC)",
-    "motivo": "Reiniciar navegador (límite 2 h) y seguir mientras César duerme"
-  }
+  "tarea_automatica": "BORRADA 2026-11-26 10:03 UTC a petición de César (trig_01BwKxMvn7mDVwLduB2D178p)."
 }
