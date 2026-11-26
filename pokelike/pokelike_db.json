@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 143,
-  "ultima_actualizacion": "2026-11-26: Bicho 14 ganada; Pineco aurora (143); 159,830 ₽.",
-  "dinero_visible": 159830,
+  "total_auroras_pc": 144,
+  "ultima_actualizacion": "2026-11-26: Bicho 15 ganada; Pinsir aurora (144); 160,330 ₽.",
+  "dinero_visible": 160330,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -16849,8 +16849,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -16860,10 +16860,10 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-26",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora. | Aurora capturado en Bicho 15 (agente) y verificado en PC 2026-11-26."
   },
   {
    "linea_id": 128,
@@ -31023,6 +31023,26 @@
    "nivel_final": 156,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Tres Acero (Scizor, Forretress, Escavalier, 8 puntos) = Acero T4 (−60% de daño) + Revestimiento Metálico. Incienso Puro (+10% por miembro sin objeto): no equipar objetos. Bicho T8 con todo el equipo shiny/aurora."
+  },
+  {
+   "run_id": "Bicho-15",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Bicho (Liga de Sinnoh)",
+   "inicial": "Scyther aurora (Scizorita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga completada",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras nuevas; Heracross aurora",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "Pinsir aurora (NUEVO, primer nodo, intento 23): verificado en PC, 144 auroras",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Scizor 160 (MVP), Mega Pinsir (aurora, Pinsirita), Ledian (shiny), Vespiquen (shiny), Beautifly (shiny), Shuckle (shiny)",
+   "reliquias_finales": "Cazador Shiny, Disco Bicho, Cascabel Alivio, Roca Suave, Disco Tierra, Banda Focus",
+   "nivel_final": 160,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Roca Suave (−5 VEL por turno) + Disco Tierra (+10% por cada nivel de VEL perdido) es un combo enorme. Pinsirita de nuevo en un objeto: Mega Pinsir aurora, segundo atacante."
   }
  ],
  "observaciones": [
