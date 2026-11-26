@@ -31403,6 +31403,26 @@
    "nivel_final": 44,
    "causa_derrota_si_confirmada": "Gimnasio 5 Dragón (Nv55-58) contra el equipo a Nv39-44. Hierba y montañero del mapa 5 debilitaron a medio equipo y el salto de nivel de los gimnasios 4 a 5 es de unos 15 niveles.",
    "aprendizaje": "La estrategia de César funciona: Mewtwo + compañero que resista Lucha (Trubbish shiny tras 54 intentos con el objetivo fijado). Con el equipo de solo 2 se cumplió Elección Táctica en el gimnasio 3 (Lucha: Hawlucha/Riolu/Machoke). Cebo Legendario convierte los nodos de captura en legendarios y se pueden añadir sin liberar (Darkrai, Volcanion, Genesect). Falló el nivel después: hay que meter reliquias de nivel y evitar la hierba desde el mapa 5 (salvajes muy fuertes). El objetivo se consiguió pronto, así que el resto de la partida debería ir a por niveles."
+  },
+  {
+   "run_id": "Semanal-6",
+   "modo": "Desafío semanal (Lista del Entrenador, Fácil)",
+   "desafio_visible": "Lista del Entrenador Fácil: objetivo «Elección Táctica»",
+   "inicial": "Mewtwo + Inkay aurora (Siniestro/Psíquico; inmune a Psíquico)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Mapa 9: antes del jefe final (abandonada)",
+   "resultado": "ABANDONADA (objetivo imposible)",
+   "objetivos": "Semanal Fácil (estrategia de César)",
+   "capturas_pendientes": "",
+   "capturas_registradas_pc": "ninguna (Huntail aurora NUEVA vista en el mapa 8 y dejada escapar por orden de César, para no romper la semanal)",
+   "intentos_primer_nodo_confirmados": 39,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mewtwo 86, Malamar 85 (Inkay aurora), Victini 84",
+   "reliquias_finales": "Cazador Shiny, Garra Afilada, Resonancia, Brazal Firme, Baya Chilan, Piedra Noche",
+   "nivel_final": 86,
+   "causa_derrota_si_confirmada": "No salió ningún jefe Psíquico en los mapas 1-8 (salieron Bicho, Veneno, mixto, Hielo, Normal, Fantasma, Hada y Siniestro). Al entrar en el jefe del mapa 9 el juego avisa: «Esto acaba con un objetivo… Si ganas el combate final así, la partida fracasa».",
+   "aprendizaje": "El jefe del mapa 9 cuenta como combate final: Elección Táctica hay que cumplirla como muy tarde en el jefe del mapa 8. Con 2 Pokémon el nivel va por delante (Nv60 en el gimnasio 5) y aguanta hasta el gimnasio 7. Un compañero que solo resiste un tipo de jefe (Inkay: Psíquico) deja poca probabilidad: mejor uno que resista Lucha Y Psíquico (Psíquico puro, Psíquico/Hada o Psíquico/Volador) para duplicar las opciones."
   }
  ],
  "observaciones": [
