@@ -31443,6 +31443,26 @@
    "nivel_final": 88,
    "causa_derrota_si_confirmada": "Drake (Dragón, Nv124-128) contra el equipo a Nv79-88, tras Phoebe y Glacia sin curación. No usé las Cenizas Sagradas: al pulsarlas se abre un menú para elegir Pokémon y no lo vi a tiempo.",
    "aprendizaje": "ELECCIÓN TÁCTICA CUMPLIDA EN EL MAPA 1: Kyogre solo contra el jefe Agua (Staryu/Lapras), en la 4.ª vuelta de tryboss.sh. Al llegar a la pantalla del jefe, REINICIAR → «REINICIAR DESDE EL PRINCIPIO» reinicia la partida conservando el inicial. El PC dentro de la partida permite cambiar el inicial en el mapa 1. Vitaminas: Tienda Poké → vitamina → tocar el Pokémon del Salón de la Fama (200 ₽, máx. 10 por estadística y 50 en total; las estrellas = estadísticas mejoradas). Jefes del mapa 1 vistos: Agua, Planta/Veneno, Roca/Tierra, Normal/Volador, Bicho, Eléctrico. Siguen faltando niveles en la Liga (unos 40 por debajo)."
+  },
+  {
+   "run_id": "Roca-1",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26, Liga de Johto)",
+   "inicial": "Aron (Aggronita) → Mega Aggron",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-26",
+   "mapa_actual": "Liga: Campeón Lance",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Corsola aurora (primer nodo, 21 intentos) y Binacle aurora (mapa 9): PERDIDAS",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 21,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Tyranitar 81 (Tyranitarita del mapa 6), Mega Aggron 75, Barbaracle 79, Tyrantrum 79, Diancie 77, Corsola 75",
+   "reliquias_finales": "Cazador Shiny, Disco Acero, Tabla Pétrea, Roca Lluvia, Incienso Acua, Lente Recia",
+   "nivel_final": 81,
+   "causa_derrota_si_confirmada": "Lance (Dragón T4, Nv135-140) contra el equipo a Nv75-81: unos 55 niveles de diferencia. Pasé a Koga, Bruno y Karen.",
+   "aprendizaje": "El rasgo Roca da DEF/DEF esp. (T3 +3, T5 +5 tras atacar), no niveles: el equipo llega a la Liga a Nv80. Hacen falta reliquias de nivel (Polvo Estelar, Repartir Exp, Caramelo Exp) y más entrenadores. Las Cenizas Sagradas se usan en la pantalla de orden: clic en el objeto y luego clic en la fila del Pokémon (ash.js). La Tyranitarita aparece como objeto. Las auroras nuevas salen en el primer nodo (Corsola en el intento 21) y en las pokéball (Binacle)."
   }
  ],
  "observaciones": [
