@@ -133,3 +133,4 @@ Verificar todo en el PC real antes de usarlo.
 - Legendarios Roca vistos en mapas 5-8: Regirock, Terrakion, Diancie.
 - Zumo de Baya (Roca) + rasgo Roca = curación constante: equipo al 100% en toda la Liga (Roca-11).
 - tutor.js con "Aron" a veces no aplica; repetir el tutor sobre Lairon/Mega Aggron y comprobar el movimiento.
+- Montañero (hiker) desde el mapa 5 = Nv56+ Tierra/Roca/Lucha: evitar como la Planta (barrió Roca-6 y Roca-13).

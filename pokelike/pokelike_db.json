@@ -31683,6 +31683,26 @@
    "nivel_final": 24,
    "causa_derrota_si_confirmada": "Chuck (Lucha Nv28-30) con equipo Nv21-24 tras un old-guy y un nodo de Planta que dejaron el equipo tocado.",
    "aprendizaje": "El old-guy del mapa 2 también puede ser duro. Chuck (Lucha) en el mapa 3 aparece a menudo: llegar con ventaja de nivel (Roca-11 llegó a Nv34 y ganó). Intercambio: tocar la fila del Pokémon y elegir una de 3 cartas '? ROCA Nv+3'; el recibido es shiny y no cuenta para la Pokédex."
+  },
+  {
+   "run_id": "Roca-13",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 5: Montañero (Sandslash/Rhyperior/Claydol Nv56)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Binacle aurora NUEVA (primer nodo, intento 17): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lunatone 38, Binacle 35 (aurora), Carbink 38, Lairon 35, Boldore 38, Rhyhorn 38",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Piedra Hoja, Zumo de Baya, Escama Bella, Más PS",
+   "nivel_final": 38,
+   "causa_derrota_si_confirmada": "Nodo de Planta al inicio del mapa 5 debilitó a Lairon y Binacle; el Montañero (Nv56, Tierra/Roca) barrió al resto.",
+   "aprendizaje": "Montañeros desde el mapa 5 llevan Nv56+ (Tierra/Lucha): evitarlos igual que la Planta salvo con mucha ventaja. Ganados Chuck (mapa 3) y gimnasio Agua (mapa 4) gracias a Zumo de Baya."
   }
  ],
  "observaciones": [
