@@ -31943,6 +31943,26 @@
    "nivel_final": 23,
    "causa_derrota_si_confirmada": "Chuck (Lucha) del mapa 3 con ~7 niveles de déficit; el bug-catcher anterior debilitó a 4.",
    "aprendizaje": "Los bug-catcher del mapa 3 también pueden llevar Pokémon fuertes. Chuck sigue siendo el muro: hay que llegar con Nv30+."
+  },
+  {
+   "run_id": "Roca-26",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: nodo de hierba (Haunter salvaje Nv30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Aerodactyl aurora NUEVA (primer nodo, intento 6): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 6,
+   "intentos_inciertos": 0,
+   "equipo_final": "Carbink 23, Aron 21, Solrock 24, Aerodactyl 21 (aurora, Roca Afilada + Cola Plúmbea), Lileep 23",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Blanco, Incienso Puro",
+   "nivel_final": 24,
+   "causa_derrota_si_confirmada": "Científico (Eléctrico) debilitó a Aerodactyl y Aron; el nodo de hierba era un Haunter salvaje Nv30 que barrió al resto (quedó con 1 PS).",
+   "aprendizaje": "Consejo de César: potenciar el ataque de Aerodactyl para el mapa 3 y luego centrarse en Aggron (hecho: 2 tutores a Roca Afilada + Cola Plúmbea). Error de herramienta: mapord.js solo movía el primer nombre; corregido para ordenar todos los nombres."
   }
  ],
  "observaciones": [
