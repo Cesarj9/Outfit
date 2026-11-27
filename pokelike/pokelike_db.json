@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 155,
+  "total_auroras_pc": 157,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 219140,
+  "dinero_visible": 219740,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -20605,8 +20605,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -20616,9 +20616,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-27",
+   "version_juego": "3.8",
+   "fuente": "PC tras ganar Roca-29 (clase pc-dex-card--aurora)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -22358,8 +22358,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -22369,9 +22369,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-27",
+   "version_juego": "3.8",
+   "fuente": "PC tras ganar Roca-29 (clase pc-dex-card--aurora)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -32003,6 +32003,26 @@
    "nivel_final": 26,
    "causa_derrota_si_confirmada": "Científico, old-guy y bug-catcher del mapa 3 dejaron el equipo tocado; el nodo ? era un entrenador doble (Agua + Lucha Nv30).",
    "aprendizaje": "Sin Aerodactyl/Aerodactylita ni Zumo de Baya el mapa 3 sigue siendo el muro."
+  },
+  {
+   "run_id": "Roca-29",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Teselia: Campeón Alder — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Tirtouga AURORA (primer nodo, intento 18) y Cranidos AURORA (nodo de captura mapa 2) confirmados en PC",
+   "intentos_primer_nodo_confirmados": 18,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 80, Carracosta 80 (aurora), Diancie 78, Terrakion 79, Rampardos 77 (aurora), Regirock 77",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Tabla Pétrea, Litostal Z, Zumo de Baya, Gema Acero",
+   "nivel_final": 82,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Consejo de César: Archen/Aerodactyl para el mapa 3 y luego centrarse en Aggron (Caramelo Raro → Mega Aggron en el gimnasio 4, tutores a Cuerpo Pesado, Gema Acero). Mega Aggron Verdugo con 78 KO. Zumo de Baya en el mapa 5 y Cenizas Sagradas guardadas para el Campeón. Tres legendarios en mapas 5-7."
   }
  ],
  "observaciones": [
