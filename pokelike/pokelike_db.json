@@ -32603,6 +32603,26 @@
    "nivel_final": 80,
    "causa_derrota_si_confirmada": "Marshal (Conkeldurr/Throh/Sawk/Mienshao/Lucario Nv124-128) barrió al equipo entero; Lucha es superefectiva contra Roca/Acero/Siniestro. Quedaron Sawk, Mienshao y Lucario.",
    "aprendizaje": "Ganó Grimsley y Caitlin sin bajas pero Marshal es el muro de Teselia para Mono-Roca. Sin Zumo de Baya/curación no hay margen. Faltan Pokémon Hada/Volador más fuertes o Psíquico (Lunatone/Solrock) para Marshal."
+  },
+  {
+   "run_id": "Roca-59",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 8: Archie (Agua/Tierra)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas (Aerodactyl/Amaura)",
+   "capturas_pendientes": "Aerodactyl AURORA (primer nodo, intento 17) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 47, Terrakion 46, Mega Aerodactyl 53 (aurora), Regirock 48, Diancie 46, Pupitar 53",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Banda Focus, Litostal Z, Poder Legendario, Gafas Especiales",
+   "nivel_final": 53,
+   "causa_derrota_si_confirmada": "Archie (Kyogre/Swampert/Gyarados/Whiscash/Walrein Nv102-106) barrió al equipo; quedaron Whiscash y Walrein.",
+   "aprendizaje": "Los nodos ? del mapa 7 dejaron 4 KO (curados en centro). Equipo muy bajo de nivel (~50) para mapa 8 de Agua; otra vez no usé Ceniza Sagrada (2 en bolsa). Hay que llegar con más nivel o evitar Archie."
   }
  ],
  "observaciones": [
