@@ -32363,6 +32363,26 @@
    "nivel_final": 51,
    "causa_derrota_si_confirmada": "Giovanni (Mewtwo/Rhyperior/Nidoking/Nidoqueen/Golem Nv102-106) contra equipo Nv51: cayeron 4 de 5, quedó Golem con 223/285.",
    "aprendizaje": "Equipo a Nv51 en el mapa 8 es poco (Roca-33 llegó Nv62-66 y ganó). Faltó Zumo de Baya/Caramelos. Los nodos de 'grass' y bug-catcher dan menos experiencia que old-guy/ace-trainer."
+  },
+  {
+   "run_id": "Roca-47",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Hoenn: Campeón Steven (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Binacle shiny en el intento 53)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 85, Terrakion 79, Rhyperior 75, Mega Aerodactyl 76, Probopass 79, Regirock 75",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Gafas Especiales, Bola Férrea, Mochila Escape, Tabla Pétrea",
+   "nivel_final": 85,
+   "causa_derrota_si_confirmada": "Phoebe tumbó a Regirock y Drake a Mega Aerodactyl y Probopass; las Cenizas Sagradas curaron a Mega Aggron para Steven, pero solo cayó un Metagross.",
+   "aprendizaje": "Sin Zumo de Baya ni Incienso Roca, Mega Aggron no aguanta a Steven. El combo de curación (Zumo de Baya/Baya Zidra/Tabla Pradal) es lo que gana la Liga de Hoenn."
   }
  ],
  "observaciones": [
