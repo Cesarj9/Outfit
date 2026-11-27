@@ -31603,6 +31603,26 @@
    "nivel_final": 31,
    "causa_derrota_si_confirmada": "Gimnasio Agua Nv40-42 con equipo Nv27-31; perdido por muy poco (Quagsire con 41/131 PS).",
    "aprendizaje": "Llegar al gimnasio 4 con ~12 niveles de déficit es demasiado contra Agua. Hacen falta más entrenadores en mapas 2-4 (aunque sea un nodo de Planta con el equipo sano) o un Polvo Estelar/Huevo Suerte temprano. El PC queda abierto tras pcdump: cerrar con button.btn-icon-close antes de empezar."
+  },
+  {
+   "run_id": "Roca-9",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 1: Lt. Surge (Eléctrico Nv10-11)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Relicanth aurora (ya en PC; primer nodo intento 51)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 11, Archen 11, Relicanth 11 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua",
+   "nivel_final": 11,
+   "causa_derrota_si_confirmada": "Jefe Eléctrico del mapa 1 con solo 3 Pokémon, dos débiles a Eléctrico (Archen Volador, Relicanth Agua).",
+   "aprendizaje": "En el mapa 1 capturar en los dos nodos de captura posibles y mirar el tipo del jefe antes de elegir (bash boss.sh show no está disponible hasta el final, pero los tipos del gimnasio se repiten). La tarjeta 'Ya está en tu PC como variocolor' no implica que falte el aurora: comprobar known_aurora/PC."
   }
  ],
  "observaciones": [
