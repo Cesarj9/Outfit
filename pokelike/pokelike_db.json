@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 162,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 223740,
+  "dinero_visible": 225590,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -32383,6 +32383,26 @@
    "nivel_final": 85,
    "causa_derrota_si_confirmada": "Phoebe tumbó a Regirock y Drake a Mega Aerodactyl y Probopass; las Cenizas Sagradas curaron a Mega Aggron para Steven, pero solo cayó un Metagross.",
    "aprendizaje": "Sin Zumo de Baya ni Incienso Roca, Mega Aggron no aguanta a Steven. El combo de curación (Zumo de Baya/Baya Zidra/Tabla Pradal) es lo que gana la Liga de Hoenn."
+  },
+  {
+   "run_id": "Roca-48",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Teselia: Campeón Alder — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Bonsly shiny en el intento 52)",
+   "capturas_registradas_pc": "ninguna nueva",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 69, Regirock 68, Gigalith 68 (shiny), Terrakion 68, Mega Aerodactyl 66, Diancie 66",
+   "reliquias_finales": "Cazador Shiny, Cebo Legendario, Corona Antigua, Tabla Pétrea, Brazal Recio, Roca Suave, Raíz Grande",
+   "nivel_final": 69,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Rutas con Centro Pokémon antes de cada jefe y legendarios (Terrakion mapa 5, Diancie mapa 7, Regirock mapa 9). Regirock en cabeza contra Volcarona de Alder. Cuidado: itempick con un objeto sobre Aron le quita la Aggronita (devolverla con drag2)."
   }
  ],
  "observaciones": [
