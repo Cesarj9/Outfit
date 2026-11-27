@@ -31923,6 +31923,26 @@
    "nivel_final": 82,
    "causa_derrota_si_confirmada": "Drake (Dragón/Tierra Nv124-128) con ~52 niveles de déficit; Cenizas usadas en Terrakion antes de Glacia.",
    "aprendizaje": "Sin Zumo de Baya el equipo llega tocado a los últimos combates de Liga. Ganados Sidney, Phoebe y Glacia. Contra Drake hacen falta Hada/Hielo más fuertes (Carbink cayó rápido)."
+  },
+  {
+   "run_id": "Roca-25",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Chuck (Lucha Nv28-30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora; Archen shiny (primer nodo intento 57)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 57,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lunatone 22, Archen 23 (shiny), Lileep 20, Tyrunt 22, Aron 22, Rhyhorn 20",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Blanco, Polvo Estelar",
+   "nivel_final": 23,
+   "causa_derrota_si_confirmada": "Chuck (Lucha) del mapa 3 con ~7 niveles de déficit; el bug-catcher anterior debilitó a 4.",
+   "aprendizaje": "Los bug-catcher del mapa 3 también pueden llevar Pokémon fuertes. Chuck sigue siendo el muro: hay que llegar con Nv30+."
   }
  ],
  "observaciones": [
