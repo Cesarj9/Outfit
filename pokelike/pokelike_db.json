@@ -32463,6 +32463,26 @@
    "nivel_final": 13,
    "causa_derrota_si_confirmada": "Anciano del mapa 2 con Bibarel Nv18 (Normal) y otros contra equipo Nv13 recién capturado (Binacle Nv13 sin experiencia); Bibarel quedó con 20/56.",
    "aprendizaje": "Con un equipo de 4 a Nv13 en el mapa 2, los ancianos/entrenadores Nv18+ son peligrosos. Priorizar Centro + objetos en el mapa 2 si el equipo es frágil; Amaura (Roca/Hielo) es muy débil a Lucha/Acero/Roca/Agua."
+  },
+  {
+   "run_id": "Roca-52",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 6: Byron (Acero)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Shuckle shiny en el intento 53)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lairon 39, Bastiodon 39, Lunatone 39 (shiny), Aerodactyl 39, Archeops 39, Kabuto 38",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Flecha Venenosa, Blanco, Bola Férrea, Garra Afilada",
+   "nivel_final": 39,
+   "causa_derrota_si_confirmada": "Byron (Steelix/Probopass/Bastiodon/Metagross Nv70-73) contra equipo Nv38-39; quedó Metagross con 109/199. Aron no llegó a Mega Aggron.",
+   "aprendizaje": "Byron en el mapa 6 exige Mega Aggron o un Tierra/Lucha fuerte. tutor.js funciona mejor buscando el nombre del movimiento ('Garra Metal', 'Cola Férrea') que el del Pokémon."
   }
  ],
  "observaciones": [
