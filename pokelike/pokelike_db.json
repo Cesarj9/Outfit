@@ -32543,6 +32543,26 @@
    "nivel_final": 34,
    "causa_derrota_si_confirmada": "Giovanni (Rhyperior x2/Nidoking/Nidoqueen Nv55-58) contra equipo Nv33-34; solo cayó un Rhyperior.",
    "aprendizaje": "Un nodo ? y un nodo de hierba en el mapa 4 dejaron KO a 5 de 6; sin Piedra Lunar el equipo llega 20 niveles por debajo al mapa 5. v3.9 muestra un modal 'Novedad en la v3.9' (Clasificatoria) al iniciar: cerrar con ENTENDIDO."
+  },
+  {
+   "run_id": "Roca-56",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Gardenia (Planta)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas (Aerodactyl/Amaura)",
+   "capturas_pendientes": "Amaura AURORA (primer nodo, intento 44) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 44,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 23, Tirtouga 20, Larvitar 20, Archen 21, Amaura 20 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Baya Ziuela, Baya Zidra",
+   "nivel_final": 23,
+   "causa_derrota_si_confirmada": "Gardenia (Grovyle/Leafeon/Roselia Nv28-30, Planta) contra equipo Nv20-23; Planta es superefectiva contra casi todo el equipo Roca.",
+   "aprendizaje": "Nueva orden de César: en el primer nodo no parar hasta Aerodactyl o Amaura aurora. Contra Gardenia hace falta más nivel (Piedra Lunar/Caramelos) y Aerodactyl/Archen con Metrónomo."
   }
  ],
  "observaciones": [
