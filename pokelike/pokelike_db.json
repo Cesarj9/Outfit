@@ -32563,6 +32563,26 @@
    "nivel_final": 23,
    "causa_derrota_si_confirmada": "Gardenia (Grovyle/Leafeon/Roselia Nv28-30, Planta) contra equipo Nv20-23; Planta es superefectiva contra casi todo el equipo Roca.",
    "aprendizaje": "Nueva orden de César: en el primer nodo no parar hasta Aerodactyl o Amaura aurora. Contra Gardenia hace falta más nivel (Piedra Lunar/Caramelos) y Aerodactyl/Archen con Metrónomo."
+  },
+  {
+   "run_id": "Roca-57",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Sinnoh: Alto Mando Flint (3/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas (Aerodactyl/Amaura)",
+   "capturas_pendientes": "Aerodactyl AURORA (primer nodo, intento 350) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 350,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 69, Mega Aerodactyl 63 (aurora), Diancie 64, Golem 63, Kabutops 63, Carbink 63",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Roca, Incienso Roca, Litostal Z, Brazal Recio",
+   "nivel_final": 69,
+   "causa_derrota_si_confirmada": "Bertha (Tierra) dejó KO a Kabutops y Mega Aerodactyl; Flint (Fuego/Lucha Nv118-122) barrió al resto. Cenizas Sagradas sin usar en la bolsa.",
+   "aprendizaje": "Primer nodo con la nueva orden: 350 intentos hasta Aerodactyl aurora. La partida llegó a la Liga de Sinnoh (mapas 7-8 ganados con doble mega). Usar las Cenizas Sagradas en cuanto caiga el primer Pokémon clave de la Liga, no guardarlas."
   }
  ],
  "observaciones": [
