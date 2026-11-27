@@ -32223,6 +32223,26 @@
    "nivel_final": 72,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Incienso Roca + Zumo de Baya + Baya Zidra + Tabla Pradal: Mega Aggron llega a +10 DEF/DEF esp. y se cura cada turno; ganó solo a Steven tras caer el resto. Sin legendarios en esta partida. Evitar montañeros/pescadores en los mapas 4-5."
+  },
+  {
+   "run_id": "Roca-40",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: Cazabichos (n6_0)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Binacle shiny en el intento 51)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rhyhorn 17, Omanyte 17, Aron 17, Binacle 17 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Roca",
+   "nivel_final": 17,
+   "causa_derrota_si_confirmada": "El nodo ? n5_0 del mapa 2 fue un entrenador que dejó KO a Aron y Binacle y a Omanyte al 23%; el Heracross del Cazabichos acabó con el resto antes del Centro.",
+   "aprendizaje": "Con medio equipo KO no entrar en otro combate antes del Centro: elegir nodos sin combate (objeto/captura) aunque haya que dar rodeo. Los nodos ? pueden ser entrenadores fuertes."
   }
  ],
  "observaciones": [
