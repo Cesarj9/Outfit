@@ -37,7 +37,7 @@
   },
   "total_auroras_pc": 153,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 214740,
+  "dinero_visible": 215490,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -31643,6 +31643,26 @@
    "nivel_final": 29,
    "causa_derrota_si_confirmada": "Jefe Lucha (Chuck) del mapa 3 al mismo nivel; Lucha es supereficaz contra casi todo el equipo y Shuckle no hace daño.",
    "aprendizaje": "Los jefes de los mapas 1-3 varían (Eléctrico, Lucha, Psíquico, Bicho...). Shuckle shiny como segundo miembro es un lastre. Contra Lucha hace falta Lunatone/Solrock/Aerodactyl/Archen bien subidos."
+  },
+  {
+   "run_id": "Roca-11",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Johto: Campeón Lance — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora nueva; Tyrunt shiny (primer nodo intento 54)",
+   "capturas_registradas_pc": "ninguna nueva",
+   "intentos_primer_nodo_confirmados": 54,
+   "intentos_inciertos": 0,
+   "equipo_final": "Diancie 88, Mega Aggron 81, Tyrantrum 96 (shiny), Aerodactyl 91, Terrakion 88, Barbaracle 89",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Baya Arabol, Gafas Especiales, Zumo de Baya, Bola Férrea",
+   "nivel_final": 98,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Zumo de Baya (cura 5% por mejora) con el rasgo Roca mantiene al equipo al 100% entre combates: Liga sin bajas. Terrakion/Diancie del mapa 6-7 y Bola Férrea en el mapa 8. Premio por repetir el desafío: +500 ₽."
   }
  ],
  "observaciones": [

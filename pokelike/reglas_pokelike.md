@@ -131,3 +131,5 @@ Verificar todo en el PC real antes de usarlo.
 - Reliquias útiles: Corona Antigua (inicial, rerollear con REINICIAR), Brazal Firme, Bola Férrea, Litostal Z, Banda Focus, Polvo Metálico, Blanco, Gema Acero.
 - No usar itempick.js sobre un Pokémon con objeto: sustituye el objeto (quitó la Aggronita en Roca-3).
 - Legendarios Roca vistos en mapas 5-8: Regirock, Terrakion, Diancie.
+- Zumo de Baya (Roca) + rasgo Roca = curación constante: equipo al 100% en toda la Liga (Roca-11).
+- tutor.js con "Aron" a veces no aplica; repetir el tutor sobre Lairon/Mega Aggron y comprobar el movimiento.
