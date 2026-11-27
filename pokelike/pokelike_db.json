@@ -31763,6 +31763,26 @@
    "nivel_final": 11,
    "causa_derrota_si_confirmada": "Pescador del mapa 2 (Qwilfish Nv16, Agua/Veneno) contra equipo Nv11 de Roca (débil a Agua).",
    "aprendizaje": "En el mapa 2 los Pescadores pueden barrer a un equipo pequeño de Roca: evitarlos con menos de 5 Pokémon o con nivel bajo; preferir bug-catcher/fire-spitter/científico y capturar antes."
+  },
+  {
+   "run_id": "Roca-17",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: Entrenador Guay (Slowpoke Nv18) en nodo ?",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Cranidos aurora NUEVA (primer nodo, intento 53): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Geodude 13, Cranidos 13 (aurora), Corsola 13, Binacle 13, Aron 13",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Acero (Catálogo Rotom)",
+   "nivel_final": 13,
+   "causa_derrota_si_confirmada": "Fire-spitter del mapa 2 dejó a 3 debilitados y el nodo ? era un Entrenador Guay (Agua Nv18).",
+   "aprendizaje": "Los nodos ? también pueden ser combates (Entrenador Guay). En el mapa 1 hay que priorizar entrenadores (llegar a Nv15+) antes que objetos; con Nv8 al jefe del mapa 1 el mapa 2 se hace muy cuesta arriba."
   }
  ],
  "observaciones": [
