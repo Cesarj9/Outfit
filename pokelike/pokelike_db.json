@@ -31723,6 +31723,26 @@
    "nivel_final": 77,
    "causa_derrota_si_confirmada": "Phoebe (Fantasma Nv112-116) con ~40 niveles de déficit; Mega Aggron entró a medio PS y NO usé las Cenizas Sagradas que tenía en la bolsa.",
    "aprendizaje": "Disco Roca + Litostal Z + Bola Férrea ganan rivales con 30-40 niveles de déficit (mapas 7, 8 y 9). ERROR: comprobar SIEMPRE la bolsa antes de cada combate de Liga y usar Cenizas Sagradas (node ash.js Pokemon) en el más dañado."
+  },
+  {
+   "run_id": "Roca-15",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Johto: Alto Mando 3/5 Bruno (Lucha)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Aerodactyl aurora NUEVA (primer nodo, intento 4): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 4,
+   "intentos_inciertos": 0,
+   "equipo_final": "Carbink 67 (shiny), Diancie 61, Mega Aerodactyl 67 (aurora), Regirock 61, Mega Aggron 61, Terrakion 64",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Piedra Dura, Litostal Z, Brazal Recio, Poder Legendario",
+   "nivel_final": 67,
+   "causa_derrota_si_confirmada": "Bruno (Lucha Nv118-122) con ~55 niveles de déficit; el equipo llegó tocado de Will y Koga y no había Cenizas Sagradas.",
+   "aprendizaje": "Piedras Lunares x2 en el mapa 3 = Mega Aggron temprano (Nv14), pero sin entrenadores de sobra el equipo llega a la Liga a Nv60. Aerodactylita aparece como objeto. Poder Legendario con 3 legendarios es fuerte. Hace falta Polvo Estelar/Zumo de Baya para los niveles y la curación."
   }
  ],
  "observaciones": [
