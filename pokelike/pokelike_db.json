@@ -31803,6 +31803,26 @@
    "nivel_final": 28,
    "causa_derrota_si_confirmada": "Jefe Planta (Gardenia) del mapa 3: casi todo el equipo de Roca/Agua/Tierra es débil a Planta.",
    "aprendizaje": "Jefes del mapa 3 vistos: Chuck (Lucha), Psíquico, Onix/Skarmory, Gardenia (Planta). Contra Planta solo sirven Acero (Aron) y Volador (Aerodactyl/Archen) o Bicho/Roca (Dwebble, Anorith, Shuckle): llevar alguno."
+  },
+  {
+   "run_id": "Roca-19",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Johto: Campeón Lance (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Omanyte aurora NUEVA (primer nodo, intento 52): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Regirock 80, Terrakion 79, Diancie 78, Omastar 78 (aurora), Tyrantrum 69, Mega Aggron 76",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Escama Bella, Gafas Especiales, Bola Férrea, Mochila Escape",
+   "nivel_final": 80,
+   "causa_derrota_si_confirmada": "Campeón Lance (Nv135-140) tras ganar Will, Koga, Bruno y Karen; solo llegó Regirock con 62 PS. Cenizas Sagradas usadas en Terrakion antes de Karen (bien).",
+   "aprendizaje": "Tres legendarios (Diancie, Regirock, Terrakion) en mapas 5-6 y rutas sin Planta/Montañero llevan hasta el Campeón. Para ganar faltó curación entre combates de Liga (Zumo de Baya) o más Cenizas."
   }
  ],
  "observaciones": [
