@@ -32283,6 +32283,26 @@
    "nivel_final": 23,
    "causa_derrota_si_confirmada": "Científico del mapa 3 con Luxio/Manectric Nv29 (Eléctrico) barrió al equipo Nv23 (Archen y Omanyte débiles a Eléctrico).",
    "aprendizaje": "Los científicos pueden llevar Eléctricos: con Archen/Omanyte/Kabuto en el equipo, evitarlos en los mapas 3-5 o poner a Aron/Roggenrola delante. Tras reiniciar el servidor a mitad de partida, el menú ofrece REANUDAR DESAFÍO y la partida sigue."
+  },
+  {
+   "run_id": "Roca-43",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 6: Byron (Acero)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Aerodactyl AURORA (primer nodo, intento 17) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 17,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lairon 40, Carracosta 39, Omanyte 39, Lunatone 39, Aerodactyl 39 (aurora), Carbink 39",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Efigie Antigua, Piedra Eterna, Litostal Z, Mochila Escape",
+   "nivel_final": 40,
+   "causa_derrota_si_confirmada": "Byron (Steelix/Probopass/Bastiodon/Metagross Nv70-73) contra equipo Nv39-40; quedó Metagross con 115/199. Aron no llegó a Mega Aggron (Nv40) por falta de Piedra Lunar/Caramelos.",
+   "aprendizaje": "Efigie Antigua + Piedra Eterna + Litostal Z funcionó bien hasta el mapa 5 (ganó a Elesa), pero sin Mega Aggron no basta contra 30 niveles más. Los nodos ? de los mapas 5-6 pueden ser entrenadores duros."
   }
  ],
  "observaciones": [
