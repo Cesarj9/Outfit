@@ -31783,6 +31783,26 @@
    "nivel_final": 13,
    "causa_derrota_si_confirmada": "Fire-spitter del mapa 2 dejó a 3 debilitados y el nodo ? era un Entrenador Guay (Agua Nv18).",
    "aprendizaje": "Los nodos ? también pueden ser combates (Entrenador Guay). En el mapa 1 hay que priorizar entrenadores (llegar a Nv15+) antes que objetos; con Nv8 al jefe del mapa 1 el mapa 2 se hace muy cuesta arriba."
+  },
+  {
+   "run_id": "Roca-18",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Gardenia (Planta Nv28-30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Tirtouga aurora NUEVA (primer nodo, intento 5): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 5,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 26, Lunatone 28, Carbink 28, Boldore 28, Tirtouga 28 (aurora), Rhyhorn 28 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Tabla Acero, Energía Potenciadora",
+   "nivel_final": 28,
+   "causa_derrota_si_confirmada": "Jefe Planta (Gardenia) del mapa 3: casi todo el equipo de Roca/Agua/Tierra es débil a Planta.",
+   "aprendizaje": "Jefes del mapa 3 vistos: Chuck (Lucha), Psíquico, Onix/Skarmory, Gardenia (Planta). Contra Planta solo sirven Acero (Aron) y Volador (Aerodactyl/Archen) o Bicho/Roca (Dwebble, Anorith, Shuckle): llevar alguno."
   }
  ],
  "observaciones": [
