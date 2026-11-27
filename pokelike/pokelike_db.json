@@ -32243,6 +32243,26 @@
    "nivel_final": 17,
    "causa_derrota_si_confirmada": "El nodo ? n5_0 del mapa 2 fue un entrenador que dejó KO a Aron y Binacle y a Omanyte al 23%; el Heracross del Cazabichos acabó con el resto antes del Centro.",
    "aprendizaje": "Con medio equipo KO no entrar en otro combate antes del Centro: elegir nodos sin combate (objeto/captura) aunque haya que dar rodeo. Los nodos ? pueden ser entrenadores fuertes."
+  },
+  {
+   "run_id": "Roca-41",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: hierba n3_1 (Heatmor salvaje)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Tyrunt shiny en el intento 55)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 55,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lairon 7, Archen 7, Tyrunt 7 (shiny), Geodude 7, Cranidos 7",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua",
+   "nivel_final": 7,
+   "causa_derrota_si_confirmada": "En el mapa 1 solo hubo objetos y capturas (ningún entrenador): el equipo llegó Nv7 al mapa 2 y un Heatmor salvaje Nv17 lo barrió en la hierba.",
+   "aprendizaje": "En el mapa 1 hacer siempre al menos 3-4 combates de entrenador para no llegar con nivel 5-7 al mapa 2. Evitar hierba con el equipo bajo de nivel."
   }
  ],
  "observaciones": [
