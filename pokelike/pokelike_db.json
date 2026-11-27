@@ -31743,6 +31743,26 @@
    "nivel_final": 67,
    "causa_derrota_si_confirmada": "Bruno (Lucha Nv118-122) con ~55 niveles de déficit; el equipo llegó tocado de Will y Koga y no había Cenizas Sagradas.",
    "aprendizaje": "Piedras Lunares x2 en el mapa 3 = Mega Aggron temprano (Nv14), pero sin entrenadores de sobra el equipo llega a la Liga a Nv60. Aerodactylita aparece como objeto. Poder Legendario con 3 legendarios es fuerte. Hace falta Polvo Estelar/Zumo de Baya para los niveles y la curación."
+  },
+  {
+   "run_id": "Roca-16",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: Pescador (Qwilfish Nv16)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Amaura aurora NUEVA (primer nodo, intento 30): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 30,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 11, Amaura 11 (aurora), Tirtouga 11 (shiny), Solrock 11",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Más PS",
+   "nivel_final": 11,
+   "causa_derrota_si_confirmada": "Pescador del mapa 2 (Qwilfish Nv16, Agua/Veneno) contra equipo Nv11 de Roca (débil a Agua).",
+   "aprendizaje": "En el mapa 2 los Pescadores pueden barrer a un equipo pequeño de Roca: evitarlos con menos de 5 Pokémon o con nivel bajo; preferir bug-catcher/fire-spitter/científico y capturar antes."
   }
  ],
  "observaciones": [
