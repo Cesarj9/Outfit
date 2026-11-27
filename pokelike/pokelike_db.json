@@ -31903,6 +31903,26 @@
    "nivel_final": 16,
    "causa_derrota_si_confirmada": "Nodo 'grass' del mapa 3 = combate salvaje contra Hitmonlee Nv26 (Lucha, 10 niveles más) que barrió al equipo Nv16.",
    "aprendizaje": "Los nodos 'grass' pueden ser combates salvajes de nivel alto (no solo entrenadores Planta): con Nv16 en el mapa 3 hay que evitarlos. El mapa 2 con solo nodos de captura dejó al equipo sin niveles."
+  },
+  {
+   "run_id": "Roca-24",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Hoenn: Alto Mando 4/5 Drake (Dragón)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Binacle aurora NUEVA (primer nodo, intento 33): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 33,
+   "intentos_inciertos": 0,
+   "equipo_final": "Carbink 70, Regirock 71, Rampardos 70, Barbaracle 82 (aurora), Mega Aggron 73, Terrakion 72",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Bola Férrea, Escama Bella, Blanco, Brazal Recio",
+   "nivel_final": 82,
+   "causa_derrota_si_confirmada": "Drake (Dragón/Tierra Nv124-128) con ~52 niveles de déficit; Cenizas usadas en Terrakion antes de Glacia.",
+   "aprendizaje": "Sin Zumo de Baya el equipo llega tocado a los últimos combates de Liga. Ganados Sidney, Phoebe y Glacia. Contra Drake hacen falta Hada/Hielo más fuertes (Carbink cayó rápido)."
   }
  ],
  "observaciones": [
