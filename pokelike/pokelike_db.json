@@ -31483,6 +31483,26 @@
    "nivel_final": 34,
    "causa_derrota_si_confirmada": "Gimnasio 4 Lucha/Psíquico (Nv40-42) con solo 3 Pokémon de Roca/Acero (débiles a Lucha) a Nv33-34.",
    "aprendizaje": "Ir con poco equipo NO sirve en Mono-Roca: muchos tipos (Lucha, Agua, Planta, Tierra, Acero) son supereficaces contra Roca y hace falta variedad y cuerpos de sobra. Volver al equipo completo de Roca-1 con más entrenadores y reliquias de nivel."
+  },
+  {
+   "run_id": "Roca-3",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga Teselia: Alto Mando 4/5 Marshal (Lucha)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora nueva en esta partida",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 50,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 76, Tyranitar 78, Regirock 79, Terrakion 77, Barbaracle 80, Lunatone 80",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Acero, Blanco, Gema Acero, Incienso Puro",
+   "nivel_final": 80,
+   "causa_derrota_si_confirmada": "Marshal Lucha Nv124-128 tras ganar rival mapa 8 (Agua/Tierra Nv102-106), Shauntal, Grimsley y Caitlin sin Cenizas Sagradas; Terrakion y Mega Aggron llegaron debilitados.",
+   "aprendizaje": "Equipo completo + reliquias de daño (Corona Antigua + Blanco + Gema Acero + Incienso Puro) llega mucho más lejos (Alto Mando 4/5 con ~45 niveles de déficit). Ojo: itempick.js sobre un Pokémon con objeto lo sustituye (quitó la Aggronita); dar objetos a miembros sin objeto. Rasgo Roca solo marcó T3 con 5 Roca; Resonancia (legendarios +1) quizá habría subido a T5."
   }
  ],
  "observaciones": [

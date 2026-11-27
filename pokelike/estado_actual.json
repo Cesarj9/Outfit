@@ -1,81 +1,82 @@
 {
-  "fecha": "2026-11-26",
-  "version_juego": "v3.8",
-  "bloqueo": null,
-  "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
-  "inicial": "Aron (Mega Aggron)",
-  "objetivo_actual": "Toda la noche desafío Roca; parar si todas las líneas Roca no legendarias están en aurora. Faltan: Omanyte, Aerodactyl, Corsola, Nosepass, Lunatone, Solrock, Lileep, Cranidos, Tirtouga, Binacle, Amaura, Carbink.",
-  "objetivos_registrados_verificados_por_este_agente": [
-    "Charmander aurora (PC+Pokédex)",
-    "Tentacool aurora (PC+Pokédex)",
-    "Riolu aurora #447 (victoria Mono-Lucha 6 + PC, 2026-11-21)",
-    "Chimchar aurora #390 (victoria Mono-Lucha 6 + PC, 2026-11-21)"
-  ],
-  "objetivos_registrados_segun_traspaso": [
-    "Charmander aurora (16/11/2026)",
-    "Tentacool aurora #072 (17/11/2026)"
-  ],
-  "objetivos_pendientes": [
-    "Gastly aurora",
-    "Bulbasaur aurora",
-    "Heracross aurora",
-    "Meditite aurora",
-    "Squirtle aurora (diario Agua)"
-  ],
-  "busqueda_primer_nodo": {
-    "run": "mono-poison-2026-11-22-6",
-    "intentos_confirmados": 148,
-    "resultado": "GASTLY AURORA (objetivo)"
-  },
-  "excepciones_temporales_activas": [
-    "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
-    "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
-  ],
-  "ultima_accion_confirmada": "Roca-1 PERDIDA ante Lance (Corsola y Binacle aurora perdidas).",
-  "siguiente_decision": "Roca-2 con Aron; priorizar reliquias de nivel.",
-  "auditorias_pendientes": [
-    "fichas de detalle del PC (objeto inicial, megapiedra)",
-    "formas mega en Pokédex",
-    "rasgos desde la UI en partida",
-    "notas de parche a tablas"
-  ],
-  "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/",
-  "cuenta": {
-    "valor_previo": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
-    "dinero_visible_2026_11_23": 172077,
-    "dinero_visible_2026_11_25": 153030
-  },
-  "notas_ui": [
-    "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
-    "La cuenta tiene la interfaz en español (se carga desde la nube).",
-    "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
-    "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
-  ],
-  "run_actual": null,
-  "capturas_pendientes_registro": [],
-  "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
-  "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
-  "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras.",
-  "progreso_primal_groudon": {
-    "mvp": 17,
-    "meta": 50,
-    "fecha": "2026-11-23",
-    "fuente": "Mega Bracelet (botón btn-mega-nav) → Primal Groudon x/50 MVP"
-  },
-  "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca).",
-  "progreso_mega_rayquaza": {
-    "mvp": 18,
-    "meta": 50,
-    "fecha": "2026-11-24"
-  },
-  "progreso_mega_alakazam": {
-    "mvp": 10,
-    "meta": 10,
-    "estado": "DESBLOQUEADA (confirmado en panel 2026-11-25)"
-  },
-  "progreso_mega_mewtwo_y": {
-    "mvp": 11,
-    "meta": 50
-  },
-  "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)"
+ "fecha": "2026-11-26",
+ "version_juego": "v3.8",
+ "bloqueo": null,
+ "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
+ "inicial": "Aron (Mega Aggron)",
+ "objetivo_actual": "Toda la noche desafío Roca; parar si todas las líneas Roca no legendarias están en aurora. Faltan: Omanyte, Aerodactyl, Corsola, Nosepass, Lunatone, Solrock, Lileep, Cranidos, Tirtouga, Binacle, Amaura, Carbink.",
+ "objetivos_registrados_verificados_por_este_agente": [
+  "Charmander aurora (PC+Pokédex)",
+  "Tentacool aurora (PC+Pokédex)",
+  "Riolu aurora #447 (victoria Mono-Lucha 6 + PC, 2026-11-21)",
+  "Chimchar aurora #390 (victoria Mono-Lucha 6 + PC, 2026-11-21)"
+ ],
+ "objetivos_registrados_segun_traspaso": [
+  "Charmander aurora (16/11/2026)",
+  "Tentacool aurora #072 (17/11/2026)"
+ ],
+ "objetivos_pendientes": [
+  "Gastly aurora",
+  "Bulbasaur aurora",
+  "Heracross aurora",
+  "Meditite aurora",
+  "Squirtle aurora (diario Agua)"
+ ],
+ "busqueda_primer_nodo": {
+  "run": "mono-poison-2026-11-22-6",
+  "intentos_confirmados": 148,
+  "resultado": "GASTLY AURORA (objetivo)"
+ },
+ "excepciones_temporales_activas": [
+  "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
+  "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
+ ],
+ "ultima_accion_confirmada": "Roca-1 PERDIDA ante Lance (Corsola y Binacle aurora perdidas).",
+ "siguiente_decision": "Roca-2 con Aron; priorizar reliquias de nivel.",
+ "auditorias_pendientes": [
+  "fichas de detalle del PC (objeto inicial, megapiedra)",
+  "formas mega en Pokédex",
+  "rasgos desde la UI en partida",
+  "notas de parche a tablas"
+ ],
+ "archivos": "repositorio cesarj9/outfit, rama claude/pokelike-aurora-agent-o23lni, carpeta pokelike/",
+ "cuenta": {
+  "valor_previo": "RASECJ9 (nube), sesión iniciada en el navegador del agente",
+  "dinero_visible_2026_11_23": 172077,
+  "dinero_visible_2026_11_25": 153030
+ },
+ "notas_ui": [
+  "El agente desactivó el filtro MISSING y puso ALL en la Pokédex al auditar.",
+  "La cuenta tiene la interfaz en español (se carga desde la nube).",
+  "Recompensa MVP de 7.000 ₽ reclamada por César (2026-11-20).",
+  "v3.8: Mega Bracelet desbloqueado (23/48). Riolu de inicial lleva Lucarionita; Heracross también. Feat Classic Champion (3.000 ₽) sin reclamar."
+ ],
+ "run_actual": null,
+ "capturas_pendientes_registro": [],
+ "estrategia_ganadora_hielo": "Roca Suave + Hielo T5 + Brazal Firme + Criostal Z + Disco Tierra (llegó a la Liga). Llegar al mapa 5 a Nv45+: muchos entrenadores en mapas 1-4, tanque delante, Glalie protegido hasta tener Ventisca; Piedra Lunar sobre Snorunt conserva el movimiento. Para Lorelei llevar Roca (Aurorus), Tierra (Mamoswine+Metrónomo) y Planta (Abomasnow).",
+ "nota_dificultad": "Los rivales salvajes y entrenadores escalan ~+8-10 niveles por mapa; con +2 por entrenador el equipo queda por detrás salvo rutas muy cargadas y reliquias de escalado (Roca Suave, Brazal Firme, Criostal Z, Disco Tierra).",
+ "coleccion_nota": "2026-11-21: Mankey y Shroomish aurora (César); Riolu y Chimchar aurora (agente). PC 88 auroras.",
+ "progreso_primal_groudon": {
+  "mvp": 17,
+  "meta": 50,
+  "fecha": "2026-11-23",
+  "fuente": "Mega Bracelet (botón btn-mega-nav) → Primal Groudon x/50 MVP"
+ },
+ "nota_diario": "2026-11-23 23:00 UTC: el diario pasó a Mono-Volador; para Groudon se usa el Desafío de Gimnasios normal (Medalla Roca).",
+ "progreso_mega_rayquaza": {
+  "mvp": 18,
+  "meta": 50,
+  "fecha": "2026-11-24"
+ },
+ "progreso_mega_alakazam": {
+  "mvp": 10,
+  "meta": 10,
+  "estado": "DESBLOQUEADA (confirmado en panel 2026-11-25)"
+ },
+ "progreso_mega_mewtwo_y": {
+  "mvp": 11,
+  "meta": 50
+ },
+ "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)",
+ "ultima_partida": "Roca-3: DERROTA en Alto Mando 4/5 (Marshal). Siguiente: Roca-4."
 }
