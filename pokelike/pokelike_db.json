@@ -32403,6 +32403,26 @@
    "nivel_final": 69,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Rutas con Centro Pokémon antes de cada jefe y legendarios (Terrakion mapa 5, Diancie mapa 7, Regirock mapa 9). Regirock en cabeza contra Volcarona de Alder. Cuidado: itempick con un objeto sobre Aron le quita la Aggronita (devolverla con drag2)."
+  },
+  {
+   "run_id": "Roca-49",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 4: Crasher Wake (Agua)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Tyrunt shiny en el intento 52; Archen aurora salvaje ya registrado)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 28, Tyrunt 28 (shiny), Omanyte 28, Lunatone 28, Archen 28 (aurora), Amaura 28",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Piedra Eterna, Poder Shiny, Gafas Especiales",
+   "nivel_final": 28,
+   "causa_derrota_si_confirmada": "Crasher Wake (Gyarados/Floatzel/Quagsire Nv40-42) contra equipo Nv28; el Agua es superefectiva contra casi todo el equipo Roca.",
+   "aprendizaje": "El mapa 4 con 12 niveles menos y jefe Agua es casi imposible: hacen falta Piedra Lunar/Caramelos y más entrenadores en los mapas 2-3 (esta ruta fue de objetos)."
   }
  ],
  "observaciones": [
