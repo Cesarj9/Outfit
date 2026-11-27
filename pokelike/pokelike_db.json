@@ -31623,6 +31623,26 @@
    "nivel_final": 11,
    "causa_derrota_si_confirmada": "Jefe Eléctrico del mapa 1 con solo 3 Pokémon, dos débiles a Eléctrico (Archen Volador, Relicanth Agua).",
    "aprendizaje": "En el mapa 1 capturar en los dos nodos de captura posibles y mirar el tipo del jefe antes de elegir (bash boss.sh show no está disponible hasta el final, pero los tipos del gimnasio se repiten). La tarjeta 'Ya está en tu PC como variocolor' no implica que falte el aurora: comprobar known_aurora/PC."
+  },
+  {
+   "run_id": "Roca-10",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Chuck (Lucha Nv28-30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora; Shuckle shiny (primer nodo intento 52)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lunatone 29, Lileep 29, Kabuto 28, Rhyhorn 28, Aron 28, Shuckle 29 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Baya Biglia, Polvo Estelar",
+   "nivel_final": 29,
+   "causa_derrota_si_confirmada": "Jefe Lucha (Chuck) del mapa 3 al mismo nivel; Lucha es supereficaz contra casi todo el equipo y Shuckle no hace daño.",
+   "aprendizaje": "Los jefes de los mapas 1-3 varían (Eléctrico, Lucha, Psíquico, Bicho...). Shuckle shiny como segundo miembro es un lastre. Contra Lucha hace falta Lunatone/Solrock/Aerodactyl/Archen bien subidos."
   }
  ],
  "observaciones": [
