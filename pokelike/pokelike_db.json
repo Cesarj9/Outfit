@@ -31543,6 +31543,26 @@
    "nivel_final": 52,
    "causa_derrota_si_confirmada": "Rival mapa 7 Nv86-90 con equipo Nv47-52 y sin centro antes (ruta del legendario Terrakion); Aurorus y Regirock llegaron debilitados.",
    "aprendizaje": "Ganó gimnasios 4 (Agua), 5 (Eléctrico) y 6 (Psíquico) con Bola Férrea + Brazal Firme, pero el déficit de niveles crece (~40 en mapa 7). En Roca-3 se llegó a Nv60 en mapa 7: hacen falta más entrenadores por mapa y no sacrificar el centro antes del jefe. mapord.js reordena solo los nombres dados al principio en el orden en que los encuentra; comprobar el resultado."
+  },
+  {
+   "run_id": "Roca-6",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 6: Montañero (Garchomp/Machamp/Bastiodon Nv61)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Nosepass aurora NUEVA (primer nodo, intento 52): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lileep 36, Terrakion 36, Diancie 36, Rhyhorn 35, Lairon 36, Probopass 36 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Brazal Firme, Polvo Metálico, Litostal Z, Banda Focus",
+   "nivel_final": 36,
+   "causa_derrota_si_confirmada": "Nodo de hierba (entrenador Planta) dejó a 4 debilitados al inicio del mapa 6 y el Montañero siguiente (Nv61) barrió al resto.",
+   "aprendizaje": "Los nodos 'grass' son entrenadores de tipo Planta: letales para Mono-Roca, evitarlos siempre. Lucha/Tierra (Montañero) también. Rutas con bug-catcher, fire-spitter, old-guy, team-rocket, científico son mejores. Diancie y Terrakion salieron en el mapa 5."
   }
  ],
  "observaciones": [
