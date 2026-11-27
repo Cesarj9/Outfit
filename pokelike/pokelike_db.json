@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 153,
+  "total_auroras_pc": 154,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 215490,
+  "dinero_visible": 217690,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -19779,8 +19779,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19790,9 +19790,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-27",
+   "version_juego": "3.8",
+   "fuente": "PC tras ganar Roca-20 (clase pc-dex-card--aurora)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -31823,6 +31823,26 @@
    "nivel_final": 80,
    "causa_derrota_si_confirmada": "Campeón Lance (Nv135-140) tras ganar Will, Koga, Bruno y Karen; solo llegó Regirock con 62 PS. Cenizas Sagradas usadas en Terrakion antes de Karen (bien).",
    "aprendizaje": "Tres legendarios (Diancie, Regirock, Terrakion) en mapas 5-6 y rutas sin Planta/Montañero llevan hasta el Campeón. Para ganar faltó curación entre combates de Liga (Zumo de Baya) o más Cenizas."
+  },
+  {
+   "run_id": "Roca-20",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Kalos: Campeona Diantha — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Lileep AURORA (primer nodo, intento 19) confirmado en PC",
+   "intentos_primer_nodo_confirmados": 19,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 83, Terrakion 80, Regirock 80, Tyrantrum 80, Cradily 80 (aurora), Archeops 75",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Zumo de Baya, Tabla Pétrea, Litostal Z, Piedra Dura",
+   "nivel_final": 85,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Zumo de Baya (mapa 2) + Tabla Pétrea + Litostal Z + Piedra Dura = el rasgo Roca genera mejoras sin parar y Zumo cura a todo el equipo: Liga de Kalos sin una sola baja. Regirock y Terrakion en el mapa 7. Semilla Milagro en Lileep/Cradily para gimnasios de Agua."
   }
  ],
  "observaciones": [
