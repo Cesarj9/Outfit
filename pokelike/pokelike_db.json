@@ -32163,6 +32163,26 @@
    "nivel_final": 88,
    "causa_derrota_si_confirmada": "Bruno (Lucha) dejó KO a Mega Aerodactyl, Diancie y Lunatone. Las Cenizas Sagradas revivieron a Mega Aerodactyl, pero contra Blue (Nv135-140) solo había 4 Pokémon y todos cayeron.",
    "aprendizaje": "Doble mega (Aerodactylita en el mapa 2 y Aggron en el mapa 5) es muy fuerte, pero sin Zumo de Baya ni Banda Focus el equipo se desgasta en la Liga. Contra Bruno, abrir con Mega Aggron y no con Aerodactyl. Guardar las Cenizas para el Campeón si es posible."
+  },
+  {
+   "run_id": "Roca-37",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Teselia: Campeón Alder (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Binacle AURORA (primer nodo, intento 12) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 86, Barbaracle 83 (aurora), Regirock 82, Aerodactyl 82, Diancie 81, Terrakion 78",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Acero, Energía Potenciadora, Banda Focus, Revest. Metálico",
+   "nivel_final": 86,
+   "causa_derrota_si_confirmada": "Campeón Alder Nv135-140: Grimsley tumbó a Terrakion y Marshal dejó a Aerodactyl con 8 PS; contra Alder solo cayeron Volcarona e Hydreigon.",
+   "aprendizaje": "Sin Zumo de Baya ni Cenizas Sagradas el equipo llega desgastado al Campeón. El nodo de hierba del mapa 5 dejó KO a 3 y el montañero a otros 2, pero el jefe se ganó igual con Regirock+Aerodactyl. Regirock (mapa 5), Diancie (mapa 7) y Terrakion (mapa 9) por encuentros legendarios."
   }
  ],
  "observaciones": [
