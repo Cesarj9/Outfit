@@ -31523,6 +31523,26 @@
    "nivel_final": 13,
    "causa_derrota_si_confirmada": "Tercer entrenador seguido sin curar; Científico con Magnemite Nv18 (Acero/Eléctrico resiste Roca) barrió al equipo Nv13.",
    "aprendizaje": "Efigie Antigua (atacar con DEF) no compensa al principio: los Pokémon de Roca bebé tienen poca DEF y Acero resiste Roca. Mejor Corona Antigua como reliquia inicial (rerollear con REINICIAR). No encadenar 3 entrenadores en el mapa 2 sin centro; vigilar el nivel de los científicos (+2 niveles)."
+  },
+  {
+   "run_id": "Roca-5",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 7: rival Hugh (Agua/Siniestro/Dragón Nv86-90)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Amaura aurora (primer nodo, intento 27): PERDIDA; shinies Tirtouga x2",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 27,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 47, Sudowoodo 52 (aurora), Pupitar 50, Terrakion 50, Aurorus 52 (aurora), Regirock 47",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Brazal Firme, Baya Enigma, Bola Férrea, Litostal Z",
+   "nivel_final": 52,
+   "causa_derrota_si_confirmada": "Rival mapa 7 Nv86-90 con equipo Nv47-52 y sin centro antes (ruta del legendario Terrakion); Aurorus y Regirock llegaron debilitados.",
+   "aprendizaje": "Ganó gimnasios 4 (Agua), 5 (Eléctrico) y 6 (Psíquico) con Bola Férrea + Brazal Firme, pero el déficit de niveles crece (~40 en mapa 7). En Roca-3 se llegó a Nv60 en mapa 7: hacen falta más entrenadores por mapa y no sacrificar el centro antes del jefe. mapord.js reordena solo los nombres dados al principio en el orden en que los encuentra; comprobar el resultado."
   }
  ],
  "observaciones": [
