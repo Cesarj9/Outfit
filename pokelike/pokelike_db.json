@@ -32303,6 +32303,26 @@
    "nivel_final": 40,
    "causa_derrota_si_confirmada": "Byron (Steelix/Probopass/Bastiodon/Metagross Nv70-73) contra equipo Nv39-40; quedó Metagross con 115/199. Aron no llegó a Mega Aggron (Nv40) por falta de Piedra Lunar/Caramelos.",
    "aprendizaje": "Efigie Antigua + Piedra Eterna + Litostal Z funcionó bien hasta el mapa 5 (ganó a Elesa), pero sin Mega Aggron no basta contra 30 niveles más. Los nodos ? de los mapas 5-6 pueden ser entrenadores duros."
+  },
+  {
+   "run_id": "Roca-44",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: hierba n5_1 (Grovyle salvaje)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Solrock shiny en el intento 51)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Corsola 16, Aron 14, Solrock 14 (shiny), Rhyhorn 14",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Tabla Pétrea",
+   "nivel_final": 16,
+   "causa_derrota_si_confirmada": "La hierba n2_1 dejó a Aron al 25% y el nodo ? n3_2 fue un entrenador que dejó KO a Aron, Solrock y Rhyhorn; sin Centro, el resto cayó en el anciano y en un Grovyle salvaje.",
+   "aprendizaje": "En el mapa 2 evitar los nodos ? y la hierba: con Mono-Roca pueden ser entrenadores fuertes o tipo Planta. Preferir rutas con Centro Pokémon y objetos."
   }
  ],
  "observaciones": [
