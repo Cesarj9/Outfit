@@ -31703,6 +31703,26 @@
    "nivel_final": 38,
    "causa_derrota_si_confirmada": "Nodo de Planta al inicio del mapa 5 debilitó a Lairon y Binacle; el Montañero (Nv56, Tierra/Roca) barrió al resto.",
    "aprendizaje": "Montañeros desde el mapa 5 llevan Nv56+ (Tierra/Lucha): evitarlos igual que la Planta salvo con mucha ventaja. Ganados Chuck (mapa 3) y gimnasio Agua (mapa 4) gracias a Zumo de Baya."
+  },
+  {
+   "run_id": "Roca-14",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Hoenn: Alto Mando 2/5 Phoebe (Fantasma)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Tirtouga aurora NUEVA (primer nodo, intento 15): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 15,
+   "intentos_inciertos": 0,
+   "equipo_final": "Cradily 77, Gigalith 70, Rhyperior 68, Carracosta 68 (aurora), Mega Aggron 71, Lunatone 72",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Bola Férrea, Disco Roca, Litostal Z, Blanco",
+   "nivel_final": 77,
+   "causa_derrota_si_confirmada": "Phoebe (Fantasma Nv112-116) con ~40 niveles de déficit; Mega Aggron entró a medio PS y NO usé las Cenizas Sagradas que tenía en la bolsa.",
+   "aprendizaje": "Disco Roca + Litostal Z + Bola Férrea ganan rivales con 30-40 niveles de déficit (mapas 7, 8 y 9). ERROR: comprobar SIEMPRE la bolsa antes de cada combate de Liga y usar Cenizas Sagradas (node ash.js Pokemon) en el más dañado."
   }
  ],
  "observaciones": [
