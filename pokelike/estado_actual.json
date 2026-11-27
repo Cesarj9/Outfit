@@ -4,7 +4,7 @@
  "bloqueo": null,
  "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
  "inicial": "Aron (Mega Aggron)",
- "objetivo_actual": "Toda la noche desafío Roca; parar si todas las líneas Roca no legendarias están en aurora. Faltan: Omanyte, Aerodactyl, Nosepass, Lunatone, Solrock, Binacle, Amaura.",
+ "objetivo_actual": "Toda la noche desafío Roca; parar si todas las líneas Roca no legendarias están en aurora. Faltan: Aerodactyl, Nosepass, Lunatone, Solrock, Binacle, Amaura.",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)",
@@ -78,5 +78,5 @@
   "meta": 50
  },
  "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)",
- "ultima_partida": "Roca-29: VICTORIA (Campeón Alder). Tirtouga y Cranidos aurora confirmados en PC."
+ "ultima_partida": "Roca-31: VICTORIA (Campeón Alder). Omanyte aurora confirmado en PC."
 }
