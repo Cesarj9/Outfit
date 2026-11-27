@@ -32343,6 +32343,26 @@
    "nivel_final": 30,
    "causa_derrota_si_confirmada": "Chuck (Poliwhirl/Hitmonchan/Hitmonlee Nv28-30); quedó Hitmonlee con 57/70. Las Cenizas Sagradas de la bolsa NO se usaron.",
    "aprendizaje": "Si hay Cenizas Sagradas en la bolsa, usarlas también contra los jefes de mapa cuando el combate es igualado (no solo en la Liga): con un Pokémon extra se ganaba."
+  },
+  {
+   "run_id": "Roca-46",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 8: rival Giovanni (Tierra)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Amaura AURORA (primer nodo, intento 4) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 4,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 51, Mega Aerodactyl 51, Aurorus 51 (aurora), Terrakion 51, Diancie 51, Gigalith 51",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Tabla Acero, Incienso Roca, Disco Roca, Litostal Z",
+   "nivel_final": 51,
+   "causa_derrota_si_confirmada": "Giovanni (Mewtwo/Rhyperior/Nidoking/Nidoqueen/Golem Nv102-106) contra equipo Nv51: cayeron 4 de 5, quedó Golem con 223/285.",
+   "aprendizaje": "Equipo a Nv51 en el mapa 8 es poco (Roca-33 llegó Nv62-66 y ganó). Faltó Zumo de Baya/Caramelos. Los nodos de 'grass' y bug-catcher dan menos experiencia que old-guy/ace-trainer."
   }
  ],
  "observaciones": [
