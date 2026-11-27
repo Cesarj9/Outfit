@@ -31503,6 +31503,26 @@
    "nivel_final": 80,
    "causa_derrota_si_confirmada": "Marshal Lucha Nv124-128 tras ganar rival mapa 8 (Agua/Tierra Nv102-106), Shauntal, Grimsley y Caitlin sin Cenizas Sagradas; Terrakion y Mega Aggron llegaron debilitados.",
    "aprendizaje": "Equipo completo + reliquias de daño (Corona Antigua + Blanco + Gema Acero + Incienso Puro) llega mucho más lejos (Alto Mando 4/5 con ~45 niveles de déficit). Ojo: itempick.js sobre un Pokémon con objeto lo sustituye (quitó la Aggronita); dar objetos a miembros sin objeto. Rasgo Roca solo marcó T3 con 5 Roca; Resonancia (legendarios +1) quizá habría subido a T5."
+  },
+  {
+   "run_id": "Roca-4",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: Científico (Magnemite Nv18)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora; shinies Corsola (primer nodo, intento 53), Bonsly, Shieldon",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Corsola 13 (shiny), Aron 13, Shieldon 13 (shiny), Bonsly 13 (shiny), Omanyte 13",
+   "reliquias_finales": "Cazador Shiny, Efigie Antigua, Lente Recia",
+   "nivel_final": 13,
+   "causa_derrota_si_confirmada": "Tercer entrenador seguido sin curar; Científico con Magnemite Nv18 (Acero/Eléctrico resiste Roca) barrió al equipo Nv13.",
+   "aprendizaje": "Efigie Antigua (atacar con DEF) no compensa al principio: los Pokémon de Roca bebé tienen poca DEF y Acero resiste Roca. Mejor Corona Antigua como reliquia inicial (rerollear con REINICIAR). No encadenar 3 entrenadores en el mapa 2 sin centro; vigilar el nivel de los científicos (+2 niveles)."
   }
  ],
  "observaciones": [
