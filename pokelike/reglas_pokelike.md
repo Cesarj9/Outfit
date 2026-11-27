@@ -136,3 +136,4 @@ Verificar todo en el PC real antes de usarlo.
 - Montañero (hiker) desde el mapa 5 = Nv56+ Tierra/Roca/Lucha: evitar como la Planta (barrió Roca-6 y Roca-13).
 - Antes de CADA combate de Liga: mirar BOLSA y usar Cenizas Sagradas (node ash.js Pokemon) si hay alguien dañado (olvidado en Roca-14).
 - Disco Roca (con +10 DEF refleja daño) + Litostal Z + Bola Férrea: combinación muy fuerte para Mono-Roca.
+- Consejo de César (funcionó en Roca-27): potenciar primero el ataque de Aerodactyl (Metrónomo = ataques Volador contra el jefe Lucha del mapa 3, Aerodactylita, tutores a Roca Afilada) y después centrarse en Aggron.
