@@ -32423,6 +32423,26 @@
    "nivel_final": 28,
    "causa_derrota_si_confirmada": "Crasher Wake (Gyarados/Floatzel/Quagsire Nv40-42) contra equipo Nv28; el Agua es superefectiva contra casi todo el equipo Roca.",
    "aprendizaje": "El mapa 4 con 12 niveles menos y jefe Agua es casi imposible: hacen falta Piedra Lunar/Caramelos y más entrenadores en los mapas 2-3 (esta ruta fue de objetos)."
+  },
+  {
+   "run_id": "Roca-50",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Kanto: Alto Mando Lance (4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Aerodactyl shiny en el intento 54; Larvitar aurora salvaje ya registrado)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 54,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 68, Mega Aerodactyl 70 (shiny), Tyranitar 72 (aurora), Diancie 69, Probopass 70, Terrakion 71",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Tabla Acero, Nerviosfera, Energía Potenciadora, Banda Focus",
+   "nivel_final": 72,
+   "causa_derrota_si_confirmada": "El jefe del mapa 9 dejó a Mega Aggron a 28 PS; Bruno (Lucha) tumbó a Diancie, Mega Aerodactyl y Probopass; Lance acabó con el resto dejando Metagross a 26/342.",
+   "aprendizaje": "La Liga de Kanto (Bruno + Lance) es la más dura para Mono-Roca. Sin curación (Zumo de Baya / Cenizas) no se llega. Contra Bruno, ni Diancie ni Aerodactyl aguantan a Nv70: hace falta más nivel."
   }
  ],
  "observaciones": [
