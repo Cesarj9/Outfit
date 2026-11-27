@@ -32443,6 +32443,26 @@
    "nivel_final": 72,
    "causa_derrota_si_confirmada": "El jefe del mapa 9 dejó a Mega Aggron a 28 PS; Bruno (Lucha) tumbó a Diancie, Mega Aerodactyl y Probopass; Lance acabó con el resto dejando Metagross a 26/342.",
    "aprendizaje": "La Liga de Kanto (Bruno + Lance) es la más dura para Mono-Roca. Sin curación (Zumo de Baya / Cenizas) no se llega. Contra Bruno, ni Diancie ni Aerodactyl aguantan a Nv70: hace falta más nivel."
+  },
+  {
+   "run_id": "Roca-51",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 2: anciano n4_0 (Bibarel)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Amaura AURORA (primer nodo, intento 3) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 13, Carbink 13, Amaura 13 (aurora), Binacle 13",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Polvo Estelar",
+   "nivel_final": 13,
+   "causa_derrota_si_confirmada": "Anciano del mapa 2 con Bibarel Nv18 (Normal) y otros contra equipo Nv13 recién capturado (Binacle Nv13 sin experiencia); Bibarel quedó con 20/56.",
+   "aprendizaje": "Con un equipo de 4 a Nv13 en el mapa 2, los ancianos/entrenadores Nv18+ son peligrosos. Priorizar Centro + objetos en el mapa 2 si el equipo es frágil; Amaura (Roca/Hielo) es muy débil a Lucha/Acero/Roca/Agua."
   }
  ],
  "observaciones": [
