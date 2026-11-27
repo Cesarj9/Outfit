@@ -32503,6 +32503,26 @@
    "nivel_final": 51,
    "causa_derrota_si_confirmada": "Cheren (Unfezant/Liepard/Braviary/Scrafty/Seismitoad Nv86-90) contra equipo Nv48-51: quedó Seismitoad (Agua/Tierra).",
    "aprendizaje": "Aron solo llegó a Mega Aggron en el mapa 7 (sin Piedra Lunar). El salto de nivel del mapa 7 (Nv86-90) exige Mega Aggron antes del mapa 5. Aparece aviso de nueva versión del juego ('RECARGAR'): se cerró con × y la partida siguió."
+  },
+  {
+   "run_id": "Roca-54",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 7: Hugh",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Tirtouga shiny en el intento 51)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 51, Terrakion 51, Carracosta 51 (shiny), Rhyperior 51, Pupitar 51, Archeops 51",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Polvo Metálico, Incienso Roca, Piedra Eterna, Litostal Z",
+   "nivel_final": 51,
+   "causa_derrota_si_confirmada": "Hugh (Feraligatr/Scrafty/Hydreigon/Floatzel/Haxorus Nv86-90) contra equipo Nv51; quedaron Floatzel y Haxorus.",
+   "aprendizaje": "Primera partida en v3.9. Dos Piedras Lunares dieron Mega Aggron en el mapa 3, pero el mapa 7 (Nv86-90) sigue siendo un muro sin Zumo de Baya/Baya Zidra. Tyranitarita encontrada (Pupitar Nv51, sin evolucionar)."
   }
  ],
  "observaciones": [
