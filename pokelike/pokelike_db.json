@@ -32143,6 +32143,26 @@
    "nivel_final": 71,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Dos Piedras Lunares en los mapas 1-2 dieron Mega Aggron en el mapa 2 y el equipo arrasó. Diancie (mapa 5) y Regirock (mapa 8) por encuentro legendario. Omanyte en cabeza contra el jefe Tierra, Rhyperior en cabeza contra Steven (Acero)."
+  },
+  {
+   "run_id": "Roca-36",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Kanto: Campeón Blue (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Lunatone AURORA (primer nodo, intento 37) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 37,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 88, Mega Aerodactyl 81, Rampardos 81, Barbaracle 81, Diancie 77, Lunatone 79 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Gema Acero, Gema Roca, Cinta Fuerte, Piedra Eterna",
+   "nivel_final": 88,
+   "causa_derrota_si_confirmada": "Bruno (Lucha) dejó KO a Mega Aerodactyl, Diancie y Lunatone. Las Cenizas Sagradas revivieron a Mega Aerodactyl, pero contra Blue (Nv135-140) solo había 4 Pokémon y todos cayeron.",
+   "aprendizaje": "Doble mega (Aerodactylita en el mapa 2 y Aggron en el mapa 5) es muy fuerte, pero sin Zumo de Baya ni Banda Focus el equipo se desgasta en la Liga. Contra Bruno, abrir con Mega Aggron y no con Aerodactyl. Guardar las Cenizas para el Campeón si es posible."
   }
  ],
  "observaciones": [
