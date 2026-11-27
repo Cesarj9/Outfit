@@ -31663,6 +31663,26 @@
    "nivel_final": 98,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Zumo de Baya (cura 5% por mejora) con el rasgo Roca mantiene al equipo al 100% entre combates: Liga sin bajas. Terrakion/Diancie del mapa 6-7 y Bola Férrea en el mapa 8. Premio por repetir el desafío: +500 ₽."
+  },
+  {
+   "run_id": "Roca-12",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Chuck (Lucha Nv28-30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora; Rhyhorn shiny (primer nodo intento 52, luego intercambiado)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lunatone 24 (shiny), Carbink 24, Omanyte 24, Nosepass 23 (intercambio, shiny), Larvitar 24, Aron 21",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Brazal Recio, Brazal Firme",
+   "nivel_final": 24,
+   "causa_derrota_si_confirmada": "Chuck (Lucha Nv28-30) con equipo Nv21-24 tras un old-guy y un nodo de Planta que dejaron el equipo tocado.",
+   "aprendizaje": "El old-guy del mapa 2 también puede ser duro. Chuck (Lucha) en el mapa 3 aparece a menudo: llegar con ventaja de nivel (Roca-11 llegó a Nv34 y ganó). Intercambio: tocar la fila del Pokémon y elegir una de 3 cartas '? ROCA Nv+3'; el recibido es shiny y no cuenta para la Pokédex."
   }
  ],
  "observaciones": [
