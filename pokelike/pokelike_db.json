@@ -32063,6 +32063,26 @@
    "nivel_final": 78,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Misma fórmula ganadora: Aerodactyl potenciado (Piedra Dura objeto, Roca Afilada) + Lunatone para Chuck, Caramelo Raro y Piedra Lunar para Mega Aggron en el gimnasio 5, Zumo de Baya en el gimnasio 4 y Gema Acero. Liga de Teselia casi sin bajas."
+  },
+  {
+   "run_id": "Roca-32",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Teselia: Campeón Alder (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora nueva; Aerodactyl shiny (primer nodo intento 52)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 52,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 72, Mega Aerodactyl 72 (shiny), Tyrantrum 72 (shiny), Rhyperior 72 (shiny), Regirock 72, Probopass 72",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Baya Enigma, Poder Shiny, Guardia Shiny, Bola Férrea",
+   "nivel_final": 72,
+   "causa_derrota_si_confirmada": "Campeón Alder tras ganar todo el Alto Mando; Marshal dejó solo a Mega Aggron con 51 PS y no había Cenizas Sagradas (elegí Aerodactylita en su lugar).",
+   "aprendizaje": "Sin Zumo de Baya el equipo llega tocado al final. Poder Shiny + Guardia Shiny con 3 shinies funcionan bien. Reinicio de sesión: si el bucle del primer nodo se atasca, volver al menú y relanzar con startrun.js."
   }
  ],
  "observaciones": [
