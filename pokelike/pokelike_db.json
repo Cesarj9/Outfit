@@ -31883,6 +31883,26 @@
    "nivel_final": 31,
    "causa_derrota_si_confirmada": "Gimnasio Hielo con ~12 niveles de déficit tras un Pescador y un fire-spitter que debilitaron a medio equipo; perdido por poco.",
    "aprendizaje": "Los Pescadores (Agua) son los entrenadores más peligrosos para Roca en los mapas 2-4: evitarlos aunque den niveles."
+  },
+  {
+   "run_id": "Roca-23",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: nodo de hierba (Hitmonlee salvaje Nv26)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Cranidos aurora NUEVA (primer nodo, intento 59): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 59,
+   "intentos_inciertos": 0,
+   "equipo_final": "Archen 16 (shiny), Aron 16, Tyrunt 16, Cranidos 16 (aurora), Larvitar 16, Amaura 16",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Polvo Metálico, Baya Jaboca",
+   "nivel_final": 16,
+   "causa_derrota_si_confirmada": "Nodo 'grass' del mapa 3 = combate salvaje contra Hitmonlee Nv26 (Lucha, 10 niveles más) que barrió al equipo Nv16.",
+   "aprendizaje": "Los nodos 'grass' pueden ser combates salvajes de nivel alto (no solo entrenadores Planta): con Nv16 en el mapa 3 hay que evitarlos. El mapa 2 con solo nodos de captura dejó al equipo sin niveles."
   }
  ],
  "observaciones": [
