@@ -32263,6 +32263,26 @@
    "nivel_final": 7,
    "causa_derrota_si_confirmada": "En el mapa 1 solo hubo objetos y capturas (ningún entrenador): el equipo llegó Nv7 al mapa 2 y un Heatmor salvaje Nv17 lo barrió en la hierba.",
    "aprendizaje": "En el mapa 1 hacer siempre al menos 3-4 combates de entrenador para no llegar con nivel 5-7 al mapa 2. Evitar hierba con el equipo bajo de nivel."
+  },
+  {
+   "run_id": "Roca-42",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: científico n5_1",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Archen shiny en el intento 56)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 56,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 23, Archen 23 (shiny), Roggenrola 23, Omanyte 23, Nosepass 23 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Polvo Metálico, Gema Acero",
+   "nivel_final": 23,
+   "causa_derrota_si_confirmada": "Científico del mapa 3 con Luxio/Manectric Nv29 (Eléctrico) barrió al equipo Nv23 (Archen y Omanyte débiles a Eléctrico).",
+   "aprendizaje": "Los científicos pueden llevar Eléctricos: con Archen/Omanyte/Kabuto en el equipo, evitarlos en los mapas 3-5 o poner a Aron/Roggenrola delante. Tras reiniciar el servidor a mitad de partida, el menú ofrece REANUDAR DESAFÍO y la partida sigue."
   }
  ],
  "observaciones": [
