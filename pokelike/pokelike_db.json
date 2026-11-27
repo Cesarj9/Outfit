@@ -31863,6 +31863,26 @@
    "nivel_final": 24,
    "causa_derrota_si_confirmada": "Jefe Lucha (Korrina) del mapa 3 con ~6 niveles de déficit; un Pescador dejó el equipo tocado.",
    "aprendizaje": "Los jefes Lucha del mapa 3 (Chuck/Korrina) son el muro más frecuente: hay que llegar con Nv30+ (Roca-11 llegó a 34 y ganó)."
+  },
+  {
+   "run_id": "Roca-22",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Gimnasio 4: Wulfric (Hielo Nv40-42)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Binacle aurora NUEVA (primer nodo, intento 13; evolucionado a Barbaracle con Piedra Lunar): PERDIDA",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 13,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aerodactyl 31, Archen 31, Aron 25, Tirtouga 29, Barbaracle 25 (aurora), Rhyhorn 27",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Roca, Piedra Dura, Litostal Z",
+   "nivel_final": 31,
+   "causa_derrota_si_confirmada": "Gimnasio Hielo con ~12 niveles de déficit tras un Pescador y un fire-spitter que debilitaron a medio equipo; perdido por poco.",
+   "aprendizaje": "Los Pescadores (Agua) son los entrenadores más peligrosos para Roca en los mapas 2-4: evitarlos aunque den niveles."
   }
  ],
  "observaciones": [
