@@ -32523,6 +32523,26 @@
    "nivel_final": 51,
    "causa_derrota_si_confirmada": "Hugh (Feraligatr/Scrafty/Hydreigon/Floatzel/Haxorus Nv86-90) contra equipo Nv51; quedaron Floatzel y Haxorus.",
    "aprendizaje": "Primera partida en v3.9. Dos Piedras Lunares dieron Mega Aggron en el mapa 3, pero el mapa 7 (Nv86-90) sigue siendo un muro sin Zumo de Baya/Baya Zidra. Tyranitarita encontrada (Pupitar Nv51, sin evolucionar)."
+  },
+  {
+   "run_id": "Roca-55",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 5: Giovanni (Tierra)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Solrock shiny en el intento 51)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lairon 34, Rhyhorn 34, Relicanth 34, Aerodactyl 34, Carbink 33, Regirock 33",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Baya Chilan, Tabla Pétrea, Cascabel Alivio, Disco Roca",
+   "nivel_final": 34,
+   "causa_derrota_si_confirmada": "Giovanni (Rhyperior x2/Nidoking/Nidoqueen Nv55-58) contra equipo Nv33-34; solo cayó un Rhyperior.",
+   "aprendizaje": "Un nodo ? y un nodo de hierba en el mapa 4 dejaron KO a 5 de 6; sin Piedra Lunar el equipo llega 20 niveles por debajo al mapa 5. v3.9 muestra un modal 'Novedad en la v3.9' (Clasificatoria) al iniciar: cerrar con ENTENDIDO."
   }
  ],
  "observaciones": [
