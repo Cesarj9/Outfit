@@ -137,3 +137,13 @@ Verificar todo en el PC real antes de usarlo.
 - Antes de CADA combate de Liga: mirar BOLSA y usar Cenizas Sagradas (node ash.js Pokemon) si hay alguien dañado (olvidado en Roca-14).
 - Disco Roca (con +10 DEF refleja daño) + Litostal Z + Bola Férrea: combinación muy fuerte para Mono-Roca.
 - Consejo de César (funcionó en Roca-27): potenciar primero el ataque de Aerodactyl (Metrónomo = ataques Volador contra el jefe Lucha del mapa 3, Aerodactylita, tutores a Roca Afilada) y después centrarse en Aggron.
+
+### Lecciones Mono-Roca (Roca-33 a Roca-45, 2026-11-27)
+- Combo ganador: Incienso Roca + Zumo de Baya + Baya Zidra + Tabla Pradal → Mega Aggron llega a +10 DEF/DEF esp. y se cura cada turno (Roca-39 ganó solo a Steven).
+- Piedra Lunar en los mapas 1-2 sobre Aron/Lairon → Mega Aggron temprano (Roca-35 arrasó).
+- Mapa 1: hacer siempre 3-4 combates de entrenador; llegar Nv5-7 al mapa 2 = derrota (Roca-41).
+- Mapas 2-6: los nodos «?» pueden ser entrenadores fuertes; con el equipo tocado, no entrar en otro combate antes del Centro.
+- Científicos pueden llevar Eléctricos: con Archen/Omanyte/Kabuto delante, evitarlos (Roca-42).
+- Cenizas Sagradas: usarlas también contra jefes de mapa igualados, no solo en la Liga (Roca-45 perdió con ellas en la bolsa).
+- Tras reiniciar el servidor a mitad de partida: botón REANUDAR DESAFÍO en el menú.
+- Si la reliquia inicial no trae Corona Antigua: herramientas/rerollrelic.js.
