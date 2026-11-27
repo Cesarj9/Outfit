@@ -31843,6 +31843,26 @@
    "nivel_final": 85,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Zumo de Baya (mapa 2) + Tabla Pétrea + Litostal Z + Piedra Dura = el rasgo Roca genera mejoras sin parar y Zumo cura a todo el equipo: Liga de Kalos sin una sola baja. Regirock y Terrakion en el mapa 7. Semilla Milagro en Lileep/Cradily para gimnasios de Agua."
+  },
+  {
+   "run_id": "Roca-21",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Korrina (Lucha Nv28-30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Binacle aurora NUEVA (nodo salvaje mapa 3): PERDIDA; Shuckle aurora primer nodo (intento 53)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 53,
+   "intentos_inciertos": 0,
+   "equipo_final": "Carbink 24, Dwebble 24, Binacle 24 (aurora), Lileep 22, Lairon 24, Rhyhorn 22",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Gema Acero, Disco Roca",
+   "nivel_final": 24,
+   "causa_derrota_si_confirmada": "Jefe Lucha (Korrina) del mapa 3 con ~6 niveles de déficit; un Pescador dejó el equipo tocado.",
+   "aprendizaje": "Los jefes Lucha del mapa 3 (Chuck/Korrina) son el muro más frecuente: hay que llegar con Nv30+ (Roca-11 llegó a 34 y ganó)."
   }
  ],
  "observaciones": [
