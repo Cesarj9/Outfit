@@ -32323,6 +32323,26 @@
    "nivel_final": 16,
    "causa_derrota_si_confirmada": "La hierba n2_1 dejó a Aron al 25% y el nodo ? n3_2 fue un entrenador que dejó KO a Aron, Solrock y Rhyhorn; sin Centro, el resto cayó en el anciano y en un Grovyle salvaje.",
    "aprendizaje": "En el mapa 2 evitar los nodos ? y la hierba: con Mono-Roca pueden ser entrenadores fuertes o tipo Planta. Preferir rutas con Centro Pokémon y objetos."
+  },
+  {
+   "run_id": "Roca-45",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Chuck (Lucha)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna (50 intentos sin Aerodactyl/Amaura aurora; Kabuto aurora ya registrado en el intento 51)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 51,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aron 29, Rhyhorn 30 (shiny), Archen 29, Kabuto 29 (aurora), Cranidos 28",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Baya Chilan, Repartir Exp",
+   "nivel_final": 30,
+   "causa_derrota_si_confirmada": "Chuck (Poliwhirl/Hitmonchan/Hitmonlee Nv28-30); quedó Hitmonlee con 57/70. Las Cenizas Sagradas de la bolsa NO se usaron.",
+   "aprendizaje": "Si hay Cenizas Sagradas en la bolsa, usarlas también contra los jefes de mapa cuando el combate es igualado (no solo en la Liga): con un Pokémon extra se ganaba."
   }
  ],
  "observaciones": [
