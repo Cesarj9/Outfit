@@ -32483,6 +32483,26 @@
    "nivel_final": 39,
    "causa_derrota_si_confirmada": "Byron (Steelix/Probopass/Bastiodon/Metagross Nv70-73) contra equipo Nv38-39; quedó Metagross con 109/199. Aron no llegó a Mega Aggron.",
    "aprendizaje": "Byron en el mapa 6 exige Mega Aggron o un Tierra/Lucha fuerte. tutor.js funciona mejor buscando el nombre del movimiento ('Garra Metal', 'Cola Férrea') que el del Pokémon."
+  },
+  {
+   "run_id": "Roca-53",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 7: Cheren",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Aerodactyl AURORA (primer nodo, intento 42) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 42,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 49, Rhyperior 49, Diancie 49, Aerodactyl 51 (aurora), Pupitar 48, Kabutops 49",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Efigie Antigua, Lente Recia, Litostal Z, Baya Zidra",
+   "nivel_final": 51,
+   "causa_derrota_si_confirmada": "Cheren (Unfezant/Liepard/Braviary/Scrafty/Seismitoad Nv86-90) contra equipo Nv48-51: quedó Seismitoad (Agua/Tierra).",
+   "aprendizaje": "Aron solo llegó a Mega Aggron en el mapa 7 (sin Piedra Lunar). El salto de nivel del mapa 7 (Nv86-90) exige Mega Aggron antes del mapa 5. Aparece aviso de nueva versión del juego ('RECARGAR'): se cerró con × y la partida siguió."
   }
  ],
  "observaciones": [
