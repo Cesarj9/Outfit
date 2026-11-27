@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 159,
+  "total_auroras_pc": 160,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 221240,
+  "dinero_visible": 221872,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -19679,8 +19679,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19690,9 +19690,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-27",
+   "version_juego": "3.8",
+   "fuente": "PC tras victoria Roca-35 (pc-dex-card--aurora)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -32123,6 +32123,26 @@
    "nivel_final": 32,
    "causa_derrota_si_confirmada": "Elesa Nv55-58 contra equipo Nv28-32; déficit de 25 niveles. Sin Caramelos Raros y Lairon sin evolucionar (no hubo Mega Aggron).",
    "aprendizaje": "Sin Caramelos Raros ni Zumo de Baya el equipo no escala. Un pescador en el mapa 3 y montañero/hierba en mapas 4-5 dejaron KO a medio equipo. Priorizar Caramelo Raro en objetos y llevar a Aron a Mega Aggron antes del mapa 5."
+  },
+  {
+   "run_id": "Roca-35",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Hoenn: Campeón Steven — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Solrock AURORA (primer nodo, intento 2) confirmado en PC",
+   "intentos_primer_nodo_confirmados": 2,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 71, Rhyperior 66, Regirock 66, Gigalith 66 (shiny), Diancie 65, Solrock 62 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Zumo de Baya, Banda Focus, Litostal Z, Gafas Especiales",
+   "nivel_final": 71,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Dos Piedras Lunares en los mapas 1-2 dieron Mega Aggron en el mapa 2 y el equipo arrasó. Diancie (mapa 5) y Regirock (mapa 8) por encuentro legendario. Omanyte en cabeza contra el jefe Tierra, Rhyperior en cabeza contra Steven (Acero)."
   }
  ],
  "observaciones": [

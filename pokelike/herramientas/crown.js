@@ -1,0 +1,1 @@
+require('./lib')(async p=>{await p.getByText('Corona Antigua',{exact:true}).first().click();await p.waitForTimeout(1500);await p.keyboard.press('Escape');await p.waitForTimeout(800);console.log('ok')})
