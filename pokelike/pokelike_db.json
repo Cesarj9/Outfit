@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 152,
+  "total_auroras_pc": 153,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 211190,
+  "dinero_visible": 214740,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -24084,8 +24084,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -24095,9 +24095,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-27",
+   "version_juego": "3.8",
+   "fuente": "PC tras ganar Roca-7 (clase pc-dex-card--aurora)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -31563,6 +31563,26 @@
    "nivel_final": 36,
    "causa_derrota_si_confirmada": "Nodo de hierba (entrenador Planta) dejó a 4 debilitados al inicio del mapa 6 y el Montañero siguiente (Nv61) barrió al resto.",
    "aprendizaje": "Los nodos 'grass' son entrenadores de tipo Planta: letales para Mono-Roca, evitarlos siempre. Lucha/Tierra (Montañero) también. Rutas con bug-catcher, fire-spitter, old-guy, team-rocket, científico son mejores. Diancie y Terrakion salieron en el mapa 5."
+  },
+  {
+   "run_id": "Roca-7",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Kanto: Campeón Blue — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Carbink AURORA (primer nodo, intento 44) confirmado en PC",
+   "intentos_primer_nodo_confirmados": 44,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 89, Barbaracle 89 (shiny), Carracosta 97, Carbink 95 (aurora), Rhyperior 90, Aerodactyl 90",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Brazal Firme, Baya Chilan, Hierba Única, Bola Férrea",
+   "nivel_final": 97,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Clave: Polvo Estelar (mapa 1) + rutas sin nodos de Planta con muchos entrenadores (fire-spitter, old-guy, bug-catcher, team-rocket, científico) → Nv60 en mapa 6 y Nv81-89 en la Liga. Agua (Carracosta/Barbaracle con Agua Mística) para rivales Tierra/Fuego y Agua/Hielo, Carbink contra Dragón. Bola Férrea + Baya Chilan en la Liga. Premio desafío +2.000 ₽."
   }
  ],
  "observaciones": [
