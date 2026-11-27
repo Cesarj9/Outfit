@@ -32023,6 +32023,26 @@
    "nivel_final": 82,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Consejo de César: Archen/Aerodactyl para el mapa 3 y luego centrarse en Aggron (Caramelo Raro → Mega Aggron en el gimnasio 4, tutores a Cuerpo Pesado, Gema Acero). Mega Aggron Verdugo con 78 KO. Zumo de Baya en el mapa 5 y Cenizas Sagradas guardadas para el Campeón. Tres legendarios en mapas 5-7."
+  },
+  {
+   "run_id": "Roca-30",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Mapa 3: Pescador (Quagsire + Gyarados Nv26)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna aurora nueva; Corsola aurora (ya en PC) primer nodo intento 58",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 58,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lileep 15, Corsola 15 (aurora), Geodude 15, Aron 15, Lunatone 15, Archen 15",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Piedra Dura, Hierba Única",
+   "nivel_final": 15,
+   "causa_derrota_si_confirmada": "Pescador del mapa 3 (Nv26) contra equipo Nv15; ambas salidas del nodo inicial eran Pescadores.",
+   "aprendizaje": "Con Nv15 en el mapa 3 cualquier Pescador barre: el mapa 2 tuvo solo nodos de Planta y tutores (pocos niveles)."
   }
  ],
  "observaciones": [
