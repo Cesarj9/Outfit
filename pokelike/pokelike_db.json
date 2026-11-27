@@ -32583,6 +32583,26 @@
    "nivel_final": 69,
    "causa_derrota_si_confirmada": "Bertha (Tierra) dejó KO a Kabutops y Mega Aerodactyl; Flint (Fuego/Lucha Nv118-122) barrió al resto. Cenizas Sagradas sin usar en la bolsa.",
    "aprendizaje": "Primer nodo con la nueva orden: 350 intentos hasta Aerodactyl aurora. La partida llegó a la Liga de Sinnoh (mapas 7-8 ganados con doble mega). Usar las Cenizas Sagradas en cuanto caiga el primer Pokémon clave de la Liga, no guardarlas."
+  },
+  {
+   "run_id": "Roca-58",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Teselia: Alto Mando Marshal (4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas (Aerodactyl/Amaura)",
+   "capturas_pendientes": "Aerodactyl AURORA (primer nodo, intento 522) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 522,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 80, Mega Aerodactyl 72 (aurora), Diancie 76, Golem 79, Tyrantrum 75, Terrakion 74",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Raíz Grande, Piedra Dura, Baya Chilan, Polvo Estelar",
+   "nivel_final": 80,
+   "causa_derrota_si_confirmada": "Marshal (Conkeldurr/Throh/Sawk/Mienshao/Lucario Nv124-128) barrió al equipo entero; Lucha es superefectiva contra Roca/Acero/Siniestro. Quedaron Sawk, Mienshao y Lucario.",
+   "aprendizaje": "Ganó Grimsley y Caitlin sin bajas pero Marshal es el muro de Teselia para Mono-Roca. Sin Zumo de Baya/curación no hay margen. Faltan Pokémon Hada/Volador más fuertes o Psíquico (Lunatone/Solrock) para Marshal."
   }
  ],
  "observaciones": [
