@@ -35,9 +35,9 @@
    "pc_shiny_o_superior": 294,
    "version": "3.8"
   },
-  "total_auroras_pc": 158,
+  "total_auroras_pc": 159,
   "ultima_actualizacion": "2026-11-26 noche: refresco PC; Staryu y Furfrou aurora (César) → 152; 211,190 ₽. Inicio Desafío Roca.",
-  "dinero_visible": 220340,
+  "dinero_visible": 221240,
   "megas": {
    "fecha": "2026-11-25",
    "desbloqueadas": "28/48",
@@ -19079,8 +19079,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19090,9 +19090,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-27",
+   "version_juego": "3.8",
+   "fuente": "PC tras victoria Roca-33 (pc-dex-card--aurora)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -32083,6 +32083,26 @@
    "nivel_final": 72,
    "causa_derrota_si_confirmada": "Campeón Alder tras ganar todo el Alto Mando; Marshal dejó solo a Mega Aggron con 51 PS y no había Cenizas Sagradas (elegí Aerodactylita en su lugar).",
    "aprendizaje": "Sin Zumo de Baya el equipo llega tocado al final. Poder Shiny + Guardia Shiny con 3 shinies funcionan bien. Reinicio de sesión: si el bucle del primer nodo se atasca, volver al menú y relanzar con startrun.js."
+  },
+  {
+   "run_id": "Roca-33",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Liga de Teselia: Campeón Alder — GANADA",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Nosepass AURORA (primer nodo, intento 36) confirmado en PC",
+   "intentos_primer_nodo_confirmados": 36,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Aggron 85, Aerodactyl 76, Terrakion 76, Regirock 75, Rampardos 75, Probopass 77 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Disco Roca, Litostal Z, Zumo de Baya, Bola Férrea",
+   "nivel_final": 85,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Fórmula Aerodactyl→Mega Aggron otra vez ganadora. Mapa 9 sin nodos de hierba ni montañeros; Bola Férrea del rival del mapa 8 sustituyendo a Baya Zidra. Rampardos en cabeza contra Volcarona del Campeón."
   }
  ],
  "observaciones": [
