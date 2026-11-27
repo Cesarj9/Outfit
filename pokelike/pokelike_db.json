@@ -31583,6 +31583,26 @@
    "nivel_final": 97,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Clave: Polvo Estelar (mapa 1) + rutas sin nodos de Planta con muchos entrenadores (fire-spitter, old-guy, bug-catcher, team-rocket, científico) → Nv60 en mapa 6 y Nv81-89 en la Liga. Agua (Carracosta/Barbaracle con Agua Mística) para rivales Tierra/Fuego y Agua/Hielo, Carbink contra Dragón. Bola Férrea + Baya Chilan en la Liga. Premio desafío +2.000 ₽."
+  },
+  {
+   "run_id": "Roca-8",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Roca (diario 2026-11-26)",
+   "inicial": "Aron (Aggronita)",
+   "version_juego": "3.8",
+   "fecha_inicio": "2026-11-27",
+   "mapa_actual": "Gimnasio 4: Crasher Wake (Agua Nv40-42)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Roca nuevas",
+   "capturas_pendientes": "Lileep aurora NUEVA (primer nodo, intento 39) y Corsola aurora NUEVA (mapa 4 nodo captura): PERDIDAS",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 39,
+   "intentos_inciertos": 0,
+   "equipo_final": "Lileep 27 (aurora), Corsola 27 (aurora), Aron 31, Aerodactyl 28, Cranidos 27, Larvitar 28",
+   "reliquias_finales": "Cazador Shiny, Corona Antigua, Repartir Exp, Cinta Fuerte, Energía Potenciadora",
+   "nivel_final": 31,
+   "causa_derrota_si_confirmada": "Gimnasio Agua Nv40-42 con equipo Nv27-31; perdido por muy poco (Quagsire con 41/131 PS).",
+   "aprendizaje": "Llegar al gimnasio 4 con ~12 niveles de déficit es demasiado contra Agua. Hacen falta más entrenadores en mapas 2-4 (aunque sea un nodo de Planta con el equipo sano) o un Polvo Estelar/Huevo Suerte temprano. El PC queda abierto tras pcdump: cerrar con button.btn-icon-close antes de empezar."
   }
  ],
  "observaciones": [
