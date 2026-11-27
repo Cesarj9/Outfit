@@ -125,3 +125,9 @@ Verificar todo en el PC real antes de usarlo.
 - `NOREROLL=1 CATCH=1 bash route.sh nodo` evita que cnode tire de nuevo las cartas (no perder buenas opciones).
 - Elección Táctica (aprendido 2026-11-26): cumplirla en el MAPA 1 con el inicial solo. tryboss.sh reinicia hasta que coinciden el objetivo y un jefe que el inicial resiste. Funcionó con Kyogre contra el jefe Agua del mapa 1. El jefe del mapa 9 ya cuenta como combate final (la partida fracasa si el objetivo no está cumplido).
 - Objetos usables en la pantalla de orden: al pulsar el objeto se abre un menú con el equipo para elegir a quién usarlo (Cenizas Sagradas).
+
+## Mono-Roca (aprendido 2026-11-27)
+- Los nodos de mapa `grass` son entrenadores de tipo Planta: evitarlos (barren equipos de Roca). Montañero (hiker) = Roca/Tierra/Lucha, también peligroso desde el mapa 6.
+- Reliquias útiles: Corona Antigua (inicial, rerollear con REINICIAR), Brazal Firme, Bola Férrea, Litostal Z, Banda Focus, Polvo Metálico, Blanco, Gema Acero.
+- No usar itempick.js sobre un Pokémon con objeto: sustituye el objeto (quitó la Aggronita en Roca-3).
+- Legendarios Roca vistos en mapas 5-8: Regirock, Terrakion, Diancie.
