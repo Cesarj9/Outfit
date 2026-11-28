@@ -20806,8 +20806,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -20817,9 +20817,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-28",
+   "version_juego": "3.9",
+   "fuente": "PC tras victoria Fantasma-34 (sprite aurora/425)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -33283,6 +33283,26 @@
    "nivel_final": 20,
    "causa_derrota_si_confirmada": "Morty (3 Haunter Nv28-30) contra equipo Nv17-20.",
    "aprendizaje": "ERROR: en mapas 1-3 elegí capturas/objetos/tutores en vez de entrenadores; el equipo llegó Nv19 a Morty (Nv28-30). Regla: en mapas 1-3 priorizar SIEMPRE rutas con 3+ entrenadores (Fantasma-31 llegó Nv33 a Morty). Con Gastly aurora en el equipo, más cautela aún."
+  },
+  {
+   "run_id": "Fantasma-34",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Johto: Campeón Lance",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Rotom)",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Drifloon AURORA (#425, confirmado en PC)",
+   "intentos_primer_nodo_confirmados": 10,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Gengar 95 (Gengarita), Drifblim 79 (aurora), Drifblim 79 (shiny), Golurk 79, Sableye 74, Spiritomb 72",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Garra Afilada, Piedra Espíritu, Energía Potenciadora, Hierba Única",
+   "nivel_final": 95,
+   "causa_derrota_si_confirmada": null,
+   "aprendizaje": "Ruta con 3-4 entrenadores en cada mapa (Normal/old-guy en mapa 1 = exp gratis) llevó el equipo a Nv40 en mapa 4. Huevo Suerte + Caramelo Raro en Gengar. Gengarita en mapa 8: Mega-Gengar solo ganó a Koga, Bruno, Karen y Lance con 1/3 de PS."
   }
  ],
  "observaciones": [

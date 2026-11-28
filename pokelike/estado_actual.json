@@ -4,7 +4,7 @@
  "bloqueo": "El desafío diario cambió a Mono-Fantasma (~23:00 UTC 27/11); ya no hay Mono-Roca disponible.",
  "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
  "inicial": "Aron (Mega Aggron)",
- "objetivo_actual": "Diario Mono-Fantasma con Spiritomb hasta tener todas las líneas Fantasma aurora. Faltan: Gastly, Misdreavus, Shuppet, Drifloon, Rotom.",
+ "objetivo_actual": "Diario Mono-Fantasma con Spiritomb hasta tener todas las líneas Fantasma aurora. Faltan: Gastly, Misdreavus, Shuppet, Rotom.",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)",
@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Fantasma-31 VICTORIA (Campeón Lance). Phantump aurora confirmado en PC.",
- "siguiente_decision": "Seguir con Fantasma-32 (Spiritomb), primer nodo hasta aurora Fantasma pendiente.",
+ "ultima_accion_confirmada": "Fantasma-34: VICTORIA (Campeón Lance, Mega-Gengar solo ganó 4 combates). Drifloon aurora confirmado en PC.",
+ "siguiente_decision": "Fantasma-35 con Spiritomb; ruta con 3+ entrenadores en cada mapa.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -78,6 +78,6 @@
   "meta": 50
  },
  "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)",
- "ultima_partida": "Fantasma-31: VICTORIA (Campeón Lance). Phantump aurora confirmado en PC.",
+ "ultima_partida": "Fantasma-34: VICTORIA (Campeón Lance, Mega-Gengar solo ganó 4 combates). Drifloon aurora confirmado en PC.",
  "regla_gastly": "César (2026-11-28): cuando consiga Gastly aurora, subirle el ataque (objetos/vitaminas de ATK esp.), esperar a que evolucione a Gengar y luchar con él (líder del equipo). Después de confirmar Gastly aurora en PC, empezar con Gastly/Gengar aurora en vez de Spiritomb."
 }
