@@ -32923,6 +32923,26 @@
    "nivel_final": 20,
    "causa_derrota_si_confirmada": "Morty (3 Haunter Nv28-30) contra equipo Nv20; quedó un Haunter intacto.",
    "aprendizaje": "Morty en mapa 3 exige ~Nv26+. Necesito 2-3 entrenadores más en mapas 1-3 aunque haya que pasar por hierba."
+  },
+  {
+   "run_id": "Fantasma-16",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Teselia: Alto Mando Grimsley (2/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Rotom AURORA (primer nodo, intento 3) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Golurk 66, Spiritomb 68, Hoopa 67, Chandelure 68, Gengar 67, Rotom 63 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Banda Focus, Tela Terrible, Blanco, Electrizador, Piedra Espíritu",
+   "nivel_final": 68,
+   "causa_derrota_si_confirmada": "Tras Shauntal (3 KO, sin Cenizas), Grimsley (Siniestro Nv112-116) barrió a los 3 restantes; quedaron Krookodile, Hydreigon y Liepard.",
+   "aprendizaje": "Llegar a la Liga es ya habitual (Lysandre/Cyrus ganados). El muro es encadenar 5 combates sin curación. Prioridad absoluta: Cenizas Sagradas en mapas 7-9 y reliquias de curación (Zumo de Baya, Raíz Grande)."
   }
  ],
  "observaciones": [
