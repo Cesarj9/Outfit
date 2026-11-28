@@ -33123,6 +33123,26 @@
    "nivel_final": 54,
    "causa_derrota_si_confirmada": "Fantina (Mismagius/Spiritomb/Dusknoir/Gengar Nv70-73) contra equipo Nv49-54; quedó Gengar con 85/170.",
    "aprendizaje": "Huevo Suerte en Spiritomb + Repartir Exp + entrenadores en mapas 1-4 dio el mejor ritmo de nivel. Fantasma contra Fantasma es una moneda al aire."
+  },
+  {
+   "run_id": "Fantasma-26",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 6: Fantina (Fantasma)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 46) perdido (Gengar)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 46,
+   "intentos_inciertos": 0,
+   "equipo_final": "Sableye 48, Spiritomb 48, Giratina 47, Aegislash 47, Gengar 47 (aurora), Rotom 47",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Flecha Venenosa, Repartir Exp, Banda Focus, Garra Afilada",
+   "nivel_final": 48,
+   "causa_derrota_si_confirmada": "Fantina (Mismagius/Spiritomb/Dusknoir/Gengar Nv70-73) contra equipo Nv47-48; quedó su Gengar intacto.",
+   "aprendizaje": "Fantina en mapa 6 es el segundo muro (2 derrotas seguidas). Su Gengar al final barre; hace falta Nv55+."
   }
  ],
  "observaciones": [
