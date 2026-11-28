@@ -32863,6 +32863,26 @@
    "nivel_final": 72,
    "causa_derrota_si_confirmada": "Tras Lorelei y Bruno (2 KO y Spiritomb a 28 PS, sin Cenizas), Agatha (Fantasma Nv118-122) barrió al equipo sin recibir KO.",
    "aprendizaje": "Segunda vez que se gana Cyrus y se llega a la Liga. Sin Ceniza Sagrada no hay forma de encadenar 5 combates; ningún nodo de objeto del mapa 8-9 la ofreció."
+  },
+  {
+   "run_id": "Fantasma-13",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 3: Morty (Fantasma)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 8) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 8,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 22, Honedge 21, Gastly 22, Rotom 18, Phantump 22 (aurora), Phantump 21 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Zumo de Baya, Lente Potencia, Tabla Terror",
+   "nivel_final": 22,
+   "causa_derrota_si_confirmada": "Morty (3 Haunter Nv28-30) contra equipo Nv18-22; Fantasma contra Fantasma pega doble a ambos y ellos tenían +7 niveles.",
+   "aprendizaje": "Mapa 3 sin suficientes entrenadores = equipo corto. Morty es peligroso para Mono-Fantasma; llevar Spiritomb/Sableye (Siniestro) con nivel."
   }
  ],
  "observaciones": [
