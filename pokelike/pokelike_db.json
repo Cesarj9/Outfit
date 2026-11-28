@@ -33383,6 +33383,26 @@
    "nivel_final": 99,
    "causa_derrota_si_confirmada": "Alder (Nv135-140: Volcarona, Hydreigon, Haxorus, Terrakion, Landorus, Reshiram) tras ganar a Shauntal, Grimsley, Caitlin y Marshal seguidos; solo cayó Volcarona.",
    "aprendizaje": "El Alto Mando se gana con este equipo (Fantasmas inmunes a Lucha, fuertes vs Psíquico/Fantasma; Spiritomb vs Siniestro). El Campeón final (Nv135-140) está ~40 niveles por encima: hace falta Gengarita/Mega o muchos más Caramelos/Huevo Suerte/Polvo Estelar desde el principio. Fantasma-34 ganó con Mega Gengar 95."
+  },
+  {
+   "run_id": "Fantasma-39",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 10: Liga de Hoenn, Alto Mando Drake (4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo; Gengar Nv96, Gafas Elección, Caramelos, Orbes Espectro) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar 96 (aurora), Trevenant 94, Spiritomb 94, Aegislash 90, Sableye 89, Golurk 84",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Colmillo Agudo, Polvo Estelar, Tela Terrible, Piedra Noche",
+   "nivel_final": 96,
+   "causa_derrota_si_confirmada": "Drake (Dragón Nv124-128) tras Sidney, Phoebe y Glacia seguidos; solo le quedó Kingdra intacto.",
+   "aprendizaje": "Tercera vez seguida que se cae en el Alto Mando/Campeón del mapa 10 (Nv106-140) con equipo Nv85-96. Faltan ~20-30 niveles. El contenedor se reinició a mitad (jefe Fuego mapa 4): servidor+login+REANUDAR recuperó la partida sin pérdida."
   }
  ],
  "observaciones": [
