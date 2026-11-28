@@ -32743,6 +32743,26 @@
    "nivel_final": 27,
    "causa_derrota_si_confirmada": "Blaine (Arcanine/Charizard/Ninetales Nv40-42) contra equipo Nv25-27; solo cayó Arcanine.",
    "aprendizaje": "Mono-Fantasma llega al mapa 4 ~15 niveles por debajo. Sin reliquias de nivel ni piedras evolutivas no pasa. Priorizar Polvo Estelar/Repartir Exp y Caramelos/Piedra Lunar en mapas 1-3; en mapa 4 coger Ceniza y usarla."
+  },
+  {
+   "run_id": "Fantasma-7",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 4: Wulfric (Hielo)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Rotom AURORA (primer nodo, intento 48) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 48,
+   "intentos_inciertos": 0,
+   "equipo_final": "Litwick 26, Haunter 25, Rotom 24 (aurora), Spiritomb 24, Frillish 25, Golett 23",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Blanco, Piedra Noche, Raíz Grande",
+   "nivel_final": 26,
+   "causa_derrota_si_confirmada": "Wulfric (Avalugg/Cryogonal/Abomasnow Nv40-42) contra equipo Nv23-26; quedó Abomasnow con 93/127.",
+   "aprendizaje": "Cuarta derrota seguida en mapa 4 por ~15 niveles de diferencia. Ruta de objetos sin entrenadores deja al equipo bajo de nivel; necesita entrenadores fáciles para experiencia o reliquias de nivel."
   }
  ],
  "observaciones": [
