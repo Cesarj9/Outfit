@@ -32823,6 +32823,26 @@
    "nivel_final": 20,
    "causa_derrota_si_confirmada": "Gardenia (Grovyle/Leafeon/Roselia Nv28-30) contra equipo Nv16-20; ruta de objetos sin entrenadores.",
    "aprendizaje": "Confirmado: sin entrenadores en mapas 1-3 el equipo llega 10+ niveles corto. Ruta ideal: entrenador-entrenador-centro, pokeballs solo si hay hueco."
+  },
+  {
+   "run_id": "Fantasma-11",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Sinnoh: Alto Mando Flint (3/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 369) perdido (Trevenant)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 369,
+   "intentos_inciertos": 0,
+   "equipo_final": "Hoopa 68, Aegislash 65, Giratina 68, Trevenant 67 (aurora), Mega Gengar 69, Jellicent 67",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Tela Terrible, Baya Chilan, Banda Focus, Gafas Especiales",
+   "nivel_final": 69,
+   "causa_derrota_si_confirmada": "Tras ganar a Aaron y Bertha con 4 KO y sin Ceniza Sagrada, Flint (Fuego/Lucha Nv118-122) barrió a Hoopa y Aegislash.",
+   "aprendizaje": "Ruta con entrenadores funciona: mapas 1-9 ganados. En la Liga hacen falta Cenizas Sagradas: cogerlas siempre en los nodos de objeto del mapa 8-9."
   }
  ],
  "observaciones": [
