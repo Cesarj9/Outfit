@@ -32663,6 +32663,26 @@
    "nivel_final": 81,
    "causa_derrota_si_confirmada": "Diantha (Mega Gardevoir/Aurorus/Tyrantrum/Goodra/Hawlucha/Xerneas Nv135-140) barrió al equipo; solo cayó Gardevoir.",
    "aprendizaje": "Mono-Fantasma llega bien hasta la Liga de Kalos (Malva, Siebold, Wikstrom, Drasna ganados). Diantha es el muro: falta nivel (~75 vs 135+). Rotom con Metrónomo y Ceniza Sagrada fue clave contra Siebold. Evitar hierba en mapas 1-2."
+  },
+  {
+   "run_id": "Fantasma-3",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: nodo ? (Entrenador Guay Nv71)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Rotom AURORA (primer nodo, intento 5) y Phantump AURORA (pokeball mapa 5) perdidos",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 5,
+   "intentos_inciertos": 0,
+   "equipo_final": "Jellicent 47, Lampent 47, Trevenant 45 (aurora), Rotom 47 (aurora), Spiritomb 45, Doublade 40",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Tabla Terror, Cinta Fuerte, Escama Bella, Gafas Especiales",
+   "nivel_final": 47,
+   "causa_derrota_si_confirmada": "Nodo ? del mapa 7 fue Entrenador Guay (Salamence/Heracross/Porygon-Z/Scizor Nv71) contra equipo Nv40-47; barrió a todos.",
+   "aprendizaje": "En mapa 7+ los nodos ? pueden ser Entrenador Guay muy por encima del nivel: evitarlos. Equipo con pocas reliquias de nivel (sin Polvo Estelar/Repartir Exp) llega corto."
   }
  ],
  "observaciones": [
