@@ -33403,6 +33403,26 @@
    "nivel_final": 96,
    "causa_derrota_si_confirmada": "Drake (Dragón Nv124-128) tras Sidney, Phoebe y Glacia seguidos; solo le quedó Kingdra intacto.",
    "aprendizaje": "Tercera vez seguida que se cae en el Alto Mando/Campeón del mapa 10 (Nv106-140) con equipo Nv85-96. Faltan ~20-30 niveles. El contenedor se reinició a mitad (jefe Fuego mapa 4): servidor+login+REANUDAR recuperó la partida sin pérdida."
+  },
+  {
+   "run_id": "Fantasma-40",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 9: Liga de Sinnoh, Campeona Cynthia (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo; Gengar Nv103, Gafas Elección, Orbes Espectro) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar 103 (aurora), Hoopa 103, Sableye 102, Spiritomb 101, Golurk 100, Giratina 97",
+   "reliquias_finales": "Cazador Shiny, Polvo Estelar, Garra Afilada, Repartir Exp, Resonancia, Disco Fantasma",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "Cynthia (Nv135-140): su Garchomp solo barrió a Hoopa, Gengar y Spiritomb tras ganar a Aaron, Bertha, Flint y Lucian seguidos.",
+   "aprendizaje": "Mejor partida del desafío en el Alto Mando (4/4 ganados, equipo Nv92 al entrar). El campeón final siempre ~Nv135-140: con Mono-Fantasma sin Mega Gengar no llega. Seguir buscando Gengarita y priorizar Polvo Estelar/Repartir Exp/Huevo Suerte."
   }
  ],
  "observaciones": [
