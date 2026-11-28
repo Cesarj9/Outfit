@@ -33023,6 +33023,26 @@
    "nivel_final": 53,
    "causa_derrota_si_confirmada": "Cheren (Unfezant/Liepard/Braviary/Scrafty/Seismitoad Nv86-90) contra equipo Nv51-53; quedaron 3 intactos.",
    "aprendizaje": "Mapa 7 sigue exigiendo ~Nv60. Apareció aviso de nueva versión del juego (cerrado con ×)."
+  },
+  {
+   "run_id": "Fantasma-21",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 2: hierba (Togetic salvaje)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 44) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 44,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 10, Sableye 10, Honedge 10, Golett 10, Phantump 10 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Garra Afilada",
+   "nivel_final": 10,
+   "causa_derrota_si_confirmada": "Togetic salvaje (Hada/Volador, nivel alto) en hierba del mapa 2 barrió al equipo Nv10.",
+   "aprendizaje": "Hierba del mapa 2 vuelve a ser mortal (2ª vez). Evitarla salvo que el equipo esté a Nv15+."
   }
  ],
  "observaciones": [
