@@ -33063,6 +33063,26 @@
    "nivel_final": 47,
    "causa_derrota_si_confirmada": "Barry (Infernape/Staraptor/Lucario/Weavile/Garchomp Nv86-90) contra equipo Nv44-47; quedaron Weavile (137/223) y Garchomp.",
    "aprendizaje": "Muy cerca con Nv~46. Llegar al mapa 7 con Nv50+ debería bastar."
+  },
+  {
+   "run_id": "Fantasma-23",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: Comefuegos (Nv54)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo, intento 31) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 31,
+   "intentos_inciertos": 0,
+   "equipo_final": "Frillish 34, Spiritomb 34, Sableye 34, Litwick 34, Rotom 34, Misdreavus 34 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Armadura Maldita, Polvo Veloz, Repartir Exp, Escama Bella, Energía Potenciadora",
+   "nivel_final": 34,
+   "causa_derrota_si_confirmada": "Comefuegos del mapa 5 con Camerupt/Houndoom/Charizard Nv54 contra equipo Nv34.",
+   "aprendizaje": "En mapa 5 los entrenadores normales ya van a Nv54: con equipo <Nv45 evitar combates en mapa 5 y usar objetos/tutor/centro."
   }
  ],
  "observaciones": [
