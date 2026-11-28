@@ -32963,6 +32963,26 @@
    "nivel_final": 37,
    "causa_derrota_si_confirmada": "Clair (Dragonite x3/Kingdra Nv55-58) contra equipo Nv35-37; solo cayó un Dragonite.",
    "aprendizaje": "Equipo ~20 niveles por debajo en mapa 5. Sin Moon Stone ni legendarios el equipo se queda corto."
+  },
+  {
+   "run_id": "Fantasma-18",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: nodo ? (Noctowl salvaje)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 5) perdido (Trevenant)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 5,
+   "intentos_inciertos": 0,
+   "equipo_final": "Frillish 37, Rotom 37, Sableye 37, Litwick 39, Mismagius 39, Trevenant 39 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Armadura Maldita, Garra Afilada, Blanco, Piedra Noche, Brazal Recio",
+   "nivel_final": 39,
+   "causa_derrota_si_confirmada": "Comefuegos y pescador del mapa 5 dejaron 5 KO; sin centro alcanzable, un Noctowl salvaje (Normal, inmune a Fantasma) remató a Trevenant.",
+   "aprendizaje": "En mapa 5 los entrenadores comunes (Nv~45) ya superan al equipo; no encadenar 2 combates sin ruta a centro."
   }
  ],
  "observaciones": [
