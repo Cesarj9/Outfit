@@ -32883,6 +32883,26 @@
    "nivel_final": 22,
    "causa_derrota_si_confirmada": "Morty (3 Haunter Nv28-30) contra equipo Nv18-22; Fantasma contra Fantasma pega doble a ambos y ellos tenían +7 niveles.",
    "aprendizaje": "Mapa 3 sin suficientes entrenadores = equipo corto. Morty es peligroso para Mono-Fantasma; llevar Spiritomb/Sableye (Siniestro) con nivel."
+  },
+  {
+   "run_id": "Fantasma-14",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: Silver (rival)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo, intento 12) perdido (Mismagius)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Hoopa 58, Spiritomb 58, Jellicent 59, Golurk 59, Aegislash 58, Mismagius 58 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Polvo Estelar, Incienso Puro, Disco Fantasma, Piedra Espíritu",
+   "nivel_final": 59,
+   "causa_derrota_si_confirmada": "Silver (Feraligatr/Scizor/Gengar/Jumpluff/Kingdra Nv86-90) contra equipo Nv58-59; quedó Kingdra intacto.",
+   "aprendizaje": "Jefe del mapa 7 está ~30 niveles por encima; hace falta llegar con ~Nv60+ y algo de suerte. Ceniza Sagrada solo sirve si hay KOs antes del combate."
   }
  ],
  "observaciones": [
