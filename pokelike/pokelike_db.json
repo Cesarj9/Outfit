@@ -33143,6 +33143,26 @@
    "nivel_final": 48,
    "causa_derrota_si_confirmada": "Fantina (Mismagius/Spiritomb/Dusknoir/Gengar Nv70-73) contra equipo Nv47-48; quedó su Gengar intacto.",
    "aprendizaje": "Fantina en mapa 6 es el segundo muro (2 derrotas seguidas). Su Gengar al final barre; hace falta Nv55+."
+  },
+  {
+   "run_id": "Fantasma-27",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: Cheren",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 32) perdido (Trevenant)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 32,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aegislash 49, Rotom 49, Trevenant 52 (aurora), Gengar 49, Spiritomb 50, Jellicent 46",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Gema Fantasma, Repartir Exp, Cinta Fuerte, Polvo Estelar, Tabla Terror",
+   "nivel_final": 52,
+   "causa_derrota_si_confirmada": "Cheren (Unfezant/Liepard/Braviary/Scrafty/Seismitoad Nv86-90): no cayó ninguno (Normal/Siniestro contra Fantasma).",
+   "aprendizaje": "Cheren/Hugh en mapa 7 (Normal+Siniestro) es casi imposible para Mono-Fantasma sin legendarios ni Nv60+."
   }
  ],
  "observaciones": [
