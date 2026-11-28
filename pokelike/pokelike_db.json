@@ -16449,8 +16449,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -16460,10 +16460,11 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-28",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "fuente_evidencia": "PC tras victoria Fantasma-42 (sprite aurora/92.png)"
   },
   {
    "linea_id": 95,
@@ -33444,6 +33445,26 @@
    "nivel_final": 119,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Clave: Piedra Lunar para evolucionar pronto (Shuppet→Banette en mapa 2, Haunter→Gengar en mapa 3), Giratina+Hoopa en mapas 5-6, Poder Legendario (+40%), Polvo Estelar y rutas de 4-5 entrenadores con centro en mapas 7-9: equipo Nv104-108 al entrar al Alto Mando (antes ~90). Alder ganado con Gengar 400/400 delante."
+  },
+  {
+   "run_id": "Fantasma-42",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Kalos: Campeona Diantha",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Rotom)",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Gastly AURORA (#092, confirmado en PC)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Gengar 111 (aurora, Gengarita, Orbes Espectro), Chandelure 111, Hoopa 108, Giratina 107, Aegislash 105, Sableye 98",
+   "reliquias_finales": "Cazador Shiny, Polvo Estelar, Brazal Recio, Seguro Debilidad, Baya Chilan, Energía Potenciadora",
+   "nivel_final": 111,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Gengarita en mapa 5 -> Mega Gengar (AT.E 573) arrasó; Alto Mando de Kalos ganado casi sin bajas y Diantha con Mega Gengar delante a PS completos. Regla de César cumplida: Gastly aurora subido de ataque, Gengar y luchando con él."
   }
  ],
  "observaciones": [
