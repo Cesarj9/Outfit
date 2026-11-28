@@ -33363,6 +33363,26 @@
    "nivel_final": 90,
    "causa_derrota_si_confirmada": "Karen (Siniestro Nv124-128) tras Will, Koga y Bruno seguidos; solo le quedó Tyranitar con 340/394.",
    "aprendizaje": "Mapa 10 = Alto Mando de Johto + Lance seguidos sin curar. Will (Psíquico) y Bruno (Lucha) se ganan fácil con Fantasmas; Koga con Hoopa delante. Karen (Siniestro) es el muro: necesita más niveles o tipos Lucha/Hada/Bicho, que en Mono-Fantasma no hay; llevar Banda Focus y Gafas/Cinta a los Siniestro (Spiritomb/Sableye)."
+  },
+  {
+   "run_id": "Fantasma-38",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 10: Liga de Teselia, Campeón Alder (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo; Mismagius Nv99) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Giratina 99, Mismagius 99 (aurora), Gengar 98, Spiritomb 95, Hoopa 94, Aegislash 91",
+   "reliquias_finales": "Cazador Shiny, Armadura Maldita, Tela Terrible, Espectrostal Z, Cinta Fuerte, Polvo Estelar",
+   "nivel_final": 99,
+   "causa_derrota_si_confirmada": "Alder (Nv135-140: Volcarona, Hydreigon, Haxorus, Terrakion, Landorus, Reshiram) tras ganar a Shauntal, Grimsley, Caitlin y Marshal seguidos; solo cayó Volcarona.",
+   "aprendizaje": "El Alto Mando se gana con este equipo (Fantasmas inmunes a Lucha, fuertes vs Psíquico/Fantasma; Spiritomb vs Siniestro). El Campeón final (Nv135-140) está ~40 niveles por encima: hace falta Gengarita/Mega o muchos más Caramelos/Huevo Suerte/Polvo Estelar desde el principio. Fantasma-34 ganó con Mega Gengar 95."
   }
  ],
  "observaciones": [
