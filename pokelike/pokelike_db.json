@@ -33003,6 +33003,26 @@
    "nivel_final": 38,
    "causa_derrota_si_confirmada": "Volkner (Electivire/Jolteon/Manectric/Luxray Nv55-58) contra equipo Nv37-38; quedaron Manectric y Luxray.",
    "aprendizaje": "Mapa 5 sigue siendo el corte (~18 niveles de diferencia). Faltó Golett (Tierra) contra Eléctrico."
+  },
+  {
+   "run_id": "Fantasma-20",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: Cheren",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Drifloon AURORA (primer nodo, intento 32) perdido (Drifblim)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 32,
+   "intentos_inciertos": 0,
+   "equipo_final": "Aegislash 53, Giratina 53, Lampent 53, Hoopa 52, Spiritomb 51, Drifblim 53 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Repartir Exp, Polvo Brillo, Espectrostal Z, Brazal Recio",
+   "nivel_final": 53,
+   "causa_derrota_si_confirmada": "Cheren (Unfezant/Liepard/Braviary/Scrafty/Seismitoad Nv86-90) contra equipo Nv51-53; quedaron 3 intactos.",
+   "aprendizaje": "Mapa 7 sigue exigiendo ~Nv60. Apareció aviso de nueva versión del juego (cerrado con ×)."
   }
  ],
  "observaciones": [
