@@ -32843,6 +32843,26 @@
    "nivel_final": 69,
    "causa_derrota_si_confirmada": "Tras ganar a Aaron y Bertha con 4 KO y sin Ceniza Sagrada, Flint (Fuego/Lucha Nv118-122) barrió a Hoopa y Aegislash.",
    "aprendizaje": "Ruta con entrenadores funciona: mapas 1-9 ganados. En la Liga hacen falta Cenizas Sagradas: cogerlas siempre en los nodos de objeto del mapa 8-9."
+  },
+  {
+   "run_id": "Fantasma-12",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Kanto: Alto Mando Agatha (3/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Rotom AURORA (primer nodo, intento 40) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 40,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 72, Jellicent 67, Trevenant 66, Giratina 69, Hoopa 70, Rotom 69 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Polvo Brillo, Banda Focus, Piedra Espíritu, Espectrostal Z",
+   "nivel_final": 72,
+   "causa_derrota_si_confirmada": "Tras Lorelei y Bruno (2 KO y Spiritomb a 28 PS, sin Cenizas), Agatha (Fantasma Nv118-122) barrió al equipo sin recibir KO.",
+   "aprendizaje": "Segunda vez que se gana Cyrus y se llega a la Liga. Sin Ceniza Sagrada no hay forma de encadenar 5 combates; ningún nodo de objeto del mapa 8-9 la ofreció."
   }
  ],
  "observaciones": [
