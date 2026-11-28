@@ -33103,6 +33103,26 @@
    "nivel_final": 38,
    "causa_derrota_si_confirmada": "Clair (Dragonite x3/Kingdra Nv55-58) contra equipo Nv36-38; solo cayó un Dragonite.",
    "aprendizaje": "Mapa 5 con ~Nv38 no alcanza. Sin piedras evolutivas/legendarios el equipo se estanca en mapa 5."
+  },
+  {
+   "run_id": "Fantasma-25",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 6: Fantina (Fantasma)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 38) perdido (Trevenant)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 38,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 54, Hoopa 50, Mismagius 49, Lampent 50, Drifblim 49, Trevenant 49 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Baya Enigma, Banda Focus, Seguro Debilidad, Repartir Exp",
+   "nivel_final": 54,
+   "causa_derrota_si_confirmada": "Fantina (Mismagius/Spiritomb/Dusknoir/Gengar Nv70-73) contra equipo Nv49-54; quedó Gengar con 85/170.",
+   "aprendizaje": "Huevo Suerte en Spiritomb + Repartir Exp + entrenadores en mapas 1-4 dio el mejor ritmo de nivel. Fantasma contra Fantasma es una moneda al aire."
   }
  ],
  "observaciones": [
