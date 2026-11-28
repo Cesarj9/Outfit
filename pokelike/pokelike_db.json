@@ -32983,6 +32983,26 @@
    "nivel_final": 39,
    "causa_derrota_si_confirmada": "Comefuegos y pescador del mapa 5 dejaron 5 KO; sin centro alcanzable, un Noctowl salvaje (Normal, inmune a Fantasma) remató a Trevenant.",
    "aprendizaje": "En mapa 5 los entrenadores comunes (Nv~45) ya superan al equipo; no encadenar 2 combates sin ruta a centro."
+  },
+  {
+   "run_id": "Fantasma-19",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: Volkner (Eléctrico)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Rotom AURORA (primer nodo, intento 46) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 46,
+   "intentos_inciertos": 0,
+   "equipo_final": "Giratina 37, Spiritomb 38, Haunter 37, Doublade 37, Sableye 37, Rotom 38 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Armadura Maldita, Cinta Fuerte, Flecha Venenosa, Garra Afilada, Baya Enigma",
+   "nivel_final": 38,
+   "causa_derrota_si_confirmada": "Volkner (Electivire/Jolteon/Manectric/Luxray Nv55-58) contra equipo Nv37-38; quedaron Manectric y Luxray.",
+   "aprendizaje": "Mapa 5 sigue siendo el corte (~18 niveles de diferencia). Faltó Golett (Tierra) contra Eléctrico."
   }
  ],
  "observaciones": [
