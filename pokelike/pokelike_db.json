@@ -32623,6 +32623,26 @@
    "nivel_final": 53,
    "causa_derrota_si_confirmada": "Archie (Kyogre/Swampert/Gyarados/Whiscash/Walrein Nv102-106) barrió al equipo; quedaron Whiscash y Walrein.",
    "aprendizaje": "Los nodos ? del mapa 7 dejaron 4 KO (curados en centro). Equipo muy bajo de nivel (~50) para mapa 8 de Agua; otra vez no usé Ceniza Sagrada (2 en bolsa). Hay que llegar con más nivel o evitar Archie."
+  },
+  {
+   "run_id": "Fantasma-1",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 2: hierba (Scraggy salvaje Nv19)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Shuppet AURORA (primer nodo, intento 49) perdido; Yamask aurora capturado y perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 49,
+   "intentos_inciertos": 0,
+   "equipo_final": "Litwick 8 (shiny), Spiritomb 8, Shuppet 8 (aurora, Banettita), Golett 8, Yamask 8 (aurora), Honedge 8",
+   "reliquias_finales": "Cazador Shiny, Armadura Maldita, Baya Aranja",
+   "nivel_final": 8,
+   "causa_derrota_si_confirmada": "Scraggy salvaje Nv19 (Siniestro/Lucha) en nodo hierba del mapa 2 barrió al equipo Nv8; Siniestro resiste Fantasma.",
+   "aprendizaje": "En Mono-Fantasma evitar nodos de hierba al principio: salvajes Siniestro de nivel muy superior. Ir por pokeball/objetos/entrenadores."
   }
  ],
  "observaciones": [
