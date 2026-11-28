@@ -33465,6 +33465,26 @@
    "nivel_final": 111,
    "causa_derrota_si_confirmada": "",
    "aprendizaje": "Gengarita en mapa 5 -> Mega Gengar (AT.E 573) arrasó; Alto Mando de Kalos ganado casi sin bajas y Diantha con Mega Gengar delante a PS completos. Regla de César cumplida: Gastly aurora subido de ataque, Gengar y luchando con él."
+  },
+  {
+   "run_id": "Fantasma-43",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Gastly (aurora)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Teselia: Campeón Alder (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Misdreavus/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo; Mismagius Nv100) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Gengar 100 (aurora), Mismagius 100 (aurora), Aegislash 100, Giratina 99, Trevenant 94, Sableye 90",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Armadura Maldita, Brazal Recio, Baya Arabol, Blanco, Raíz Grande",
+   "nivel_final": 100,
+   "causa_derrota_si_confirmada": "Alder (Nv135-140) barrió al equipo a PS completos; solo cayó Volcarona. Alto Mando previo ganado casi sin bajas.",
+   "aprendizaje": "Primera partida con Gastly aurora de inicial; Gengarita apareció en mapa 4. Pero llegué al Alto Mando a Nv86-92 (Fantasma-41 llegó a Nv104-108 con 2 legendarios + Poder Legendario + Polvo Estelar). Para Alder hace falta Nv105+ y 2 legendarios."
   }
  ],
  "observaciones": [
