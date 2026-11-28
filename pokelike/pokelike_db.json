@@ -19904,8 +19904,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 50,
    "favorito_si_visible": "DESCONOCIDO",
@@ -19915,10 +19915,11 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-28",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "fuente_evidencia": "PC tras victoria Fantasma-41 (sprite aurora/353.png)"
   },
   {
    "linea_id": 355,
@@ -33423,6 +33424,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "Cynthia (Nv135-140): su Garchomp solo barrió a Hoopa, Gengar y Spiritomb tras ganar a Aaron, Bertha, Flint y Lucian seguidos.",
    "aprendizaje": "Mejor partida del desafío en el Alto Mando (4/4 ganados, equipo Nv92 al entrar). El campeón final siempre ~Nv135-140: con Mono-Fantasma sin Mega Gengar no llega. Seguir buscando Gengarita y priorizar Polvo Estelar/Repartir Exp/Huevo Suerte."
+  },
+  {
+   "run_id": "Fantasma-41",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Teselia: Campeón Alder",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Shuppet AURORA (#353, confirmado en PC)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar 119 (normal), Giratina 117, Banette 116 (aurora), Hoopa 112, Spiritomb 109, Sableye 106",
+   "reliquias_finales": "Cazador Shiny, Disco Fantasma, Banda Focus, Polvo Estelar, Gafas Especiales, Poder Legendario",
+   "nivel_final": 119,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Clave: Piedra Lunar para evolucionar pronto (Shuppet→Banette en mapa 2, Haunter→Gengar en mapa 3), Giratina+Hoopa en mapas 5-6, Poder Legendario (+40%), Polvo Estelar y rutas de 4-5 entrenadores con centro en mapas 7-9: equipo Nv104-108 al entrar al Alto Mando (antes ~90). Alder ganado con Gengar 400/400 delante."
   }
  ],
  "observaciones": [
