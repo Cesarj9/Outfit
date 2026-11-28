@@ -33183,6 +33183,26 @@
    "nivel_final": 28,
    "causa_derrota_si_confirmada": "Pryce (Lapras/Dewgong/Mamoswine Nv40-42) contra equipo Nv26-28; no cayó ninguno.",
    "aprendizaje": "Hierba del mapa 3 dejó 4 KO y frenó el ritmo; equipo llegó 14 niveles corto al mapa 4."
+  },
+  {
+   "run_id": "Fantasma-29",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: Calem (Hada)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 11) y Banette AURORA (pokeball mapa 7, línea Shuppet) perdidos",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 11,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar 52 (aurora), Aegislash 55, Giratina 55, Hoopa 55, Spiritomb 55, Banette 55 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Guardia Shiny, Brazal Recio, Toxiestrella, Escama Bella, Tabla Oscura",
+   "nivel_final": 55,
+   "causa_derrota_si_confirmada": "Calem (Greninja/Lucario/Sylveon/Talonflame/Carbink Nv86-90) contra equipo Nv52-55; quedó Carbink con 97/190.",
+   "aprendizaje": "A un golpe de ganar el mapa 7. Amuleto Oval dio 4 opciones por captura (salió Banette aurora). Con Nv55+ el mapa 7 es ganable."
   }
  ],
  "observaciones": [
