@@ -33203,6 +33203,26 @@
    "nivel_final": 55,
    "causa_derrota_si_confirmada": "Calem (Greninja/Lucario/Sylveon/Talonflame/Carbink Nv86-90) contra equipo Nv52-55; quedó Carbink con 97/190.",
    "aprendizaje": "A un golpe de ganar el mapa 7. Amuleto Oval dio 4 opciones por captura (salió Banette aurora). Con Nv55+ el mapa 7 es ganable."
+  },
+  {
+   "run_id": "Fantasma-30",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: Pescador (Nv54)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Drifloon AURORA (primer nodo, intento 71) y Misdreavus AURORA (pokeball mapa 2) perdidos",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 71,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 30, Sableye 29, Honedge 29, Drifblim 30 (aurora), Misdreavus 31 (aurora), Rotom 31",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Tabla Terror, Nerviosfera, Espectrostal Z, Polvo Brillo",
+   "nivel_final": 31,
+   "causa_derrota_si_confirmada": "Pescador del mapa 5 (Milotic/Gastrodon/Wailord Nv54) contra equipo Nv29-31; todas las rutas del mapa tenían un entrenador obligatorio.",
+   "aprendizaje": "Ruta de pocos entrenadores en mapas 3-4 deja el equipo a Nv30 en mapa 5, donde hasta los entrenadores comunes van a Nv54."
   }
  ],
  "observaciones": [
