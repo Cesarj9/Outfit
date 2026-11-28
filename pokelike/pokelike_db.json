@@ -33323,6 +33323,26 @@
    "nivel_final": 86,
    "causa_derrota_si_confirmada": "Cyrus (Darkrai 102, Cresselia 103, Lucario 104, Weavile 105-106): Siniestro x3 contra equipo Fantasma Nv75-86; quedó 1,5 Weavile.",
    "aprendizaje": "Rutas con entrenadores en todos los mapas funcionaron (8 jefes ganados). El campeón final era Siniestro/Hielo Nv102+: hacen falta más niveles (Caramelos/Huevo Suerte a todo el equipo) y tipos que resistan Siniestro (Lucha/Hada no son Fantasma; Aegislash y Hoopa no bastan). Valorar no liberar Spiritomb (Siniestro, inmune a nada pero neutral) y buscar Gengarita."
+  },
+  {
+   "run_id": "Fantasma-36",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 10: Liga de Kalos, Campeona Diantha (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "Shuppet AURORA (primer nodo, intento 47; evolucionó a Banette) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 47,
+   "intentos_inciertos": 0,
+   "equipo_final": "Banette 103 (aurora), Hoopa 101, Giratina 97, Golurk 97, Spiritomb 97, Chandelure 93",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Energía Potenciadora, Tela Terrible, Baya Chilan, Égida Legendaria",
+   "nivel_final": 103,
+   "causa_derrota_si_confirmada": "Mapa 10 = Alto Mando de Kalos + Campeona seguidos sin curar (Nv106-140). Contra Malva (Fuego) cayeron 4; Banette y Hoopa ganaron a Siebold, Wikstrom y Drasna; Diantha (Gardevoir-mega 135 ... Xerneas 140) los barrió.",
+   "aprendizaje": "Se ganó a Cyrus (mapa 9) con Spiritomb delante y 2 legendarios + Égida Legendaria. El mapa 10 es una cadena de 5 combates sin curar: hace falta llegar con más niveles (≥110) y orden por tipos en cada combate; el primero (Fuego) costó 4 Pokémon. Malva Fuego: Golurk solo no basta; llevar tipo Agua/Roca o más Tierra."
   }
  ],
  "observaciones": [
