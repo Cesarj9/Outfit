@@ -33083,6 +33083,26 @@
    "nivel_final": 34,
    "causa_derrota_si_confirmada": "Comefuegos del mapa 5 con Camerupt/Houndoom/Charizard Nv54 contra equipo Nv34.",
    "aprendizaje": "En mapa 5 los entrenadores normales ya van a Nv54: con equipo <Nv45 evitar combates en mapa 5 y usar objetos/tutor/centro."
+  },
+  {
+   "run_id": "Fantasma-24",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: Clair (Dragón)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Drifloon AURORA (primer nodo, intento 108) perdido (Drifblim)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 108,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar 38, Spiritomb 38, Rotom 38, Golett 38, Frillish 36, Drifblim 38 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Raíz Grande, Energía Potenciadora, Nerviosfera, Guardia Shiny",
+   "nivel_final": 38,
+   "causa_derrota_si_confirmada": "Clair (Dragonite x3/Kingdra Nv55-58) contra equipo Nv36-38; solo cayó un Dragonite.",
+   "aprendizaje": "Mapa 5 con ~Nv38 no alcanza. Sin piedras evolutivas/legendarios el equipo se estanca en mapa 5."
   }
  ],
  "observaciones": [
