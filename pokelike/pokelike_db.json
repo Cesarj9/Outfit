@@ -32703,6 +32703,26 @@
    "nivel_final": 34,
    "causa_derrota_si_confirmada": "Nodo old-guy del mapa 5: equipo Normal Nv55 (Bibarel/Purugly/Miltank), inmune a Fantasma; tras el Team Rocket ya había 2 KO.",
    "aprendizaje": "Con Mono-Fantasma evitar old-guy (equipos Normal) y nodos ? en mapas 5+. Preferir pokeball/objetos/centro."
+  },
+  {
+   "run_id": "Fantasma-5",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 4: Comefuegos (Flareon/Magmortar Nv40)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Rotom AURORA x2 (primer nodo intento 23 + evento ? mapa 1) perdidos",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 23,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 26, Sableye 26, Honedge 27, Golett 23, Rotom 24 (aurora), Rotom 26 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Repartir Exp, Incienso Roca, Piedra Espíritu",
+   "nivel_final": 27,
+   "causa_derrota_si_confirmada": "Comefuegos del mapa 4 con Flareon/Magmortar Nv40 contra equipo Nv23-27 (un Rotom ya KO); barrió al equipo.",
+   "aprendizaje": "Entrenadores de mapa 4 llegan a Nv40: hay que pasar por el centro antes de ir con KOs y priorizar nivel (Polvo Estelar, Caramelos al equipo principal)."
   }
  ],
  "observaciones": [
