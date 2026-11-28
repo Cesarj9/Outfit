@@ -32683,6 +32683,26 @@
    "nivel_final": 47,
    "causa_derrota_si_confirmada": "Nodo ? del mapa 7 fue Entrenador Guay (Salamence/Heracross/Porygon-Z/Scizor Nv71) contra equipo Nv40-47; barrió a todos.",
    "aprendizaje": "En mapa 7+ los nodos ? pueden ser Entrenador Guay muy por encima del nivel: evitarlos. Equipo con pocas reliquias de nivel (sin Polvo Estelar/Repartir Exp) llega corto."
+  },
+  {
+   "run_id": "Fantasma-4",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: old-guy (Bibarel/Purugly/Miltank Nv55)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 46) perdido (era Haunter con Gengarita)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 46,
+   "intentos_inciertos": 0,
+   "equipo_final": "Haunter 34 (aurora), Litwick 32, Golett 32 (shiny), Drifblim 31 (shiny), Rotom 31, Honedge 32",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Toxiestrella, Brazal Recio, Polvo Estelar, Baya Chilan",
+   "nivel_final": 34,
+   "causa_derrota_si_confirmada": "Nodo old-guy del mapa 5: equipo Normal Nv55 (Bibarel/Purugly/Miltank), inmune a Fantasma; tras el Team Rocket ya había 2 KO.",
+   "aprendizaje": "Con Mono-Fantasma evitar old-guy (equipos Normal) y nodos ? en mapas 5+. Preferir pokeball/objetos/centro."
   }
  ],
  "observaciones": [
