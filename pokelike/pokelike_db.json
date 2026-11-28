@@ -32943,6 +32943,26 @@
    "nivel_final": 68,
    "causa_derrota_si_confirmada": "Tras Shauntal (3 KO, sin Cenizas), Grimsley (Siniestro Nv112-116) barrió a los 3 restantes; quedaron Krookodile, Hydreigon y Liepard.",
    "aprendizaje": "Llegar a la Liga es ya habitual (Lysandre/Cyrus ganados). El muro es encadenar 5 combates sin curación. Prioridad absoluta: Cenizas Sagradas en mapas 7-9 y reliquias de curación (Zumo de Baya, Raíz Grande)."
+  },
+  {
+   "run_id": "Fantasma-17",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 5: Clair (Dragón)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 138) perdido (Haunter)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 138,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 37, Sableye 35, Haunter 37 (aurora), Litwick 36, Frillish 36, Golett 35",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Garra Afilada, Cinta Fuerte, Tabla Oscura, Baya Zidra",
+   "nivel_final": 37,
+   "causa_derrota_si_confirmada": "Clair (Dragonite x3/Kingdra Nv55-58) contra equipo Nv35-37; solo cayó un Dragonite.",
+   "aprendizaje": "Equipo ~20 niveles por debajo en mapa 5. Sin Moon Stone ni legendarios el equipo se queda corto."
   }
  ],
  "observaciones": [
