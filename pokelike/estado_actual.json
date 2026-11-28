@@ -4,7 +4,7 @@
  "bloqueo": "El desafío diario cambió a Mono-Fantasma (~23:00 UTC 27/11); ya no hay Mono-Roca disponible.",
  "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
  "inicial": "Aron (Mega Aggron)",
- "objetivo_actual": "Diario Mono-Fantasma con Spiritomb hasta tener todas las líneas Fantasma aurora. Faltan: Misdreavus, Rotom.",
+ "objetivo_actual": "Diario Mono-Fantasma con Spiritomb hasta tener todas las líneas Fantasma aurora. Falta: Misdreavus.",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)",
@@ -78,6 +78,6 @@
   "meta": 50
  },
  "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)",
- "ultima_partida": "Fantasma-44 DERROTA ante Blue (Kanto 5/5); Rotom aurora perdido.",
+ "ultima_partida": "Fantasma-45 VICTORIA (Campeona Diantha); Rotom aurora confirmado en PC.",
  "regla_gastly": "César (2026-11-28): cuando consiga Gastly aurora, subirle el ataque (objetos/vitaminas de ATK esp.), esperar a que evolucione a Gengar y luchar con él (líder del equipo). Después de confirmar Gastly aurora en PC, empezar con Gastly/Gengar aurora en vez de Spiritomb. CUMPLIDA en Fantasma-42 (2026-11-28)."
 }

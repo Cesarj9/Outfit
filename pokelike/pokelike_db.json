@@ -21309,8 +21309,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -21320,10 +21320,11 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
+   "fecha_verificacion": "2026-11-28",
    "version_juego": "3.7.1",
    "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
-   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
+   "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora.",
+   "fuente_evidencia": "PC tras victoria Fantasma-45 (sprite aurora/479.png)"
   },
   {
    "linea_id": 480,
@@ -33505,6 +33506,26 @@
    "nivel_final": 95,
    "causa_derrota_si_confirmada": "Blue (Nv135-140, con Mewtwo) tras Lorelei, Bruno, Agatha y Lance seguidos.",
    "aprendizaje": "La Gengarita viene en la bolsa al empezar con Gastly aurora. Equipo Nv83-88 al entrar al Alto Mando: insuficiente; Fantasma-41 (ganada) entró a Nv104-108. Más rutas de 4-5 entrenadores en mapas 6-9 aunque se pierdan objetos."
+  },
+  {
+   "run_id": "Fantasma-45",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Gastly (aurora)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Kalos: Campeona Diantha",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Fantasma nuevas (Misdreavus/Rotom)",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Rotom AURORA (#479, confirmado en PC)",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Rotom 115 (aurora), Giratina 109, Mega Gengar 108 (aurora), Chandelure 108, Hoopa 108, Spiritomb 108",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Gafas Especiales, Botón Escape, Polvo Brillo, Piedra Dura",
+   "nivel_final": 117,
+   "causa_derrota_si_confirmada": "",
+   "aprendizaje": "Ruta de 6 entrenadores en mapa 5 y 4 en mapas 6-8 + Hoopa (mapa 7) y Giratina (mapa 9): equipo Nv100-106 al entrar al Alto Mando de Kalos; los 5 combates ganados casi sin bajas. Huevo Suerte + Botón Escape en Rotom."
   }
  ],
  "observaciones": [
