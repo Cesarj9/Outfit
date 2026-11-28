@@ -33303,6 +33303,26 @@
    "nivel_final": 95,
    "causa_derrota_si_confirmada": null,
    "aprendizaje": "Ruta con 3-4 entrenadores en cada mapa (Normal/old-guy en mapa 1 = exp gratis) llevó el equipo a Nv40 en mapa 4. Huevo Suerte + Caramelo Raro en Gengar. Gengarita en mapa 8: Mega-Gengar solo ganó a Koga, Bruno, Karen y Lance con 1/3 de PS."
+  },
+  {
+   "run_id": "Fantasma-35",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 9: Campeón Cyrus",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 62; evolucionó a Gengar) y Mismagius AURORA (evento ?, mapa 6) perdidos",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 62,
+   "intentos_inciertos": 0,
+   "equipo_final": "Gengar 86 (aurora, Huevo Suerte, 2 MT, Caramelo Raro), Aegislash 75, Rotom 77 (shiny), Drifblim 77, Mismagius 77 (aurora), Hoopa 77",
+   "reliquias_finales": "Cazador Shiny, Armadura Maldita, Piedra Noche, Tabla Terror, Tela Terrible, Espectrostal Z",
+   "nivel_final": 86,
+   "causa_derrota_si_confirmada": "Cyrus (Darkrai 102, Cresselia 103, Lucario 104, Weavile 105-106): Siniestro x3 contra equipo Fantasma Nv75-86; quedó 1,5 Weavile.",
+   "aprendizaje": "Rutas con entrenadores en todos los mapas funcionaron (8 jefes ganados). El campeón final era Siniestro/Hielo Nv102+: hacen falta más niveles (Caramelos/Huevo Suerte a todo el equipo) y tipos que resistan Siniestro (Lucha/Hada no son Fantasma; Aegislash y Hoopa no bastan). Valorar no liberar Spiritomb (Siniestro, inmune a nada pero neutral) y buscar Gengarita."
   }
  ],
  "observaciones": [
