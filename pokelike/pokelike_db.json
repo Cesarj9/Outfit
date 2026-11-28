@@ -32783,6 +32783,26 @@
    "nivel_final": 66,
    "causa_derrota_si_confirmada": "Cyrus (Darkrai/Cresselia/Lucario/Weavile x2 Nv102-106) barrió al equipo Nv58-66; quedó un Weavile intacto. Siniestro es superefectivo contra Fantasma.",
    "aprendizaje": "Ruta con entrenadores en mapas 1-4 sí da nivel suficiente (Nv31 en mapa 4). Hoopa y Giratina salen en nodos legendarios. Cyrus es el muro del mapa 8; usar la Ceniza Sagrada antes y llevar Lucha/Hada no es posible en Mono-Fantasma."
+  },
+  {
+   "run_id": "Fantasma-9",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 3: Comefuegos (Arcanine/Houndoom Nv30)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 11) perdido (Haunter con Gengarita)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 11,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 20, Golett 20, Honedge 20, Litwick 20, Rotom 20, Haunter 20 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Teralito Fantasma, Energía Potenciadora",
+   "nivel_final": 20,
+   "causa_derrota_si_confirmada": "Bug-catcher dejó 2 KO y el Comefuegos (Arcanine/Houndoom Nv30) barrió al resto sin pasar por el centro.",
+   "aprendizaje": "No encadenar entrenadores con KOs: Comefuegos/bug-catcher del mapa 3 pegan muy fuerte a Fantasma. Ir al centro o a objetos tras perder miembros."
   }
  ],
  "observaciones": [
