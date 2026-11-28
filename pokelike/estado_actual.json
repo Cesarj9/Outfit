@@ -4,7 +4,7 @@
  "bloqueo": "El desafío diario cambió a Mono-Fantasma (~23:00 UTC 27/11); ya no hay Mono-Roca disponible.",
  "modo_desafio": "Desafío diario Mono-Roca (César, 2026-11-26 noche)",
  "inicial": "Aron (Mega Aggron)",
- "objetivo_actual": "Toda la noche desafío Roca; parar si todas las líneas Roca no legendarias están en aurora. Faltan: Aerodactyl, Amaura.",
+ "objetivo_actual": "Diario Mono-Fantasma con Spiritomb hasta tener todas las líneas Fantasma aurora. Faltan: Gastly, Misdreavus, Shuppet, Drifloon, Rotom.",
  "objetivos_registrados_verificados_por_este_agente": [
   "Charmander aurora (PC+Pokédex)",
   "Tentacool aurora (PC+Pokédex)",
@@ -31,8 +31,8 @@
   "Veneno: primer nodo hasta Gastly/Bulbasaur aurora",
   "NO jugar el Alto Mando: al llegar al nodo de la Liga, parar y avisar a César (2026-11-22)"
  ],
- "ultima_accion_confirmada": "Roca-59 PERDIDA ante Archie (mapa 8) con Mega Aerodactyl aurora. Al volver al menú el diario era Mono-Fantasma.",
- "siguiente_decision": "Esperar indicación de César: Mono-Fantasma u otro modo. Aerodactyl y Amaura aurora siguen pendientes (próximo diario Roca).",
+ "ultima_accion_confirmada": "Fantasma-31 VICTORIA (Campeón Lance). Phantump aurora confirmado en PC.",
+ "siguiente_decision": "Seguir con Fantasma-32 (Spiritomb), primer nodo hasta aurora Fantasma pendiente.",
  "auditorias_pendientes": [
   "fichas de detalle del PC (objeto inicial, megapiedra)",
   "formas mega en Pokédex",
@@ -78,5 +78,5 @@
   "meta": 50
  },
  "tarea_automatica": "trig_011bst5139fCB1AcKfVUVjpe cada 2 h (17 */2 * * * UTC)",
- "ultima_partida": "Roca-39: VICTORIA (Campeón Steven). Binacle aurora confirmado en PC. 162 auroras."
+ "ultima_partida": "Fantasma-31: VICTORIA (Campeón Lance). Phantump aurora confirmado en PC."
 }

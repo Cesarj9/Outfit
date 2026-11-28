@@ -24159,8 +24159,8 @@
    "en_pc": "SI",
    "normal_exacto_confirmado": "DESCONOCIDO",
    "shiny_exacto_confirmado": "SI",
-   "aurora_confirmado": "NO",
-   "variante_mostrada_pc": "shiny",
+   "aurora_confirmado": "SI",
+   "variante_mostrada_pc": "aurora",
    "shiny_o_superior": "SI",
    "puntos_mejora": 0,
    "favorito_si_visible": "DESCONOCIDO",
@@ -24170,9 +24170,9 @@
    "auditoria_normal_completa": "SI",
    "auditoria_shiny_completa": "SI",
    "auditoria_aurora_completa": "SI",
-   "fecha_verificacion": "2026-11-25",
-   "version_juego": "3.7.1",
-   "fuente": "PC: lista completa con scroll (352 tarjetas = 311 líneas + 41 legendarios), filtros SHINY (291), AURORA (84), MISSING (2)",
+   "fecha_verificacion": "2026-11-28",
+   "version_juego": "3.9",
+   "fuente": "PC tras victoria Fantasma-31 (sprite aurora/708)",
    "notas": "La tarjeta muestra la mejor variante. Filtro SHINY incluye auroras (shiny o superior). Shiny exacto/normal exacto no distinguibles cuando hay aurora."
   },
   {
@@ -33223,6 +33223,26 @@
    "nivel_final": 31,
    "causa_derrota_si_confirmada": "Pescador del mapa 5 (Milotic/Gastrodon/Wailord Nv54) contra equipo Nv29-31; todas las rutas del mapa tenían un entrenador obligatorio.",
    "aprendizaje": "Ruta de pocos entrenadores en mapas 3-4 deja el equipo a Nv30 en mapa 5, donde hasta los entrenadores comunes van a Nv54."
+  },
+  {
+   "run_id": "Fantasma-31",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Johto: Campeón Lance",
+   "resultado": "VICTORIA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "ninguna",
+   "capturas_registradas_pc": "Phantump AURORA (#708, confirmado en PC)",
+   "intentos_primer_nodo_confirmados": 4,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 92, Hoopa 85, Trevenant 84 (aurora), Giratina 83, Aegislash 80, Gengar 78",
+   "reliquias_finales": "Cazador Shiny, Amuleto Oval, Gema Fantasma, Banda Focus, Blanco, Espectrostal Z, Cascabel Alivio",
+   "nivel_final": 92,
+   "causa_derrota_si_confirmada": null,
+   "aprendizaje": "Ruta con entrenadores en todos los mapas + Huevo Suerte en Spiritomb llevó el equipo a Nv80-90 en la Liga. Nodos legendarios (Giratina mapa 6, Hoopa mapa 7) decisivos; Hoopa solo remató a Lance. Bruno inofensivo para Fantasmas."
   }
  ],
  "observaciones": [
