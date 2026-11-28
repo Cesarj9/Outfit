@@ -33043,6 +33043,26 @@
    "nivel_final": 10,
    "causa_derrota_si_confirmada": "Togetic salvaje (Hada/Volador, nivel alto) en hierba del mapa 2 barrió al equipo Nv10.",
    "aprendizaje": "Hierba del mapa 2 vuelve a ser mortal (2ª vez). Evitarla salvo que el equipo esté a Nv15+."
+  },
+  {
+   "run_id": "Fantasma-22",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: Barry",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo, intento 12) perdido (Mismagius)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 12,
+   "intentos_inciertos": 0,
+   "equipo_final": "Hoopa 46, Gengar 47, Rotom 44, Spiritomb 47, Aegislash 45, Mismagius 47 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Garra Afilada, Cinta Fuerte, Nictostal Z, Piedra Noche, Incienso Roca",
+   "nivel_final": 47,
+   "causa_derrota_si_confirmada": "Barry (Infernape/Staraptor/Lucario/Weavile/Garchomp Nv86-90) contra equipo Nv44-47; quedaron Weavile (137/223) y Garchomp.",
+   "aprendizaje": "Muy cerca con Nv~46. Llegar al mapa 7 con Nv50+ debería bastar."
   }
  ],
  "observaciones": [
