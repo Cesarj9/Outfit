@@ -33263,6 +33263,26 @@
    "nivel_final": 63,
    "causa_derrota_si_confirmada": "Hugh (Feraligatr/Scrafty/Hydreigon/Floatzel/Haxorus Nv86-90) contra equipo Nv57-63; quedaron 3 rivales.",
    "aprendizaje": "Sin Huevo Suerte hasta el mapa 6 y con pocos entrenadores en el mapa 4 el equipo llega 6-8 niveles por debajo de Fantasma-31. Sin legendario de mapa 7 y sin Giratina falta daño para Hugh."
+  },
+  {
+   "run_id": "Fantasma-33",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 3: Morty",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Rotom)",
+   "capturas_pendientes": "Gastly AURORA (primer nodo, intento 37) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 37,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 19, Gastly 20 (aurora, Orbes Espectro + Lupa), Rotom 19, Phantump 19 (shiny), Frillish 19, Honedge 17",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Cinta Fuerte, Polvo Estelar",
+   "nivel_final": 20,
+   "causa_derrota_si_confirmada": "Morty (3 Haunter Nv28-30) contra equipo Nv17-20.",
+   "aprendizaje": "ERROR: en mapas 1-3 elegí capturas/objetos/tutores en vez de entrenadores; el equipo llegó Nv19 a Morty (Nv28-30). Regla: en mapas 1-3 priorizar SIEMPRE rutas con 3+ entrenadores (Fantasma-31 llegó Nv33 a Morty). Con Gastly aurora en el equipo, más cautela aún."
   }
  ],
  "observaciones": [
