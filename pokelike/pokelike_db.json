@@ -33163,6 +33163,26 @@
    "nivel_final": 52,
    "causa_derrota_si_confirmada": "Cheren (Unfezant/Liepard/Braviary/Scrafty/Seismitoad Nv86-90): no cayó ninguno (Normal/Siniestro contra Fantasma).",
    "aprendizaje": "Cheren/Hugh en mapa 7 (Normal+Siniestro) es casi imposible para Mono-Fantasma sin legendarios ni Nv60+."
+  },
+  {
+   "run_id": "Fantasma-28",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 4: Pryce (Agua/Hielo)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Shuppet AURORA (primer nodo, intento 26) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 26,
+   "intentos_inciertos": 0,
+   "equipo_final": "Honedge 26, Spiritomb 26, Misdreavus 28 (shiny), Frillish 27, Golett 26, Shuppet 27 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Gema Fantasma, Baya Arabol, Incienso Puro, Lente Recia",
+   "nivel_final": 28,
+   "causa_derrota_si_confirmada": "Pryce (Lapras/Dewgong/Mamoswine Nv40-42) contra equipo Nv26-28; no cayó ninguno.",
+   "aprendizaje": "Hierba del mapa 3 dejó 4 KO y frenó el ritmo; equipo llegó 14 niveles corto al mapa 4."
   }
  ],
  "observaciones": [
