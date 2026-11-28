@@ -32803,6 +32803,26 @@
    "nivel_final": 20,
    "causa_derrota_si_confirmada": "Bug-catcher dejó 2 KO y el Comefuegos (Arcanine/Houndoom Nv30) barrió al resto sin pasar por el centro.",
    "aprendizaje": "No encadenar entrenadores con KOs: Comefuegos/bug-catcher del mapa 3 pegan muy fuerte a Fantasma. Ir al centro o a objetos tras perder miembros."
+  },
+  {
+   "run_id": "Fantasma-10",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 3: Gardenia (Planta)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Phantump/Rotom)",
+   "capturas_pendientes": "Phantump AURORA (primer nodo, intento 3) perdido (Trevenant)",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 3,
+   "intentos_inciertos": 0,
+   "equipo_final": "Litwick 17, Spiritomb 17, Mismagius 16, Duskull 16, Rotom 16, Trevenant 20 (aurora)",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Repartir Exp, Cinta Fuerte",
+   "nivel_final": 20,
+   "causa_derrota_si_confirmada": "Gardenia (Grovyle/Leafeon/Roselia Nv28-30) contra equipo Nv16-20; ruta de objetos sin entrenadores.",
+   "aprendizaje": "Confirmado: sin entrenadores en mapas 1-3 el equipo llega 10+ niveles corto. Ruta ideal: entrenador-entrenador-centro, pokeballs solo si hay hueco."
   }
  ],
  "observaciones": [
