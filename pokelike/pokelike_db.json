@@ -33243,6 +33243,26 @@
    "nivel_final": 92,
    "causa_derrota_si_confirmada": null,
    "aprendizaje": "Ruta con entrenadores en todos los mapas + Huevo Suerte en Spiritomb llevó el equipo a Nv80-90 en la Liga. Nodos legendarios (Giratina mapa 6, Hoopa mapa 7) decisivos; Hoopa solo remató a Lance. Bruno inofensivo para Fantasmas."
+  },
+  {
+   "run_id": "Fantasma-32",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 7: Hugh",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Drifloon/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo, intento 128) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 128,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 61, Dusknoir 57, Hoopa 63, Mismagius 63 (aurora), Gengar 61, Sableye 60 (shiny)",
+   "reliquias_finales": "Cazador Shiny, Teralito Fantasma, Repartir Exp, Escama Bella, Polvo Estelar, Baya Chilan",
+   "nivel_final": 63,
+   "causa_derrota_si_confirmada": "Hugh (Feraligatr/Scrafty/Hydreigon/Floatzel/Haxorus Nv86-90) contra equipo Nv57-63; quedaron 3 rivales.",
+   "aprendizaje": "Sin Huevo Suerte hasta el mapa 6 y con pocos entrenadores en el mapa 4 el equipo llega 6-8 niveles por debajo de Fantasma-31. Sin legendario de mapa 7 y sin Giratina falta daño para Hugh."
   }
  ],
  "observaciones": [
