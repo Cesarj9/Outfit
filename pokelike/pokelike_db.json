@@ -33343,6 +33343,26 @@
    "nivel_final": 103,
    "causa_derrota_si_confirmada": "Mapa 10 = Alto Mando de Kalos + Campeona seguidos sin curar (Nv106-140). Contra Malva (Fuego) cayeron 4; Banette y Hoopa ganaron a Siebold, Wikstrom y Drasna; Diantha (Gardevoir-mega 135 ... Xerneas 140) los barrió.",
    "aprendizaje": "Se ganó a Cyrus (mapa 9) con Spiritomb delante y 2 legendarios + Égida Legendaria. El mapa 10 es una cadena de 5 combates sin curar: hace falta llegar con más niveles (≥110) y orden por tipos en cada combate; el primero (Fuego) costó 4 Pokémon. Malva Fuego: Golurk solo no basta; llevar tipo Agua/Roca o más Tierra."
+  },
+  {
+   "run_id": "Fantasma-37",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Spiritomb",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Mapa 10: Liga de Johto, Alto Mando Karen (4/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Gastly/Misdreavus/Shuppet/Rotom)",
+   "capturas_pendientes": "Misdreavus AURORA (primer nodo; evolucionó a Mismagius Nv90) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Spiritomb 90, Mismagius 90 (aurora), Gengar 89, Giratina 88, Sableye 86, Hoopa 85",
+   "reliquias_finales": "Cazador Shiny, Cebo Legendario, Armadura Maldita, Banda Focus, Baya Chilan, Baya Jaboca, Piedra Dura",
+   "nivel_final": 90,
+   "causa_derrota_si_confirmada": "Karen (Siniestro Nv124-128) tras Will, Koga y Bruno seguidos; solo le quedó Tyranitar con 340/394.",
+   "aprendizaje": "Mapa 10 = Alto Mando de Johto + Lance seguidos sin curar. Will (Psíquico) y Bruno (Lucha) se ganan fácil con Fantasmas; Koga con Hoopa delante. Karen (Siniestro) es el muro: necesita más niveles o tipos Lucha/Hada/Bicho, que en Mono-Fantasma no hay; llevar Banda Focus y Gafas/Cinta a los Siniestro (Spiritomb/Sableye)."
   }
  ],
  "observaciones": [
