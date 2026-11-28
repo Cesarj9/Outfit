@@ -33485,6 +33485,26 @@
    "nivel_final": 100,
    "causa_derrota_si_confirmada": "Alder (Nv135-140) barrió al equipo a PS completos; solo cayó Volcarona. Alto Mando previo ganado casi sin bajas.",
    "aprendizaje": "Primera partida con Gastly aurora de inicial; Gengarita apareció en mapa 4. Pero llegué al Alto Mando a Nv86-92 (Fantasma-41 llegó a Nv104-108 con 2 legendarios + Poder Legendario + Polvo Estelar). Para Alder hace falta Nv105+ y 2 legendarios."
+  },
+  {
+   "run_id": "Fantasma-44",
+   "modo": "Desafío",
+   "desafio_visible": "Mono-Fantasma (diario 2026-11-27)",
+   "inicial": "Gastly (aurora)",
+   "version_juego": "3.9",
+   "fecha_inicio": "2026-11-28",
+   "mapa_actual": "Liga de Kanto: Campeón Blue (5/5)",
+   "resultado": "DERROTA",
+   "objetivos": "Auroras Fantasma nuevas (Misdreavus/Rotom)",
+   "capturas_pendientes": "Rotom AURORA (primer nodo; Nv90) perdido",
+   "capturas_registradas_pc": "ninguna",
+   "intentos_primer_nodo_confirmados": 0,
+   "intentos_inciertos": 0,
+   "equipo_final": "Mega Gengar 95 (aurora), Giratina 93, Hoopa 93, Spiritomb 91, Rotom 90 (aurora), Aegislash 86",
+   "reliquias_finales": "Cazador Shiny, Repartir Exp, Gafas Especiales, Tabla Trueno, Seguro Debilidad, Baya Arabol",
+   "nivel_final": 95,
+   "causa_derrota_si_confirmada": "Blue (Nv135-140, con Mewtwo) tras Lorelei, Bruno, Agatha y Lance seguidos.",
+   "aprendizaje": "La Gengarita viene en la bolsa al empezar con Gastly aurora. Equipo Nv83-88 al entrar al Alto Mando: insuficiente; Fantasma-41 (ganada) entró a Nv104-108. Más rutas de 4-5 entrenadores en mapas 6-9 aunque se pierdan objetos."
   }
  ],
  "observaciones": [
